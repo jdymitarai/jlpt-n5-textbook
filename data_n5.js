@@ -24648,6 +24648,454 @@ window.JLPT_DATA_CHUNKS["N5"] = {
           "en": "買了漂亮的和菓子當伴手禮。"
         }
       ]
+    },
+    {
+      "id": "v_n_petto",
+      "word": "ペット",
+      "furigana": "ぺっと",
+      "romaji": "petto",
+      "meaning": "寵物",
+      "level": "N4",
+      "category": "nature_weather",
+      "sentences": [
+        {
+          "ja": "アパートでペットを飼っています。",
+          "furigana": "あぱーとでぺっとをかっています。",
+          "en": "在公寓裡養寵物。"
+        }
+      ]
+    },
+    {
+      "id": "v_n_esa",
+      "word": "餌",
+      "furigana": "えさ",
+      "romaji": "esa",
+      "meaning": "飼料 / 餌",
+      "level": "N3",
+      "category": "nature_weather",
+      "sentences": [
+        {
+          "ja": "朝起きて犬に餌をやります。",
+          "furigana": "あさおきていぬにえさをやります。",
+          "en": "早上起床餵狗吃飼料。"
+        }
+      ]
+    },
+    {
+      "id": "v_n_riido",
+      "word": "リード",
+      "furigana": "りーど",
+      "romaji": "riido",
+      "meaning": "牽繩",
+      "level": "N3",
+      "category": "nature_weather",
+      "sentences": [
+        {
+          "ja": "犬にリードをつけて散歩に行きます。",
+          "furigana": "いぬにりーどをつけてさんぽにいきます。",
+          "en": "給狗繫上牽繩去散步。"
+        }
+      ]
+    },
+    {
+      "id": "v_n_doubutsubyouin",
+      "word": "動物病院",
+      "furigana": "どうぶつびょういん",
+      "romaji": "doubutsubyouin",
+      "meaning": "動物醫院 / 獸醫院",
+      "level": "N4",
+      "category": "housing_space",
+      "sentences": [
+        {
+          "ja": "猫の具合が悪いので動物病院へ連れて行きます。",
+          "furigana": "ねこのぐあいがわるいのでどうぶつびょういんへつれていきます。",
+          "en": "貓咪不舒服，所以帶牠去動物醫院。"
+        }
+      ]
+    },
+    {
+      "id": "v_p_juui",
+      "word": "獣医",
+      "furigana": "じゅうい",
+      "romaji": "juui",
+      "meaning": "獸醫",
+      "level": "N3",
+      "category": "work_business",
+      "sentences": [
+        {
+          "ja": "将来の夢は獣医になることです。",
+          "furigana": "しょうらいのゆめはじゅういになることです。",
+          "en": "未來的夢想是成為一名獸醫。"
+        }
+      ]
+    },
+    {
+      "id": "v_l_eigakan",
+      "word": "映画館",
+      "furigana": "えいがかん",
+      "romaji": "eigakan",
+      "meaning": "電影院",
+      "level": "N5",
+      "category": "leisure_culture",
+      "sentences": [
+        {
+          "ja": "週末は映画館で新しい映画を見ます。",
+          "furigana": "しゅうまつはえいがかんであたらしいえいがをみます。",
+          "en": "週末在電影院看新電影。"
+        }
+      ]
+    },
+    {
+      "id": "v_l_suizokukan",
+      "word": "水族館",
+      "furigana": "すいぞくかん",
+      "romaji": "suizokukan",
+      "meaning": "水族館",
+      "level": "N4",
+      "category": "leisure_culture",
+      "sentences": [
+        {
+          "ja": "水族館で大きなイルカを見ました。",
+          "furigana": "すいぞくかんでおおきないるかをみました。",
+          "en": "在水族館看到了巨大的海豚。"
+        }
+      ]
+    },
+    {
+      "id": "v_l_doubutsuen",
+      "word": "動物園",
+      "furigana": "どうぶつえん",
+      "romaji": "doubutsuen",
+      "meaning": "動物園",
+      "level": "N4",
+      "category": "leisure_culture",
+      "sentences": [
+        {
+          "ja": "動物園にパンダを見に行きます。",
+          "furigana": "どうぶつえんにぱんだをみにいきます。",
+          "en": "去動物園看熊貓。"
+        }
+      ]
+    },
+    {
+      "id": "v_l_bijutsukan",
+      "word": "美術館",
+      "furigana": "びじゅつかん",
+      "romaji": "bijutsukan",
+      "meaning": "美術館",
+      "level": "N4",
+      "category": "leisure_culture",
+      "sentences": [
+        {
+          "ja": "美術館で美しい絵を鑑賞します。",
+          "furigana": "びじゅつかんでうつくしいえをかんしょうします。",
+          "en": "在美術館欣賞美麗的畫作。"
+        }
+      ]
+    },
+    {
+      "id": "v_l_hakubutsukan",
+      "word": "博物館",
+      "furigana": "はくぶつかん",
+      "romaji": "hakubutsukan",
+      "meaning": "博物館",
+      "level": "N4",
+      "category": "leisure_culture",
+      "sentences": [
+        {
+          "ja": "博物館で恐竜の骨を見ました。",
+          "furigana": "はくぶつかんできょうりゅうのほねをみました。",
+          "en": "在博物館看到了恐龍的骨骼。"
+        }
+      ]
+    },
+    {
+      "id": "v_l_chiketto",
+      "word": "チケット",
+      "furigana": "ちけっと",
+      "romaji": "chiketto",
+      "meaning": "票券 / 門票",
+      "level": "N5",
+      "category": "leisure_culture",
+      "sentences": [
+        {
+          "ja": "インターネットでコンサートのチケットを買います。",
+          "furigana": "いんたーねっとでこんさーとのちけっとをかいます。",
+          "en": "在網路上買演唱會的門票。"
+        }
+      ]
+    },
+    {
+      "id": "v_p_koibito",
+      "word": "恋人",
+      "furigana": "こいびと",
+      "romaji": "koibito",
+      "meaning": "戀人 / 情人",
+      "level": "N4",
+      "category": "personal_info",
+      "sentences": [
+        {
+          "ja": "休日は恋人と一緒に過ごします。",
+          "furigana": "きゅうじつはこいびとといっしょにすごします。",
+          "en": "假日和情人一起度過。"
+        }
+      ]
+    },
+    {
+      "id": "v_p_kareshi",
+      "word": "彼氏",
+      "furigana": "かれし",
+      "romaji": "kareshi",
+      "meaning": "男朋友",
+      "level": "N4",
+      "category": "personal_info",
+      "sentences": [
+        {
+          "ja": "彼氏に誕生日プレゼントをあげます。",
+          "furigana": "かれしにたんじょうびぷれぜんとをあげます。",
+          "en": "送生日禮物給男朋友。"
+        }
+      ]
+    },
+    {
+      "id": "v_p_kanojo",
+      "word": "彼女",
+      "furigana": "かのじょ",
+      "romaji": "kanojo",
+      "meaning": "女朋友 (也可用於代稱'她')",
+      "level": "N5",
+      "category": "personal_info",
+      "sentences": [
+        {
+          "ja": "彼女と映画を見に行きます。",
+          "furigana": "かのじょとえいがをみにいきます。",
+          "en": "和女朋友去看電影。"
+        }
+      ]
+    },
+    {
+      "id": "v_p_deeto",
+      "word": "デート",
+      "furigana": "でーと",
+      "romaji": "deeto",
+      "meaning": "約會",
+      "level": "N4",
+      "category": "personal_info",
+      "sentences": [
+        {
+          "ja": "明日は好きな人と初めてのデートです。",
+          "furigana": "あすはすきなひととはじめてのでーとです。",
+          "en": "明天要和喜歡的人第一次約會。"
+        }
+      ]
+    },
+    {
+      "id": "v_e_juku",
+      "word": "塾",
+      "furigana": "じゅく",
+      "romaji": "juku",
+      "meaning": "補習班",
+      "level": "N4",
+      "category": "learning_education",
+      "sentences": [
+        {
+          "ja": "学校の後は塾で勉強します。",
+          "furigana": "がっこうのあとはじゅくでべんきょうします。",
+          "en": "放學後在補習班讀書。"
+        }
+      ]
+    },
+    {
+      "id": "v_e_yobikou",
+      "word": "予備校",
+      "furigana": "よびこう",
+      "romaji": "yobikou",
+      "meaning": "升學補習班 / 預備校",
+      "level": "N3",
+      "category": "learning_education",
+      "sentences": [
+        {
+          "ja": "大学に合格するために予備校に通います。",
+          "furigana": "だいがくにごうかくするためによびこうにかよいます。",
+          "en": "為了考上大學去上預備校。"
+        }
+      ]
+    },
+    {
+      "id": "v_e_shougakukin",
+      "word": "奨学金",
+      "furigana": "しょうがくきん",
+      "romaji": "shougakukin",
+      "meaning": "獎學金 / 學貸",
+      "level": "N3",
+      "category": "learning_education",
+      "sentences": [
+        {
+          "ja": "奨学金をもらって大学へ行きます。",
+          "furigana": "しょうがくきんをもらってだいがくへいきます。",
+          "en": "領取獎學金去讀大學。"
+        }
+      ]
+    },
+    {
+      "id": "v_e_saakuru",
+      "word": "サークル",
+      "furigana": "さーくる",
+      "romaji": "saakuru",
+      "meaning": "大學社團 (Circle)",
+      "level": "N3",
+      "category": "learning_education",
+      "sentences": [
+        {
+          "ja": "テニスのサークルに入りました。",
+          "furigana": "てにすのさーくるにはいりました。",
+          "en": "加入了網球社團。"
+        }
+      ]
+    },
+    {
+      "id": "v_e_gakuensai",
+      "word": "学園祭",
+      "furigana": "がくえんさい",
+      "romaji": "gakuensai",
+      "meaning": "校慶 / 學園祭",
+      "level": "N3",
+      "category": "learning_education",
+      "sentences": [
+        {
+          "ja": "秋の学園祭で屋台を出します。",
+          "furigana": "あきのがくえんさいでやたいをだします。",
+          "en": "在秋天的學園祭擺攤。"
+        }
+      ]
+    },
+    {
+      "id": "v_e_tani",
+      "word": "単位",
+      "furigana": "たんい",
+      "romaji": "tani",
+      "meaning": "學分",
+      "level": "N3",
+      "category": "learning_education",
+      "sentences": [
+        {
+          "ja": "卒業のために単位が足りません。",
+          "furigana": "そつぎょうのためにたんいがたりません。",
+          "en": "為了畢業學分不夠。"
+        }
+      ]
+    },
+    {
+      "id": "v_e_kanningu",
+      "word": "カンニング",
+      "furigana": "かんにんぐ",
+      "romaji": "kanningu",
+      "meaning": "作弊",
+      "level": "N3",
+      "category": "learning_education",
+      "sentences": [
+        {
+          "ja": "テストでカンニングをしてはいけません。",
+          "furigana": "てすとでかんにんぐをしてはいけません。",
+          "en": "考試不能作弊。"
+        }
+      ]
+    },
+    {
+      "id": "v_e_tetsuya",
+      "word": "徹夜",
+      "furigana": "てつや",
+      "romaji": "tetsuya",
+      "meaning": "熬夜通宵",
+      "level": "N3",
+      "category": "learning_education",
+      "sentences": [
+        {
+          "ja": "テストの前日は徹夜で勉強しました。",
+          "furigana": "てすとのぜんじつはてつやでべんきょうしました。",
+          "en": "考試前一天通宵讀書了。"
+        }
+      ]
+    },
+    {
+      "id": "v_e_fudebako",
+      "word": "筆箱",
+      "furigana": "ふでばこ",
+      "romaji": "fudebako",
+      "meaning": "鉛筆盒",
+      "level": "N4",
+      "category": "learning_education",
+      "sentences": [
+        {
+          "ja": "筆箱の中に消しゴムが入っています。",
+          "furigana": "ふでばこのなかにけしごむはいっています。",
+          "en": "鉛筆盒裡面裝著橡皮擦。"
+        }
+      ]
+    },
+    {
+      "id": "v_e_randoseru",
+      "word": "ランドセル",
+      "furigana": "らんどせる",
+      "romaji": "randoseru",
+      "meaning": "日本小學生書包",
+      "level": "N3",
+      "category": "learning_education",
+      "sentences": [
+        {
+          "ja": "小学生は赤いランドセルを背負います。",
+          "furigana": "しょうがくせいはあかいらんどせるをせおいます。",
+          "en": "小學生背著紅色的書包。"
+        }
+      ]
+    },
+    {
+      "id": "v_e_ijime",
+      "word": "いじめ",
+      "furigana": "いじめ",
+      "romaji": "ijime",
+      "meaning": "霸凌",
+      "level": "N3",
+      "category": "learning_education",
+      "sentences": [
+        {
+          "ja": "学校でのいじめは大きな問題です。",
+          "furigana": "がっこうでのいじめはおおきなもんだいです。",
+          "en": "學校的霸凌是個大問題。"
+        }
+      ]
+    },
+    {
+      "id": "v_e_futoukou",
+      "word": "不登校",
+      "furigana": "ふとうこう",
+      "romaji": "futoukou",
+      "meaning": "拒學 / 輟學",
+      "level": "N3",
+      "category": "learning_education",
+      "sentences": [
+        {
+          "ja": "不登校の子供をサポートします。",
+          "furigana": "ふとうこうのこどもをさぽーとします。",
+          "en": "支援拒學的兒童。"
+        }
+      ]
+    },
+    {
+      "id": "v_e_hensachi",
+      "word": "偏差値",
+      "furigana": "へんさち",
+      "romaji": "hensachi",
+      "meaning": "偏差值 (升學考試的相對成績標準)",
+      "level": "N2",
+      "category": "learning_education",
+      "sentences": [
+        {
+          "ja": "この大学は偏差値が高いです。",
+          "furigana": "このだいがくはへんさちがたかいです。",
+          "en": "這所大學的偏差值很高。"
+        }
+      ]
     }
   ],
   "verbConjugations": [
