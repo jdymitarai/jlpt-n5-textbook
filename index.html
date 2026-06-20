@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JLPT 互動式日文學習教科書</title>
+  <script>window.JLPT_VERSION = "57";</script>
+  <link rel="stylesheet" href="styles.css?v=57">
+  <script src="data.js?v=57" defer></script>
+  <script src="app.js?v=57" defer></script>
+</head>
+<body>
+
+  <!-- 載入中遮罩 -->
+  <div id="loading-overlay" class="loading-overlay hide">
+    <div class="spinner"></div>
+    <div class="loading-text">載入級數資料庫中...</div>
+  </div>
+
+  <div class="app-container">
+    
+    <!-- 側邊導覽列 -->
+    <aside class="sidebar">
+      <div class="logo-section">
+        <div class="logo-icon" id="sidebar-logo-icon">N5</div>
+        <div class="logo-text">日檢教科書</div>
+      </div>
+      
+      <!-- 級數選擇器 -->
+      <div class="level-selector-section">
+        <span class="section-label">選擇級數</span>
+        <div class="level-pills">
+          <button class="level-pill active" data-level="N5">N5</button>
+          <button class="level-pill" data-level="N4">N4</button>
+          <button class="level-pill" data-level="N3">N3</button>
+          <button class="level-pill" data-level="N2">N2</button>
+          <button class="level-pill" data-level="N1">N1</button>
+          <button class="level-pill" data-level="臨床">臨床</button>
+          <button class="level-pill" data-level="母語者">母語者</button>
+        </div>
+      </div>
+      
+      <nav class="nav-links">
+        <li class="nav-item active">
+          <a data-tab="dashboard">
+            <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M4 6a2 2 0 012-2h2a2 2 0 012 2v4a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v4a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z"/></svg>
+            <span>學習儀表板</span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a data-tab="kana">
+            <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.168.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/></svg>
+            <span>五十音圖</span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a data-tab="vocab">
+            <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M3 4h13M3 8h9m-9 4h6m4 0l4-4m0 0l4 4m-4-4v12"/></svg>
+            <span id="sidebar-vocab-label">N5 單字庫</span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a data-tab="consolidation">
+            <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M4 5a1 1 0 01.757-.975l11-3A1 1 0 0117 2v16a2 2 0 01-2 2H7a2 2 0 01-2-2V5zm0 0h12m-6 4v8m-3-4h6"/></svg>
+            <span>單字總整理</span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a data-tab="grammar">
+            <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
+            <span id="sidebar-grammar-label">N5 核心文法</span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a data-tab="practice">
+            <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/></svg>
+            <span>互動測驗</span>
+          </a>
+        </li>
+      </nav>
+      
+      <div class="sidebar-footer">
+        <button id="theme-toggle-btn" class="theme-toggle-btn">
+          <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/></svg>
+          深色模式
+        </button>
+      </div>
+    </aside>
+
+    <!-- 主要內容顯示區域 -->
+    <main class="main-content">
+      <!-- 裝飾背景形狀 -->
+      <div class="bg-circle bg-circle-1"></div>
+      <div class="bg-circle bg-circle-2"></div>
+      
+      <div class="main-content-inner">
+
+        <!-- ==========================================
+             學習儀表板頁面
+             ========================================== -->
+        <section id="dashboard-page" class="page-section">
+          <div class="page-header">
+            <div>
+              <h1 class="page-title">N5 學習儀表板</h1>
+              <p class="page-subtitle">歡迎回來！追蹤您的學習進度並檢測您的日文實力。</p>
+            </div>
+          </div>
+
+          <!-- 進度小工具 -->
+          <div class="dashboard-grid">
+            
+            <div class="progress-widget">
+              <div class="progress-circle-container">
+                <svg class="progress-circle-svg">
+                  <circle class="progress-circle-bg" cx="35" cy="35" r="32"/>
+                  <circle id="vocab-progress-circle" class="progress-circle-bar" cx="35" cy="35" r="32"/>
+                </svg>
+                <div id="dashboard-vocab-pct" class="progress-circle-text">0%</div>
+              </div>
+              <div class="widget-info">
+                <h3>單字學習進度</h3>
+                <p id="dashboard-vocab-count">0 / 0 個單字</p>
+              </div>
+            </div>
+
+            <div class="progress-widget">
+              <div class="progress-circle-container">
+                <svg class="progress-circle-svg">
+                  <circle class="progress-circle-bg" cx="35" cy="35" r="32"/>
+                  <circle id="grammar-progress-circle" class="progress-circle-bar" cx="35" cy="35" r="32"/>
+                </svg>
+                <div id="dashboard-grammar-pct" class="progress-circle-text">0%</div>
+              </div>
+              <div class="widget-info">
+                <h3>文法學習進度</h3>
+                <p id="dashboard-grammar-count">0 / 0 堂課</p>
+              </div>
+            </div>
+
+            <div class="progress-widget">
+              <div class="progress-circle-container">
+                <svg class="progress-circle-svg">
+                  <circle class="progress-circle-bg" cx="35" cy="35" r="32"/>
+                  <circle id="quiz-progress-circle" class="progress-circle-bar" cx="35" cy="35" r="32"/>
+                </svg>
+                <div id="dashboard-quiz-pct" class="progress-circle-text">0%</div>
+              </div>
+              <div class="widget-info">
+                <h3>測驗最佳得分</h3>
+                <p id="dashboard-quiz-count">最高：單字 0%、文法 0%</p>
+              </div>
+            </div>
+
+          </div>
+
+          <!-- 日常問候與標語 -->
+          <div class="glass-card welcome-banner">
+            <div class="welcome-text">
+              <h2 id="greeting-jp">こんにちは</h2>
+              <p id="greeting-en">準備好學習 N5 了嗎？你好！</p>
+            </div>
+            <div class="welcome-japanese">一起學習日語吧！</div>
+          </div>
+
+          <!-- 目標與最近學習 -->
+          <div class="goals-container">
+            <div class="glass-card last-studied-card">
+              <div class="last-studied-details">
+                <span class="grammar-section-title">最近學習</span>
+                <span id="last-studied-type" class="last-studied-title" style="color: var(--primary);">無記錄</span>
+                <p id="last-studied-title" style="color: var(--text-secondary); font-size: 0.95rem;">今天就開始動手學習吧！</p>
+              </div>
+              <svg width="48" height="48" fill="none" stroke="var(--primary)" stroke-width="1.5" viewBox="0 0 24 24"><path d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.168.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/></svg>
+            </div>
+
+            <div class="glass-card">
+              <span class="grammar-section-title">每日學習目標</span>
+              <p id="daily-goal-text" style="font-weight: 600; margin-bottom: 12px; font-size: 0.95rem;">目標：熟記 5 個單字（今日已完成：0 個）</p>
+              <div class="flashcard-progress-bar-bg">
+                <div id="daily-goal-bar-fill" class="flashcard-progress-bar-fill"></div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- ==========================================
+             五十音圖頁面
+             ========================================== -->
+        <section id="kana-page" class="page-section hide">
+          <div class="page-header">
+            <div>
+              <h1 class="page-title">五十音圖</h1>
+              <p class="page-subtitle">學習平假名與片假名。點擊任意平假名或片假名即可聆聽其正確發音。</p>
+            </div>
+            <div class="kana-controls">
+              <button id="btn-kana-hiragana" class="btn btn-primary">平假名</button>
+              <button id="btn-kana-katakana" class="btn btn-secondary">片假名</button>
+            </div>
+          </div>
+
+          <div class="glass-card">
+            <div id="kana-grid" class="kana-chart-grid"></div>
+          </div>
+        </section>
+
+        <!-- ==========================================
+             N5 單字庫頁面
+             ========================================== -->
+        <section id="vocab-page" class="page-section hide">
+          <div class="page-header">
+            <div>
+              <h1 class="page-title">N5 單字庫 (単語)</h1>
+
+            </div>
+            <div class="vocab-mode-toggle">
+              <button id="vocab-mode-list" class="vocab-mode-btn active">列表模式</button>
+              <button id="vocab-mode-fc" class="vocab-mode-btn">單字卡模式</button>
+            </div>
+          </div>
+
+          <!-- 搜尋與過濾器 -->
+          <div class="glass-card vocab-header">
+            <div class="search-bar-container">
+              <svg class="search-icon-svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+              <input type="text" id="vocab-search" class="search-input" placeholder="搜尋日語單字、羅馬拼音、中文含意...">
+            </div>
+            <!-- 等級篩選 -->
+            <div class="filter-label" style="margin-top: 12px; margin-bottom: 6px; font-weight: 600; font-size: 0.85rem; color: var(--text-secondary);">等級篩選：</div>
+            <div id="vocab-levels-filter" class="filter-group" style="margin-bottom: 12px;"></div>
+            
+            <div class="filter-label" style="margin-bottom: 6px; font-weight: 600; font-size: 0.85rem; color: var(--text-secondary);">分類篩選：</div>
+            <div id="vocab-categories" class="filter-group"></div>
+          </div>
+
+          <!-- 列表模式檢視 -->
+          <div id="vocab-list-view">
+            <div id="vocab-list-grid" class="vocab-list-grid"></div>
+            <div id="vocab-load-more-container" style="display: flex; justify-content: center; margin-top: 24px; margin-bottom: 24px;">
+              <button id="vocab-load-more-btn" class="btn btn-primary" style="padding: 10px 24px;">載入更多單字</button>
+            </div>
+          </div>
+
+          <!-- 單字卡模式檢視 -->
+          <div id="vocab-fc-view" class="hide">
+            <div class="flashcards-container">
+              <!-- 互動卡片 -->
+              <div class="flashcard-card-scene">
+                <div id="flashcard-interactive" class="flashcard-card">
+                  <!-- 正面 -->
+                  <div class="card-face front">
+                    <div id="fc-front-level" class="flashcard-level-badge" style="position: absolute; top: 20px; left: 20px; font-size: 0.85rem; font-weight: 700; background: var(--primary-glow); color: var(--primary); padding: 4px 10px; border-radius: 12px;">N5</div>
+                    <button id="fc-speak" class="btn-icon flashcard-speak-btn" title="聽發音">
+                      <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z"/></svg>
+                    </button>
+                    <div id="fc-front-jp" class="flashcard-front-jp">学生</div>
+                    <div class="flashcard-indicator">點擊卡片以翻轉</div>
+                  </div>
+                  <!-- 背面 -->
+                  <div class="card-face back">
+                    <div id="fc-back-level" class="flashcard-level-badge" style="position: absolute; top: 20px; left: 20px; font-size: 0.85rem; font-weight: 700; background: rgba(255, 255, 255, 0.2); color: #ffffff; padding: 4px 10px; border-radius: 12px;">N5</div>
+                    <div id="fc-back-meaning" class="flashcard-back-mean">學生</div>
+                    <div id="fc-back-reading" class="flashcard-back-reading">がくせい (gakusei)</div>
+                    <div id="fc-back-conjugations" class="flashcard-back-conjugations hide"></div>
+                    <div id="fc-back-example" class="flashcard-back-example">
+                      <div id="fc-back-ex-ja">私は学生です。</div>
+                      <div id="fc-back-ex-en" style="opacity: 0.8; font-size: 0.8rem; margin-top: 4px;">我是學生。</div>
+                    </div>
+                    <div class="flashcard-indicator">點擊卡片以翻轉</div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- 控制按鈕 -->
+              <div class="flashcard-controls">
+                <button id="fc-prev" class="btn btn-secondary">
+                  <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M15 19l-7-7 7-7"/></svg>
+                  上一個
+                </button>
+                <button id="fc-mark-learned" class="btn btn-primary flashcard-btn-nav">標記為已學</button>
+                <button id="fc-next" class="btn btn-secondary">
+                  下一個
+                  <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></svg>
+                </button>
+              </div>
+
+              <!-- 進度指標 -->
+              <div style="display: flex; justify-content: space-between; width: 100%; align-items: center; margin-top: 12px;">
+                <span id="fc-info" class="flashcard-info-text">1 / 12</span>
+                <div style="width: 60%;">
+                  <div class="flashcard-progress-bar-bg">
+                    <div id="fc-bar-fill" class="flashcard-progress-bar-fill"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- ==========================================
+             單字總整理頁面 (新增)
+             ========================================== -->
+        <section id="consolidation-page" class="page-section hide">
+          <div class="page-header">
+            <div>
+              <h1 class="page-title">N5 單字總整理</h1>
+              <p class="page-subtitle">統整 N5 核心動詞三類變化、形容詞變化群組、必考特殊量詞（個數/人數/日期）與 ko-so-a-do 指示代名詞。</p>
+            </div>
+          </div>
+
+          <div class="kana-controls" style="margin-bottom: 24px;">
+            <button class="btn btn-primary subtab-btn" data-subtab="verbs">動詞三類變化</button>
+            <button class="btn btn-secondary subtab-btn" data-subtab="adjectives">形容詞整理</button>
+            <button class="btn btn-secondary subtab-btn" data-subtab="counters">時間與常用量詞</button>
+            <button class="btn btn-secondary subtab-btn" data-subtab="demonstratives">指示與疑問詞</button>
+          </div>
+
+          <div class="glass-card">
+            <!-- 1. 動詞三類變化 -->
+            <div id="subtab-verbs-view" class="consolidation-view">
+              <h3 style="margin-bottom: 12px; font-family: var(--font-title); color: var(--primary);">N5 核心動詞變化統整表</h3>
+              <p style="color: var(--text-secondary); font-size: 0.85rem; margin-bottom: 16px;">點擊表格中任意日文單字，即可播放正確發音。注意五段、上下段與不規則變化的語尾對照。</p>
+              <div style="overflow-x: auto;">
+                <table class="consolidation-table">
+                  <thead>
+                    <tr>
+                      <th>動詞原形</th>
+                      <th>ます形</th>
+                      <th>て形</th>
+                      <th>ない形</th>
+                      <th>中文釋義</th>
+                      <th>分類群組</th>
+                    </tr>
+                  </thead>
+                  <tbody id="table-verbs-body">
+                    <!-- Javascript 渲染 -->
+                  </tbody>
+                </table>
+              </div>
+            </div>
+
+            <!-- 2. 形容詞整理 -->
+            <div id="subtab-adjectives-view" class="consolidation-view hide">
+              <h3 style="margin-bottom: 12px; font-family: var(--font-title); color: var(--primary);">い形容詞 與 な形容詞 句尾語尾變化統整</h3>
+              <p style="color: var(--text-secondary); font-size: 0.85rem; margin-bottom: 20px;">點擊形容詞原形可播放語音。い形容詞字尾為「い」，な形容詞結語時與名詞變化相同。</p>
+              <div class="adjectives-split-container">
+                <div class="adj-column">
+                  <h4 class="adj-header i-type">い形容詞 (字尾為平假名「い」)</h4>
+                  <div style="overflow-x: auto;">
+                    <table class="consolidation-table font-sm">
+                      <thead>
+                        <tr>
+                          <th>原形</th>
+                          <th>中文含意</th>
+                          <th>否定句態 (去い+くない)</th>
+                          <th>過去句態 (去い+かった)</th>
+                        </tr>
+                      </thead>
+                      <tbody id="table-adj-i-body"></tbody>
+                    </table>
+                  </div>
+                </div>
+                <div class="adj-column">
+                  <h4 class="adj-header na-type">な形容詞 (修飾名詞加「な」)</h4>
+                  <div style="overflow-x: auto;">
+                    <table class="consolidation-table font-sm">
+                      <thead>
+                        <tr>
+                          <th>原形</th>
+                          <th>中文含意</th>
+                          <th>否定句態 (+ではない)</th>
+                          <th>過去句態 (+でした)</th>
+                        </tr>
+                      </thead>
+                      <tbody id="table-adj-na-body"></tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- 3. 常用量詞 -->
+            <div id="subtab-counters-view" class="consolidation-view hide">
+              <h3 style="margin-bottom: 12px; font-family: var(--font-title); color: var(--primary);">日檢 N5 特殊計數與時間量詞</h3>
+              <p style="color: var(--text-secondary); font-size: 0.85rem; margin-bottom: 20px;">日文的數量計量詞發音變化多端（尤其是 1、2、4、8、10 等數字），此處統整最常考的三大量詞表。</p>
+              <div class="counters-grid-container">
+                <div class="counter-box">
+                  <h4 class="counter-header">物品個數 (一つ、二つ...)</h4>
+                  <div class="counter-cards-grid" id="grid-counter-items"></div>
+                </div>
+                <div class="counter-box">
+                  <h4 class="counter-header">人數計算 (一人、二人...)</h4>
+                  <div class="counter-cards-grid" id="grid-counter-people"></div>
+                </div>
+                <div class="counter-box">
+                  <h4 class="counter-header">月份日期 (一日、二日...)</h4>
+                  <div class="counter-cards-grid" id="grid-counter-days"></div>
+                </div>
+              </div>
+            </div>
+
+            <!-- 4. 指示與疑問詞 -->
+            <div id="subtab-demonstratives-view" class="consolidation-view hide">
+              <h3 style="margin-bottom: 12px; font-family: var(--font-title); color: var(--primary);">Ko-So-A-Do (こ・そ・あ・ど) 系統指示代名詞表</h3>
+              <p style="color: var(--text-secondary); font-size: 0.85rem; margin-bottom: 16px;">指示代詞代表離說話者與聽話者的距離。「こ」代表近稱，「そ」代表中稱，「あ」代表遠稱，「ど」代表疑問。</p>
+              <div style="overflow-x: auto;">
+                <table class="consolidation-table">
+                  <thead>
+                    <tr>
+                      <th>指示代詞類型</th>
+                      <th>近稱 (靠近說話者 こ)</th>
+                      <th>中稱 (靠近聽話者 そ)</th>
+                      <th>遠稱 (遠離雙方 あ)</th>
+                      <th>疑問稱 (疑問選擇 ど)</th>
+                    </tr>
+                  </thead>
+                  <tbody id="table-dem-body"></tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- ==========================================
+             N5 核心文法頁面
+             ========================================== -->
+        <section id="grammar-page" class="page-section hide">
+          <div class="page-header">
+            <div>
+              <h1 class="page-title">N5 核心文法</h1>
+              <p class="page-subtitle">精選 35 個 N5 重點文法課，搭配結構拆解模型與互動式造句練習。</p>
+            </div>
+          </div>
+
+          <div id="grammar-list" class="grammar-list-container"></div>
+        </section>
+
+        <!-- ==========================================
+             互動測驗頁面
+             ========================================== -->
+        <section id="practice-page" class="page-section hide">
+          <div class="page-header">
+            <div>
+              <h1 class="page-title">互動模擬測驗</h1>
+              <p class="page-subtitle">評估您的 JLPT N5 日語能力，挑戰您的個人最高分記錄。</p>
+            </div>
+          </div>
+
+          <!-- 測驗歡迎與選單 -->
+          <div id="quiz-welcome" class="glass-card quiz-welcome-box">
+            <div class="quiz-welcome-icon">🎓</div>
+            <h2 style="font-family: var(--font-title); margin-bottom: 8px;">選擇測驗類型</h2>
+            <p style="color: var(--text-secondary);">選擇您想練習的科目類型，每次測驗皆包含 10 題隨機模擬考題。</p>
+            
+            <div class="quiz-selector-grid">
+              <div id="btn-start-vocab-quiz" class="quiz-selector-card">
+                <div style="font-size: 2.2rem; margin-bottom: 8px;">單</div>
+                <h4>N5 單字測驗</h4>
+                <p>測驗單字中文釋義、日語發音以及對應的中日文翻譯對照。</p>
+              </div>
+              <div id="btn-start-grammar-quiz" class="quiz-selector-card">
+                <div style="font-size: 2.2rem; margin-bottom: 8px;">文</div>
+                <h4>N5 文法與助詞測驗</h4>
+                <p>測驗助詞搭配、時態語尾變化、句子填空與經典文法結構。</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- 進行中的測驗畫面 -->
+          <div id="quiz-active" class="active-quiz-container hide">
+            <div class="quiz-header-bar">
+              <span id="quiz-progress-text" class="quiz-progress-num">第 1 / 10 題</span>
+              <button id="quiz-next-btn" class="btn btn-primary hide">
+                下一題
+                <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></svg>
+              </button>
+            </div>
+
+            <div class="quiz-question-box">
+              <div id="quiz-hint" class="quiz-question-hint">提示</div>
+              <h2 id="quiz-question-text" class="quiz-question-title">考題內容</h2>
+            </div>
+
+            <div id="quiz-options" class="quiz-options-list">
+              <!-- 考題選項按鈕將由此動態產出 -->
+            </div>
+          </div>
+
+          <!-- 測驗得分結果 -->
+          <div id="quiz-results" class="glass-card quiz-results-box hide">
+            <div class="results-score-circle">
+              <div id="results-score" class="results-score-num">80%</div>
+              <span class="results-score-label">得分</span>
+            </div>
+            <h2 id="results-greeting" class="results-title">おめでとうございます！</h2>
+            <p id="results-summary" class="results-desc">您在 10 題中答對了 8 題。</p>
+            
+            <div style="display: flex; gap: 16px; justify-content: center;">
+              <button id="btn-quiz-retry" class="btn btn-primary">再試一次</button>
+              <button id="btn-quiz-home" class="btn btn-secondary">選擇其他測驗</button>
+            </div>
+          </div>
+        </section>
+
+      </div>
+    </main>
+
+  </div>
+
+</body>
+</html>

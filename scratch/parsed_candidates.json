@@ -1,0 +1,3239 @@
+{
+  "N5": [
+    {
+      "word": "はじめまして",
+      "reading": "はじめまして",
+      "category": "greetings",
+      "meaning": "初次見面，請多指教",
+      "originalLine": "N5 | はじめまして (はじめまして) | Current: greetings | Meaning: 初次見面，請多指教"
+    },
+    {
+      "word": "どうぞよろしく",
+      "reading": "どうぞよろしく",
+      "category": "greetings",
+      "meaning": "請多指教 / 請多關照",
+      "originalLine": "N5 | どうぞよろしく (どうぞよろしく) | Current: greetings | Meaning: 請多指教 / 請多關照"
+    },
+    {
+      "word": "眼鏡",
+      "reading": "めがね",
+      "category": "clothing",
+      "meaning": "眼鏡",
+      "originalLine": "N5 | 眼鏡 (めがね) | Current: clothing | Meaning: 眼鏡"
+    },
+    {
+      "word": "一足",
+      "reading": "いっそく",
+      "category": "numbers_time",
+      "meaning": "一雙(鞋襪)",
+      "originalLine": "N5 | 一足 (いっそく) | Current: numbers_time | Meaning: 一雙(鞋襪)"
+    },
+    {
+      "word": "二足",
+      "reading": "にそく",
+      "category": "numbers_time",
+      "meaning": "二雙(鞋襪)",
+      "originalLine": "N5 | 二足 (にそく) | Current: numbers_time | Meaning: 二雙(鞋襪)"
+    },
+    {
+      "word": "お腹",
+      "reading": "おなか",
+      "category": "body_parts",
+      "meaning": "肚子 / 腹部",
+      "originalLine": "N5 | お腹 (おなか) | Current: body_parts | Meaning: 肚子 / 腹部"
+    },
+    {
+      "word": "結構",
+      "reading": "けっこう",
+      "category": "other_nouns",
+      "meaning": "很好 / 足夠",
+      "originalLine": "N5 | 結構 (けっこう) | Current: other_nouns | Meaning: 很好 / 足夠"
+    },
+    {
+      "word": "背",
+      "reading": "せ",
+      "category": "other_nouns",
+      "meaning": "身高 / 背部",
+      "originalLine": "N5 | 背 (せ) | Current: other_nouns | Meaning: 身高 / 背部"
+    },
+    {
+      "word": "背広",
+      "reading": "せびろ",
+      "category": "other_nouns",
+      "meaning": "男裝西服",
+      "originalLine": "N5 | 背広 (せびろ) | Current: other_nouns | Meaning: 男裝西服"
+    },
+    {
+      "word": "歯",
+      "reading": "は",
+      "category": "body_parts",
+      "meaning": "牙齒",
+      "originalLine": "N5 | 歯 (は) | Current: body_parts | Meaning: 牙齒"
+    },
+    {
+      "word": "鼻",
+      "reading": "はな",
+      "category": "other_nouns",
+      "meaning": "鼻子",
+      "originalLine": "N5 | 鼻 (はな) | Current: other_nouns | Meaning: 鼻子"
+    },
+    {
+      "word": "耳",
+      "reading": "みみ",
+      "category": "other_nouns",
+      "meaning": "耳朵",
+      "originalLine": "N5 | 耳 (みみ) | Current: other_nouns | Meaning: 耳朵"
+    },
+    {
+      "word": "目",
+      "reading": "め",
+      "category": "other_nouns",
+      "meaning": "眼睛",
+      "originalLine": "N5 | 目 (め) | Current: other_nouns | Meaning: 眼睛"
+    },
+    {
+      "word": "髪",
+      "reading": "かみ",
+      "category": "body_parts",
+      "meaning": "頭髮",
+      "originalLine": "N5 | 髪 (かみ) | Current: body_parts | Meaning: 頭髮"
+    },
+    {
+      "word": "首",
+      "reading": "くび",
+      "category": "other_nouns",
+      "meaning": "脖子 / 頸部",
+      "originalLine": "N5 | 首 (くび) | Current: other_nouns | Meaning: 脖子 / 頸部"
+    },
+    {
+      "word": "喉",
+      "reading": "のど",
+      "category": "body_parts",
+      "meaning": "喉嚨",
+      "originalLine": "N5 | 喉 (のど) | Current: body_parts | Meaning: 喉嚨"
+    },
+    {
+      "word": "肩",
+      "reading": "かた",
+      "category": "body_parts",
+      "meaning": "肩膀",
+      "originalLine": "N5 | 肩 (かた) | Current: body_parts | Meaning: 肩膀"
+    },
+    {
+      "word": "胸",
+      "reading": "むね",
+      "category": "body_parts",
+      "meaning": "胸部 / 胸口",
+      "originalLine": "N5 | 胸 (むね) | Current: body_parts | Meaning: 胸部 / 胸口"
+    },
+    {
+      "word": "背中",
+      "reading": "せなか",
+      "category": "body_parts",
+      "meaning": "後背 / 背部",
+      "originalLine": "N5 | 背中 (せなか) | Current: body_parts | Meaning: 後背 / 背部"
+    },
+    {
+      "word": "腕",
+      "reading": "うで",
+      "category": "other_nouns",
+      "meaning": "手臂",
+      "originalLine": "N5 | 腕 (うで) | Current: other_nouns | Meaning: 手臂"
+    },
+    {
+      "word": "指",
+      "reading": "ゆび",
+      "category": "other_nouns",
+      "meaning": "手指",
+      "originalLine": "N5 | 指 (ゆび) | Current: other_nouns | Meaning: 手指"
+    },
+    {
+      "word": "爪",
+      "reading": "つめ",
+      "category": "body_parts",
+      "meaning": "指甲",
+      "originalLine": "N5 | 爪 (つめ) | Current: body_parts | Meaning: 指甲"
+    },
+    {
+      "word": "足首",
+      "reading": "あしくび",
+      "category": "other_nouns",
+      "meaning": "腳踝",
+      "originalLine": "N5 | 足首 (あしくび) | Current: other_nouns | Meaning: 腳踝"
+    },
+    {
+      "word": "腰",
+      "reading": "こし",
+      "category": "other_nouns",
+      "meaning": "腰部",
+      "originalLine": "N5 | 腰 (こし) | Current: other_nouns | Meaning: 腰部"
+    },
+    {
+      "word": "指す",
+      "reading": "さす",
+      "category": "daily_items",
+      "meaning": "指著 / 撐傘",
+      "originalLine": "N5 | 指す (さす) | Current: daily_items | Meaning: 指著 / 撐傘"
+    },
+    {
+      "word": "芋",
+      "reading": "いも",
+      "category": "body_parts",
+      "meaning": "地瓜 / 芋頭",
+      "originalLine": "N5 | 芋 (いも) | Current: body_parts | Meaning: 地瓜 / 芋頭"
+    },
+    {
+      "word": "饅頭",
+      "reading": "まんじゅう",
+      "category": "food_drinks",
+      "meaning": "饅頭 / 日式點心",
+      "originalLine": "N5 | 饅頭 (まんじゅう) | Current: food_drinks | Meaning: 饅頭 / 日式點心"
+    },
+    {
+      "word": "病院",
+      "reading": "びょういん",
+      "category": "places_buildings",
+      "meaning": "醫院",
+      "originalLine": "N5 | 病院 (びょういん) | Current: places_buildings | Meaning: 醫院"
+    },
+    {
+      "word": "医者",
+      "reading": "いしゃ",
+      "category": "family_people",
+      "meaning": "醫生",
+      "originalLine": "N5 | 医者 (いしゃ) | Current: family_people | Meaning: 醫生"
+    },
+    {
+      "word": "薬",
+      "reading": "くすり",
+      "category": "science_tech",
+      "meaning": "藥物",
+      "originalLine": "N5 | 薬 (くすり) | Current: science_tech | Meaning: 藥物"
+    },
+    {
+      "word": "痛い",
+      "reading": "いたい",
+      "category": "i_adjectives",
+      "meaning": "疼痛的",
+      "originalLine": "N5 | 痛い (いたい) | Current: i_adjectives | Meaning: 疼痛的"
+    },
+    {
+      "word": "風邪",
+      "reading": "かぜ",
+      "category": "other_nouns",
+      "meaning": "感冒",
+      "originalLine": "N5 | 風邪 (かぜ) | Current: other_nouns | Meaning: 感冒"
+    },
+    {
+      "word": "トースト",
+      "reading": "トースト",
+      "category": "food_drinks",
+      "meaning": "吐司",
+      "originalLine": "N5 | トースト (トースト) | Current: food_drinks | Meaning: 吐司"
+    }
+  ],
+  "N4": [
+    {
+      "word": "首",
+      "reading": "くび",
+      "category": "other_nouns",
+      "meaning": "脖子",
+      "originalLine": "N4 | 首 (くび) | Current: other_nouns | Meaning: 脖子"
+    },
+    {
+      "word": "指輪",
+      "reading": "ゆびわ",
+      "category": "other_nouns",
+      "meaning": "指環",
+      "originalLine": "N4 | 指輪 (ゆびわ) | Current: other_nouns | Meaning: 指環"
+    },
+    {
+      "word": "最初",
+      "reading": "さいしょ",
+      "category": "other_nouns",
+      "meaning": "開始，首先",
+      "originalLine": "N4 | 最初 (さいしょ) | Current: other_nouns | Meaning: 開始，首先"
+    },
+    {
+      "word": "歯医者",
+      "reading": "はいしゃ",
+      "category": "other_nouns",
+      "meaning": "牙醫",
+      "originalLine": "N4 | 歯医者 (はいしゃ) | Current: other_nouns | Meaning: 牙醫"
+    },
+    {
+      "word": "見える",
+      "reading": "みえる",
+      "category": "movement_verbs",
+      "meaning": "出現在眼前",
+      "originalLine": "N4 | 見える (みえる) | Current: movement_verbs | Meaning: 出現在眼前"
+    },
+    {
+      "word": "浅い",
+      "reading": "あさい",
+      "category": "i_adjectives",
+      "meaning": "淺薄的，膚淺的",
+      "originalLine": "N4 | 浅い (あさい) | Current: i_adjectives | Meaning: 淺薄的，膚淺的"
+    },
+    {
+      "word": "おつり",
+      "reading": "おつり",
+      "category": "other_nouns",
+      "meaning": "購買變動、餘額",
+      "originalLine": "N4 | おつり (おつり) | Current: other_nouns | Meaning: 購買變動、餘額"
+    },
+    {
+      "word": "腕",
+      "reading": "うで",
+      "category": "other_nouns",
+      "meaning": "手臂",
+      "originalLine": "N4 | 腕 (うで) | Current: other_nouns | Meaning: 手臂"
+    },
+    {
+      "word": "まず",
+      "reading": "まず",
+      "category": "other_nouns",
+      "meaning": "首先",
+      "originalLine": "N4 | まず (まず) | Current: other_nouns | Meaning: 首先"
+    },
+    {
+      "word": "毛",
+      "reading": "け",
+      "category": "other_nouns",
+      "meaning": "頭髮或毛皮",
+      "originalLine": "N4 | 毛 (け) | Current: other_nouns | Meaning: 頭髮或毛皮"
+    },
+    {
+      "word": "のど",
+      "reading": "のど",
+      "category": "body_parts",
+      "meaning": "喉嚨",
+      "originalLine": "N4 | のど (のど) | Current: body_parts | Meaning: 喉嚨"
+    },
+    {
+      "word": "石",
+      "reading": "いし",
+      "category": "body_parts",
+      "meaning": "石頭",
+      "originalLine": "N4 | 石 (いし) | Current: body_parts | Meaning: 石頭"
+    },
+    {
+      "word": "血",
+      "reading": "ち",
+      "category": "body_parts",
+      "meaning": "血",
+      "originalLine": "N4 | 血 (ち) | Current: body_parts | Meaning: 血"
+    },
+    {
+      "word": "足す",
+      "reading": "たす",
+      "category": "action_verbs",
+      "meaning": "新增號碼",
+      "originalLine": "N4 | 足す (たす) | Current: action_verbs | Meaning: 新增號碼"
+    },
+    {
+      "word": "足りる",
+      "reading": "たりる",
+      "category": "action_verbs",
+      "meaning": "足夠了",
+      "originalLine": "N4 | 足りる (たりる) | Current: action_verbs | Meaning: 足夠了"
+    },
+    {
+      "word": "案内",
+      "reading": "あんない・する",
+      "category": "action_verbs",
+      "meaning": "指導",
+      "originalLine": "N4 | 案内 (あんない・する) | Current: action_verbs | Meaning: 指導"
+    },
+    {
+      "word": "戻る",
+      "reading": "もどる",
+      "category": "movement_verbs",
+      "meaning": "回頭",
+      "originalLine": "N4 | 戻る (もどる) | Current: movement_verbs | Meaning: 回頭"
+    },
+    {
+      "word": "髪",
+      "reading": "かみ",
+      "category": "body_parts",
+      "meaning": "頭髮",
+      "originalLine": "N4 | 髪 (かみ) | Current: body_parts | Meaning: 頭髮"
+    },
+    {
+      "word": "背中",
+      "reading": "せなか",
+      "category": "other_nouns",
+      "meaning": "身體後部",
+      "originalLine": "N4 | 背中 (せなか) | Current: other_nouns | Meaning: 身體後部"
+    },
+    {
+      "word": "指",
+      "reading": "ゆび",
+      "category": "other_nouns",
+      "meaning": "手指",
+      "originalLine": "N4 | 指 (ゆび) | Current: other_nouns | Meaning: 手指"
+    },
+    {
+      "word": "歯医者",
+      "reading": "はいしゃ",
+      "category": "other_nouns",
+      "meaning": "牙醫",
+      "originalLine": "N4 | 歯医者 (はいしゃ) | Current: other_nouns | Meaning: 牙醫"
+    },
+    {
+      "word": "お見舞い",
+      "reading": "おみまい",
+      "category": "i_adjectives",
+      "meaning": "探望生病的人、詢問",
+      "originalLine": "N4 | お見舞い (おみまい) | Current: i_adjectives | Meaning: 探望生病的人、詢問"
+    },
+    {
+      "word": "悲しい",
+      "reading": "かなしい",
+      "category": "mental_emotion",
+      "meaning": "悲傷",
+      "originalLine": "N4 | 悲しい (かなしい) | Current: mental_emotion | Meaning: 悲傷"
+    },
+    {
+      "word": "入院",
+      "reading": "にゅういん・する",
+      "category": "action_verbs",
+      "meaning": "住院",
+      "originalLine": "N4 | 入院 (にゅういん・する) | Current: action_verbs | Meaning: 住院"
+    },
+    {
+      "word": "医学",
+      "reading": "いがく",
+      "category": "science_tech",
+      "meaning": "醫學科學",
+      "originalLine": "N4 | 医学 (いがく) | Current: science_tech | Meaning: 醫學科學"
+    },
+    {
+      "word": "退院",
+      "reading": "たいいん・する",
+      "category": "movement_verbs",
+      "meaning": "出院",
+      "originalLine": "N4 | 退院 (たいいん・する) | Current: movement_verbs | Meaning: 出院"
+    },
+    {
+      "word": "けが・する",
+      "reading": "けが・する",
+      "category": "action_verbs",
+      "meaning": "傷害",
+      "originalLine": "N4 | けが・する (けが・する) | Current: action_verbs | Meaning: 傷害"
+    }
+  ],
+  "N3": [
+    {
+      "word": "喉",
+      "reading": "のど",
+      "category": "body_parts",
+      "meaning": "喉嚨",
+      "originalLine": "N3 | 喉 (のど) | Current: body_parts | Meaning: 喉嚨"
+    },
+    {
+      "word": "刈る",
+      "reading": "かる",
+      "category": "action_verbs",
+      "meaning": "剪（頭髮）、割（草）、收穫",
+      "originalLine": "N3 | 刈る (かる) | Current: action_verbs | Meaning: 剪（頭髮）、割（草）、收穫"
+    },
+    {
+      "word": "飽きる",
+      "reading": "あきる",
+      "category": "movement_verbs",
+      "meaning": "厭倦、失去興趣、擁有足夠的東西",
+      "originalLine": "N3 | 飽きる (あきる) | Current: movement_verbs | Meaning: 厭倦、失去興趣、擁有足夠的東西"
+    },
+    {
+      "word": "わがまま",
+      "reading": "わがまま",
+      "category": "other_nouns",
+      "meaning": "自私、利己主義、任性、不服從、心血來潮",
+      "originalLine": "N3 | わがまま (わがまま) | Current: other_nouns | Meaning: 自私、利己主義、任性、不服從、心血來潮"
+    },
+    {
+      "word": "心臓",
+      "reading": "しんぞう",
+      "category": "mental_emotion",
+      "meaning": "心",
+      "originalLine": "N3 | 心臓 (しんぞう) | Current: mental_emotion | Meaning: 心"
+    },
+    {
+      "word": "指す",
+      "reading": "さす",
+      "category": "action_verbs",
+      "meaning": "指點、撐傘、玩耍",
+      "originalLine": "N3 | 指す (さす) | Current: action_verbs | Meaning: 指點、撐傘、玩耍"
+    },
+    {
+      "word": "向ける",
+      "reading": "むける",
+      "category": "action_verbs",
+      "meaning": "轉向，指向",
+      "originalLine": "N3 | 向ける (むける) | Current: action_verbs | Meaning: 轉向，指向"
+    },
+    {
+      "word": "筋肉",
+      "reading": "きんにく",
+      "category": "food_drinks",
+      "meaning": "肌肉，肌腱",
+      "originalLine": "N3 | 筋肉 (きんにく) | Current: food_drinks | Meaning: 肌肉，肌腱"
+    },
+    {
+      "word": "満足",
+      "reading": "まんぞく",
+      "category": "mental_emotion",
+      "meaning": "滿意",
+      "originalLine": "N3 | 満足 (まんぞく) | Current: mental_emotion | Meaning: 滿意"
+    },
+    {
+      "word": "肌",
+      "reading": "はだ",
+      "category": "body_parts",
+      "meaning": "皮膚",
+      "originalLine": "N3 | 肌 (はだ) | Current: body_parts | Meaning: 皮膚"
+    },
+    {
+      "word": "骨折",
+      "reading": "こっせつ",
+      "category": "other_nouns",
+      "meaning": "骨折",
+      "originalLine": "N3 | 骨折 (こっせつ) | Current: other_nouns | Meaning: 骨折"
+    },
+    {
+      "word": "場面",
+      "reading": "ばめん",
+      "category": "other_nouns",
+      "meaning": "場景、背景（例如小說中的）",
+      "originalLine": "N3 | 場面 (ばめん) | Current: other_nouns | Meaning: 場景、背景（例如小說中的）"
+    },
+    {
+      "word": "責める",
+      "reading": "せめる",
+      "category": "action_verbs",
+      "meaning": "譴責、指責、批評",
+      "originalLine": "N3 | 責める (せめる) | Current: action_verbs | Meaning: 譴責、指責、批評"
+    },
+    {
+      "word": "頭痛",
+      "reading": "ずつう",
+      "category": "other_nouns",
+      "meaning": "頭痛",
+      "originalLine": "N3 | 頭痛 (ずつう) | Current: other_nouns | Meaning: 頭痛"
+    },
+    {
+      "word": "流す",
+      "reading": "ながす",
+      "category": "body_parts",
+      "meaning": "排乾、漂浮、流血（血、淚）、巡航（如計程車）",
+      "originalLine": "N3 | 流す (ながす) | Current: body_parts | Meaning: 排乾、漂浮、流血（血、淚）、巡航（如計程車）"
+    },
+    {
+      "word": "閉じる",
+      "reading": "とじる",
+      "category": "action_verbs",
+      "meaning": "閉上（例如書本、眼睛）、閉上",
+      "originalLine": "N3 | 閉じる (とじる) | Current: action_verbs | Meaning: 閉上（例如書本、眼睛）、閉上"
+    },
+    {
+      "word": "喜び",
+      "reading": "よろこび",
+      "category": "greetings",
+      "meaning": "(a) 喜悅、(a) 高興、狂喜、愉悅、滿足、欣喜、祝賀、祝賀",
+      "originalLine": "N3 | 喜び (よろこび) | Current: greetings | Meaning: (a) 喜悅、(a) 高興、狂喜、愉悅、滿足、欣喜、祝賀、祝賀"
+    },
+    {
+      "word": "首相",
+      "reading": "しゅしょう",
+      "category": "society_economy",
+      "meaning": "總理",
+      "originalLine": "N3 | 首相 (しゅしょう) | Current: society_economy | Meaning: 總理"
+    },
+    {
+      "word": "腹",
+      "reading": "はら",
+      "category": "body_parts",
+      "meaning": "腹部，肚子，肚子",
+      "originalLine": "N3 | 腹 (はら) | Current: body_parts | Meaning: 腹部，肚子，肚子"
+    },
+    {
+      "word": "硬い",
+      "reading": "かたい",
+      "category": "i_adjectives",
+      "meaning": "堅固的、堅硬的（特別是金屬、石頭）、未經打磨的書寫",
+      "originalLine": "N3 | 硬い (かたい) | Current: i_adjectives | Meaning: 堅固的、堅硬的（特別是金屬、石頭）、未經打磨的書寫"
+    },
+    {
+      "word": "応じる",
+      "reading": "おうじる",
+      "category": "movement_verbs",
+      "meaning": "回應、滿足、接受、遵守、申請",
+      "originalLine": "N3 | 応じる (おうじる) | Current: movement_verbs | Meaning: 回應、滿足、接受、遵守、申請"
+    },
+    {
+      "word": "就く",
+      "reading": "つく",
+      "category": "state_verbs",
+      "meaning": "安頓在（地方），佔據（座位，位置），（在老師的指導下）學習",
+      "originalLine": "N3 | 就く (つく) | Current: state_verbs | Meaning: 安頓在（地方），佔據（座位，位置），（在老師的指導下）學習"
+    },
+    {
+      "word": "束",
+      "reading": "たば",
+      "category": "other_nouns",
+      "meaning": "手掌寬，束",
+      "originalLine": "N3 | 束 (たば) | Current: other_nouns | Meaning: 手掌寬，束"
+    },
+    {
+      "word": "額",
+      "reading": "がく",
+      "category": "body_parts",
+      "meaning": "額頭、眉毛",
+      "originalLine": "N3 | 額 (がく) | Current: body_parts | Meaning: 額頭、眉毛"
+    },
+    {
+      "word": "皮",
+      "reading": "かわ",
+      "category": "body_parts",
+      "meaning": "皮膚、獸皮、皮革、毛皮、毛皮、樹皮、貝殼",
+      "originalLine": "N3 | 皮 (かわ) | Current: body_parts | Meaning: 皮膚、獸皮、皮革、毛皮、毛皮、樹皮、貝殼"
+    },
+    {
+      "word": "拍手",
+      "reading": "はくしゅ",
+      "category": "other_nouns",
+      "meaning": "拍手、鼓掌",
+      "originalLine": "N3 | 拍手 (はくしゅ) | Current: other_nouns | Meaning: 拍手、鼓掌"
+    },
+    {
+      "word": "裏切る",
+      "reading": "うらぎる",
+      "category": "movement_verbs",
+      "meaning": "出賣、背叛、出賣",
+      "originalLine": "N3 | 裏切る (うらぎる) | Current: movement_verbs | Meaning: 出賣、背叛、出賣"
+    },
+    {
+      "word": "合計",
+      "reading": "ごうけい",
+      "category": "other_nouns",
+      "meaning": "總計，總金額",
+      "originalLine": "N3 | 合計 (ごうけい) | Current: other_nouns | Meaning: 總計，總金額"
+    },
+    {
+      "word": "胸",
+      "reading": "むね",
+      "category": "places_buildings",
+      "meaning": "乳房，胸部",
+      "originalLine": "N3 | 胸 (むね) | Current: places_buildings | Meaning: 乳房，胸部"
+    },
+    {
+      "word": "量",
+      "reading": "りょう",
+      "category": "numbers_time",
+      "meaning": "（食物的）數量、金額、體積、部分",
+      "originalLine": "N3 | 量 (りょう) | Current: numbers_time | Meaning: （食物的）數量、金額、體積、部分"
+    },
+    {
+      "word": "語る",
+      "reading": "かたる",
+      "category": "action_verbs",
+      "meaning": "說話、講述、背誦",
+      "originalLine": "N3 | 語る (かたる) | Current: action_verbs | Meaning: 說話、講述、背誦"
+    },
+    {
+      "word": "髪の毛",
+      "reading": "かみのけ",
+      "category": "body_parts",
+      "meaning": "頭髮（頭）",
+      "originalLine": "N3 | 髪の毛 (かみのけ) | Current: body_parts | Meaning: 頭髮（頭）"
+    },
+    {
+      "word": "泡",
+      "reading": "あわ",
+      "category": "body_parts",
+      "meaning": "氣泡、泡沫、泡沫、啤酒頭",
+      "originalLine": "N3 | 泡 (あわ) | Current: body_parts | Meaning: 氣泡、泡沫、泡沫、啤酒頭"
+    },
+    {
+      "word": "筋",
+      "reading": "すじ",
+      "category": "food_drinks",
+      "meaning": "肌肉、繩子、線",
+      "originalLine": "N3 | 筋 (すじ) | Current: food_drinks | Meaning: 肌肉、繩子、線"
+    },
+    {
+      "word": "先ず",
+      "reading": "まず",
+      "category": "other_nouns",
+      "meaning": "首先（首先），開始，關於，幾乎，幾乎（帶有否定動詞）",
+      "originalLine": "N3 | 先ず (まず) | Current: other_nouns | Meaning: 首先（首先），開始，關於，幾乎，幾乎（帶有否定動詞）"
+    },
+    {
+      "word": "金額",
+      "reading": "きんがく",
+      "category": "other_nouns",
+      "meaning": "金額",
+      "originalLine": "N3 | 金額 (きんがく) | Current: other_nouns | Meaning: 金額"
+    },
+    {
+      "word": "ベルト",
+      "reading": "ベルト",
+      "category": "other_nouns",
+      "meaning": "西服腰帶",
+      "originalLine": "N3 | ベルト (ベルト) | Current: other_nouns | Meaning: 西服腰帶"
+    },
+    {
+      "word": "ホーム",
+      "reading": "ホーム",
+      "category": "other_nouns",
+      "meaning": "(1)平台，(2)首頁",
+      "originalLine": "N3 | ホーム (ホーム) | Current: other_nouns | Meaning: (1)平台，(2)首頁"
+    },
+    {
+      "word": "首都",
+      "reading": "しゅと",
+      "category": "other_nouns",
+      "meaning": "首都",
+      "originalLine": "N3 | 首都 (しゅと) | Current: other_nouns | Meaning: 首都"
+    },
+    {
+      "word": "精神",
+      "reading": "せいしん",
+      "category": "arts_culture",
+      "meaning": "頭腦、靈魂、心靈、精神、意圖",
+      "originalLine": "N3 | 精神 (せいしん) | Current: arts_culture | Meaning: 頭腦、靈魂、心靈、精神、意圖"
+    },
+    {
+      "word": "虫歯",
+      "reading": "むしば",
+      "category": "body_parts",
+      "meaning": "蛀牙、蛀牙、蛀牙、齲齒",
+      "originalLine": "N3 | 虫歯 (むしば) | Current: body_parts | Meaning: 蛀牙、蛀牙、蛀牙、齲齒"
+    },
+    {
+      "word": "お腹",
+      "reading": "おなか",
+      "category": "body_parts",
+      "meaning": "胃",
+      "originalLine": "N3 | お腹 (おなか) | Current: body_parts | Meaning: 胃"
+    },
+    {
+      "word": "単位",
+      "reading": "たんい",
+      "category": "numbers_time",
+      "meaning": "單位、面額、學分（在校）",
+      "originalLine": "N3 | 単位 (たんい) | Current: numbers_time | Meaning: 單位、面額、學分（在校）"
+    },
+    {
+      "word": "指導",
+      "reading": "しどう",
+      "category": "other_nouns",
+      "meaning": "領導、指導、輔導",
+      "originalLine": "N3 | 指導 (しどう) | Current: other_nouns | Meaning: 領導、指導、輔導"
+    },
+    {
+      "word": "腰",
+      "reading": "こし",
+      "category": "other_nouns",
+      "meaning": "臀部",
+      "originalLine": "N3 | 腰 (こし) | Current: other_nouns | Meaning: 臀部"
+    },
+    {
+      "word": "掴む",
+      "reading": "つかむ",
+      "category": "action_verbs",
+      "meaning": "抓住，抓住，掌握",
+      "originalLine": "N3 | 掴む (つかむ) | Current: action_verbs | Meaning: 抓住，抓住，掌握"
+    },
+    {
+      "word": "骨",
+      "reading": "ほね",
+      "category": "body_parts",
+      "meaning": "骨頭",
+      "originalLine": "N3 | 骨 (ほね) | Current: body_parts | Meaning: 骨頭"
+    },
+    {
+      "word": "案内",
+      "reading": "あんない",
+      "category": "other_nouns",
+      "meaning": "訊息、指導、引導",
+      "originalLine": "N3 | 案内 (あんない) | Current: other_nouns | Meaning: 訊息、指導、引導"
+    },
+    {
+      "word": "強力",
+      "reading": "きょうりょく",
+      "category": "places_buildings",
+      "meaning": "巨大的力量，山區運輸指南",
+      "originalLine": "N3 | 強力 (きょうりょく) | Current: places_buildings | Meaning: 巨大的力量，山區運輸指南"
+    },
+    {
+      "word": "余分",
+      "reading": "よぶん",
+      "category": "na_adjectives",
+      "meaning": "額外的，多餘的，多餘的",
+      "originalLine": "N3 | 余分 (よぶん) | Current: na_adjectives | Meaning: 額外的，多餘的，多餘的"
+    },
+    {
+      "word": "背",
+      "reading": "せい",
+      "category": "other_nouns",
+      "meaning": "身高、身材",
+      "originalLine": "N3 | 背 (せい) | Current: other_nouns | Meaning: 身高、身材"
+    },
+    {
+      "word": "氏",
+      "reading": "し",
+      "category": "family_people",
+      "meaning": "姓氏、血統、出生",
+      "originalLine": "N3 | 氏 (し) | Current: family_people | Meaning: 姓氏、血統、出生"
+    },
+    {
+      "word": "欠陥",
+      "reading": "けっかん",
+      "category": "body_parts",
+      "meaning": "缺陷、錯誤、不足",
+      "originalLine": "N3 | 欠陥 (けっかん) | Current: body_parts | Meaning: 缺陷、錯誤、不足"
+    },
+    {
+      "word": "上京",
+      "reading": "じょうきょう",
+      "category": "other_nouns",
+      "meaning": "前往首都（東京）",
+      "originalLine": "N3 | 上京 (じょうきょう) | Current: other_nouns | Meaning: 前往首都（東京）"
+    },
+    {
+      "word": "命令",
+      "reading": "めいれい",
+      "category": "other_nouns",
+      "meaning": "命令、命令、法令、指令、（軟體）指令",
+      "originalLine": "N3 | 命令 (めいれい) | Current: other_nouns | Meaning: 命令、命令、法令、指令、（軟體）指令"
+    },
+    {
+      "word": "暗記",
+      "reading": "あんき",
+      "category": "school_work",
+      "meaning": "背誦，用心學習",
+      "originalLine": "N3 | 暗記 (あんき) | Current: school_work | Meaning: 背誦，用心學習"
+    },
+    {
+      "word": "舌",
+      "reading": "した",
+      "category": "body_parts",
+      "meaning": "舌頭",
+      "originalLine": "N3 | 舌 (した) | Current: body_parts | Meaning: 舌頭"
+    },
+    {
+      "word": "不足",
+      "reading": "ふそく",
+      "category": "body_parts",
+      "meaning": "不足、短缺、匱乏、匱乏、匱乏",
+      "originalLine": "N3 | 不足 (ふそく) | Current: body_parts | Meaning: 不足、短缺、匱乏、匱乏、匱乏"
+    },
+    {
+      "word": "株",
+      "reading": "かぶ",
+      "category": "society_economy",
+      "meaning": "（樹的）份額、股票、樹樁",
+      "originalLine": "N3 | 株 (かぶ) | Current: society_economy | Meaning: （樹的）份額、股票、樹樁"
+    },
+    {
+      "word": "缶",
+      "reading": "かん",
+      "category": "food_drinks",
+      "meaning": "罐頭、罐頭",
+      "originalLine": "N3 | 缶 (かん) | Current: food_drinks | Meaning: 罐頭、罐頭"
+    },
+    {
+      "word": "胃",
+      "reading": "い",
+      "category": "body_parts",
+      "meaning": "胃",
+      "originalLine": "N3 | 胃 (い) | Current: body_parts | Meaning: 胃"
+    },
+    {
+      "word": "肩",
+      "reading": "かた",
+      "category": "body_parts",
+      "meaning": "肩膀",
+      "originalLine": "N3 | 肩 (かた) | Current: body_parts | Meaning: 肩膀"
+    },
+    {
+      "word": "作曲",
+      "reading": "さっきょく",
+      "category": "leisure_sports",
+      "meaning": "（音樂的）作曲，背景",
+      "originalLine": "N3 | 作曲 (さっきょく) | Current: leisure_sports | Meaning: （音樂的）作曲，背景"
+    },
+    {
+      "word": "気の毒",
+      "reading": "きのどく",
+      "category": "other_nouns",
+      "meaning": "可憐，可惜",
+      "originalLine": "N3 | 気の毒 (きのどく) | Current: other_nouns | Meaning: 可憐，可惜"
+    },
+    {
+      "word": "医師",
+      "reading": "いし",
+      "category": "family_people",
+      "meaning": "醫生，醫師",
+      "originalLine": "N3 | 医師 (いし) | Current: family_people | Meaning: 醫生，醫師"
+    },
+    {
+      "word": "骨折",
+      "reading": "こっせつ",
+      "category": "other_nouns",
+      "meaning": "骨折",
+      "originalLine": "N3 | 骨折 (こっせつ) | Current: other_nouns | Meaning: 骨折"
+    },
+    {
+      "word": "頭痛",
+      "reading": "ずつう",
+      "category": "other_nouns",
+      "meaning": "頭痛",
+      "originalLine": "N3 | 頭痛 (ずつう) | Current: other_nouns | Meaning: 頭痛"
+    },
+    {
+      "word": "哀れ",
+      "reading": "あわれ",
+      "category": "mental_emotion",
+      "meaning": "無奈、遺憾、悲傷、悲傷",
+      "originalLine": "N3 | 哀れ (あわれ) | Current: mental_emotion | Meaning: 無奈、遺憾、悲傷、悲傷"
+    },
+    {
+      "word": "患者",
+      "reading": "かんじゃ",
+      "category": "family_people",
+      "meaning": "一個病人",
+      "originalLine": "N3 | 患者 (かんじゃ) | Current: family_people | Meaning: 一個病人"
+    },
+    {
+      "word": "入院",
+      "reading": "にゅういん",
+      "category": "science_tech",
+      "meaning": "住院治療",
+      "originalLine": "N3 | 入院 (にゅういん) | Current: science_tech | Meaning: 住院治療"
+    },
+    {
+      "word": "不幸",
+      "reading": "ふこう",
+      "category": "env_disaster",
+      "meaning": "不幸、悲傷、不幸、災難、意外、死亡",
+      "originalLine": "N3 | 不幸 (ふこう) | Current: env_disaster | Meaning: 不幸、悲傷、不幸、災難、意外、死亡"
+    },
+    {
+      "word": "悲しむ",
+      "reading": "かなしむ",
+      "category": "mental_emotion",
+      "meaning": "悲傷、哀悼、遺憾",
+      "originalLine": "N3 | 悲しむ (かなしむ) | Current: mental_emotion | Meaning: 悲傷、哀悼、遺憾"
+    },
+    {
+      "word": "診察",
+      "reading": "しんさつ",
+      "category": "other_nouns",
+      "meaning": "體檢",
+      "originalLine": "N3 | 診察 (しんさつ) | Current: other_nouns | Meaning: 體檢"
+    },
+    {
+      "word": "苦しい",
+      "reading": "くるしい",
+      "category": "i_adjectives",
+      "meaning": "痛苦的，困難的",
+      "originalLine": "N3 | 苦しい (くるしい) | Current: i_adjectives | Meaning: 痛苦的，困難的"
+    },
+    {
+      "word": "傷",
+      "reading": "きず",
+      "category": "body_parts",
+      "meaning": "傷口、受傷、受傷、割傷",
+      "originalLine": "N3 | 傷 (きず) | Current: body_parts | Meaning: 傷口、受傷、受傷、割傷"
+    },
+    {
+      "word": "吐く",
+      "reading": "はく",
+      "category": "movement_verbs",
+      "meaning": "(1) 呼吸，(2) 說謊，(3) 嘔吐，吐出",
+      "originalLine": "N3 | 吐く (はく) | Current: movement_verbs | Meaning: (1) 呼吸，(2) 說謊，(3) 嘔吐，吐出"
+    },
+    {
+      "word": "手術",
+      "reading": "しゅじゅつ",
+      "category": "science_tech",
+      "meaning": "外科手術",
+      "originalLine": "N3 | 手術 (しゅじゅつ) | Current: science_tech | Meaning: 外科手術"
+    },
+    {
+      "word": "損害",
+      "reading": "そんがい",
+      "category": "other_nouns",
+      "meaning": "損害、傷害、損失",
+      "originalLine": "N3 | 損害 (そんがい) | Current: other_nouns | Meaning: 損害、傷害、損失"
+    },
+    {
+      "word": "咳",
+      "reading": "せき",
+      "category": "other_nouns",
+      "meaning": "咳嗽",
+      "originalLine": "N3 | 咳 (せき) | Current: other_nouns | Meaning: 咳嗽"
+    },
+    {
+      "word": "辛い",
+      "reading": "つらい",
+      "category": "i_adjectives",
+      "meaning": "痛苦的、心碎的",
+      "originalLine": "N3 | 辛い (つらい) | Current: i_adjectives | Meaning: 痛苦的、心碎的"
+    },
+    {
+      "word": "害",
+      "reading": "がい",
+      "category": "abstract_logic",
+      "meaning": "傷害、損害、邪惡影響、損害",
+      "originalLine": "N3 | 害 (がい) | Current: abstract_logic | Meaning: 傷害、損害、邪惡影響、損害"
+    },
+    {
+      "word": "炎",
+      "reading": "ほのお",
+      "category": "other_nouns",
+      "meaning": "火焰",
+      "originalLine": "N3 | 炎 (ほのお) | Current: other_nouns | Meaning: 火焰"
+    },
+    {
+      "word": "苦痛",
+      "reading": "くつう",
+      "category": "other_nouns",
+      "meaning": "痛苦，痛苦",
+      "originalLine": "N3 | 苦痛 (くつう) | Current: other_nouns | Meaning: 痛苦，痛苦"
+    },
+    {
+      "word": "症状",
+      "reading": "しょうじょう",
+      "category": "science_tech",
+      "meaning": "症狀、狀況",
+      "originalLine": "N3 | 症状 (しょうじょう) | Current: science_tech | Meaning: 症狀、狀況"
+    },
+    {
+      "word": "毒",
+      "reading": "どく",
+      "category": "science_tech",
+      "meaning": "毒藥，有毒物",
+      "originalLine": "N3 | 毒 (どく) | Current: science_tech | Meaning: 毒藥，有毒物"
+    },
+    {
+      "word": "回復",
+      "reading": "かいふく",
+      "category": "other_nouns",
+      "meaning": "(從疾病中)康復、改善、康復、恢復",
+      "originalLine": "N3 | 回復 (かいふく) | Current: other_nouns | Meaning: (從疾病中)康復、改善、康復、恢復"
+    },
+    {
+      "word": "痛み",
+      "reading": "いたみ",
+      "category": "mental_emotion",
+      "meaning": "疼痛、疼痛、酸痛、悲傷、痛苦",
+      "originalLine": "N3 | 痛み (いたみ) | Current: mental_emotion | Meaning: 疼痛、疼痛、酸痛、悲傷、痛苦"
+    },
+    {
+      "word": "怪我",
+      "reading": "けが",
+      "category": "other_nouns",
+      "meaning": "傷害（使物體活動），傷害",
+      "originalLine": "N3 | 怪我 (けが) | Current: other_nouns | Meaning: 傷害（使物體活動），傷害"
+    },
+    {
+      "word": "医療",
+      "reading": "いりょう",
+      "category": "science_tech",
+      "meaning": "醫療照護、醫療",
+      "originalLine": "N3 | 医療 (いりょう) | Current: science_tech | Meaning: 醫療照護、醫療"
+    }
+  ],
+  "N2": [
+    {
+      "word": "矢印",
+      "reading": "やじるし",
+      "category": "body_parts",
+      "meaning": "方向箭頭",
+      "originalLine": "N2 | 矢印 (やじるし) | Current: body_parts | Meaning: 方向箭頭"
+    },
+    {
+      "word": "芯",
+      "reading": "しん",
+      "category": "body_parts",
+      "meaning": "核心、心臟、燈芯、骨髓",
+      "originalLine": "N2 | 芯 (しん) | Current: body_parts | Meaning: 核心、心臟、燈芯、骨髓"
+    },
+    {
+      "word": "鳴らす",
+      "reading": "ならす",
+      "category": "movement_verbs",
+      "meaning": "響、發出聲音、鳴響、敲打、打噴嚏（鼻子）",
+      "originalLine": "N2 | 鳴らす (ならす) | Current: movement_verbs | Meaning: 響、發出聲音、鳴響、敲打、打噴嚏（鼻子）"
+    },
+    {
+      "word": "堅い",
+      "reading": "かたい",
+      "category": "i_adjectives",
+      "meaning": "堅硬（尤其是木頭）、堅定、可敬、古板的寫作",
+      "originalLine": "N2 | 堅い (かたい) | Current: i_adjectives | Meaning: 堅硬（尤其是木頭）、堅定、可敬、古板的寫作"
+    },
+    {
+      "word": "小指",
+      "reading": "こゆび",
+      "category": "other_nouns",
+      "meaning": "小指",
+      "originalLine": "N2 | 小指 (こゆび) | Current: other_nouns | Meaning: 小指"
+    },
+    {
+      "word": "あてはまる",
+      "reading": "あてはまる",
+      "category": "body_parts",
+      "meaning": "適用，屬於（類別），滿足",
+      "originalLine": "N2 | あてはまる (あてはまる) | Current: body_parts | Meaning: 適用，屬於（類別），滿足"
+    },
+    {
+      "word": "人差指",
+      "reading": "ひとさしゆび",
+      "category": "other_nouns",
+      "meaning": "食指",
+      "originalLine": "N2 | 人差指 (ひとさしゆび) | Current: other_nouns | Meaning: 食指"
+    },
+    {
+      "word": "先頭",
+      "reading": "せんとう",
+      "category": "body_parts",
+      "meaning": "頭頭、領頭、先鋒、第一",
+      "originalLine": "N2 | 先頭 (せんとう) | Current: body_parts | Meaning: 頭頭、領頭、先鋒、第一"
+    },
+    {
+      "word": "めまい",
+      "reading": "めまい",
+      "category": "other_nouns",
+      "meaning": "頭暈、頭暈",
+      "originalLine": "N2 | めまい (めまい) | Current: other_nouns | Meaning: 頭暈、頭暈"
+    },
+    {
+      "word": "真っ先",
+      "reading": "まっさき",
+      "category": "na_adjectives",
+      "meaning": "頭，最重要的，開始",
+      "originalLine": "N2 | 真っ先 (まっさき) | Current: na_adjectives | Meaning: 頭，最重要的，開始"
+    },
+    {
+      "word": "親指",
+      "reading": "おやゆび",
+      "category": "other_nouns",
+      "meaning": "大拇指",
+      "originalLine": "N2 | 親指 (おやゆび) | Current: other_nouns | Meaning: 大拇指"
+    },
+    {
+      "word": "レンズ",
+      "reading": "レンズ",
+      "category": "body_parts",
+      "meaning": "鏡頭",
+      "originalLine": "N2 | レンズ (レンズ) | Current: body_parts | Meaning: 鏡頭"
+    },
+    {
+      "word": "手首",
+      "reading": "てくび",
+      "category": "body_parts",
+      "meaning": "手腕",
+      "originalLine": "N2 | 手首 (てくび) | Current: body_parts | Meaning: 手腕"
+    },
+    {
+      "word": "蛇口",
+      "reading": "じゃぐち",
+      "category": "body_parts",
+      "meaning": "水龍頭，水龍頭",
+      "originalLine": "N2 | 蛇口 (じゃぐち) | Current: body_parts | Meaning: 水龍頭，水龍頭"
+    },
+    {
+      "word": "分量",
+      "reading": "ぶんりょう",
+      "category": "other_nouns",
+      "meaning": "金額，數量",
+      "originalLine": "N2 | 分量 (ぶんりょう) | Current: other_nouns | Meaning: 金額，數量"
+    },
+    {
+      "word": "命ずる",
+      "reading": "めいずる",
+      "category": "action_verbs",
+      "meaning": "指揮、任命",
+      "originalLine": "N2 | 命ずる (めいずる) | Current: action_verbs | Meaning: 指揮、任命"
+    },
+    {
+      "word": "歯磨き",
+      "reading": "はみがき",
+      "category": "daily_items",
+      "meaning": "潔牙劑、牙膏",
+      "originalLine": "N2 | 歯磨き (はみがき) | Current: daily_items | Meaning: 潔牙劑、牙膏"
+    },
+    {
+      "word": "瞳",
+      "reading": "ひとみ",
+      "category": "other_nouns",
+      "meaning": "（眼睛的）瞳孔",
+      "originalLine": "N2 | 瞳 (ひとみ) | Current: other_nouns | Meaning: （眼睛的）瞳孔"
+    },
+    {
+      "word": "遠足",
+      "reading": "えんそく",
+      "category": "food_drinks",
+      "meaning": "旅行、遠足、野餐",
+      "originalLine": "N2 | 遠足 (えんそく) | Current: food_drinks | Meaning: 旅行、遠足、野餐"
+    },
+    {
+      "word": "指定",
+      "reading": "してい",
+      "category": "other_nouns",
+      "meaning": "名稱、規格、分配、指向",
+      "originalLine": "N2 | 指定 (してい) | Current: other_nouns | Meaning: 名稱、規格、分配、指向"
+    },
+    {
+      "word": "血圧",
+      "reading": "けつあつ",
+      "category": "other_nouns",
+      "meaning": "血壓",
+      "originalLine": "N2 | 血圧 (けつあつ) | Current: other_nouns | Meaning: 血壓"
+    },
+    {
+      "word": "斬る",
+      "reading": "きる",
+      "category": "action_verbs",
+      "meaning": "(v5r) 斬首，謀殺",
+      "originalLine": "N2 | 斬る (きる) | Current: action_verbs | Meaning: (v5r) 斬首，謀殺"
+    },
+    {
+      "word": "だいいち",
+      "reading": "（副）",
+      "category": "other_nouns",
+      "meaning": "首先，最重要的是，#1",
+      "originalLine": "N2 | だいいち (（副）) | Current: other_nouns | Meaning: 首先，最重要的是，#1"
+    },
+    {
+      "word": "応ずる",
+      "reading": "おうずる",
+      "category": "movement_verbs",
+      "meaning": "回答、回應、滿足、滿足、接受",
+      "originalLine": "N2 | 応ずる (おうずる) | Current: movement_verbs | Meaning: 回答、回應、滿足、滿足、接受"
+    },
+    {
+      "word": "部首",
+      "reading": "ぶしゅ",
+      "category": "other_nouns",
+      "meaning": "部首（漢字的）",
+      "originalLine": "N2 | 部首 (ぶしゅ) | Current: other_nouns | Meaning: 部首（漢字的）"
+    },
+    {
+      "word": "コック",
+      "reading": "コック",
+      "category": "family_people",
+      "meaning": "(1) 廚師 (nl:), (2) 水龍頭, 龍頭, 龍頭, 旋塞",
+      "originalLine": "N2 | コック (コック) | Current: family_people | Meaning: (1) 廚師 (nl:), (2) 水龍頭, 龍頭, 龍頭, 旋塞"
+    },
+    {
+      "word": "慶び",
+      "reading": "よろこび",
+      "category": "greetings",
+      "meaning": "(n) (a) 喜悅、(a) 高興、狂喜、快樂、滿足、欣喜、祝賀、祝賀",
+      "originalLine": "N2 | 慶び (よろこび) | Current: greetings | Meaning: (n) (a) 喜悅、(a) 高興、狂喜、快樂、滿足、欣喜、祝賀、祝賀"
+    },
+    {
+      "word": "足袋",
+      "reading": "たび",
+      "category": "clothing",
+      "meaning": "分趾襪，日式襪子（分趾）",
+      "originalLine": "N2 | 足袋 (たび) | Current: clothing | Meaning: 分趾襪，日式襪子（分趾）"
+    },
+    {
+      "word": "腰掛ける",
+      "reading": "こしかける",
+      "category": "movement_verbs",
+      "meaning": "坐下（坐下）",
+      "originalLine": "N2 | 腰掛ける (こしかける) | Current: movement_verbs | Meaning: 坐下（坐下）"
+    },
+    {
+      "word": "有無",
+      "reading": "うむ",
+      "category": "other_nouns",
+      "meaning": "是或否、存在、標誌指示符 (comp)、存在或不存在標記",
+      "originalLine": "N2 | 有無 (うむ) | Current: other_nouns | Meaning: 是或否、存在、標誌指示符 (comp)、存在或不存在標記"
+    },
+    {
+      "word": "小便",
+      "reading": "しょうべん",
+      "category": "other_nouns",
+      "meaning": "(col) 尿液，小便",
+      "originalLine": "N2 | 小便 (しょうべん) | Current: other_nouns | Meaning: (col) 尿液，小便"
+    },
+    {
+      "word": "雑音",
+      "reading": "ざつおん",
+      "category": "env_disaster",
+      "meaning": "噪音（刺耳聲、刺耳聲）",
+      "originalLine": "N2 | 雑音 (ざつおん) | Current: env_disaster | Meaning: 噪音（刺耳聲、刺耳聲）"
+    },
+    {
+      "word": "皮膚",
+      "reading": "ひふ",
+      "category": "body_parts",
+      "meaning": "皮膚",
+      "originalLine": "N2 | 皮膚 (ひふ) | Current: body_parts | Meaning: 皮膚"
+    },
+    {
+      "word": "爪",
+      "reading": "つめ",
+      "category": "other_nouns",
+      "meaning": "手指甲或腳趾甲、爪子、爪子、蹄子",
+      "originalLine": "N2 | 爪 (つめ) | Current: other_nouns | Meaning: 手指甲或腳趾甲、爪子、爪子、蹄子"
+    },
+    {
+      "word": "薬指",
+      "reading": "くすりゆび",
+      "category": "other_nouns",
+      "meaning": "無名指",
+      "originalLine": "N2 | 薬指 (くすりゆび) | Current: other_nouns | Meaning: 無名指"
+    },
+    {
+      "word": "輸血",
+      "reading": "ゆけつ",
+      "category": "body_parts",
+      "meaning": "輸血",
+      "originalLine": "N2 | 輸血 (ゆけつ) | Current: body_parts | Meaning: 輸血"
+    },
+    {
+      "word": "始めに",
+      "reading": "はじめに",
+      "category": "other_nouns",
+      "meaning": "首先，首先",
+      "originalLine": "N2 | 始めに (はじめに) | Current: other_nouns | Meaning: 首先，首先"
+    },
+    {
+      "word": "中指",
+      "reading": "なかゆび",
+      "category": "other_nouns",
+      "meaning": "中指",
+      "originalLine": "N2 | 中指 (なかゆび) | Current: other_nouns | Meaning: 中指"
+    },
+    {
+      "word": "含める",
+      "reading": "ふくめる",
+      "category": "state_verbs",
+      "meaning": "包括、指導、使人理解",
+      "originalLine": "N2 | 含める (ふくめる) | Current: state_verbs | Meaning: 包括、指導、使人理解"
+    },
+    {
+      "word": "売上",
+      "reading": "うりあげ",
+      "category": "other_nouns",
+      "meaning": "售出金額、收益",
+      "originalLine": "N2 | 売上 (うりあげ) | Current: other_nouns | Meaning: 售出金額、收益"
+    },
+    {
+      "word": "日当たり",
+      "reading": "ひあたり",
+      "category": "places_buildings",
+      "meaning": "暴露在陽光下、陽光充足的地方",
+      "originalLine": "N2 | 日当たり (ひあたり) | Current: places_buildings | Meaning: 暴露在陽光下、陽光充足的地方"
+    },
+    {
+      "word": "血液",
+      "reading": "けつえき",
+      "category": "body_parts",
+      "meaning": "血",
+      "originalLine": "N2 | 血液 (けつえき) | Current: body_parts | Meaning: 血"
+    },
+    {
+      "word": "白髪",
+      "reading": "しらが",
+      "category": "other_nouns",
+      "meaning": "白髮或灰髮，流行的頭髮漂白",
+      "originalLine": "N2 | 白髪 (しらが) | Current: other_nouns | Meaning: 白髮或灰髮，流行的頭髮漂白"
+    },
+    {
+      "word": "吐き気",
+      "reading": "はきけ",
+      "category": "other_nouns",
+      "meaning": "噁心，胃部不適",
+      "originalLine": "N2 | 吐き気 (はきけ) | Current: other_nouns | Meaning: 噁心，胃部不適"
+    },
+    {
+      "word": "肌着",
+      "reading": "はだぎ",
+      "category": "clothing",
+      "meaning": "內衣",
+      "originalLine": "N2 | 肌着 (はだぎ) | Current: clothing | Meaning: 內衣"
+    },
+    {
+      "word": "足る",
+      "reading": "たる",
+      "category": "action_verbs",
+      "meaning": "足夠，足夠",
+      "originalLine": "N2 | 足る (たる) | Current: action_verbs | Meaning: 足夠，足夠"
+    },
+    {
+      "word": "担ぐ",
+      "reading": "かつぐ",
+      "category": "state_verbs",
+      "meaning": "扛在肩上，扛在肩上",
+      "originalLine": "N2 | 担ぐ (かつぐ) | Current: state_verbs | Meaning: 扛在肩上，扛在肩上"
+    },
+    {
+      "word": "まぶた",
+      "reading": "まぶた",
+      "category": "other_nouns",
+      "meaning": "眼瞼",
+      "originalLine": "N2 | まぶた (まぶた) | Current: other_nouns | Meaning: 眼瞼"
+    },
+    {
+      "word": "油断",
+      "reading": "ゆだん",
+      "category": "body_parts",
+      "meaning": "疏忽、準備不足",
+      "originalLine": "N2 | 油断 (ゆだん) | Current: body_parts | Meaning: 疏忽、準備不足"
+    },
+    {
+      "word": "ランニング",
+      "reading": "ランニング",
+      "category": "leisure_sports",
+      "meaning": "(1) 跑步，(2) 背心",
+      "originalLine": "N2 | ランニング (ランニング) | Current: leisure_sports | Meaning: (1) 跑步，(2) 背心"
+    },
+    {
+      "word": "当日",
+      "reading": "とうじつ",
+      "category": "adverbs_conjunctions",
+      "meaning": "指定的日子，非常的一天",
+      "originalLine": "N2 | 当日 (とうじつ) | Current: adverbs_conjunctions | Meaning: 指定的日子，非常的一天"
+    },
+    {
+      "word": "すれちがう",
+      "reading": "すれちがう",
+      "category": "action_verbs",
+      "meaning": "互相擦肩而過，不同意",
+      "originalLine": "N2 | すれちがう (すれちがう) | Current: action_verbs | Meaning: 互相擦肩而過，不同意"
+    },
+    {
+      "word": "まぶしい",
+      "reading": "まぶしい",
+      "category": "i_adjectives",
+      "meaning": "耀眼的, 容光煥發的",
+      "originalLine": "N2 | まぶしい (まぶしい) | Current: i_adjectives | Meaning: 耀眼的, 容光煥發的"
+    },
+    {
+      "word": "枕",
+      "reading": "まくら",
+      "category": "body_parts",
+      "meaning": "枕頭、抱枕",
+      "originalLine": "N2 | 枕 (まくら) | Current: body_parts | Meaning: 枕頭、抱枕"
+    },
+    {
+      "word": "缶詰",
+      "reading": "かんづめ",
+      "category": "food_drinks",
+      "meaning": "包裝（罐頭）、罐頭、罐頭、錫罐",
+      "originalLine": "N2 | 缶詰 (かんづめ) | Current: food_drinks | Meaning: 包裝（罐頭）、罐頭、罐頭、錫罐"
+    },
+    {
+      "word": "じゃんけん",
+      "reading": "じゃんけん",
+      "category": "leisure_sports",
+      "meaning": "(n) 石頭剪刀布遊戲",
+      "originalLine": "N2 | じゃんけん (じゃんけん) | Current: leisure_sports | Meaning: (n) 石頭剪刀布遊戲"
+    },
+    {
+      "word": "目指す",
+      "reading": "めざす",
+      "category": "action_verbs",
+      "meaning": "瞄準，關注",
+      "originalLine": "N2 | 目指す (めざす) | Current: action_verbs | Meaning: 瞄準，關注"
+    },
+    {
+      "word": "索引",
+      "reading": "さくいん",
+      "category": "numbers_time",
+      "meaning": "指數，指數",
+      "originalLine": "N2 | 索引 (さくいん) | Current: numbers_time | Meaning: 指數，指數"
+    },
+    {
+      "word": "歯車",
+      "reading": "はぐるま",
+      "category": "other_nouns",
+      "meaning": "齒輪，齒輪",
+      "originalLine": "N2 | 歯車 (はぐるま) | Current: other_nouns | Meaning: 齒輪，齒輪"
+    },
+    {
+      "word": "頭脳",
+      "reading": "ずのう",
+      "category": "other_nouns",
+      "meaning": "頭腦、頭腦、智力",
+      "originalLine": "N2 | 頭脳 (ずのう) | Current: other_nouns | Meaning: 頭腦、頭腦、智力"
+    },
+    {
+      "word": "文脈",
+      "reading": "ぶんみゃく",
+      "category": "other_nouns",
+      "meaning": "情境",
+      "originalLine": "N2 | 文脈 (ぶんみゃく) | Current: other_nouns | Meaning: 情境"
+    },
+    {
+      "word": "車掌",
+      "reading": "しゃしょう",
+      "category": "family_people",
+      "meaning": "（火車）列車長",
+      "originalLine": "N2 | 車掌 (しゃしょう) | Current: family_people | Meaning: （火車）列車長"
+    },
+    {
+      "word": "背負う",
+      "reading": "せおう",
+      "category": "state_verbs",
+      "meaning": "背負, 背在背上或肩上",
+      "originalLine": "N2 | 背負う (せおう) | Current: state_verbs | Meaning: 背負, 背在背上或肩上"
+    },
+    {
+      "word": "鈍い",
+      "reading": "にぶい",
+      "category": "other_nouns",
+      "meaning": "遲鈍（例如一把刀）、頭腦遲鈍、緩慢（與快速相反）、愚蠢",
+      "originalLine": "N2 | 鈍い (にぶい) | Current: other_nouns | Meaning: 遲鈍（例如一把刀）、頭腦遲鈍、緩慢（與快速相反）、愚蠢"
+    },
+    {
+      "word": "ブローチ",
+      "reading": "ブローチ",
+      "category": "daily_items",
+      "meaning": "胸針",
+      "originalLine": "N2 | ブローチ (ブローチ) | Current: daily_items | Meaning: 胸針"
+    },
+    {
+      "word": "腰掛け",
+      "reading": "こしかけ",
+      "category": "other_nouns",
+      "meaning": "座位、長椅",
+      "originalLine": "N2 | 腰掛け (こしかけ) | Current: other_nouns | Meaning: 座位、長椅"
+    },
+    {
+      "word": "足跡",
+      "reading": "あしあと",
+      "category": "other_nouns",
+      "meaning": "腳印",
+      "originalLine": "N2 | 足跡 (あしあと) | Current: other_nouns | Meaning: 腳印"
+    },
+    {
+      "word": "未満",
+      "reading": "みまん",
+      "category": "body_parts",
+      "meaning": "小於，不足",
+      "originalLine": "N2 | 未満 (みまん) | Current: body_parts | Meaning: 小於，不足"
+    },
+    {
+      "word": "農薬",
+      "reading": "のうやく",
+      "category": "other_nouns",
+      "meaning": "農業化學品",
+      "originalLine": "N2 | 農薬 (のうやく) | Current: other_nouns | Meaning: 農業化學品"
+    },
+    {
+      "word": "恨む",
+      "reading": "うらむ",
+      "category": "movement_verbs",
+      "meaning": "咒罵，感到痛苦",
+      "originalLine": "N2 | 恨む (うらむ) | Current: movement_verbs | Meaning: 咒罵，感到痛苦"
+    },
+    {
+      "word": "擦る",
+      "reading": "こする",
+      "category": "action_verbs",
+      "meaning": "摩擦、擦傷、銼磨、磨砂（玻璃）、敲擊（火柴）",
+      "originalLine": "N2 | 擦る (こする) | Current: action_verbs | Meaning: 摩擦、擦傷、銼磨、磨砂（玻璃）、敲擊（火柴）"
+    },
+    {
+      "word": "看病",
+      "reading": "かんびょう",
+      "category": "other_nouns",
+      "meaning": "護理（病人）",
+      "originalLine": "N2 | 看病 (かんびょう) | Current: other_nouns | Meaning: 護理（病人）"
+    },
+    {
+      "word": "診る",
+      "reading": "みる",
+      "category": "action_verbs",
+      "meaning": "檢查（醫學）",
+      "originalLine": "N2 | 診る (みる) | Current: action_verbs | Meaning: 檢查（醫學）"
+    },
+    {
+      "word": "焦げる",
+      "reading": "こげる",
+      "category": "action_verbs",
+      "meaning": "燒傷，被燒傷",
+      "originalLine": "N2 | 焦げる (こげる) | Current: action_verbs | Meaning: 燒傷，被燒傷"
+    },
+    {
+      "word": "苦心",
+      "reading": "くしん",
+      "category": "other_nouns",
+      "meaning": "痛苦、麻煩",
+      "originalLine": "N2 | 苦心 (くしん) | Current: other_nouns | Meaning: 痛苦、麻煩"
+    },
+    {
+      "word": "内科",
+      "reading": "ないか",
+      "category": "other_nouns",
+      "meaning": "內科診所, 內科",
+      "originalLine": "N2 | 内科 (ないか) | Current: other_nouns | Meaning: 內科診所, 內科"
+    },
+    {
+      "word": "退院",
+      "reading": "たいいん",
+      "category": "places_buildings",
+      "meaning": "出院",
+      "originalLine": "N2 | 退院 (たいいん) | Current: places_buildings | Meaning: 出院"
+    },
+    {
+      "word": "診断",
+      "reading": "しんだん",
+      "category": "science_tech",
+      "meaning": "診斷",
+      "originalLine": "N2 | 診断 (しんだん) | Current: science_tech | Meaning: 診斷"
+    },
+    {
+      "word": "浮かべる",
+      "reading": "うかべる",
+      "category": "action_verbs",
+      "meaning": "漂浮、表達、觀看（悲傷、高興）",
+      "originalLine": "N2 | 浮かべる (うかべる) | Current: action_verbs | Meaning: 漂浮、表達、觀看（悲傷、高興）"
+    },
+    {
+      "word": "薬指",
+      "reading": "くすりゆび",
+      "category": "other_nouns",
+      "meaning": "無名指",
+      "originalLine": "N2 | 薬指 (くすりゆび) | Current: other_nouns | Meaning: 無名指"
+    },
+    {
+      "word": "薬缶",
+      "reading": "やかん",
+      "category": "other_nouns",
+      "meaning": "水壺",
+      "originalLine": "N2 | 薬缶 (やかん) | Current: other_nouns | Meaning: 水壺"
+    },
+    {
+      "word": "温泉",
+      "reading": "おんせん",
+      "category": "nature_animals",
+      "meaning": "水療中心, 溫泉, 溫泉",
+      "originalLine": "N2 | 温泉 (おんせん) | Current: nature_animals | Meaning: 水療中心, 溫泉, 溫泉"
+    },
+    {
+      "word": "火傷",
+      "reading": "やけど",
+      "category": "other_nouns",
+      "meaning": "燒傷、燙傷",
+      "originalLine": "N2 | 火傷 (やけど) | Current: other_nouns | Meaning: 燒傷、燙傷"
+    },
+    {
+      "word": "みじめ",
+      "reading": "みじめ",
+      "category": "na_adjectives",
+      "meaning": "(arch) 悲傷的，可憐的，不幸的",
+      "originalLine": "N2 | みじめ (みじめ) | Current: na_adjectives | Meaning: (arch) 悲傷的，可憐的，不幸的"
+    },
+    {
+      "word": "重体",
+      "reading": "じゅうたい",
+      "category": "abstract_logic",
+      "meaning": "病重, 病情嚴重, 危急狀態",
+      "originalLine": "N2 | 重体 (じゅうたい) | Current: abstract_logic | Meaning: 病重, 病情嚴重, 危急狀態"
+    },
+    {
+      "word": "消毒",
+      "reading": "しょうどく",
+      "category": "other_nouns",
+      "meaning": "消毒、滅菌",
+      "originalLine": "N2 | 消毒 (しょうどく) | Current: other_nouns | Meaning: 消毒、滅菌"
+    },
+    {
+      "word": "薬局",
+      "reading": "やっきょく",
+      "category": "places_buildings",
+      "meaning": "藥房，藥局",
+      "originalLine": "N2 | 薬局 (やっきょく) | Current: places_buildings | Meaning: 藥房，藥局"
+    },
+    {
+      "word": "吐き気",
+      "reading": "はきけ",
+      "category": "other_nouns",
+      "meaning": "噁心，胃部不適",
+      "originalLine": "N2 | 吐き気 (はきけ) | Current: other_nouns | Meaning: 噁心，胃部不適"
+    },
+    {
+      "word": "掻く",
+      "reading": "かく",
+      "category": "action_verbs",
+      "meaning": "抓傷、流汗",
+      "originalLine": "N2 | 掻く (かく) | Current: action_verbs | Meaning: 抓傷、流汗"
+    },
+    {
+      "word": "薬品",
+      "reading": "やくひん",
+      "category": "other_nouns",
+      "meaning": "藥品、化學品",
+      "originalLine": "N2 | 薬品 (やくひん) | Current: other_nouns | Meaning: 藥品、化學品"
+    },
+    {
+      "word": "摩擦",
+      "reading": "まさつ",
+      "category": "other_nouns",
+      "meaning": "摩擦, 磨擦, 磨擦, 擦傷",
+      "originalLine": "N2 | 摩擦 (まさつ) | Current: other_nouns | Meaning: 摩擦, 磨擦, 磨擦, 擦傷"
+    },
+    {
+      "word": "乾杯",
+      "reading": "かんぱい",
+      "category": "food_drinks",
+      "meaning": "吐司（飲料）",
+      "originalLine": "N2 | 乾杯 (かんぱい) | Current: food_drinks | Meaning: 吐司（飲料）"
+    }
+  ],
+  "N1": [
+    {
+      "word": "首脳",
+      "reading": "しゅのう",
+      "category": "body_parts",
+      "meaning": "頭；大腦",
+      "originalLine": "N1 | 首脳 (しゅのう) | Current: body_parts | Meaning: 頭；大腦"
+    },
+    {
+      "word": "意地",
+      "reading": "いじ",
+      "category": "arts_culture",
+      "meaning": "處置；精神;意志;固執；骨幹;食慾",
+      "originalLine": "N1 | 意地 (いじ) | Current: arts_culture | Meaning: 處置；精神;意志;固執；骨幹;食慾"
+    },
+    {
+      "word": "脈",
+      "reading": "みゃく",
+      "category": "other_nouns",
+      "meaning": "脈衝",
+      "originalLine": "N1 | 脈 (みゃく) | Current: other_nouns | Meaning: 脈衝"
+    },
+    {
+      "word": "瞑る",
+      "reading": "つぶる",
+      "category": "action_verbs",
+      "meaning": "閉上眼睛",
+      "originalLine": "N1 | 瞑る (つぶる) | Current: action_verbs | Meaning: 閉上眼睛"
+    },
+    {
+      "word": "背負う",
+      "reading": "しょう",
+      "category": "state_verbs",
+      "meaning": "背負著重擔；背在背上或肩上",
+      "originalLine": "N1 | 背負う (しょう) | Current: state_verbs | Meaning: 背負著重擔；背在背上或肩上"
+    },
+    {
+      "word": "先行",
+      "reading": "せんこう",
+      "category": "places_buildings",
+      "meaning": "前面；首先",
+      "originalLine": "N1 | 先行 (せんこう) | Current: places_buildings | Meaning: 前面；首先"
+    },
+    {
+      "word": "朝寝坊",
+      "reading": "あさねぼう",
+      "category": "family_people",
+      "meaning": "睡過頭；晚起者",
+      "originalLine": "N1 | 朝寝坊 (あさねぼう) | Current: family_people | Meaning: 睡過頭；晚起者"
+    },
+    {
+      "word": "出血",
+      "reading": "しゅっけつ",
+      "category": "body_parts",
+      "meaning": "出血；出血",
+      "originalLine": "N1 | 出血 (しゅっけつ) | Current: body_parts | Meaning: 出血；出血"
+    },
+    {
+      "word": "現われる",
+      "reading": "あらわれる",
+      "category": "movement_verbs",
+      "meaning": "出現；出現在眼前；變得可見；出來；體現；實現；表達自己",
+      "originalLine": "N1 | 現われる (あらわれる) | Current: movement_verbs | Meaning: 出現；出現在眼前；變得可見；出來；體現；實現；表達自己"
+    },
+    {
+      "word": "煌びやか",
+      "reading": "きらびやか",
+      "category": "na_adjectives",
+      "meaning": "華麗;艷麗的；令人眼花撩亂；同性戀",
+      "originalLine": "N1 | 煌びやか (きらびやか) | Current: na_adjectives | Meaning: 華麗;艷麗的；令人眼花撩亂；同性戀"
+    },
+    {
+      "word": "問う",
+      "reading": "とう",
+      "category": "action_verbs",
+      "meaning": "問；提問；指控（即犯罪）；指責；不考慮（否定）",
+      "originalLine": "N1 | 問う (とう) | Current: action_verbs | Meaning: 問；提問；指控（即犯罪）；指責；不考慮（否定）"
+    },
+    {
+      "word": "背く",
+      "reading": "そむく",
+      "category": "action_verbs",
+      "meaning": "背道而馳；反對；不服從；侵犯",
+      "originalLine": "N1 | 背く (そむく) | Current: action_verbs | Meaning: 背道而馳；反對；不服從；侵犯"
+    },
+    {
+      "word": "丁々",
+      "reading": "とうとう",
+      "category": "nature_animals",
+      "meaning": "刀劍相撞；砍伐樹木；斧頭的響聲",
+      "originalLine": "N1 | 丁々 (とうとう) | Current: nature_animals | Meaning: 刀劍相撞；砍伐樹木；斧頭的響聲"
+    },
+    {
+      "word": "長",
+      "reading": "おさ",
+      "category": "family_people",
+      "meaning": "酋長；頭",
+      "originalLine": "N1 | 長 (おさ) | Current: family_people | Meaning: 酋長；頭"
+    },
+    {
+      "word": "任命",
+      "reading": "にんめい",
+      "category": "other_nouns",
+      "meaning": "預約；提名；按立；委員會;指定",
+      "originalLine": "N1 | 任命 (にんめい) | Current: other_nouns | Meaning: 預約；提名；按立；委員會;指定"
+    },
+    {
+      "word": "伝言",
+      "reading": "つてごと",
+      "category": "other_nouns",
+      "meaning": "口頭訊息；謠言;詞",
+      "originalLine": "N1 | 伝言 (つてごと) | Current: other_nouns | Meaning: 口頭訊息；謠言;詞"
+    },
+    {
+      "word": "脚本",
+      "reading": "きゃくほん",
+      "category": "other_nouns",
+      "meaning": "場景",
+      "originalLine": "N1 | 脚本 (きゃくほん) | Current: other_nouns | Meaning: 場景"
+    },
+    {
+      "word": "山腹",
+      "reading": "さんぷく",
+      "category": "body_parts",
+      "meaning": "山坡；山腰",
+      "originalLine": "N1 | 山腹 (さんぷく) | Current: body_parts | Meaning: 山坡；山腰"
+    },
+    {
+      "word": "真上",
+      "reading": "まうえ",
+      "category": "body_parts",
+      "meaning": "就在上面；右頭頂",
+      "originalLine": "N1 | 真上 (まうえ) | Current: body_parts | Meaning: 就在上面；右頭頂"
+    },
+    {
+      "word": "肉親",
+      "reading": "にくしん",
+      "category": "family_people",
+      "meaning": "血緣關係；血親",
+      "originalLine": "N1 | 肉親 (にくしん) | Current: family_people | Meaning: 血緣關係；血親"
+    },
+    {
+      "word": "尿",
+      "reading": "にょう",
+      "category": "other_nouns",
+      "meaning": "尿液",
+      "originalLine": "N1 | 尿 (にょう) | Current: other_nouns | Meaning: 尿液"
+    },
+    {
+      "word": "背景",
+      "reading": "はいけい",
+      "category": "env_disaster",
+      "meaning": "背景；風景;環境;情況",
+      "originalLine": "N1 | 背景 (はいけい) | Current: env_disaster | Meaning: 背景；風景;環境;情況"
+    },
+    {
+      "word": "骨董品",
+      "reading": "こっとうひん",
+      "category": "other_nouns",
+      "meaning": "古玩",
+      "originalLine": "N1 | 骨董品 (こっとうひん) | Current: other_nouns | Meaning: 古玩"
+    },
+    {
+      "word": "生身",
+      "reading": "なまみ",
+      "category": "na_adjectives",
+      "meaning": "活生生的肉體；骨肉;快速的",
+      "originalLine": "N1 | 生身 (なまみ) | Current: na_adjectives | Meaning: 活生生的肉體；骨肉;快速的"
+    },
+    {
+      "word": "乳",
+      "reading": "ちち",
+      "category": "food_drinks",
+      "meaning": "牛奶；胸部;循環",
+      "originalLine": "N1 | 乳 (ちち) | Current: food_drinks | Meaning: 牛奶；胸部;循環"
+    },
+    {
+      "word": "眼鏡",
+      "reading": "がんきょう",
+      "category": "clothing",
+      "meaning": "眼鏡；眼鏡",
+      "originalLine": "N1 | 眼鏡 (がんきょう) | Current: clothing | Meaning: 眼鏡；眼鏡"
+    },
+    {
+      "word": "志す",
+      "reading": "こころざす",
+      "category": "action_verbs",
+      "meaning": "計劃；打算；渴望；設定目標（著眼於）",
+      "originalLine": "N1 | 志す (こころざす) | Current: action_verbs | Meaning: 計劃；打算；渴望；設定目標（著眼於）"
+    },
+    {
+      "word": "鈍感",
+      "reading": "どんかん",
+      "category": "other_nouns",
+      "meaning": "頭腦愚鈍；冷漠",
+      "originalLine": "N1 | 鈍感 (どんかん) | Current: other_nouns | Meaning: 頭腦愚鈍；冷漠"
+    },
+    {
+      "word": "率直",
+      "reading": "そっちょく",
+      "category": "body_parts",
+      "meaning": "坦率；坦率；開放的心胸",
+      "originalLine": "N1 | 率直 (そっちょく) | Current: body_parts | Meaning: 坦率；坦率；開放的心胸"
+    },
+    {
+      "word": "元首",
+      "reading": "げんしゅ",
+      "category": "other_nouns",
+      "meaning": "尺；主權",
+      "originalLine": "N1 | 元首 (げんしゅ) | Current: other_nouns | Meaning: 尺；主權"
+    },
+    {
+      "word": "頂",
+      "reading": "いただき",
+      "category": "body_parts",
+      "meaning": "頭（上）；首腦;尖塔",
+      "originalLine": "N1 | 頂 (いただき) | Current: body_parts | Meaning: 頭（上）；首腦;尖塔"
+    },
+    {
+      "word": "食い違う",
+      "reading": "くいちがう",
+      "category": "movement_verbs",
+      "meaning": "互相交叉；背道而馳；有所不同；發生衝突；出差錯",
+      "originalLine": "N1 | 食い違う (くいちがう) | Current: movement_verbs | Meaning: 互相交叉；背道而馳；有所不同；發生衝突；出差錯"
+    },
+    {
+      "word": "腸",
+      "reading": "ちょう",
+      "category": "other_nouns",
+      "meaning": "膽量；腸道；腸子",
+      "originalLine": "N1 | 腸 (ちょう) | Current: other_nouns | Meaning: 膽量；腸道；腸子"
+    },
+    {
+      "word": "甲",
+      "reading": "きのえ",
+      "category": "body_parts",
+      "meaning": "排名第一；中國曆法的第一個標誌；殼;腳背; A級",
+      "originalLine": "N1 | 甲 (きのえ) | Current: body_parts | Meaning: 排名第一；中國曆法的第一個標誌；殼;腳背; A級"
+    },
+    {
+      "word": "目眩",
+      "reading": "めまい",
+      "category": "other_nouns",
+      "meaning": "頭暈；頭暈",
+      "originalLine": "N1 | 目眩 (めまい) | Current: other_nouns | Meaning: 頭暈；頭暈"
+    },
+    {
+      "word": "偏",
+      "reading": "へん",
+      "category": "na_adjectives",
+      "meaning": "側面；字符的左部首；傾斜；傾向於;有偏見的",
+      "originalLine": "N1 | 偏 (へん) | Current: na_adjectives | Meaning: 側面；字符的左部首；傾斜；傾向於;有偏見的"
+    },
+    {
+      "word": "一面",
+      "reading": "いちめん",
+      "category": "body_parts",
+      "meaning": "一邊；一相；頭版;另一隻手；整個表面",
+      "originalLine": "N1 | 一面 (いちめん) | Current: body_parts | Meaning: 一邊；一相；頭版;另一隻手；整個表面"
+    },
+    {
+      "word": "御負け",
+      "reading": "おまけ",
+      "category": "na_adjectives",
+      "meaning": "1. 折扣；一個獎品； 2. 額外的東西；獎金; 額外的；3、誇張",
+      "originalLine": "N1 | 御負け (おまけ) | Current: na_adjectives | Meaning: 1. 折扣；一個獎品； 2. 額外的東西；獎金; 額外的；3、誇張"
+    },
+    {
+      "word": "始発",
+      "reading": "しはつ",
+      "category": "transportation",
+      "meaning": "首班車",
+      "originalLine": "N1 | 始発 (しはつ) | Current: transportation | Meaning: 首班車"
+    },
+    {
+      "word": "導く",
+      "reading": "みちびく",
+      "category": "action_verbs",
+      "meaning": "受指導；待展示",
+      "originalLine": "N1 | 導く (みちびく) | Current: action_verbs | Meaning: 受指導；待展示"
+    },
+    {
+      "word": "終始",
+      "reading": "しゅうし",
+      "category": "other_nouns",
+      "meaning": "開始和結束；從頭到尾；做一件事從頭到尾",
+      "originalLine": "N1 | 終始 (しゅうし) | Current: other_nouns | Meaning: 開始和結束；從頭到尾；做一件事從頭到尾"
+    },
+    {
+      "word": "取りあえず",
+      "reading": "とりあえず",
+      "category": "adverbs_conjunctions",
+      "meaning": "立刻；首先;暫時",
+      "originalLine": "N1 | 取りあえず (とりあえず) | Current: adverbs_conjunctions | Meaning: 立刻；首先;暫時"
+    },
+    {
+      "word": "裸足",
+      "reading": "はだし",
+      "category": "body_parts",
+      "meaning": "赤腳",
+      "originalLine": "N1 | 裸足 (はだし) | Current: body_parts | Meaning: 赤腳"
+    },
+    {
+      "word": "コンタクト",
+      "reading": "コンタクト",
+      "category": "clothing",
+      "meaning": "聯繫；隱形眼鏡",
+      "originalLine": "N1 | コンタクト (コンタクト) | Current: clothing | Meaning: 聯繫；隱形眼鏡"
+    },
+    {
+      "word": "安っぽい",
+      "reading": "やすっぽい",
+      "category": "i_adjectives",
+      "meaning": "看起來很廉價；俗氣；微不足道的",
+      "originalLine": "N1 | 安っぽい (やすっぽい) | Current: i_adjectives | Meaning: 看起來很廉價；俗氣；微不足道的"
+    },
+    {
+      "word": "空腹",
+      "reading": "くうふく",
+      "category": "other_nouns",
+      "meaning": "飢餓",
+      "originalLine": "N1 | 空腹 (くうふく) | Current: other_nouns | Meaning: 飢餓"
+    },
+    {
+      "word": "発足",
+      "reading": "はっそく",
+      "category": "other_nouns",
+      "meaning": "開始；就職典禮",
+      "originalLine": "N1 | 発足 (はっそく) | Current: other_nouns | Meaning: 開始；就職典禮"
+    },
+    {
+      "word": "満たす",
+      "reading": "みたす",
+      "category": "body_parts",
+      "meaning": "滿足；討好；填充；履行",
+      "originalLine": "N1 | 満たす (みたす) | Current: body_parts | Meaning: 滿足；討好；填充；履行"
+    },
+    {
+      "word": "歯科",
+      "reading": "しか",
+      "category": "other_nouns",
+      "meaning": "牙科",
+      "originalLine": "N1 | 歯科 (しか) | Current: other_nouns | Meaning: 牙科"
+    },
+    {
+      "word": "制する",
+      "reading": "せいする",
+      "category": "na_adjectives",
+      "meaning": "控制；指揮；得到更好的",
+      "originalLine": "N1 | 制する (せいする) | Current: na_adjectives | Meaning: 控制；指揮；得到更好的"
+    },
+    {
+      "word": "顧みる",
+      "reading": "かえりみる",
+      "category": "movement_verbs",
+      "meaning": "回頭看；轉身；審查",
+      "originalLine": "N1 | 顧みる (かえりみる) | Current: movement_verbs | Meaning: 回頭看；轉身；審查"
+    },
+    {
+      "word": "接ぐ",
+      "reading": "つぐ",
+      "category": "movement_verbs",
+      "meaning": "加入；拼湊起來；固定（骨頭）；嫁接（樹木）",
+      "originalLine": "N1 | 接ぐ (つぐ) | Current: movement_verbs | Meaning: 加入；拼湊起來；固定（骨頭）；嫁接（樹木）"
+    },
+    {
+      "word": "残高",
+      "reading": "ざんだか",
+      "category": "numbers_time",
+      "meaning": "（銀行）餘額；餘數",
+      "originalLine": "N1 | 残高 (ざんだか) | Current: numbers_time | Meaning: （銀行）餘額；餘數"
+    },
+    {
+      "word": "瞬き",
+      "reading": "またたき",
+      "category": "body_parts",
+      "meaning": "眨眼； （星星）閃爍； （光的）閃爍",
+      "originalLine": "N1 | 瞬き (またたき) | Current: body_parts | Meaning: 眨眼； （星星）閃爍； （光的）閃爍"
+    },
+    {
+      "word": "逆立ち",
+      "reading": "さかだち",
+      "category": "other_nouns",
+      "meaning": "倒立；頭倒立",
+      "originalLine": "N1 | 逆立ち (さかだち) | Current: other_nouns | Meaning: 倒立；頭倒立"
+    },
+    {
+      "word": "唱える",
+      "reading": "となえる",
+      "category": "action_verbs",
+      "meaning": "背誦；唱誦；呼籲",
+      "originalLine": "N1 | 唱える (となえる) | Current: action_verbs | Meaning: 背誦；唱誦；呼籲"
+    },
+    {
+      "word": "腕前",
+      "reading": "うでまえ",
+      "category": "other_nouns",
+      "meaning": "能力；技能;設施",
+      "originalLine": "N1 | 腕前 (うでまえ) | Current: other_nouns | Meaning: 能力；技能;設施"
+    },
+    {
+      "word": "一変",
+      "reading": "いっぺん",
+      "category": "body_parts",
+      "meaning": "徹底改變；調頭",
+      "originalLine": "N1 | 一変 (いっぺん) | Current: body_parts | Meaning: 徹底改變；調頭"
+    },
+    {
+      "word": "ガイドブック",
+      "reading": "ガイドブック",
+      "category": "places_buildings",
+      "meaning": "指南",
+      "originalLine": "N1 | ガイドブック (ガイドブック) | Current: places_buildings | Meaning: 指南"
+    },
+    {
+      "word": "教習",
+      "reading": "きょうしゅう",
+      "category": "other_nouns",
+      "meaning": "訓練;指令",
+      "originalLine": "N1 | 教習 (きょうしゅう) | Current: other_nouns | Meaning: 訓練;指令"
+    },
+    {
+      "word": "厭々",
+      "reading": "いやいや",
+      "category": "adverbs_conjunctions",
+      "meaning": "不情願地；勉強; （對孩子）搖頭拒絕",
+      "originalLine": "N1 | 厭々 (いやいや) | Current: adverbs_conjunctions | Meaning: 不情願地；勉強; （對孩子）搖頭拒絕"
+    },
+    {
+      "word": "無邪気",
+      "reading": "むじゃき",
+      "category": "other_nouns",
+      "meaning": "純真；頭腦簡單",
+      "originalLine": "N1 | 無邪気 (むじゃき) | Current: other_nouns | Meaning: 純真；頭腦簡單"
+    },
+    {
+      "word": "指差す",
+      "reading": "ゆびさす",
+      "category": "action_verbs",
+      "meaning": "指向",
+      "originalLine": "N1 | 指差す (ゆびさす) | Current: action_verbs | Meaning: 指向"
+    },
+    {
+      "word": "血管",
+      "reading": "けっかん",
+      "category": "other_nouns",
+      "meaning": "血管",
+      "originalLine": "N1 | 血管 (けっかん) | Current: other_nouns | Meaning: 血管"
+    },
+    {
+      "word": "担う",
+      "reading": "になう",
+      "category": "body_parts",
+      "meaning": "扛在肩上；承擔（負擔）；肩（槍）",
+      "originalLine": "N1 | 担う (になう) | Current: body_parts | Meaning: 扛在肩上；承擔（負擔）；肩（槍）"
+    },
+    {
+      "word": "咎める",
+      "reading": "とがめる",
+      "category": "action_verbs",
+      "meaning": "責備；找碴；指派某人執行任務；加重（傷害）",
+      "originalLine": "N1 | 咎める (とがめる) | Current: action_verbs | Meaning: 責備；找碴；指派某人執行任務；加重（傷害）"
+    },
+    {
+      "word": "歯磨",
+      "reading": "はみがき",
+      "category": "daily_items",
+      "meaning": "牙膏；牙膏",
+      "originalLine": "N1 | 歯磨 (はみがき) | Current: daily_items | Meaning: 牙膏；牙膏"
+    },
+    {
+      "word": "器",
+      "reading": "うつわ",
+      "category": "daily_items",
+      "meaning": "碗；血管;容器",
+      "originalLine": "N1 | 器 (うつわ) | Current: daily_items | Meaning: 碗；血管;容器"
+    },
+    {
+      "word": "山脈",
+      "reading": "さんみゃく",
+      "category": "other_nouns",
+      "meaning": "山脈",
+      "originalLine": "N1 | 山脈 (さんみゃく) | Current: other_nouns | Meaning: 山脈"
+    },
+    {
+      "word": "学歴",
+      "reading": "がくれき",
+      "category": "other_nouns",
+      "meaning": "學術背景",
+      "originalLine": "N1 | 学歴 (がくれき) | Current: other_nouns | Meaning: 學術背景"
+    },
+    {
+      "word": "混血",
+      "reading": "こんけつ",
+      "category": "other_nouns",
+      "meaning": "混血兒；混血兒",
+      "originalLine": "N1 | 混血 (こんけつ) | Current: other_nouns | Meaning: 混血兒；混血兒"
+    },
+    {
+      "word": "目蓋",
+      "reading": "まぶた",
+      "category": "other_nouns",
+      "meaning": "眼瞼",
+      "originalLine": "N1 | 目蓋 (まぶた) | Current: other_nouns | Meaning: 眼瞼"
+    },
+    {
+      "word": "日向",
+      "reading": "ひなた",
+      "category": "places_buildings",
+      "meaning": "陽光充足的地方；在陽光下",
+      "originalLine": "N1 | 日向 (ひなた) | Current: places_buildings | Meaning: 陽光充足的地方；在陽光下"
+    },
+    {
+      "word": "気配",
+      "reading": "きはい",
+      "category": "abstract_logic",
+      "meaning": "指示；市場趨勢；擔心",
+      "originalLine": "N1 | 気配 (きはい) | Current: abstract_logic | Meaning: 指示；市場趨勢；擔心"
+    },
+    {
+      "word": "差額",
+      "reading": "さがく",
+      "category": "places_buildings",
+      "meaning": "平衡；不同之處;保證金",
+      "originalLine": "N1 | 差額 (さがく) | Current: places_buildings | Meaning: 平衡；不同之處;保證金"
+    },
+    {
+      "word": "指摘",
+      "reading": "してき",
+      "category": "other_nouns",
+      "meaning": "指出；識別",
+      "originalLine": "N1 | 指摘 (してき) | Current: other_nouns | Meaning: 指出；識別"
+    },
+    {
+      "word": "野心",
+      "reading": "やしん",
+      "category": "arts_culture",
+      "meaning": "野心；願望；設計；背叛",
+      "originalLine": "N1 | 野心 (やしん) | Current: arts_culture | Meaning: 野心；願望；設計；背叛"
+    },
+    {
+      "word": "眉",
+      "reading": "まゆ",
+      "category": "body_parts",
+      "meaning": "眉毛",
+      "originalLine": "N1 | 眉 (まゆ) | Current: body_parts | Meaning: 眉毛"
+    },
+    {
+      "word": "腹立ち",
+      "reading": "はらだち",
+      "category": "mental_emotion",
+      "meaning": "憤怒",
+      "originalLine": "N1 | 腹立ち (はらだち) | Current: mental_emotion | Meaning: 憤怒"
+    },
+    {
+      "word": "首飾り",
+      "reading": "くびかざり",
+      "category": "clothing",
+      "meaning": "項鍊",
+      "originalLine": "N1 | 首飾り (くびかざり) | Current: clothing | Meaning: 項鍊"
+    },
+    {
+      "word": "中枢",
+      "reading": "ちゅうすう",
+      "category": "other_nouns",
+      "meaning": "中心;樞;支柱;核;骨幹;中心人物；支柱;關鍵人物",
+      "originalLine": "N1 | 中枢 (ちゅうすう) | Current: other_nouns | Meaning: 中心;樞;支柱;核;骨幹;中心人物；支柱;關鍵人物"
+    },
+    {
+      "word": "桟橋",
+      "reading": "さんきょう",
+      "category": "body_parts",
+      "meaning": "碼頭；橋樑；碼頭；碼頭",
+      "originalLine": "N1 | 桟橋 (さんきょう) | Current: body_parts | Meaning: 碼頭；橋樑；碼頭；碼頭"
+    },
+    {
+      "word": "確り",
+      "reading": "しっかり",
+      "category": "adverbs_conjunctions",
+      "meaning": "堅定地；緊緊地；可靠；頭腦冷靜；穩定",
+      "originalLine": "N1 | 確り (しっかり) | Current: adverbs_conjunctions | Meaning: 堅定地；緊緊地；可靠；頭腦冷靜；穩定"
+    },
+    {
+      "word": "じゃん拳",
+      "reading": "じゃんけん",
+      "category": "leisure_sports",
+      "meaning": "石頭剪刀布遊戲",
+      "originalLine": "N1 | じゃん拳 (じゃんけん) | Current: leisure_sports | Meaning: 石頭剪刀布遊戲"
+    },
+    {
+      "word": "増し",
+      "reading": "まし",
+      "category": "na_adjectives",
+      "meaning": "額外的；額外的;不太令人反感；更好的;優選",
+      "originalLine": "N1 | 増し (まし) | Current: na_adjectives | Meaning: 額外的；額外的;不太令人反感；更好的;優選"
+    },
+    {
+      "word": "物足りない",
+      "reading": "ものたりない",
+      "category": "mental_emotion",
+      "meaning": "不滿意；不滿意",
+      "originalLine": "N1 | 物足りない (ものたりない) | Current: mental_emotion | Meaning: 不滿意；不滿意"
+    },
+    {
+      "word": "肺",
+      "reading": "はい",
+      "category": "body_parts",
+      "meaning": "肺",
+      "originalLine": "N1 | 肺 (はい) | Current: body_parts | Meaning: 肺"
+    },
+    {
+      "word": "初耳",
+      "reading": "はつみみ",
+      "category": "places_buildings",
+      "meaning": "第一次聽到的東西",
+      "originalLine": "N1 | 初耳 (はつみみ) | Current: places_buildings | Meaning: 第一次聽到的東西"
+    },
+    {
+      "word": "見合わせる",
+      "reading": "みあわせる",
+      "category": "action_verbs",
+      "meaning": "交換眼神；延遲；暫停營運；避免執行某項操作",
+      "originalLine": "N1 | 見合わせる (みあわせる) | Current: action_verbs | Meaning: 交換眼神；延遲；暫停營運；避免執行某項操作"
+    },
+    {
+      "word": "誘導",
+      "reading": "ゆうどう",
+      "category": "other_nouns",
+      "meaning": "指導；領導;就職;介紹;煽動；誘導",
+      "originalLine": "N1 | 誘導 (ゆうどう) | Current: other_nouns | Meaning: 指導；領導;就職;介紹;煽動；誘導"
+    },
+    {
+      "word": "民主",
+      "reading": "みんしゅ",
+      "category": "other_nouns",
+      "meaning": "民主；國家元首",
+      "originalLine": "N1 | 民主 (みんしゅ) | Current: other_nouns | Meaning: 民主；國家元首"
+    },
+    {
+      "word": "下痢",
+      "reading": "げり",
+      "category": "other_nouns",
+      "meaning": "腹瀉",
+      "originalLine": "N1 | 下痢 (げり) | Current: other_nouns | Meaning: 腹瀉"
+    },
+    {
+      "word": "不味い",
+      "reading": "まずい",
+      "category": "i_adjectives",
+      "meaning": "令人倒胃口；不愉快的（味道外觀情況）；醜陋的;不熟練；尷尬的;笨手笨腳的；失策;不計時",
+      "originalLine": "N1 | 不味い (まずい) | Current: i_adjectives | Meaning: 令人倒胃口；不愉快的（味道外觀情況）；醜陋的;不熟練；尷尬的;笨手笨腳的；失策;不計時"
+    },
+    {
+      "word": "平行",
+      "reading": "へいこう",
+      "category": "family_people",
+      "meaning": "（並）肩並肩地走；並發；並排；同時;一起發生；平行線;並行性",
+      "originalLine": "N1 | 平行 (へいこう) | Current: family_people | Meaning: （並）肩並肩地走；並發；並排；同時;一起發生；平行線;並行性"
+    },
+    {
+      "word": "掌",
+      "reading": "たなごころ",
+      "category": "body_parts",
+      "meaning": "手掌",
+      "originalLine": "N1 | 掌 (たなごころ) | Current: body_parts | Meaning: 手掌"
+    },
+    {
+      "word": "捕らえる",
+      "reading": "とらえる",
+      "category": "action_verbs",
+      "meaning": "抓住；掌握；捕捉；逮捕",
+      "originalLine": "N1 | 捕らえる (とらえる) | Current: action_verbs | Meaning: 抓住；掌握；捕捉；逮捕"
+    },
+    {
+      "word": "矢",
+      "reading": "や",
+      "category": "body_parts",
+      "meaning": "箭頭",
+      "originalLine": "N1 | 矢 (や) | Current: body_parts | Meaning: 箭頭"
+    },
+    {
+      "word": "お襁褓",
+      "reading": "おむつ",
+      "category": "daily_items",
+      "meaning": "尿布；尿布",
+      "originalLine": "N1 | お襁褓 (おむつ) | Current: daily_items | Meaning: 尿布；尿布"
+    },
+    {
+      "word": "ふんだん",
+      "reading": "ふんだん",
+      "category": "na_adjectives",
+      "meaning": "充足；豐富;奢侈的",
+      "originalLine": "N1 | ふんだん (ふんだん) | Current: na_adjectives | Meaning: 充足；豐富;奢侈的"
+    },
+    {
+      "word": "ランプ",
+      "reading": "ランプ",
+      "category": "daily_items",
+      "meaning": "燈；坡道；頭燈；光",
+      "originalLine": "N1 | ランプ (ランプ) | Current: daily_items | Meaning: 燈；坡道；頭燈；光"
+    },
+    {
+      "word": "背後",
+      "reading": "はいご",
+      "category": "other_nouns",
+      "meaning": "回來；後部",
+      "originalLine": "N1 | 背後 (はいご) | Current: other_nouns | Meaning: 回來；後部"
+    },
+    {
+      "word": "指揮",
+      "reading": "しき",
+      "category": "abstract_logic",
+      "meaning": "命令；方向",
+      "originalLine": "N1 | 指揮 (しき) | Current: abstract_logic | Meaning: 命令；方向"
+    },
+    {
+      "word": "冒頭",
+      "reading": "ぼうとう",
+      "category": "other_nouns",
+      "meaning": "開始；開始;一開始",
+      "originalLine": "N1 | 冒頭 (ぼうとう) | Current: other_nouns | Meaning: 開始；開始;一開始"
+    },
+    {
+      "word": "一目",
+      "reading": "いちもく",
+      "category": "body_parts",
+      "meaning": "一眼；一看；一瞥",
+      "originalLine": "N1 | 一目 (いちもく) | Current: body_parts | Meaning: 一眼；一看；一瞥"
+    },
+    {
+      "word": "股",
+      "reading": "また",
+      "category": "body_parts",
+      "meaning": "腹股溝；襠;大腿",
+      "originalLine": "N1 | 股 (また) | Current: body_parts | Meaning: 腹股溝；襠;大腿"
+    },
+    {
+      "word": "中腹",
+      "reading": "ちゅうっぱら",
+      "category": "mental_emotion",
+      "meaning": "惱怒；冒犯了",
+      "originalLine": "N1 | 中腹 (ちゅうっぱら) | Current: mental_emotion | Meaning: 惱怒；冒犯了"
+    },
+    {
+      "word": "腿",
+      "reading": "もも",
+      "category": "body_parts",
+      "meaning": "大腿；股骨",
+      "originalLine": "N1 | 腿 (もも) | Current: body_parts | Meaning: 大腿；股骨"
+    },
+    {
+      "word": "詰らない",
+      "reading": "つまらない",
+      "category": "i_adjectives",
+      "meaning": "微不足道的；無聊的;瑣碎的",
+      "originalLine": "N1 | 詰らない (つまらない) | Current: i_adjectives | Meaning: 微不足道的；無聊的;瑣碎的"
+    },
+    {
+      "word": "中指",
+      "reading": "ちゅうし",
+      "category": "other_nouns",
+      "meaning": "中指",
+      "originalLine": "N1 | 中指 (ちゅうし) | Current: other_nouns | Meaning: 中指"
+    },
+    {
+      "word": "情け深い",
+      "reading": "なさけぶかい",
+      "category": "i_adjectives",
+      "meaning": "心腸溫柔；富有同情心的",
+      "originalLine": "N1 | 情け深い (なさけぶかい) | Current: i_adjectives | Meaning: 心腸溫柔；富有同情心的"
+    },
+    {
+      "word": "日取り",
+      "reading": "ひどり",
+      "category": "numbers_time",
+      "meaning": "固定日期；指定日期",
+      "originalLine": "N1 | 日取り (ひどり) | Current: numbers_time | Meaning: 固定日期；指定日期"
+    },
+    {
+      "word": "目付き",
+      "reading": "めつき",
+      "category": "other_nouns",
+      "meaning": "看看；眼睛的表情；眼睛",
+      "originalLine": "N1 | 目付き (めつき) | Current: other_nouns | Meaning: 看看；眼睛的表情；眼睛"
+    },
+    {
+      "word": "眼科",
+      "reading": "がんか",
+      "category": "other_nouns",
+      "meaning": "眼科",
+      "originalLine": "N1 | 眼科 (がんか) | Current: other_nouns | Meaning: 眼科"
+    },
+    {
+      "word": "指令",
+      "reading": "しれい",
+      "category": "other_nouns",
+      "meaning": "訂單；指示;指示",
+      "originalLine": "N1 | 指令 (しれい) | Current: other_nouns | Meaning: 訂單；指示;指示"
+    },
+    {
+      "word": "脚色",
+      "reading": "きゃくしょく",
+      "category": "other_nouns",
+      "meaning": "戲劇化（例如電影）",
+      "originalLine": "N1 | 脚色 (きゃくしょく) | Current: other_nouns | Meaning: 戲劇化（例如電影）"
+    },
+    {
+      "word": "系",
+      "reading": "けい",
+      "category": "science_tech",
+      "meaning": "系統；血統;組",
+      "originalLine": "N1 | 系 (けい) | Current: science_tech | Meaning: 系統；血統;組"
+    },
+    {
+      "word": "口頭",
+      "reading": "こうとう",
+      "category": "na_adjectives",
+      "meaning": "口頭的",
+      "originalLine": "N1 | 口頭 (こうとう) | Current: na_adjectives | Meaning: 口頭的"
+    },
+    {
+      "word": "朗読",
+      "reading": "ろうどく",
+      "category": "other_nouns",
+      "meaning": "大聲朗讀；背誦",
+      "originalLine": "N1 | 朗読 (ろうどく) | Current: other_nouns | Meaning: 大聲朗讀；背誦"
+    },
+    {
+      "word": "首輪",
+      "reading": "くびわ",
+      "category": "clothing",
+      "meaning": "項鍊；項圈",
+      "originalLine": "N1 | 首輪 (くびわ) | Current: clothing | Meaning: 項鍊；項圈"
+    },
+    {
+      "word": "自首",
+      "reading": "じしゅ",
+      "category": "other_nouns",
+      "meaning": "投降；放棄自己",
+      "originalLine": "N1 | 自首 (じしゅ) | Current: other_nouns | Meaning: 投降；放棄自己"
+    },
+    {
+      "word": "お喋り",
+      "reading": "おしゃべり",
+      "category": "body_parts",
+      "meaning": "喋喋不休；講話;閒話；聊天;閒聊;閒話;健談；健談；話匣子；長舌",
+      "originalLine": "N1 | お喋り (おしゃべり) | Current: body_parts | Meaning: 喋喋不休；講話;閒話；聊天;閒聊;閒話;健談；健談；話匣子；長舌"
+    },
+    {
+      "word": "指示",
+      "reading": "しじ",
+      "category": "abstract_logic",
+      "meaning": "指示；操作說明;方向",
+      "originalLine": "N1 | 指示 (しじ) | Current: abstract_logic | Meaning: 指示；操作說明;方向"
+    },
+    {
+      "word": "率いる",
+      "reading": "ひきいる",
+      "category": "body_parts",
+      "meaning": "領導；為（團體）帶頭；指揮（軍）",
+      "originalLine": "N1 | 率いる (ひきいる) | Current: body_parts | Meaning: 領導；為（團體）帶頭；指揮（軍）"
+    },
+    {
+      "word": "屎尿",
+      "reading": "しにょう",
+      "category": "food_drinks",
+      "meaning": "排泄物；原污水；人類排泄物；糞便",
+      "originalLine": "N1 | 屎尿 (しにょう) | Current: food_drinks | Meaning: 排泄物；原污水；人類排泄物；糞便"
+    },
+    {
+      "word": "耳鼻科",
+      "reading": "じびか",
+      "category": "other_nouns",
+      "meaning": "耳鼻喉科",
+      "originalLine": "N1 | 耳鼻科 (じびか) | Current: other_nouns | Meaning: 耳鼻喉科"
+    },
+    {
+      "word": "碌に",
+      "reading": "ろくに",
+      "category": "greetings",
+      "meaning": "嗯；足夠的;足夠",
+      "originalLine": "N1 | 碌に (ろくに) | Current: greetings | Meaning: 嗯；足夠的;足夠"
+    },
+    {
+      "word": "街頭",
+      "reading": "がいとう",
+      "category": "other_nouns",
+      "meaning": "在街上",
+      "originalLine": "N1 | 街頭 (がいとう) | Current: other_nouns | Meaning: 在街上"
+    },
+    {
+      "word": "口述",
+      "reading": "こうじゅつ",
+      "category": "other_nouns",
+      "meaning": "口頭陳述",
+      "originalLine": "N1 | 口述 (こうじゅつ) | Current: other_nouns | Meaning: 口頭陳述"
+    },
+    {
+      "word": "真ん前",
+      "reading": "まんまえ",
+      "category": "body_parts",
+      "meaning": "就在前面；在鼻子下面",
+      "originalLine": "N1 | 真ん前 (まんまえ) | Current: body_parts | Meaning: 就在前面；在鼻子下面"
+    },
+    {
+      "word": "先着",
+      "reading": "せんちゃく",
+      "category": "other_nouns",
+      "meaning": "首次到達",
+      "originalLine": "N1 | 先着 (せんちゃく) | Current: other_nouns | Meaning: 首次到達"
+    },
+    {
+      "word": "洒落",
+      "reading": "しゃらく",
+      "category": "other_nouns",
+      "meaning": "坦率；心胸開闊",
+      "originalLine": "N1 | 洒落 (しゃらく) | Current: other_nouns | Meaning: 坦率；心胸開闊"
+    },
+    {
+      "word": "眼球",
+      "reading": "がんきゅう",
+      "category": "leisure_sports",
+      "meaning": "眼球",
+      "originalLine": "N1 | 眼球 (がんきゅう) | Current: leisure_sports | Meaning: 眼球"
+    },
+    {
+      "word": "肝心",
+      "reading": "かんじん",
+      "category": "na_adjectives",
+      "meaning": "必不可少的；基本的;至關重要的;必不可少的;主要",
+      "originalLine": "N1 | 肝心 (かんじん) | Current: na_adjectives | Meaning: 必不可少的；基本的;至關重要的;必不可少的;主要"
+    },
+    {
+      "word": "張り紙",
+      "reading": "はりがみ",
+      "category": "other_nouns",
+      "meaning": "紙補丁；紙背襯；海報",
+      "originalLine": "N1 | 張り紙 (はりがみ) | Current: other_nouns | Meaning: 紙補丁；紙背襯；海報"
+    },
+    {
+      "word": "露骨",
+      "reading": "ろこつ",
+      "category": "na_adjectives",
+      "meaning": "1. 坦誠；鈍;清楚的;直言不諱； 2. 引人注目的；打開; 3. 廣泛；暗示性的",
+      "originalLine": "N1 | 露骨 (ろこつ) | Current: na_adjectives | Meaning: 1. 坦誠；鈍;清楚的;直言不諱； 2. 引人注目的；打開; 3. 廣泛；暗示性的"
+    },
+    {
+      "word": "脳",
+      "reading": "のう",
+      "category": "mental_emotion",
+      "meaning": "大腦；記憶",
+      "originalLine": "N1 | 脳 (のう) | Current: mental_emotion | Meaning: 大腦；記憶"
+    },
+    {
+      "word": "高",
+      "reading": "たか",
+      "category": "numbers_time",
+      "meaning": "數量；數量;體積;數字;金額",
+      "originalLine": "N1 | 高 (たか) | Current: numbers_time | Meaning: 數量；數量;體積;數字;金額"
+    },
+    {
+      "word": "骨",
+      "reading": "こつ",
+      "category": "other_nouns",
+      "meaning": "訣竅；技能",
+      "originalLine": "N1 | 骨 (こつ) | Current: other_nouns | Meaning: 訣竅；技能"
+    },
+    {
+      "word": "眩しい",
+      "reading": "まぶしい",
+      "category": "i_adjectives",
+      "meaning": "令人眼花撩亂；容光煥發的",
+      "originalLine": "N1 | 眩しい (まぶしい) | Current: i_adjectives | Meaning: 令人眼花撩亂；容光煥發的"
+    },
+    {
+      "word": "内臓",
+      "reading": "ないぞう",
+      "category": "family_people",
+      "meaning": "內臟器官；腸；內臟",
+      "originalLine": "N1 | 内臓 (ないぞう) | Current: family_people | Meaning: 內臟器官；腸；內臟"
+    },
+    {
+      "word": "コンパス",
+      "reading": "コンパス",
+      "category": "daily_items",
+      "meaning": "指南針",
+      "originalLine": "N1 | コンパス (コンパス) | Current: daily_items | Meaning: 指南針"
+    },
+    {
+      "word": "駆け足",
+      "reading": "かけあし",
+      "category": "places_buildings",
+      "meaning": "跑得快；雙倍時間",
+      "originalLine": "N1 | 駆け足 (かけあし) | Current: places_buildings | Meaning: 跑得快；雙倍時間"
+    },
+    {
+      "word": "匹",
+      "reading": "ひき",
+      "category": "body_parts",
+      "meaning": "頭；小動物櫃檯；布捲",
+      "originalLine": "N1 | 匹 (ひき) | Current: body_parts | Meaning: 頭；小動物櫃檯；布捲"
+    },
+    {
+      "word": "レバー",
+      "reading": "レバー",
+      "category": "other_nouns",
+      "meaning": "槓桿；肝臟",
+      "originalLine": "N1 | レバー (レバー) | Current: other_nouns | Meaning: 槓桿；肝臟"
+    },
+    {
+      "word": "近眼",
+      "reading": "きんがん",
+      "category": "other_nouns",
+      "meaning": "近視；短視；近視",
+      "originalLine": "N1 | 近眼 (きんがん) | Current: other_nouns | Meaning: 近視；短視；近視"
+    },
+    {
+      "word": "指図",
+      "reading": "さしず",
+      "category": "other_nouns",
+      "meaning": "指示；授權",
+      "originalLine": "N1 | 指図 (さしず) | Current: other_nouns | Meaning: 指示；授權"
+    },
+    {
+      "word": "履歴",
+      "reading": "りれき",
+      "category": "school_work",
+      "meaning": "個人歷史；背景;職業;日誌",
+      "originalLine": "N1 | 履歴 (りれき) | Current: school_work | Meaning: 個人歷史；背景;職業;日誌"
+    },
+    {
+      "word": "足し算",
+      "reading": "たしざん",
+      "category": "other_nouns",
+      "meaning": "加法",
+      "originalLine": "N1 | 足し算 (たしざん) | Current: other_nouns | Meaning: 加法"
+    },
+    {
+      "word": "ベスト",
+      "reading": "ベスト",
+      "category": "na_adjectives",
+      "meaning": "最好的；背心",
+      "originalLine": "N1 | ベスト (ベスト) | Current: na_adjectives | Meaning: 最好的；背心"
+    },
+    {
+      "word": "冠",
+      "reading": "かん",
+      "category": "na_adjectives",
+      "meaning": "皇冠；王冠；第一的;最好的;無與倫比；帽;命名；指定；成年後開始；頂部字符 ra",
+      "originalLine": "N1 | 冠 (かん) | Current: na_adjectives | Meaning: 皇冠；王冠；第一的;最好的;無與倫比；帽;命名；指定；成年後開始；頂部字符 ra"
+    },
+    {
+      "word": "割り当て",
+      "reading": "わりあて",
+      "category": "other_nouns",
+      "meaning": "分配；任務;分配;配額;配給",
+      "originalLine": "N1 | 割り当て (わりあて) | Current: other_nouns | Meaning: 分配；任務;分配;配額;配給"
+    },
+    {
+      "word": "すれ違う",
+      "reading": "すれちがう",
+      "category": "state_verbs",
+      "meaning": "互相擦肩而過；不同意；互相想念",
+      "originalLine": "N1 | すれ違う (すれちがう) | Current: state_verbs | Meaning: 互相擦肩而過；不同意；互相想念"
+    },
+    {
+      "word": "手引き",
+      "reading": "てびき",
+      "category": "other_nouns",
+      "meaning": "指導；指導;簡介",
+      "originalLine": "N1 | 手引き (てびき) | Current: other_nouns | Meaning: 指導；指導;簡介"
+    },
+    {
+      "word": "生臭い",
+      "reading": "なまぐさい",
+      "category": "i_adjectives",
+      "meaning": "魚或血的氣味；魚或肉",
+      "originalLine": "N1 | 生臭い (なまぐさい) | Current: i_adjectives | Meaning: 魚或血的氣味；魚或肉"
+    },
+    {
+      "word": "水源",
+      "reading": "すいげん",
+      "category": "other_nouns",
+      "meaning": "河流的源頭；源頭",
+      "originalLine": "N1 | 水源 (すいげん) | Current: other_nouns | Meaning: 河流的源頭；源頭"
+    },
+    {
+      "word": "補足",
+      "reading": "ほそく",
+      "category": "body_parts",
+      "meaning": "補充；補足",
+      "originalLine": "N1 | 補足 (ほそく) | Current: body_parts | Meaning: 補充；補足"
+    },
+    {
+      "word": "診療",
+      "reading": "しんりょう",
+      "category": "science_tech",
+      "meaning": "醫療檢查和治療；診斷",
+      "originalLine": "N1 | 診療 (しんりょう) | Current: science_tech | Meaning: 醫療檢查和治療；診斷"
+    },
+    {
+      "word": "ご馳走",
+      "reading": "ごちそう",
+      "category": "science_tech",
+      "meaning": "盛宴；治療（某人）",
+      "originalLine": "N1 | ご馳走 (ごちそう) | Current: science_tech | Meaning: 盛宴；治療（某人）"
+    },
+    {
+      "word": "黴菌",
+      "reading": "ばいきん",
+      "category": "science_tech",
+      "meaning": "細菌；細菌",
+      "originalLine": "N1 | 黴菌 (ばいきん) | Current: science_tech | Meaning: 細菌；細菌"
+    },
+    {
+      "word": "兆",
+      "reading": "きざし",
+      "category": "science_tech",
+      "meaning": "標誌；預兆;症狀",
+      "originalLine": "N1 | 兆 (きざし) | Current: science_tech | Meaning: 標誌；預兆;症狀"
+    },
+    {
+      "word": "負傷",
+      "reading": "ふしょう",
+      "category": "body_parts",
+      "meaning": "受傷；傷口",
+      "originalLine": "N1 | 負傷 (ふしょう) | Current: body_parts | Meaning: 受傷；傷口"
+    },
+    {
+      "word": "待遇",
+      "reading": "たいぐう",
+      "category": "places_buildings",
+      "meaning": "治療；接待處",
+      "originalLine": "N1 | 待遇 (たいぐう) | Current: places_buildings | Meaning: 治療；接待處"
+    },
+    {
+      "word": "手遅れ",
+      "reading": "ておくれ",
+      "category": "science_tech",
+      "meaning": "太晚了；遲來的治療",
+      "originalLine": "N1 | 手遅れ (ておくれ) | Current: science_tech | Meaning: 太晚了；遲來的治療"
+    },
+    {
+      "word": "落ち込む",
+      "reading": "おちこむ",
+      "category": "movement_verbs",
+      "meaning": "陷入；感到沮喪（悲傷）",
+      "originalLine": "N1 | 落ち込む (おちこむ) | Current: movement_verbs | Meaning: 陷入；感到沮喪（悲傷）"
+    },
+    {
+      "word": "手当て",
+      "reading": "てあて",
+      "category": "science_tech",
+      "meaning": "津貼；賠償;治療;醫療保健",
+      "originalLine": "N1 | 手当て (てあて) | Current: science_tech | Meaning: 津貼；賠償;治療;醫療保健"
+    },
+    {
+      "word": "引き受ける",
+      "reading": "ひきうける",
+      "category": "action_verbs",
+      "meaning": "承擔；拿起；接管；負責；保證；感染（疾病）",
+      "originalLine": "N1 | 引き受ける (ひきうける) | Current: action_verbs | Meaning: 承擔；拿起；接管；負責；保證；感染（疾病）"
+    },
+    {
+      "word": "切ない",
+      "reading": "せつない",
+      "category": "i_adjectives",
+      "meaning": "痛苦；嘗試；壓抑的；令人窒息的",
+      "originalLine": "N1 | 切ない (せつない) | Current: i_adjectives | Meaning: 痛苦；嘗試；壓抑的；令人窒息的"
+    },
+    {
+      "word": "発病",
+      "reading": "はつびょう",
+      "category": "other_nouns",
+      "meaning": "攻擊（疾病）",
+      "originalLine": "N1 | 発病 (はつびょう) | Current: other_nouns | Meaning: 攻擊（疾病）"
+    },
+    {
+      "word": "憂鬱",
+      "reading": "ゆううつ",
+      "category": "other_nouns",
+      "meaning": "憂鬱症；憂鬱；沮喪;陰鬱",
+      "originalLine": "N1 | 憂鬱 (ゆううつ) | Current: other_nouns | Meaning: 憂鬱症；憂鬱；沮喪;陰鬱"
+    },
+    {
+      "word": "区",
+      "reading": "く",
+      "category": "places_buildings",
+      "meaning": "病房；區;部分",
+      "originalLine": "N1 | 区 (く) | Current: places_buildings | Meaning: 病房；區;部分"
+    },
+    {
+      "word": "催す",
+      "reading": "もよおす",
+      "category": "movement_verbs",
+      "meaning": "舉行（會議）；給予（晚餐）；去感覺；表現出以下跡象；出現以下症狀；感覺（生病了",
+      "originalLine": "N1 | 催す (もよおす) | Current: movement_verbs | Meaning: 舉行（會議）；給予（晚餐）；去感覺；表現出以下跡象；出現以下症狀；感覺（生病了"
+    },
+    {
+      "word": "痛切",
+      "reading": "つうせつ",
+      "category": "na_adjectives",
+      "meaning": "熱心；急性的",
+      "originalLine": "N1 | 痛切 (つうせつ) | Current: na_adjectives | Meaning: 熱心；急性的"
+    },
+    {
+      "word": "取り扱い",
+      "reading": "とりあつかい",
+      "category": "science_tech",
+      "meaning": "治療；服務;處理；管理",
+      "originalLine": "N1 | 取り扱い (とりあつかい) | Current: science_tech | Meaning: 治療；服務;處理；管理"
+    },
+    {
+      "word": "ビールス",
+      "reading": "ビールス",
+      "category": "science_tech",
+      "meaning": "病毒",
+      "originalLine": "N1 | ビールス (ビールス) | Current: science_tech | Meaning: 病毒"
+    },
+    {
+      "word": "障る",
+      "reading": "さわる",
+      "category": "state_verbs",
+      "meaning": "阻礙；幹擾；影響；造成一件傷害；有害於",
+      "originalLine": "N1 | 障る (さわる) | Current: state_verbs | Meaning: 阻礙；幹擾；影響；造成一件傷害；有害於"
+    },
+    {
+      "word": "痛感",
+      "reading": "つうかん",
+      "category": "other_nouns",
+      "meaning": "敏銳地感覺；充分認識到",
+      "originalLine": "N1 | 痛感 (つうかん) | Current: other_nouns | Meaning: 敏銳地感覺；充分認識到"
+    },
+    {
+      "word": "結核",
+      "reading": "けっかく",
+      "category": "other_nouns",
+      "meaning": "結核病；結節",
+      "originalLine": "N1 | 結核 (けっかく) | Current: other_nouns | Meaning: 結核病；結節"
+    },
+    {
+      "word": "作用",
+      "reading": "さよう",
+      "category": "science_tech",
+      "meaning": "行動；手術;影響;功能",
+      "originalLine": "N1 | 作用 (さよう) | Current: science_tech | Meaning: 行動；手術;影響;功能"
+    },
+    {
+      "word": "あくどい",
+      "reading": "あくどい",
+      "category": "i_adjectives",
+      "meaning": "1. 艷麗的；艷麗；過多的; 2. 惡毒",
+      "originalLine": "N1 | あくどい (あくどい) | Current: i_adjectives | Meaning: 1. 艷麗的；艷麗；過多的; 2. 惡毒"
+    },
+    {
+      "word": "中毒",
+      "reading": "ちゅうどく",
+      "category": "other_nouns",
+      "meaning": "中毒",
+      "originalLine": "N1 | 中毒 (ちゅうどく) | Current: other_nouns | Meaning: 中毒"
+    },
+    {
+      "word": "癌",
+      "reading": "がん",
+      "category": "other_nouns",
+      "meaning": "癌症",
+      "originalLine": "N1 | 癌 (がん) | Current: other_nouns | Meaning: 癌症"
+    },
+    {
+      "word": "がっくり",
+      "reading": "がっくり",
+      "category": "other_nouns",
+      "meaning": "傷心欲絕",
+      "originalLine": "N1 | がっくり (がっくり) | Current: other_nouns | Meaning: 傷心欲絕"
+    },
+    {
+      "word": "治療",
+      "reading": "ちりょう",
+      "category": "science_tech",
+      "meaning": "醫療",
+      "originalLine": "N1 | 治療 (ちりょう) | Current: science_tech | Meaning: 醫療"
+    },
+    {
+      "word": "火傷",
+      "reading": "かしょう",
+      "category": "other_nouns",
+      "meaning": "燒傷；燙傷",
+      "originalLine": "N1 | 火傷 (かしょう) | Current: other_nouns | Meaning: 燒傷；燙傷"
+    },
+    {
+      "word": "ノイローゼ",
+      "reading": "ノイローゼ",
+      "category": "other_nouns",
+      "meaning": "(de:) (n) 神經症 (de: Neurose)",
+      "originalLine": "N1 | ノイローゼ (ノイローゼ) | Current: other_nouns | Meaning: (de:) (n) 神經症 (de: Neurose)"
+    },
+    {
+      "word": "害する",
+      "reading": "がいする",
+      "category": "action_verbs",
+      "meaning": "傷害；損壞；傷害；殺死；阻礙",
+      "originalLine": "N1 | 害する (がいする) | Current: action_verbs | Meaning: 傷害；損壞；傷害；殺死；阻礙"
+    },
+    {
+      "word": "損なう",
+      "reading": "そこなう",
+      "category": "action_verbs",
+      "meaning": "傷害；傷害；傷害；損壞；做事失敗",
+      "originalLine": "N1 | 損なう (そこなう) | Current: action_verbs | Meaning: 傷害；傷害；傷害；損壞；做事失敗"
+    },
+    {
+      "word": "傷",
+      "reading": "しょう",
+      "category": "body_parts",
+      "meaning": "傷口；受傷;傷害;切;傷口；挫傷;刮痕;疤痕;弱點",
+      "originalLine": "N1 | 傷 (しょう) | Current: body_parts | Meaning: 傷口；受傷;傷害;切;傷口；挫傷;刮痕;疤痕;弱點"
+    },
+    {
+      "word": "咎める",
+      "reading": "とがめる",
+      "category": "action_verbs",
+      "meaning": "責備；找碴；指派某人執行任務；加重（傷害）",
+      "originalLine": "N1 | 咎める (とがめる) | Current: action_verbs | Meaning: 責備；找碴；指派某人執行任務；加重（傷害）"
+    },
+    {
+      "word": "悩み",
+      "reading": "なやみ",
+      "category": "other_nouns",
+      "meaning": "麻煩；擔心;苦惱；痛苦；痛苦;問題",
+      "originalLine": "N1 | 悩み (なやみ) | Current: other_nouns | Meaning: 麻煩；擔心;苦惱；痛苦；痛苦;問題"
+    },
+    {
+      "word": "強制",
+      "reading": "きょうせい",
+      "category": "other_nouns",
+      "meaning": "義務；強迫;強迫症；執行",
+      "originalLine": "N1 | 強制 (きょうせい) | Current: other_nouns | Meaning: 義務；強迫;強迫症；執行"
+    },
+    {
+      "word": "臆病",
+      "reading": "おくびょう",
+      "category": "other_nouns",
+      "meaning": "膽怯；膽怯",
+      "originalLine": "N1 | 臆病 (おくびょう) | Current: other_nouns | Meaning: 膽怯；膽怯"
+    },
+    {
+      "word": "病む",
+      "reading": "やむ",
+      "category": "action_verbs",
+      "meaning": "生病；生病了",
+      "originalLine": "N1 | 病む (やむ) | Current: action_verbs | Meaning: 生病；生病了"
+    },
+    {
+      "word": "外来",
+      "reading": "がいらい",
+      "category": "body_parts",
+      "meaning": "進口；門診",
+      "originalLine": "N1 | 外来 (がいらい) | Current: body_parts | Meaning: 進口；門診"
+    },
+    {
+      "word": "悲惨",
+      "reading": "ひさん",
+      "category": "other_nouns",
+      "meaning": "痛苦",
+      "originalLine": "N1 | 悲惨 (ひさん) | Current: other_nouns | Meaning: 痛苦"
+    },
+    {
+      "word": "症",
+      "reading": "しょう",
+      "category": "science_tech",
+      "meaning": "疾病",
+      "originalLine": "N1 | 症 (しょう) | Current: science_tech | Meaning: 疾病"
+    },
+    {
+      "word": "傷付く",
+      "reading": "きずつく",
+      "category": "movement_verbs",
+      "meaning": "受到傷害；受傷；受傷",
+      "originalLine": "N1 | 傷付く (きずつく) | Current: movement_verbs | Meaning: 受到傷害；受傷；受傷"
+    },
+    {
+      "word": "吐く",
+      "reading": "つく",
+      "category": "movement_verbs",
+      "meaning": "1. 呼吸； 2. 說謊； 3. 嘔吐；吐出",
+      "originalLine": "N1 | 吐く (つく) | Current: movement_verbs | Meaning: 1. 呼吸； 2. 說謊； 3. 嘔吐；吐出"
+    },
+    {
+      "word": "擦れる",
+      "reading": "すれる",
+      "category": "action_verbs",
+      "meaning": "擦；擦傷；穿；變得成熟",
+      "originalLine": "N1 | 擦れる (すれる) | Current: action_verbs | Meaning: 擦；擦傷；穿；變得成熟"
+    },
+    {
+      "word": "病",
+      "reading": "やまい",
+      "category": "science_tech",
+      "meaning": "生病；疾病",
+      "originalLine": "N1 | 病 (やまい) | Current: science_tech | Meaning: 生病；疾病"
+    },
+    {
+      "word": "痛む",
+      "reading": "いたむ",
+      "category": "movement_verbs",
+      "meaning": "傷害；感到疼痛；受傷",
+      "originalLine": "N1 | 痛む (いたむ) | Current: movement_verbs | Meaning: 傷害；感到疼痛；受傷"
+    },
+    {
+      "word": "危害",
+      "reading": "きがい",
+      "category": "other_nouns",
+      "meaning": "受傷；傷害;危險",
+      "originalLine": "N1 | 危害 (きがい) | Current: other_nouns | Meaning: 受傷；傷害;危險"
+    },
+    {
+      "word": "取り扱う",
+      "reading": "とりあつかう",
+      "category": "action_verbs",
+      "meaning": "治療；處理；處理",
+      "originalLine": "N1 | 取り扱う (とりあつかう) | Current: action_verbs | Meaning: 治療；處理；處理"
+    },
+    {
+      "word": "衛生",
+      "reading": "えいせい",
+      "category": "family_people",
+      "meaning": "健康；衛生;衛生;醫療",
+      "originalLine": "N1 | 衛生 (えいせい) | Current: family_people | Meaning: 健康；衛生;衛生;醫療"
+    },
+    {
+      "word": "弱る",
+      "reading": "よわる",
+      "category": "movement_verbs",
+      "meaning": "削弱；感到困擾；沮喪；變得憔悴；沮喪；感到困惑；傷害",
+      "originalLine": "N1 | 弱る (よわる) | Current: movement_verbs | Meaning: 削弱；感到困擾；沮喪；變得憔悴；沮喪；感到困惑；傷害"
+    },
+    {
+      "word": "腫れる",
+      "reading": "はれる",
+      "category": "action_verbs",
+      "meaning": "腫脹（因發炎）；變得腫脹",
+      "originalLine": "N1 | 腫れる (はれる) | Current: action_verbs | Meaning: 腫脹（因發炎）；變得腫脹"
+    },
+    {
+      "word": "日焼け",
+      "reading": "ひやけ",
+      "category": "other_nouns",
+      "meaning": "曬傷",
+      "originalLine": "N1 | 日焼け (ひやけ) | Current: other_nouns | Meaning: 曬傷"
+    },
+    {
+      "word": "聴診器",
+      "reading": "ちょうしんき",
+      "category": "other_nouns",
+      "meaning": "聽診器",
+      "originalLine": "N1 | 聴診器 (ちょうしんき) | Current: other_nouns | Meaning: 聽診器"
+    },
+    {
+      "word": "兆し",
+      "reading": "きざし",
+      "category": "science_tech",
+      "meaning": "標誌；預兆;症狀",
+      "originalLine": "N1 | 兆し (きざし) | Current: science_tech | Meaning: 標誌；預兆;症狀"
+    },
+    {
+      "word": "扱い",
+      "reading": "あつかい",
+      "category": "science_tech",
+      "meaning": "治療；服務",
+      "originalLine": "N1 | 扱い (あつかい) | Current: science_tech | Meaning: 治療；服務"
+    },
+    {
+      "word": "細菌",
+      "reading": "さいきん",
+      "category": "science_tech",
+      "meaning": "芽孢桿菌;細菌;胚芽",
+      "originalLine": "N1 | 細菌 (さいきん) | Current: science_tech | Meaning: 芽孢桿菌;細菌;胚芽"
+    },
+    {
+      "word": "嘆く",
+      "reading": "なげく",
+      "category": "mental_emotion",
+      "meaning": "嘆息；哀嘆；悲傷",
+      "originalLine": "N1 | 嘆く (なげく) | Current: mental_emotion | Meaning: 嘆息；哀嘆；悲傷"
+    },
+    {
+      "word": "苦しめる",
+      "reading": "くるしめる",
+      "category": "action_verbs",
+      "meaning": "折磨；騷擾；造成痛苦",
+      "originalLine": "N1 | 苦しめる (くるしめる) | Current: action_verbs | Meaning: 折磨；騷擾；造成痛苦"
+    },
+    {
+      "word": "処置",
+      "reading": "しょち",
+      "category": "science_tech",
+      "meaning": "治療",
+      "originalLine": "N1 | 処置 (しょち) | Current: science_tech | Meaning: 治療"
+    },
+    {
+      "word": "中傷",
+      "reading": "ちゅうしょう",
+      "category": "other_nouns",
+      "meaning": "誹謗；誹謗;誹謗",
+      "originalLine": "N1 | 中傷 (ちゅうしょう) | Current: other_nouns | Meaning: 誹謗；誹謗;誹謗"
+    },
+    {
+      "word": "歎",
+      "reading": "たん",
+      "category": "mental_emotion",
+      "meaning": "悲傷；嘆;哀嘆",
+      "originalLine": "N1 | 歎 (たん) | Current: mental_emotion | Meaning: 悲傷；嘆;哀嘆"
+    },
+    {
+      "word": "痛める",
+      "reading": "いためる",
+      "category": "movement_verbs",
+      "meaning": "傷害；傷害；引起疼痛；擔心；打擾；使受苦；感到悲傷",
+      "originalLine": "N1 | 痛める (いためる) | Current: movement_verbs | Meaning: 傷害；傷害；引起疼痛；擔心；打擾；使受苦；感到悲傷"
+    },
+    {
+      "word": "引っ掻く",
+      "reading": "ひっかく",
+      "category": "action_verbs",
+      "meaning": "刮傷",
+      "originalLine": "N1 | 引っ掻く (ひっかく) | Current: action_verbs | Meaning: 刮傷"
+    },
+    {
+      "word": "加工",
+      "reading": "かこう",
+      "category": "science_tech",
+      "meaning": "製造；加工;治療",
+      "originalLine": "N1 | 加工 (かこう) | Current: science_tech | Meaning: 製造；加工;治療"
+    },
+    {
+      "word": "床",
+      "reading": "とこ",
+      "category": "places_buildings",
+      "meaning": "床；病床;凹室；填充",
+      "originalLine": "N1 | 床 (とこ) | Current: places_buildings | Meaning: 床；病床;凹室；填充"
+    }
+  ]
+}

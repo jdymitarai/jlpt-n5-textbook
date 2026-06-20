@@ -1,0 +1,7 @@
+name = "jlpt-n5-textbook"
+main = "worker.js"
+compatibility_date = "2026-06-19"
+account_id = "aca27b6ae0d9a3c59955a2920487a76a"
+
+[assets]
+directory = "./public"
