@@ -23288,6 +23288,374 @@ window.JLPT_DATA_CHUNKS["N5"] = {
           "en": "從12點開始休息一小時。"
         }
       ]
+    },
+    {
+      "id": "v_h_otama",
+      "word": "お玉",
+      "furigana": "おたま",
+      "romaji": "otama",
+      "meaning": "湯勺",
+      "level": "N3",
+      "category": "housing_space",
+      "sentences": [
+        {
+          "ja": "お玉でスープをすくいます。",
+          "furigana": "おたまでスープをすくいます。",
+          "en": "用湯勺舀湯。"
+        }
+      ]
+    },
+    {
+      "id": "v_h_furaigaeshi",
+      "word": "フライ返し",
+      "furigana": "ふらいがえし",
+      "romaji": "furaigaeshi",
+      "meaning": "鍋鏟",
+      "level": "N3",
+      "category": "housing_space",
+      "sentences": [
+        {
+          "ja": "フライ返しでハンバーグをひっくり返します。",
+          "furigana": "ふらいがえしではんばーぐをひっくりかえします。",
+          "en": "用鍋鏟把漢堡排翻面。"
+        }
+      ]
+    },
+    {
+      "id": "v_h_keiryoukappu",
+      "word": "計量カップ",
+      "furigana": "けいりょうかっぷ",
+      "romaji": "keiryoukappu",
+      "meaning": "量杯",
+      "level": "N3",
+      "category": "housing_space",
+      "sentences": [
+        {
+          "ja": "計量カップで水の量を量ります。",
+          "furigana": "けいりょうかっぷでみずのりょうをはかります。",
+          "en": "用量杯量水的份量。"
+        }
+      ]
+    },
+    {
+      "id": "v_h_piiraa",
+      "word": "ピーラー",
+      "furigana": "ぴーらー",
+      "romaji": "piiraa",
+      "meaning": "削皮刀",
+      "level": "N3",
+      "category": "housing_space",
+      "sentences": [
+        {
+          "ja": "ピーラーでじゃがいもの皮をむきます。",
+          "furigana": "ぴーらーでじゃがいものかわをむきます。",
+          "en": "用削皮刀削馬鈴薯皮。"
+        }
+      ]
+    },
+    {
+      "id": "v_h_zaru",
+      "word": "ザル",
+      "furigana": "ざる",
+      "romaji": "zaru",
+      "meaning": "漏盆 / 瀝水籃",
+      "level": "N3",
+      "category": "housing_space",
+      "sentences": [
+        {
+          "ja": "ザルで野菜の水を切ります。",
+          "furigana": "ざるでやさいのみずをきります。",
+          "en": "用漏盆把蔬菜的水分瀝乾。"
+        }
+      ]
+    },
+    {
+      "id": "v_h_bouru",
+      "word": "ボウル",
+      "furigana": "ぼうる",
+      "romaji": "bouru",
+      "meaning": "調理碗 / 攪拌盆",
+      "level": "N4",
+      "category": "housing_space",
+      "sentences": [
+        {
+          "ja": "ボウルに卵を割って混ぜます。",
+          "furigana": "ぼうるにたまごをわってまぜます。",
+          "en": "把蛋打進調理碗裡攪拌。"
+        }
+      ]
+    },
+    {
+      "id": "v_h_arumijoiru",
+      "word": "アルミホイル",
+      "furigana": "あるみほいる",
+      "romaji": "arumihoiru",
+      "meaning": "鋁箔紙",
+      "level": "N4",
+      "category": "housing_space",
+      "sentences": [
+        {
+          "ja": "魚をアルミホイルで包んで焼きます。",
+          "furigana": "さかなをあるみほいるでつつんでやきます。",
+          "en": "把魚用鋁箔紙包起來烤。"
+        }
+      ]
+    },
+    {
+      "id": "v_h_kicchinpeepaa",
+      "word": "キッチンペーパー",
+      "furigana": "きっちんぺーぱー",
+      "romaji": "kicchinpeepaa",
+      "meaning": "廚房紙巾",
+      "level": "N4",
+      "category": "housing_space",
+      "sentences": [
+        {
+          "ja": "キッチンペーパーで油を拭き取ります。",
+          "furigana": "きっちんぺーぱーであぶらをふきとります。",
+          "en": "用廚房紙巾擦去油漬。"
+        }
+      ]
+    },
+    {
+      "id": "v_c_nyuueki",
+      "word": "乳液",
+      "furigana": "にゅうえき",
+      "romaji": "nyuueki",
+      "meaning": "乳液",
+      "level": "N3",
+      "category": "fashion_beauty",
+      "sentences": [
+        {
+          "ja": "肌が乾燥するので乳液を塗ります。",
+          "furigana": "はだがかんそうするのでにゅうえきをぬります。",
+          "en": "因為皮膚乾燥所以塗乳液。"
+        }
+      ]
+    },
+    {
+      "id": "v_c_kurenjingu",
+      "word": "クレンジング",
+      "furigana": "くれんじんぐ",
+      "romaji": "kurenjingu",
+      "meaning": "卸妝",
+      "level": "N3",
+      "category": "fashion_beauty",
+      "sentences": [
+        {
+          "ja": "寝る前にクレンジングで化粧を落とします。",
+          "furigana": "ねるまえにくれんじんぐでけしょうをおとします。",
+          "en": "睡前用卸妝產品把妝卸掉。"
+        }
+      ]
+    },
+    {
+      "id": "v_c_fandeeshon",
+      "word": "ファンデーション",
+      "furigana": "ふぁんでーしょん",
+      "romaji": "fandeeshon",
+      "meaning": "粉底",
+      "level": "N4",
+      "category": "fashion_beauty",
+      "sentences": [
+        {
+          "ja": "新しいファンデーションを買いました。",
+          "furigana": "あたらしいふぁんでーしょんをかいました。",
+          "en": "買了新的粉底。"
+        }
+      ]
+    },
+    {
+      "id": "v_c_kuchibeni",
+      "word": "口紅",
+      "furigana": "くちべに",
+      "romaji": "kuchibeni",
+      "meaning": "口紅",
+      "level": "N3",
+      "category": "fashion_beauty",
+      "sentences": [
+        {
+          "ja": "赤い口紅をつけます。",
+          "furigana": "あかいくちべにをつけます。",
+          "en": "塗上紅色的口紅。"
+        }
+      ]
+    },
+    {
+      "id": "v_c_rippu",
+      "word": "リップ",
+      "furigana": "りっぷ",
+      "romaji": "rippu",
+      "meaning": "護唇膏 / 唇膏",
+      "level": "N4",
+      "category": "fashion_beauty",
+      "sentences": [
+        {
+          "ja": "唇が乾いたのでリップを塗ります。",
+          "furigana": "くちびるがかわいたのでりっぷをぬります。",
+          "en": "嘴唇乾了所以塗護唇膏。"
+        }
+      ]
+    },
+    {
+      "id": "v_c_aishadou",
+      "word": "アイシャドウ",
+      "furigana": "あいしゃどう",
+      "romaji": "aishadou",
+      "meaning": "眼影",
+      "level": "N4",
+      "category": "fashion_beauty",
+      "sentences": [
+        {
+          "ja": "ピンクのアイシャドウを使います。",
+          "furigana": "ぴんくのあいしゃどうをつかいます。",
+          "en": "使用粉紅色的眼影。"
+        }
+      ]
+    },
+    {
+      "id": "v_c_kushi",
+      "word": "くし",
+      "furigana": "くし",
+      "romaji": "kushi",
+      "meaning": "梳子",
+      "level": "N3",
+      "category": "fashion_beauty",
+      "sentences": [
+        {
+          "ja": "くしで髪をとかします。",
+          "furigana": "くしかみでとかします。",
+          "en": "用梳子梳頭髮。"
+        }
+      ]
+    },
+    {
+      "id": "v_c_heagomu",
+      "word": "ヘアゴム",
+      "furigana": "へあごむ",
+      "romaji": "heagomu",
+      "meaning": "髮圈",
+      "level": "N4",
+      "category": "fashion_beauty",
+      "sentences": [
+        {
+          "ja": "ヘアゴムで髪を結びます。",
+          "furigana": "へあごむでかみをむすびます。",
+          "en": "用髮圈把頭髮綁起來。"
+        }
+      ]
+    },
+    {
+      "id": "v_o_supootshijimu",
+      "word": "スポーツジム",
+      "furigana": "すぽーつじむ",
+      "romaji": "supootsujimu",
+      "meaning": "健身房",
+      "level": "N4",
+      "category": "leisure_culture",
+      "sentences": [
+        {
+          "ja": "仕事の後にスポーツジムへ行きます。",
+          "furigana": "しごとのあとにすぽーつじむへいきます。",
+          "en": "下班後去健身房。"
+        }
+      ]
+    },
+    {
+      "id": "v_o_kintore",
+      "word": "筋トレ",
+      "furigana": "きんとれ",
+      "romaji": "kintore",
+      "meaning": "重量訓練",
+      "level": "N3",
+      "category": "leisure_culture",
+      "sentences": [
+        {
+          "ja": "毎日家で筋トレをしています。",
+          "furigana": "まいにちいえできんとれをしています。",
+          "en": "每天在家做重量訓練。"
+        }
+      ]
+    },
+    {
+      "id": "v_o_ranningumashin",
+      "word": "ランニングマシン",
+      "furigana": "らんにんぐましん",
+      "romaji": "ranningumashin",
+      "meaning": "跑步機",
+      "level": "N4",
+      "category": "leisure_culture",
+      "sentences": [
+        {
+          "ja": "ジムのランニングマシンで３０分走ります。",
+          "furigana": "じむのらんにんぐましんでさんじゅっぷんはしります。",
+          "en": "在健身房的跑步機上跑30分鐘。"
+        }
+      ]
+    },
+    {
+      "id": "v_o_yoga",
+      "word": "ヨガ",
+      "furigana": "よが",
+      "romaji": "yoga",
+      "meaning": "瑜珈",
+      "level": "N4",
+      "category": "leisure_culture",
+      "sentences": [
+        {
+          "ja": "健康のためにヨガの教室に通っています。",
+          "furigana": "けんこうのためによがのきょうしつにかよっています。",
+          "en": "為了健康去上瑜珈課。"
+        }
+      ]
+    },
+    {
+      "id": "v_o_danberu",
+      "word": "ダンベル",
+      "furigana": "だんべる",
+      "romaji": "danberu",
+      "meaning": "啞鈴",
+      "level": "N4",
+      "category": "leisure_culture",
+      "sentences": [
+        {
+          "ja": "重いダンベルを持ち上げます。",
+          "furigana": "おもいだんべるをもちあげます。",
+          "en": "舉起重啞鈴。"
+        }
+      ]
+    },
+    {
+      "id": "v_c_undougutsu",
+      "word": "運動靴",
+      "furigana": "うんどうぐつ",
+      "romaji": "undougutsu",
+      "meaning": "運動鞋",
+      "level": "N4",
+      "category": "fashion_beauty",
+      "sentences": [
+        {
+          "ja": "運動靴を履いて公園を散歩します。",
+          "furigana": "うんどうぐつをはいてこうえんをさんぽします。",
+          "en": "穿上運動鞋去公園散步。"
+        }
+      ]
+    },
+    {
+      "id": "v_c_jaaji",
+      "word": "ジャージ",
+      "furigana": "じゃーじ",
+      "romaji": "jaaji",
+      "meaning": "運動服",
+      "level": "N4",
+      "category": "fashion_beauty",
+      "sentences": [
+        {
+          "ja": "休みの日は家でジャージを着ています。",
+          "furigana": "やすみのひはいえでじゃーじをきています。",
+          "en": "休假的日子在家裡穿運動服。"
+        }
+      ]
     }
   ],
   "verbConjugations": [
