@@ -40644,6 +40644,346 @@
               "zh": "讓父母擔心。"
             }
           ]
+        },
+        {
+          "word": "世話",
+          "reading": "せわ",
+          "furigana": "世[せ]話[わ]",
+          "romaji": "sewa",
+          "meaning": "照顧、照料",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N4",
+          "sentences": [
+            {
+              "ja": "患者の世話をします。",
+              "zh": "照顧病人。"
+            }
+          ]
+        },
+        {
+          "word": "相談",
+          "reading": "そうだん",
+          "furigana": "相[そう]談[だん]",
+          "romaji": "soudan",
+          "meaning": "商量、諮詢",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N4",
+          "sentences": [
+            {
+              "ja": "医者に相談します。",
+              "zh": "向醫生諮詢。"
+            }
+          ]
+        },
+        {
+          "word": "予約",
+          "reading": "よやく",
+          "furigana": "予[よ]約[やく]",
+          "romaji": "yoyaku",
+          "meaning": "預約",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N4",
+          "sentences": [
+            {
+              "ja": "病院の予約をしました。",
+              "zh": "預約了醫院。"
+            }
+          ]
+        },
+        {
+          "word": "予定",
+          "reading": "よてい",
+          "furigana": "予[よ]定[てい]",
+          "romaji": "yotei",
+          "meaning": "預定、計畫",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N4",
+          "sentences": [
+            {
+              "ja": "今日の予定を確認します。",
+              "zh": "確認今天的行程。"
+            }
+          ]
+        },
+        {
+          "word": "規則",
+          "reading": "きそく",
+          "furigana": "規[き]則[そく]",
+          "romaji": "kisoku",
+          "meaning": "規則、規定",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N4",
+          "sentences": [
+            {
+              "ja": "病院の規則を守ってください。",
+              "zh": "請遵守醫院的規定。"
+            }
+          ]
+        },
+        {
+          "word": "注意",
+          "reading": "ちゅうい",
+          "furigana": "注[ちゅう]意[い]",
+          "romaji": "chuui",
+          "meaning": "注意、警告",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N4",
+          "sentences": [
+            {
+              "ja": "足元に注意してください。",
+              "zh": "請注意腳步。"
+            }
+          ]
+        },
+        {
+          "word": "説明",
+          "reading": "せつめい",
+          "furigana": "説[せつ]明[めい]",
+          "romaji": "setsumei",
+          "meaning": "說明、解釋",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N4",
+          "sentences": [
+            {
+              "ja": "薬の飲み方を説明します。",
+              "zh": "說明吃藥的方法。"
+            }
+          ]
+        },
+        {
+          "word": "準備",
+          "reading": "じゅんび",
+          "furigana": "準[じゅん]備[び]",
+          "romaji": "junbi",
+          "meaning": "準備",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N4",
+          "sentences": [
+            {
+              "ja": "手術の準備をします。",
+              "zh": "準備手術。"
+            }
+          ]
+        },
+        {
+          "word": "手伝い",
+          "reading": "てつだい",
+          "furigana": "手[て]伝[つだ]い",
+          "romaji": "tetsudai",
+          "meaning": "幫忙",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N4",
+          "sentences": [
+            {
+              "ja": "仕事の手伝いを頼みます。",
+              "zh": "拜託幫忙工作。"
+            }
+          ]
+        },
+        {
+          "word": "連絡",
+          "reading": "れんらく",
+          "furigana": "連[れん]絡[らく]",
+          "romaji": "renraku",
+          "meaning": "聯絡",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N4",
+          "sentences": [
+            {
+              "ja": "家族に連絡します。",
+              "zh": "聯絡家人。"
+            }
+          ]
+        },
+        {
+          "word": "案内",
+          "reading": "あんない",
+          "furigana": "案[あん]内[ない]",
+          "romaji": "annai",
+          "meaning": "引導、帶路",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N4",
+          "sentences": [
+            {
+              "ja": "病室まで案内します。",
+              "zh": "為您帶路到病房。"
+            }
+          ]
+        },
+        {
+          "word": "受付",
+          "reading": "うけつけ",
+          "furigana": "受[うけ]付[つけ]",
+          "romaji": "uketsuke",
+          "meaning": "櫃台、接待處",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N4",
+          "sentences": [
+            {
+              "ja": "受付で名前を書いてください。",
+              "zh": "請在櫃台填寫名字。"
+            }
+          ]
+        },
+        {
+          "word": "事務所",
+          "reading": "じむしょ",
+          "furigana": "事[じ]務[む]所[しょ]",
+          "romaji": "jimusho",
+          "meaning": "辦公室",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N4",
+          "sentences": [
+            {
+              "ja": "事務所で書類をもらいます。",
+              "zh": "在辦公室領取文件。"
+            }
+          ]
+        },
+        {
+          "word": "食事",
+          "reading": "しょくじ",
+          "furigana": "食[しょく]事[じ]",
+          "romaji": "shokuji",
+          "meaning": "用餐",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N4",
+          "sentences": [
+            {
+              "ja": "食事の時間を知らせます。",
+              "zh": "通知用餐時間。"
+            }
+          ]
+        },
+        {
+          "word": "眠り",
+          "reading": "ねむり",
+          "furigana": "眠[ねむ]り",
+          "romaji": "nemuri",
+          "meaning": "睡眠",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N4",
+          "sentences": [
+            {
+              "ja": "深い眠りに入りました。",
+              "zh": "進入了深層睡眠。"
+            }
+          ]
+        },
+        {
+          "word": "危険",
+          "reading": "きけん",
+          "furigana": "危[き]険[けん]",
+          "romaji": "kiken",
+          "meaning": "危險",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N4",
+          "sentences": [
+            {
+              "ja": "ここは危険ですから、入らないでください。",
+              "zh": "這裡很危險，請不要進入。"
+            }
+          ]
+        },
+        {
+          "word": "安心",
+          "reading": "あんしん",
+          "furigana": "安[あん]心[しん]",
+          "romaji": "anshin",
+          "meaning": "安心、放心",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N4",
+          "sentences": [
+            {
+              "ja": "それを聞いて安心しました。",
+              "zh": "聽到那個我就放心了。"
+            }
+          ]
+        },
+        {
+          "word": "安全",
+          "reading": "あんぜん",
+          "furigana": "安[あん]全[ぜん]",
+          "romaji": "anzen",
+          "meaning": "安全",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N4",
+          "sentences": [
+            {
+              "ja": "患者の安全を守ります。",
+              "zh": "保護病患的安全。"
+            }
+          ]
+        },
+        {
+          "word": "失敗",
+          "reading": "しっぱい",
+          "furigana": "失[しっ]敗[ぱい]",
+          "romaji": "shippai",
+          "meaning": "失敗、失誤",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N4",
+          "sentences": [
+            {
+              "ja": "仕事で失敗をしました。",
+              "zh": "工作上發生了失誤。"
+            }
+          ]
+        },
+        {
+          "word": "様子",
+          "reading": "ようす",
+          "furigana": "様[よう]子[す]",
+          "romaji": "yousu",
+          "meaning": "情況、樣子",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N4",
+          "sentences": [
+            {
+              "ja": "患者の様子を見に行きます。",
+              "zh": "去看一下病患的情況。"
+            }
+          ]
         }
       ],
       "kana": {
