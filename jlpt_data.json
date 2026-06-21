@@ -56331,6 +56331,2046 @@
               "zh": "海洋生態系正受到破壞。"
             }
           ]
+        },
+        {
+          "word": "獣",
+          "reading": "けもの",
+          "furigana": "獣[けもの]",
+          "romaji": "kemono",
+          "meaning": "野獸",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "森の奥に獣が住んでいます。",
+              "zh": "森林深處住著野獸。"
+            }
+          ]
+        },
+        {
+          "word": "昆虫",
+          "reading": "こんちゅう",
+          "furigana": "昆[こん]虫[ちゅう]",
+          "romaji": "konchuu",
+          "meaning": "昆蟲",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "子供たちは昆虫を捕まえるのが好きです。",
+              "zh": "孩子們喜歡抓昆蟲。"
+            }
+          ]
+        },
+        {
+          "word": "植物",
+          "reading": "しょくぶつ",
+          "furigana": "植[しょく]物[ぶつ]",
+          "romaji": "shokubutsu",
+          "meaning": "植物",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "部屋に観葉植物を置いています。",
+              "zh": "在房間裡放了觀葉植物。"
+            }
+          ]
+        },
+        {
+          "word": "園芸",
+          "reading": "えんげい",
+          "furigana": "園[えん]芸[げい]",
+          "romaji": "engei",
+          "meaning": "園藝",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "母の趣味は園芸です。",
+              "zh": "媽媽的興趣是園藝。"
+            }
+          ]
+        },
+        {
+          "word": "種",
+          "reading": "たね",
+          "furigana": "種[たね]",
+          "romaji": "tane",
+          "meaning": "種子",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "庭に花の種をまきました。",
+              "zh": "在院子裡撒了花朵的種子。"
+            }
+          ]
+        },
+        {
+          "word": "根",
+          "reading": "ね",
+          "furigana": "根[ね]",
+          "romaji": "ne",
+          "meaning": "根",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "この木は根が深く張っています。",
+              "zh": "這棵樹的根扎得很深。"
+            }
+          ]
+        },
+        {
+          "word": "枝",
+          "reading": "えだ",
+          "furigana": "枝[えだ]",
+          "romaji": "eda",
+          "meaning": "樹枝",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "風で木の枝が折れました。",
+              "zh": "風把樹枝吹斷了。"
+            }
+          ]
+        },
+        {
+          "word": "葉",
+          "reading": "は",
+          "furigana": "葉[は]",
+          "romaji": "ha",
+          "meaning": "葉子",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "秋になると葉が赤くなります。",
+              "zh": "一到秋天葉子就會變紅。"
+            }
+          ]
+        },
+        {
+          "word": "蕾",
+          "reading": "つぼみ",
+          "furigana": "蕾[つぼみ]",
+          "romaji": "tsubomi",
+          "meaning": "花苞",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "桜の蕾がふくらんできました。",
+              "zh": "櫻花的花苞已經膨脹起來了。"
+            }
+          ]
+        },
+        {
+          "word": "実",
+          "reading": "み",
+          "furigana": "実[み]",
+          "romaji": "mi",
+          "meaning": "果實",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "この木は秋に赤い実をつけます。",
+              "zh": "這棵樹在秋天會結紅色的果實。"
+            }
+          ]
+        },
+        {
+          "word": "殻",
+          "reading": "から",
+          "furigana": "殻[から]",
+          "romaji": "kara",
+          "meaning": "外殼",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "卵の殻を割ってボウルに入れます。",
+              "zh": "打碎雞蛋的殼放進碗裡。"
+            }
+          ]
+        },
+        {
+          "word": "巣",
+          "reading": "す",
+          "furigana": "巣[す]",
+          "romaji": "su",
+          "meaning": "巢穴",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "木の上に鳥の巣があります。",
+              "zh": "樹上有鳥巢。"
+            }
+          ]
+        },
+        {
+          "word": "羽",
+          "reading": "はね",
+          "furigana": "羽[はね]",
+          "romaji": "hane",
+          "meaning": "羽毛、翅膀",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "鳥が羽を広げて飛んでいきました。",
+              "zh": "鳥張開翅膀飛走了。"
+            }
+          ]
+        },
+        {
+          "word": "尻尾",
+          "reading": "しっぽ",
+          "furigana": "尻[しっ]尾[ぽ]",
+          "romaji": "shippo",
+          "meaning": "尾巴",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "犬が嬉しそうに尻尾を振っています。",
+              "zh": "狗很開心地搖著尾巴。"
+            }
+          ]
+        },
+        {
+          "word": "餌",
+          "reading": "えさ",
+          "furigana": "餌[えさ]",
+          "romaji": "esa",
+          "meaning": "飼料、餌",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "池の鯉に餌をやります。",
+              "zh": "餵池子裡的鯉魚吃飼料。"
+            }
+          ]
+        },
+        {
+          "word": "熊",
+          "reading": "くま",
+          "furigana": "熊[くま]",
+          "romaji": "kuma",
+          "meaning": "熊",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "山で熊に出会わないように気をつけてください。",
+              "zh": "請小心不要在山上遇到熊。"
+            }
+          ]
+        },
+        {
+          "word": "虎",
+          "reading": "とら",
+          "furigana": "虎[とら]",
+          "romaji": "tora",
+          "meaning": "老虎",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "動物園で虎を見ました。",
+              "zh": "在動物園看了老虎。"
+            }
+          ]
+        },
+        {
+          "word": "蛇",
+          "reading": "へび",
+          "furigana": "蛇[へび]",
+          "romaji": "hebi",
+          "meaning": "蛇",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "草の中に蛇が隠れていました。",
+              "zh": "草叢裡躲著蛇。"
+            }
+          ]
+        },
+        {
+          "word": "竹",
+          "reading": "たけ",
+          "furigana": "竹[たけ]",
+          "romaji": "take",
+          "meaning": "竹子",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "竹は成長がとても早いです。",
+              "zh": "竹子生長得非常快。"
+            }
+          ]
+        },
+        {
+          "word": "松",
+          "reading": "まつ",
+          "furigana": "松[まつ]",
+          "romaji": "matsu",
+          "meaning": "松樹",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "庭に立派な松の木があります。",
+              "zh": "院子裡有一棵氣派的松樹。"
+            }
+          ]
+        },
+        {
+          "word": "友人",
+          "reading": "ゆうじん",
+          "furigana": "友[ゆう]人[じん]",
+          "romaji": "yuujin",
+          "meaning": "友人、朋友",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "昔からの友人に久しぶりに会いました。",
+              "zh": "見到了許久未見的老朋友。"
+            }
+          ]
+        },
+        {
+          "word": "知人",
+          "reading": "ちじん",
+          "furigana": "知[ち]人[じん]",
+          "romaji": "chijin",
+          "meaning": "熟人、認識的人",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "パーティーで知人に会いました。",
+              "zh": "在派對上遇見了熟人。"
+            }
+          ]
+        },
+        {
+          "word": "親友",
+          "reading": "しんゆう",
+          "furigana": "親[しん]友[ゆう]",
+          "romaji": "shinyuu",
+          "meaning": "摯友、好朋友",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "彼女は私の親友です。",
+              "zh": "她是我的摯友。"
+            }
+          ]
+        },
+        {
+          "word": "仲間",
+          "reading": "なかま",
+          "furigana": "仲[なか]間[ま]",
+          "romaji": "nakama",
+          "meaning": "同伴、夥伴",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "趣味の仲間と一緒に旅行に行きます。",
+              "zh": "和興趣相投的同伴一起去旅行。"
+            }
+          ]
+        },
+        {
+          "word": "相手",
+          "reading": "あいて",
+          "furigana": "相[あい]手[て]",
+          "romaji": "aite",
+          "meaning": "對手、對象、對方",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "結婚の相手を探しています。",
+              "zh": "正在尋找結婚對象。"
+            }
+          ]
+        },
+        {
+          "word": "恋人",
+          "reading": "こいびと",
+          "furigana": "恋[こい]人[びと]",
+          "romaji": "koibito",
+          "meaning": "戀人、情侶",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "週末は恋人とデートします。",
+              "zh": "週末要和戀人約會。"
+            }
+          ]
+        },
+        {
+          "word": "双子",
+          "reading": "ふたご",
+          "furigana": "双[ふた]子[ご]",
+          "romaji": "futago",
+          "meaning": "雙胞胎",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "あの二人は双子の兄弟です。",
+              "zh": "那兩個人是雙胞胎兄弟。"
+            }
+          ]
+        },
+        {
+          "word": "姉妹",
+          "reading": "しまい",
+          "furigana": "姉[し]妹[まい]",
+          "romaji": "shimai",
+          "meaning": "姊妹",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "私たちは三人の姉妹です。",
+              "zh": "我們是三姊妹。"
+            }
+          ]
+        },
+        {
+          "word": "親戚",
+          "reading": "しんせき",
+          "furigana": "親[しん]戚[せき]",
+          "romaji": "shinseki",
+          "meaning": "親戚",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "お正月に親戚が集まります。",
+              "zh": "過年時親戚會聚在一起。"
+            }
+          ]
+        },
+        {
+          "word": "祖先",
+          "reading": "そせん",
+          "furigana": "祖[そ]先[せん]",
+          "romaji": "sosen",
+          "meaning": "祖先",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "私たちの祖先は海を渡って来ました。",
+              "zh": "我們的祖先是渡海而來的。"
+            }
+          ]
+        },
+        {
+          "word": "子孫",
+          "reading": "しそん",
+          "furigana": "子[し]孫[そん]",
+          "romaji": "shison",
+          "meaning": "子孫、後代",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "この土地を子孫に残したいです。",
+              "zh": "想把這塊土地留給後代。"
+            }
+          ]
+        },
+        {
+          "word": "他人",
+          "reading": "たにん",
+          "furigana": "他[た]人[にん]",
+          "romaji": "tanin",
+          "meaning": "他人、別人",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "他人の迷惑になることはやめましょう。",
+              "zh": "不要做會給別人添麻煩的事。"
+            }
+          ]
+        },
+        {
+          "word": "独身",
+          "reading": "どくしん",
+          "furigana": "独[どく]身[しん]",
+          "romaji": "dokushin",
+          "meaning": "單身、未婚",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "彼はまだ独身です。",
+              "zh": "他還是單身。"
+            }
+          ]
+        },
+        {
+          "word": "恋愛",
+          "reading": "れんあい",
+          "furigana": "恋[れん]愛[あい]",
+          "romaji": "ren'ai",
+          "meaning": "戀愛",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "彼女は恋愛小説が好きです。",
+              "zh": "她喜歡戀愛小說。"
+            }
+          ]
+        },
+        {
+          "word": "交際",
+          "reading": "こうさい",
+          "furigana": "交[こう]際[さい]",
+          "romaji": "kousai",
+          "meaning": "交往、應酬",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "二人は結婚を前提に交際しています。",
+              "zh": "兩人以結婚為前提在交往。"
+            }
+          ]
+        },
+        {
+          "word": "友情",
+          "reading": "ゆうじょう",
+          "furigana": "友[ゆう]情[じょう]",
+          "romaji": "yuujou",
+          "meaning": "友情",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "彼との友情を大切にしています。",
+              "zh": "我很珍惜與他之間的友情。"
+            }
+          ]
+        },
+        {
+          "word": "信頼",
+          "reading": "しんらい",
+          "furigana": "信[しん]頼[らい]",
+          "romaji": "shinrai",
+          "meaning": "信賴、信任",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "お互いを信頼することが大事です。",
+              "zh": "彼此信任是很重要的。"
+            }
+          ]
+        },
+        {
+          "word": "秘密",
+          "reading": "ひみつ",
+          "furigana": "秘[ひ]密[みつ]",
+          "romaji": "himitsu",
+          "meaning": "秘密",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "これは二人の秘密です。",
+              "zh": "這是我們兩人的秘密。"
+            }
+          ]
+        },
+        {
+          "word": "相談",
+          "reading": "そうだん",
+          "furigana": "相[そう]談[だん]",
+          "romaji": "soudan",
+          "meaning": "商量、討論",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "先生に進路について相談しました。",
+              "zh": "跟老師商量了關於未來的出路。"
+            }
+          ]
+        },
+        {
+          "word": "世話",
+          "reading": "せわ",
+          "furigana": "世[せ]話[わ]",
+          "romaji": "sewa",
+          "meaning": "照顧、幫忙",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "先輩にはとてもお世話になりました。",
+              "zh": "非常感謝前輩的照顧。"
+            }
+          ]
+        },
+        {
+          "word": "政治",
+          "reading": "せいじ",
+          "furigana": "政[せい]治[じ]",
+          "romaji": "seiji",
+          "meaning": "政治",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "彼は政治に関心があります。",
+              "zh": "他對政治很感興趣。"
+            }
+          ]
+        },
+        {
+          "word": "規則",
+          "reading": "きそく",
+          "furigana": "規[き]則[そく]",
+          "romaji": "kisoku",
+          "meaning": "規則、規定",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "学校の規則を守りましょう。",
+              "zh": "遵守學校的規定吧。"
+            }
+          ]
+        },
+        {
+          "word": "権利",
+          "reading": "けんり",
+          "furigana": "権[けん]利[り]",
+          "romaji": "kenri",
+          "meaning": "權利",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "すべての国民には学ぶ権利があります。",
+              "zh": "所有的國民都有學習的權利。"
+            }
+          ]
+        },
+        {
+          "word": "義務",
+          "reading": "ぎむ",
+          "furigana": "義[ぎ]務[む]",
+          "romaji": "gimu",
+          "meaning": "義務",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "税金を払うのは国民の義務です。",
+              "zh": "繳稅是國民的義務。"
+            }
+          ]
+        },
+        {
+          "word": "選挙",
+          "reading": "せんきょ",
+          "furigana": "選[せん]挙[きょ]",
+          "romaji": "senkyo",
+          "meaning": "選舉",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "来月、市長を選ぶ選挙があります。",
+              "zh": "下個月有選市長的選舉。"
+            }
+          ]
+        },
+        {
+          "word": "投票",
+          "reading": "とうひょう",
+          "furigana": "投[とう]票[ひょう]",
+          "romaji": "touhyou",
+          "meaning": "投票",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "明日は必ず投票に行きます。",
+              "zh": "明天一定會去投票。"
+            }
+          ]
+        },
+        {
+          "word": "政府",
+          "reading": "せいふ",
+          "furigana": "政[せい]府[ふ]",
+          "romaji": "seifu",
+          "meaning": "政府",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "政府が新しい政策を発表しました。",
+              "zh": "政府發表了新的政策。"
+            }
+          ]
+        },
+        {
+          "word": "国家",
+          "reading": "こっか",
+          "furigana": "国[こっ]家[か]",
+          "romaji": "kokka",
+          "meaning": "國家",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "彼は国家のために働いています。",
+              "zh": "他為了國家而工作。"
+            }
+          ]
+        },
+        {
+          "word": "国民",
+          "reading": "こくみん",
+          "furigana": "国[こく]民[みん]",
+          "romaji": "kokumin",
+          "meaning": "國民",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "国民の安全を守ることが一番大切です。",
+              "zh": "保護國民的安全是最重要的。"
+            }
+          ]
+        },
+        {
+          "word": "市民",
+          "reading": "しみん",
+          "furigana": "市[し]民[みん]",
+          "romaji": "shimin",
+          "meaning": "市民",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "多くの市民が公園に集まりました。",
+              "zh": "許多市民聚集在公園裡。"
+            }
+          ]
+        },
+        {
+          "word": "犯罪",
+          "reading": "はんざい",
+          "furigana": "犯[はん]罪[ざい]",
+          "romaji": "hanzai",
+          "meaning": "犯罪",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "最近、この町で犯罪が増えています。",
+              "zh": "最近這個城鎮的犯罪增加了。"
+            }
+          ]
+        },
+        {
+          "word": "犯人",
+          "reading": "はんにん",
+          "furigana": "犯[はん]人[にん]",
+          "romaji": "hannin",
+          "meaning": "犯人、嫌犯",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "警察が事件の犯人を捕まえました。",
+              "zh": "警察逮捕了案件的嫌犯。"
+            }
+          ]
+        },
+        {
+          "word": "事件",
+          "reading": "じけん",
+          "furigana": "事[じ]件[けん]",
+          "romaji": "jiken",
+          "meaning": "事件、案件",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "昨日、駅で大きな事件がありました。",
+              "zh": "昨天在車站發生了重大案件。"
+            }
+          ]
+        },
+        {
+          "word": "裁判",
+          "reading": "さいばん",
+          "furigana": "裁[さい]判[ばん]",
+          "romaji": "saiban",
+          "meaning": "審判、裁判",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "来月、この事件の裁判が始まります。",
+              "zh": "下個月將開始審理這起案件。"
+            }
+          ]
+        },
+        {
+          "word": "制度",
+          "reading": "せいど",
+          "furigana": "制[せい]度[ど]",
+          "romaji": "seido",
+          "meaning": "制度",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "新しい教育制度が導入されました。",
+              "zh": "導入了新的教育制度。"
+            }
+          ]
+        },
+        {
+          "word": "組織",
+          "reading": "そしき",
+          "furigana": "組[そ]織[しき]",
+          "romaji": "soshiki",
+          "meaning": "組織",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "彼は大きな組織のリーダーです。",
+              "zh": "他是一個大型組織的領導者。"
+            }
+          ]
+        },
+        {
+          "word": "平和",
+          "reading": "へいわ",
+          "furigana": "平[へい]和[わ]",
+          "romaji": "heiwa",
+          "meaning": "和平",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "世界が平和であることを願っています。",
+              "zh": "祈願世界和平。"
+            }
+          ]
+        },
+        {
+          "word": "武器",
+          "reading": "ぶき",
+          "furigana": "武[ぶ]器[き]",
+          "romaji": "buki",
+          "meaning": "武器",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "言葉を武器にして戦います。",
+              "zh": "把語言當作武器來戰鬥。"
+            }
+          ]
+        },
+        {
+          "word": "労働",
+          "reading": "ろうどう",
+          "furigana": "労[ろう]働[どう]",
+          "romaji": "roudou",
+          "meaning": "勞動、工作",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "長時間の労働で疲れました。",
+              "zh": "因為長時間的勞動而感到疲倦。"
+            }
+          ]
+        },
+        {
+          "word": "責任",
+          "reading": "せきにん",
+          "furigana": "責[せき]任[にん]",
+          "romaji": "sekinin",
+          "meaning": "責任",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "失敗の責任は私が取ります。",
+              "zh": "失敗的責任由我來承擔。"
+            }
+          ]
+        },
+        {
+          "word": "経済",
+          "reading": "けいざい",
+          "furigana": "経[けい]済[ざい]",
+          "romaji": "keizai",
+          "meaning": "經濟",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "国の経済が少しずつ良くなっています。",
+              "zh": "國家的經濟正在逐漸好轉。"
+            }
+          ]
+        },
+        {
+          "word": "産業",
+          "reading": "さんぎょう",
+          "furigana": "産[さん]業[ぎょう]",
+          "romaji": "sangyou",
+          "meaning": "產業",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "この地域は自動車産業が盛んです。",
+              "zh": "這個地區的汽車產業很繁榮。"
+            }
+          ]
+        },
+        {
+          "word": "商業",
+          "reading": "しょうぎょう",
+          "furigana": "商[しょう]業[ぎょう]",
+          "romaji": "shougyou",
+          "meaning": "商業",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "彼は大学で商業を学んでいます。",
+              "zh": "他在大學學習商業。"
+            }
+          ]
+        },
+        {
+          "word": "輸出",
+          "reading": "ゆしゅつ",
+          "furigana": "輸[ゆ]出[しゅつ]",
+          "romaji": "yushutsu",
+          "meaning": "出口",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "日本は車をたくさん輸出しています。",
+              "zh": "日本出口很多汽車。"
+            }
+          ]
+        },
+        {
+          "word": "輸入",
+          "reading": "ゆにゅう",
+          "furigana": "輸[ゆ]入[にゅう]",
+          "romaji": "yunyuu",
+          "meaning": "進口",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "日本は石油を輸入に頼っています。",
+              "zh": "日本的石油依賴進口。"
+            }
+          ]
+        },
+        {
+          "word": "景気",
+          "reading": "けいき",
+          "furigana": "景[けい]気[き]",
+          "romaji": "keiki",
+          "meaning": "景氣",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "最近は景気が悪くて困っています。",
+              "zh": "最近景氣不好，很傷腦筋。"
+            }
+          ]
+        },
+        {
+          "word": "物価",
+          "reading": "ぶっか",
+          "furigana": "物[ぶっ]価[か]",
+          "romaji": "bukka",
+          "meaning": "物價",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "物価が上がって生活が苦しいです。",
+              "zh": "物價上漲，生活很辛苦。"
+            }
+          ]
+        },
+        {
+          "word": "税金",
+          "reading": "ぜいきん",
+          "furigana": "税[ぜい]金[きん]",
+          "romaji": "zeikin",
+          "meaning": "稅金",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "買い物をすると消費税という税金がかかります。",
+              "zh": "購物時會被收取名為消費稅的稅金。"
+            }
+          ]
+        },
+        {
+          "word": "収入",
+          "reading": "しゅうにゅう",
+          "furigana": "収[しゅう]入[にゅう]",
+          "romaji": "shuunyuu",
+          "meaning": "收入",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "新しい仕事で収入が増えました。",
+              "zh": "因為新工作收入增加了。"
+            }
+          ]
+        },
+        {
+          "word": "支出",
+          "reading": "ししゅつ",
+          "furigana": "支[し]出[しゅつ]",
+          "romaji": "shishutsu",
+          "meaning": "支出",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "今月は支出が多かったので節約します。",
+              "zh": "這個月支出很多，所以要節約。"
+            }
+          ]
+        },
+        {
+          "word": "利益",
+          "reading": "りえき",
+          "furigana": "利[り]益[えき]",
+          "romaji": "rieki",
+          "meaning": "利益、利潤",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "この会社は大きな利益を出しました。",
+              "zh": "這家公司創造了龐大的利潤。"
+            }
+          ]
+        },
+        {
+          "word": "損",
+          "reading": "そん",
+          "furigana": "損[そん]",
+          "romaji": "son",
+          "meaning": "損失、吃虧",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "株で損をしてしまいました。",
+              "zh": "買股票賠錢了。"
+            }
+          ]
+        },
+        {
+          "word": "借金",
+          "reading": "しゃっきん",
+          "furigana": "借[しゃっ]金[きん]",
+          "romaji": "shakkin",
+          "meaning": "借款、債務",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "銀行に借金を返します。",
+              "zh": "向銀行還債。"
+            }
+          ]
+        },
+        {
+          "word": "預金",
+          "reading": "よきん",
+          "furigana": "預[よ]金[きん]",
+          "romaji": "yokin",
+          "meaning": "存款",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "毎月少しずつ銀行に預金しています。",
+              "zh": "每個月一點一點地存錢到銀行。"
+            }
+          ]
+        },
+        {
+          "word": "現金",
+          "reading": "げんきん",
+          "furigana": "現[げん]金[きん]",
+          "romaji": "genkin",
+          "meaning": "現金",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "この店では現金しか使えません。",
+              "zh": "這家店只能使用現金。"
+            }
+          ]
+        },
+        {
+          "word": "企業",
+          "reading": "きぎょう",
+          "furigana": "企[き]業[ぎょう]",
+          "romaji": "kigyou",
+          "meaning": "企業",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "彼は有名な企業で働いています。",
+              "zh": "他在著名的企業工作。"
+            }
+          ]
+        },
+        {
+          "word": "職場",
+          "reading": "しょくば",
+          "furigana": "職[しょく]場[ば]",
+          "romaji": "shokuba",
+          "meaning": "職場、工作場所",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "職場の人間関係はとても良いです。",
+              "zh": "職場的人際關係非常好。"
+            }
+          ]
+        },
+        {
+          "word": "就職",
+          "reading": "しゅうしょく",
+          "furigana": "就[しゅう]職[しょく]",
+          "romaji": "shuushoku",
+          "meaning": "就業、找工作",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "大学を卒業して就職しました。",
+              "zh": "大學畢業後就業了。"
+            }
+          ]
+        },
+        {
+          "word": "契約",
+          "reading": "けいやく",
+          "furigana": "契[けい]約[やく]",
+          "romaji": "keiyaku",
+          "meaning": "契約、合約",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "新しいアパートの契約をしました。",
+              "zh": "簽了新公寓的合約。"
+            }
+          ]
+        },
+        {
+          "word": "営業",
+          "reading": "えいぎょう",
+          "furigana": "営[えい]業[ぎょう]",
+          "romaji": "eigyou",
+          "meaning": "營業、業務",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "明日は営業の仕事で大阪へ行きます。",
+              "zh": "明天因為業務工作要去大阪。"
+            }
+          ]
+        },
+        {
+          "word": "伝統",
+          "reading": "でんとう",
+          "furigana": "伝[でん]統[とう]",
+          "romaji": "dentou",
+          "meaning": "傳統",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "日本の伝統的な文化を学びます。",
+              "zh": "學習日本的傳統文化。"
+            }
+          ]
+        },
+        {
+          "word": "宗教",
+          "reading": "しゅうきょう",
+          "furigana": "宗[しゅう]教[きょう]",
+          "romaji": "shuukyou",
+          "meaning": "宗教",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "世界には様々な宗教があります。",
+              "zh": "世界上有各式各樣的宗教。"
+            }
+          ]
+        },
+        {
+          "word": "信仰",
+          "reading": "しんこう",
+          "furigana": "信[しん]仰[こう]",
+          "romaji": "shinkou",
+          "meaning": "信仰",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "彼は厚い信仰を持っています。",
+              "zh": "他有著深厚的信仰。"
+            }
+          ]
+        },
+        {
+          "word": "思想",
+          "reading": "しそう",
+          "furigana": "思[し]想[そう]",
+          "romaji": "shisou",
+          "meaning": "思想",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "西洋の思想について研究します。",
+              "zh": "研究西洋的思想。"
+            }
+          ]
+        },
+        {
+          "word": "哲学",
+          "reading": "てつがく",
+          "furigana": "哲[てつ]学[がく]",
+          "romaji": "tetsugaku",
+          "meaning": "哲學",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "大学で哲学を専攻しています。",
+              "zh": "在大學主修哲學。"
+            }
+          ]
+        },
+        {
+          "word": "世紀",
+          "reading": "せいき",
+          "furigana": "世[せい]紀[き]",
+          "romaji": "seiki",
+          "meaning": "世紀",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "今は２１世紀です。",
+              "zh": "現在是二十一世紀。"
+            }
+          ]
+        },
+        {
+          "word": "伝説",
+          "reading": "でんせつ",
+          "furigana": "伝[でん]説[せつ]",
+          "romaji": "densetsu",
+          "meaning": "傳說",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "この村には古い伝説があります。",
+              "zh": "這個村莊有一個古老的傳說。"
+            }
+          ]
+        },
+        {
+          "word": "昔話",
+          "reading": "むかしばなし",
+          "furigana": "昔[むかし]話[ばなし]",
+          "romaji": "mukashibanashi",
+          "meaning": "民間故事、傳說",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "おばあちゃんから昔話を聞きました。",
+              "zh": "聽奶奶說了民間故事。"
+            }
+          ]
+        },
+        {
+          "word": "神話",
+          "reading": "しんわ",
+          "furigana": "神[しん]話[わ]",
+          "romaji": "shinwa",
+          "meaning": "神話",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "ギリシャ神話の本を読んでいます。",
+              "zh": "正在讀希臘神話的書。"
+            }
+          ]
+        },
+        {
+          "word": "儀式",
+          "reading": "ぎしき",
+          "furigana": "儀[ぎ]式[しき]",
+          "romaji": "gishiki",
+          "meaning": "儀式",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "結婚の儀式が行われました。",
+              "zh": "舉行了結婚的儀式。"
+            }
+          ]
+        },
+        {
+          "word": "価値観",
+          "reading": "かちかん",
+          "furigana": "価[か]値[ち]観[かん]",
+          "romaji": "kachikan",
+          "meaning": "價值觀",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "人によって価値観は違います。",
+              "zh": "每個人的價值觀都不同。"
+            }
+          ]
+        },
+        {
+          "word": "常識",
+          "reading": "じょうしき",
+          "furigana": "常[じょう]識[しき]",
+          "romaji": "joushiki",
+          "meaning": "常識",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "挨拶をするのは社会の常識です。",
+              "zh": "打招呼是社會的常識。"
+            }
+          ]
+        },
+        {
+          "word": "知識",
+          "reading": "ちしき",
+          "furigana": "知[ち]識[しき]",
+          "romaji": "chishiki",
+          "meaning": "知識",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "本を読んで新しい知識を得ます。",
+              "zh": "讀書以獲取新的知識。"
+            }
+          ]
+        },
+        {
+          "word": "意識",
+          "reading": "いしき",
+          "furigana": "意[い]識[しき]",
+          "romaji": "ishiki",
+          "meaning": "意識、自覺",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "環境問題への意識が高まっています。",
+              "zh": "對環境問題的意識正在提高。"
+            }
+          ]
+        },
+        {
+          "word": "記憶",
+          "reading": "きおく",
+          "furigana": "記[き]憶[おく]",
+          "romaji": "kioku",
+          "meaning": "記憶",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "子供の頃の記憶が少し残っています。",
+              "zh": "還留有一點小時候的記憶。"
+            }
+          ]
+        },
+        {
+          "word": "思考",
+          "reading": "しこう",
+          "furigana": "思[し]考[こう]",
+          "romaji": "shikou",
+          "meaning": "思考",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "問題の解決方法を思考します。",
+              "zh": "思考解決問題的方法。"
+            }
+          ]
+        },
+        {
+          "word": "理想",
+          "reading": "りそう",
+          "furigana": "理[り]想[そう]",
+          "romaji": "risou",
+          "meaning": "理想",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "理想の家を建てたいです。",
+              "zh": "想建造理想的房子。"
+            }
+          ]
+        },
+        {
+          "word": "現実",
+          "reading": "げんじつ",
+          "furigana": "現[げん]実[じつ]",
+          "romaji": "genjitsu",
+          "meaning": "現實",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "理想と現実は違います。",
+              "zh": "理想和現實是不同的。"
+            }
+          ]
+        },
+        {
+          "word": "想像",
+          "reading": "そうぞう",
+          "furigana": "想[そう]像[ぞう]",
+          "romaji": "souzou",
+          "meaning": "想像",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "未来の生活を想像してみます。",
+              "zh": "試著想像未來的生活。"
+            }
+          ]
+        },
+        {
+          "word": "迷信",
+          "reading": "めいしん",
+          "furigana": "迷[めい]信[しん]",
+          "romaji": "meishin",
+          "meaning": "迷信",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "あの話はただの迷信です。",
+              "zh": "那個說法只不過是迷信。"
+            }
+          ]
+        },
+        {
+          "word": "計算",
+          "reading": "けいさん",
+          "furigana": "計[けい]算[さん]",
+          "romaji": "keisan",
+          "meaning": "計算",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "お金の計算を間違えました。",
+              "zh": "算錯錢了。"
+            }
+          ]
+        },
+        {
+          "word": "物理",
+          "reading": "ぶつり",
+          "furigana": "物[ぶつ]理[り]",
+          "romaji": "butsuri",
+          "meaning": "物理",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "高校で物理を勉強しています。",
+              "zh": "在高中學習物理。"
+            }
+          ]
+        },
+        {
+          "word": "化学",
+          "reading": "かがく",
+          "furigana": "化[か]学[がく]",
+          "romaji": "kagaku",
+          "meaning": "化學",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "化学の実験は面白いです。",
+              "zh": "化學實驗很有趣。"
+            }
+          ]
+        },
+        {
+          "word": "科学",
+          "reading": "かがく",
+          "furigana": "科[か]学[がく]",
+          "romaji": "kagaku",
+          "meaning": "科學",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "科学の進歩は素晴らしいです。",
+              "zh": "科學的進步很了不起。"
+            }
+          ]
+        },
+        {
+          "word": "偶数",
+          "reading": "ぐうすう",
+          "furigana": "偶[ぐう]数[すう]",
+          "romaji": "guusuu",
+          "meaning": "偶數",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "２、４、６は偶数です。",
+              "zh": "二、四、六是偶數。"
+            }
+          ]
+        },
+        {
+          "word": "奇数",
+          "reading": "きすう",
+          "furigana": "奇[き]数[すう]",
+          "romaji": "kisuu",
+          "meaning": "奇數",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "１、３、５は奇数です。",
+              "zh": "一、三、五是奇數。"
+            }
+          ]
+        },
+        {
+          "word": "合計",
+          "reading": "ごうけい",
+          "furigana": "合[ごう]計[けい]",
+          "romaji": "goukei",
+          "meaning": "合計、總計",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "買い物の合計は三千円です。",
+              "zh": "買東西的總計是三千日圓。"
+            }
+          ]
+        },
+        {
+          "word": "単位",
+          "reading": "たんい",
+          "furigana": "単[たん]位[い]",
+          "romaji": "tan'i",
+          "meaning": "單位",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "長さの単位はメートルです。",
+              "zh": "長度的單位是公尺。"
+            }
+          ]
+        },
+        {
+          "word": "割合",
+          "reading": "わりあい",
+          "furigana": "割[わり]合[あい]",
+          "romaji": "wariai",
+          "meaning": "比例、比率",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "男性と女性の割合は同じです。",
+              "zh": "男性和女性的比例相同。"
+            }
+          ]
+        },
+        {
+          "word": "平均",
+          "reading": "へいきん",
+          "furigana": "平[へい]均[きん]",
+          "romaji": "heikin",
+          "meaning": "平均",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "テストの平均点は７０点でした。",
+              "zh": "考試的平均分數是七十分。"
+            }
+          ]
+        },
+        {
+          "word": "倍",
+          "reading": "ばい",
+          "furigana": "倍[ばい]",
+          "romaji": "bai",
+          "meaning": "倍",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "値段が２倍になりました。",
+              "zh": "價格變成兩倍了。"
+            }
+          ]
+        },
+        {
+          "word": "距離",
+          "reading": "きょり",
+          "furigana": "距[きょ]離[り]",
+          "romaji": "kyori",
+          "meaning": "距離",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "ここから駅までの距離は短いです。",
+              "zh": "從這裡到車站的距離很短。"
+            }
+          ]
+        },
+        {
+          "word": "体積",
+          "reading": "たいせき",
+          "furigana": "体[たい]積[せき]",
+          "romaji": "taiseki",
+          "meaning": "體積",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "この箱の体積を計算します。",
+              "zh": "計算這個箱子的體積。"
+            }
+          ]
+        },
+        {
+          "word": "角度",
+          "reading": "かくど",
+          "furigana": "角[かく]度[ど]",
+          "romaji": "kakudo",
+          "meaning": "角度",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "角度を変えて写真を撮ります。",
+              "zh": "改變角度拍照。"
+            }
+          ]
+        },
+        {
+          "word": "速度",
+          "reading": "そくど",
+          "furigana": "速[そく]度[ど]",
+          "romaji": "sokudo",
+          "meaning": "速度",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "車の速度を落としてください。",
+              "zh": "請放慢車子的速度。"
+            }
+          ]
+        },
+        {
+          "word": "表",
+          "reading": "ひょう",
+          "furigana": "表[ひょう]",
+          "romaji": "hyou",
+          "meaning": "表格",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "結果を表にまとめました。",
+              "zh": "把結果整理成表格了。"
+            }
+          ]
+        },
+        {
+          "word": "順番",
+          "reading": "じゅんばん",
+          "furigana": "順[じゅん]番[ばん]",
+          "romaji": "junban",
+          "meaning": "順序、輪流",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "順番を守って並んでください。",
+              "zh": "請遵守順序排隊。"
+            }
+          ]
+        },
+        {
+          "word": "記号",
+          "reading": "きごう",
+          "furigana": "記[き]号[ごう]",
+          "romaji": "kigou",
+          "meaning": "記號、符號",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "地図の記号の意味を調べます。",
+              "zh": "查閱地圖符號的意思。"
+            }
+          ]
+        },
+        {
+          "word": "基礎",
+          "reading": "きそ",
+          "furigana": "基[き]礎[そ]",
+          "romaji": "kiso",
+          "meaning": "基礎",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "何事も基礎が大切です。",
+              "zh": "任何事都是基礎最重要。"
+            }
+          ]
+        },
+        {
+          "word": "全体",
+          "reading": "ぜんたい",
+          "furigana": "全[ぜん]体[たい]",
+          "romaji": "zentai",
+          "meaning": "全體、全部",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "クラス全体で写真を撮りました。",
+              "zh": "全班一起拍了照片。"
+            }
+          ]
         }
       ],
       "kana": {
