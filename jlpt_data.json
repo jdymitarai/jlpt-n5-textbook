@@ -52251,6 +52251,2046 @@
               "zh": "我對雞蛋過敏。"
             }
           ]
+        },
+        {
+          "word": "妊娠",
+          "reading": "にんしん",
+          "furigana": "妊[にん]娠[しん]",
+          "romaji": "ninshin",
+          "meaning": "懷孕",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "妻が妊娠しました。",
+              "zh": "妻子懷孕了。"
+            }
+          ]
+        },
+        {
+          "word": "出産",
+          "reading": "しゅっさん",
+          "furigana": "出[しゅっ]産[さん]",
+          "romaji": "shussan",
+          "meaning": "生產、分娩",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "無事に出産しました。",
+              "zh": "平安地生產了。"
+            }
+          ]
+        },
+        {
+          "word": "産婦人科",
+          "reading": "さんふじんか",
+          "furigana": "産[さん]婦[ふ]人[じん]科[か]",
+          "romaji": "sanfujinka",
+          "meaning": "婦產科",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "産婦人科で診察を受けます。",
+              "zh": "在婦產科接受看診。"
+            }
+          ]
+        },
+        {
+          "word": "小児科",
+          "reading": "しょうにか",
+          "furigana": "小[しょう]児[に]科[か]",
+          "romaji": "shounika",
+          "meaning": "小兒科",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "子供が熱を出したので小児科に行きます。",
+              "zh": "孩子發燒了所以去小兒科。"
+            }
+          ]
+        },
+        {
+          "word": "幼児",
+          "reading": "ようじ",
+          "furigana": "幼[よう]児[じ]",
+          "romaji": "youji",
+          "meaning": "幼兒",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "幼児向けの絵本を買いました。",
+              "zh": "買了適合幼兒的繪本。"
+            }
+          ]
+        },
+        {
+          "word": "児童",
+          "reading": "じどう",
+          "furigana": "児[じ]童[どう]",
+          "romaji": "jidou",
+          "meaning": "兒童",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "児童公園で子供たちが遊んでいます。",
+              "zh": "孩子們在兒童公園玩耍。"
+            }
+          ]
+        },
+        {
+          "word": "育児",
+          "reading": "いくじ",
+          "furigana": "育[いく]児[じ]",
+          "romaji": "ikuji",
+          "meaning": "育兒",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "夫婦で協力して育児をします。",
+              "zh": "夫妻合作一起育兒。"
+            }
+          ]
+        },
+        {
+          "word": "発育",
+          "reading": "はついく",
+          "furigana": "発[はつ]育[いく]",
+          "romaji": "hatsuiku",
+          "meaning": "發育",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "子供の発育は順調です。",
+              "zh": "孩子的發育很順利。"
+            }
+          ]
+        },
+        {
+          "word": "成長",
+          "reading": "せいちょう",
+          "furigana": "成[せい]長[ちょう]",
+          "romaji": "seichou",
+          "meaning": "成長",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "子供の成長が早いです。",
+              "zh": "孩子的成長很快。"
+            }
+          ]
+        },
+        {
+          "word": "双子",
+          "reading": "ふたご",
+          "furigana": "双[ふた]子[ご]",
+          "romaji": "futago",
+          "meaning": "雙胞胎",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "彼女は双子の母親です。",
+              "zh": "她是雙胞胎的母親。"
+            }
+          ]
+        },
+        {
+          "word": "母親",
+          "reading": "ははおや",
+          "furigana": "母[はは]親[おや]",
+          "romaji": "hahaoya",
+          "meaning": "母親",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "母親に花をプレゼントします。",
+              "zh": "送花給母親當禮物。"
+            }
+          ]
+        },
+        {
+          "word": "父親",
+          "reading": "ちちおや",
+          "furigana": "父[ちち]親[おや]",
+          "romaji": "chichioya",
+          "meaning": "父親",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "父親は会社員です。",
+              "zh": "父親是公司職員。"
+            }
+          ]
+        },
+        {
+          "word": "体重",
+          "reading": "たいじゅう",
+          "furigana": "体[たい]重[じゅう]",
+          "romaji": "taijuu",
+          "meaning": "體重",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "赤ちゃんの体重を測ります。",
+              "zh": "測量嬰兒的體重。"
+            }
+          ]
+        },
+        {
+          "word": "身長",
+          "reading": "しんちょう",
+          "furigana": "身[しん]長[ちょう]",
+          "romaji": "shinchou",
+          "meaning": "身高",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "一年で身長が5センチ伸びました。",
+              "zh": "一年內身高長了5公分。"
+            }
+          ]
+        },
+        {
+          "word": "食欲",
+          "reading": "しょくよく",
+          "furigana": "食[しょく]欲[よく]",
+          "romaji": "shokuyoku",
+          "meaning": "食慾",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "子供の食欲がないので心配です。",
+              "zh": "孩子沒有食慾所以很擔心。"
+            }
+          ]
+        },
+        {
+          "word": "泣き声",
+          "reading": "なきごえ",
+          "furigana": "泣[な]き 声[ごえ]",
+          "romaji": "nakigoe",
+          "meaning": "哭聲",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "赤ちゃんの泣き声が聞こえます。",
+              "zh": "聽見嬰兒的哭聲。"
+            }
+          ]
+        },
+        {
+          "word": "幼稚園",
+          "reading": "ようちえん",
+          "furigana": "幼[よう]稚[ち]園[えん]",
+          "romaji": "youchien",
+          "meaning": "幼稚園",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "息子を幼稚園に迎えに行きます。",
+              "zh": "去幼稚園接兒子。"
+            }
+          ]
+        },
+        {
+          "word": "保育園",
+          "reading": "ほいくえん",
+          "furigana": "保[ほ]育[いく]園[えん]",
+          "romaji": "hoikuen",
+          "meaning": "托兒所、保育園",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "娘を保育園に預けて働いています。",
+              "zh": "把女兒寄託在托兒所然後去工作。"
+            }
+          ]
+        },
+        {
+          "word": "予防注射",
+          "reading": "よぼうちゅうしゃ",
+          "furigana": "予[よ]防[ぼう]注[ちゅう]射[しゃ]",
+          "romaji": "yobouchuusha",
+          "meaning": "預防注射、打疫苗",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "病院で予防注射を受けました。",
+              "zh": "在醫院接受了預防注射。"
+            }
+          ]
+        },
+        {
+          "word": "愛情",
+          "reading": "あいじょう",
+          "furigana": "愛[あい]情[じょう]",
+          "romaji": "aijou",
+          "meaning": "愛情、關愛",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "親の愛情を受けて育ちました。",
+              "zh": "在父母的關愛下長大。"
+            }
+          ]
+        },
+        {
+          "word": "精神",
+          "reading": "せいしん",
+          "furigana": "精[せい]神[しん]",
+          "romaji": "seishin",
+          "meaning": "精神、心靈",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "精神の健康も大切です。",
+              "zh": "精神健康也很重要。"
+            }
+          ]
+        },
+        {
+          "word": "心理",
+          "reading": "しんり",
+          "furigana": "心[しん]理[り]",
+          "romaji": "shinri",
+          "meaning": "心理",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "人間の心理を勉強します。",
+              "zh": "學習人類的心理。"
+            }
+          ]
+        },
+        {
+          "word": "ストレス",
+          "reading": "すとれす",
+          "furigana": "ストレス",
+          "romaji": "sutoresu",
+          "meaning": "壓力",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "仕事でストレスがたまっています。",
+              "zh": "因為工作累積了壓力。"
+            }
+          ]
+        },
+        {
+          "word": "悩み",
+          "reading": "なやみ",
+          "furigana": "悩[なや]み",
+          "romaji": "nayami",
+          "meaning": "煩惱",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "友達に悩みを相談します。",
+              "zh": "向朋友傾訴煩惱。"
+            }
+          ]
+        },
+        {
+          "word": "苦しみ",
+          "reading": "くるしみ",
+          "furigana": "苦[くる]しみ",
+          "romaji": "kurushimi",
+          "meaning": "痛苦",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "病気の苦しみを理解します。",
+              "zh": "理解疾病帶來的痛苦。"
+            }
+          ]
+        },
+        {
+          "word": "感情",
+          "reading": "かんじょう",
+          "furigana": "感[かん]情[じょう]",
+          "romaji": "kanjou",
+          "meaning": "感情、情緒",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "感情をコントロールするのは難しい。",
+              "zh": "控制情緒是很困難的。"
+            }
+          ]
+        },
+        {
+          "word": "不安",
+          "reading": "ふあん",
+          "furigana": "不[ふ]安[あん]",
+          "romaji": "fuan",
+          "meaning": "不安",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "将来に不安を感じます。",
+              "zh": "對未來感到不安。"
+            }
+          ]
+        },
+        {
+          "word": "恐怖",
+          "reading": "きょうふ",
+          "furigana": "恐[きょう]怖[ふ]",
+          "romaji": "kyoufu",
+          "meaning": "恐懼、恐怖",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "高いところは恐怖を感じます。",
+              "zh": "在高處會感到恐懼。"
+            }
+          ]
+        },
+        {
+          "word": "悲しみ",
+          "reading": "かなしみ",
+          "furigana": "悲[かな]しみ",
+          "romaji": "kanashimi",
+          "meaning": "悲傷",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "ペットが死んで、深い悲しみに包まれた。",
+              "zh": "寵物過世了，被深深的悲傷籠罩。"
+            }
+          ]
+        },
+        {
+          "word": "喜び",
+          "reading": "よろこび",
+          "furigana": "喜[よろこ]び",
+          "romaji": "yorokobi",
+          "meaning": "喜悅",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "合格して喜びでいっぱいです。",
+              "zh": "考上後充滿了喜悅。"
+            }
+          ]
+        },
+        {
+          "word": "相談",
+          "reading": "そうだん",
+          "furigana": "相[そう]談[だん]",
+          "romaji": "soudan",
+          "meaning": "商量、諮詢",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "先生に進路の相談をします。",
+              "zh": "和老師商量未來的出路。"
+            }
+          ]
+        },
+        {
+          "word": "地域",
+          "reading": "ちいき",
+          "furigana": "地[ち]域[いき]",
+          "romaji": "chiiki",
+          "meaning": "地區、社區",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "地域の人たちと交流します。",
+              "zh": "和社區的人們交流。"
+            }
+          ]
+        },
+        {
+          "word": "環境",
+          "reading": "かんきょう",
+          "furigana": "環[かん]境[きょう]",
+          "romaji": "kankyou",
+          "meaning": "環境",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "地球の環境を守ります。",
+              "zh": "保護地球的環境。"
+            }
+          ]
+        },
+        {
+          "word": "施設",
+          "reading": "しせつ",
+          "furigana": "施[し]設[せつ]",
+          "romaji": "shisetsu",
+          "meaning": "設施、機構",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "老人ホームという施設で働いています。",
+              "zh": "在名為養老院的機構工作。"
+            }
+          ]
+        },
+        {
+          "word": "協力",
+          "reading": "きょうりょく",
+          "furigana": "協[きょう]力[りょく]",
+          "romaji": "kyouryoku",
+          "meaning": "合作、協力",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "みんなで協力して終わらせます。",
+              "zh": "大家同心協力完成它。"
+            }
+          ]
+        },
+        {
+          "word": "援助",
+          "reading": "えんじょ",
+          "furigana": "援[えん]助[じょ]",
+          "romaji": "enjo",
+          "meaning": "援助、幫助",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "困っている人に援助の手を差し伸べる。",
+              "zh": "向有困難的人伸出援助之手。"
+            }
+          ]
+        },
+        {
+          "word": "高齢者",
+          "reading": "こうれいしゃ",
+          "furigana": "高[こう]齢[れい]者[しゃ]",
+          "romaji": "koureisha",
+          "meaning": "高齡者、老年人",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "高齢者のためのサービスが増えています。",
+              "zh": "為老年人提供的服務正在增加。"
+            }
+          ]
+        },
+        {
+          "word": "寿命",
+          "reading": "じゅみょう",
+          "furigana": "寿[じゅ]命[みょう]",
+          "romaji": "jumyou",
+          "meaning": "壽命",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "日本人の寿命は延びています。",
+              "zh": "日本人的壽命正在延長。"
+            }
+          ]
+        },
+        {
+          "word": "障害",
+          "reading": "しょうがい",
+          "furigana": "障[しょう]害[がい]",
+          "romaji": "shougai",
+          "meaning": "障礙、殘疾",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "体に障害がある人をサポートします。",
+              "zh": "支援身體有殘疾（障礙）的人。"
+            }
+          ]
+        },
+        {
+          "word": "自信",
+          "reading": "じしん",
+          "furigana": "自[じ]信[しん]",
+          "romaji": "jishin",
+          "meaning": "自信",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "もっと自分に自信を持ってください。",
+              "zh": "請對自己更有自信一點。"
+            }
+          ]
+        },
+        {
+          "word": "筋肉",
+          "reading": "きんにく",
+          "furigana": "筋[きん]肉[にく]",
+          "romaji": "kinniku",
+          "meaning": "肌肉",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "運動して筋肉を鍛えます。",
+              "zh": "透過運動鍛鍊肌肉。"
+            }
+          ]
+        },
+        {
+          "word": "骨",
+          "reading": "ほね",
+          "furigana": "骨[ほね]",
+          "romaji": "hone",
+          "meaning": "骨頭",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "魚の骨に気をつけてください。",
+              "zh": "請小心魚的骨頭。"
+            }
+          ]
+        },
+        {
+          "word": "血液",
+          "reading": "けつえき",
+          "furigana": "血[けつ]液[えき]",
+          "romaji": "ketsueki",
+          "meaning": "血液",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "血液の検査をします。",
+              "zh": "進行血液檢查。"
+            }
+          ]
+        },
+        {
+          "word": "皮膚",
+          "reading": "ひふ",
+          "furigana": "皮[ひ]膚[ふ]",
+          "romaji": "hifu",
+          "meaning": "皮膚",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "皮膚が乾燥しています。",
+              "zh": "皮膚很乾燥。"
+            }
+          ]
+        },
+        {
+          "word": "汗",
+          "reading": "あせ",
+          "furigana": "汗[あせ]",
+          "romaji": "ase",
+          "meaning": "汗水",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "走って汗をかきました。",
+              "zh": "因為跑步流汗了。"
+            }
+          ]
+        },
+        {
+          "word": "涙",
+          "reading": "なみだ",
+          "furigana": "涙[なみだ]",
+          "romaji": "namida",
+          "meaning": "眼淚",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "悲しくて涙が出ました。",
+              "zh": "因為悲傷而流下了眼淚。"
+            }
+          ]
+        },
+        {
+          "word": "息",
+          "reading": "いき",
+          "furigana": "息[いき]",
+          "romaji": "iki",
+          "meaning": "氣息、呼吸",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "深く息を吸ってください。",
+              "zh": "請深深地吸氣。"
+            }
+          ]
+        },
+        {
+          "word": "胃",
+          "reading": "い",
+          "furigana": "胃[い]",
+          "romaji": "i",
+          "meaning": "胃",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "食べすぎで胃が痛いです。",
+              "zh": "因為吃太多而胃痛。"
+            }
+          ]
+        },
+        {
+          "word": "腸",
+          "reading": "ちょう",
+          "furigana": "腸[ちょう]",
+          "romaji": "chou",
+          "meaning": "腸子",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "腸の調子がよくないです。",
+              "zh": "腸胃的狀況不太好。"
+            }
+          ]
+        },
+        {
+          "word": "血管",
+          "reading": "けっかん",
+          "furigana": "血[けっ]管[かん]",
+          "romaji": "kekkan",
+          "meaning": "血管",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "年齢とともに血管が硬くなります。",
+              "zh": "隨著年齡增長血管會變硬。"
+            }
+          ]
+        },
+        {
+          "word": "爪",
+          "reading": "つめ",
+          "furigana": "爪[つめ]",
+          "romaji": "tsume",
+          "meaning": "指甲",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "伸びた爪を切ります。",
+              "zh": "剪掉變長的指甲。"
+            }
+          ]
+        },
+        {
+          "word": "顎",
+          "reading": "あご",
+          "furigana": "顎[あご]",
+          "romaji": "ago",
+          "meaning": "下巴、顎",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "顎に怪我をしました。",
+              "zh": "下巴受傷了。"
+            }
+          ]
+        },
+        {
+          "word": "額",
+          "reading": "ひたい",
+          "furigana": "額[ひたい]",
+          "romaji": "hitai",
+          "meaning": "額頭",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "額に汗をかいています。",
+              "zh": "額頭流著汗。"
+            }
+          ]
+        },
+        {
+          "word": "頬",
+          "reading": "ほほ",
+          "furigana": "頬[ほほ]",
+          "romaji": "hoho",
+          "meaning": "臉頰",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "寒さで頬が赤くなりました。",
+              "zh": "因為寒冷臉頰變紅了。"
+            }
+          ]
+        },
+        {
+          "word": "胸",
+          "reading": "むね",
+          "furigana": "胸[むね]",
+          "romaji": "mune",
+          "meaning": "胸部、胸膛",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "緊張して胸がドキドキします。",
+              "zh": "因為緊張而胸口撲通撲通地跳。"
+            }
+          ]
+        },
+        {
+          "word": "腰",
+          "reading": "こし",
+          "furigana": "腰[こし]",
+          "romaji": "koshi",
+          "meaning": "腰部",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "重いものを持って腰が痛いです。",
+              "zh": "因為拿重物所以腰痛。"
+            }
+          ]
+        },
+        {
+          "word": "背中",
+          "reading": "せなか",
+          "furigana": "背[せ]中[なか]",
+          "romaji": "senaka",
+          "meaning": "背部",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "背中をまっすぐに伸ばしてください。",
+              "zh": "請把背部挺直。"
+            }
+          ]
+        },
+        {
+          "word": "腕",
+          "reading": "うで",
+          "furigana": "腕[うで]",
+          "romaji": "ude",
+          "meaning": "手臂",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "腕の筋肉を鍛えたいです。",
+              "zh": "想鍛鍊手臂的肌肉。"
+            }
+          ]
+        },
+        {
+          "word": "肩",
+          "reading": "かた",
+          "furigana": "肩[かた]",
+          "romaji": "kata",
+          "meaning": "肩膀",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "肩がこって痛いです。",
+              "zh": "肩膀僵硬痠痛。"
+            }
+          ]
+        },
+        {
+          "word": "命",
+          "reading": "いのち",
+          "furigana": "命[いのち]",
+          "romaji": "inochi",
+          "meaning": "生命、性命",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "命を大切にしなければなりません。",
+              "zh": "必須珍惜生命。"
+            }
+          ]
+        },
+        {
+          "word": "咳",
+          "reading": "せき",
+          "furigana": "咳[せき]",
+          "romaji": "seki",
+          "meaning": "咳嗽",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "風邪をひいて咳が出ます。",
+              "zh": "感冒了所以會咳嗽。"
+            }
+          ]
+        },
+        {
+          "word": "傷",
+          "reading": "きず",
+          "furigana": "傷[きず]",
+          "romaji": "kizu",
+          "meaning": "傷口、受傷",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "腕に小さな傷があります。",
+              "zh": "手臂上有個小傷口。"
+            }
+          ]
+        },
+        {
+          "word": "症状",
+          "reading": "しょうじょう",
+          "furigana": "症[しょう]状[じょう]",
+          "romaji": "shoujou",
+          "meaning": "症狀",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "熱や頭痛など、風邪の症状があります。",
+              "zh": "有發燒、頭痛等感冒的症狀。"
+            }
+          ]
+        },
+        {
+          "word": "手術",
+          "reading": "しゅじゅつ",
+          "furigana": "手[しゅ]術[じゅつ]",
+          "romaji": "shujutsu",
+          "meaning": "手術",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "来週、目の手術を受けます。",
+              "zh": "下週要接受眼睛的手術。"
+            }
+          ]
+        },
+        {
+          "word": "診察",
+          "reading": "しんさつ",
+          "furigana": "診[しん]察[さつ]",
+          "romaji": "shinsatsu",
+          "meaning": "診察、看診",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "病院で医者の診察を受けます。",
+              "zh": "在醫院接受醫生的診察。"
+            }
+          ]
+        },
+        {
+          "word": "患者",
+          "reading": "かんじゃ",
+          "furigana": "患[かん]者[じゃ]",
+          "romaji": "kanja",
+          "meaning": "病患、患者",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "病院にはたくさんの患者がいます。",
+              "zh": "醫院裡有很多患者。"
+            }
+          ]
+        },
+        {
+          "word": "治療",
+          "reading": "ちりょう",
+          "furigana": "治[ち]療[りょう]",
+          "romaji": "chiryou",
+          "meaning": "治療",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "虫歯の治療をしてもらいました。",
+              "zh": "接受了蛀牙的治療。"
+            }
+          ]
+        },
+        {
+          "word": "薬局",
+          "reading": "やっきょく",
+          "furigana": "薬[やっ]局[きょく]",
+          "romaji": "yakkyoku",
+          "meaning": "藥局",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "病院の帰りに薬局で薬をもらいます。",
+              "zh": "從醫院回來的路上在藥局拿藥。"
+            }
+          ]
+        },
+        {
+          "word": "看病",
+          "reading": "かんびょう",
+          "furigana": "看[かん]病[びょう]",
+          "romaji": "kanbyou",
+          "meaning": "看護、照顧病患",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "熱を出した子供の看病をします。",
+              "zh": "照顧發燒的孩子。"
+            }
+          ]
+        },
+        {
+          "word": "具合",
+          "reading": "ぐあい",
+          "furigana": "具[ぐ]合[あい]",
+          "romaji": "guai",
+          "meaning": "身體狀況",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "少しお腹の具合が悪いです。",
+              "zh": "肚子有點不舒服。"
+            }
+          ]
+        },
+        {
+          "word": "栄養",
+          "reading": "えいよう",
+          "furigana": "栄[えい]養[よう]",
+          "romaji": "eiyou",
+          "meaning": "營養",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "野菜を食べて栄養をとります。",
+              "zh": "吃蔬菜攝取營養。"
+            }
+          ]
+        },
+        {
+          "word": "寿命",
+          "reading": "じゅみょう",
+          "furigana": "寿[じゅ]命[みょう]",
+          "romaji": "jumyou",
+          "meaning": "壽命",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "日本人は平均寿命が長いです。",
+              "zh": "日本人的平均壽命很長。"
+            }
+          ]
+        },
+        {
+          "word": "毒",
+          "reading": "どく",
+          "furigana": "毒[どく]",
+          "romaji": "doku",
+          "meaning": "毒",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "このキノコには毒があります。",
+              "zh": "這種蘑菇有毒。"
+            }
+          ]
+        },
+        {
+          "word": "回復",
+          "reading": "かいふく",
+          "furigana": "回[かい]復[ふく]",
+          "romaji": "kaifuku",
+          "meaning": "康復、恢復",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "病気が早く回復することを祈っています。",
+              "zh": "祈禱疾病能早日康復。"
+            }
+          ]
+        },
+        {
+          "word": "健康",
+          "reading": "けんこう",
+          "furigana": "健[けん]康[こう]",
+          "romaji": "kenkou",
+          "meaning": "健康",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "健康のために毎日運動しています。",
+              "zh": "為了健康每天運動。"
+            }
+          ]
+        },
+        {
+          "word": "体温",
+          "reading": "たいおん",
+          "furigana": "体[たい]温[おん]",
+          "romaji": "taion",
+          "meaning": "體溫",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "朝起きて体温を測ります。",
+              "zh": "早上起床後量體溫。"
+            }
+          ]
+        },
+        {
+          "word": "睡眠",
+          "reading": "すいみん",
+          "furigana": "睡[すい]眠[みん]",
+          "romaji": "suimin",
+          "meaning": "睡眠",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "睡眠不足で頭が痛いです。",
+              "zh": "因為睡眠不足所以頭痛。"
+            }
+          ]
+        },
+        {
+          "word": "呼吸",
+          "reading": "こきゅう",
+          "furigana": "呼[こ]吸[きゅう]",
+          "romaji": "kokyuu",
+          "meaning": "呼吸",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "走ったので呼吸が苦しいです。",
+              "zh": "因為跑了步所以呼吸困難。"
+            }
+          ]
+        },
+        {
+          "word": "予防",
+          "reading": "よぼう",
+          "furigana": "予[よ]防[ぼう]",
+          "romaji": "yobou",
+          "meaning": "預防",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "手洗いをして風邪を予防します。",
+              "zh": "洗手來預防感冒。"
+            }
+          ]
+        },
+        {
+          "word": "疲労",
+          "reading": "ひろう",
+          "furigana": "疲[ひ]労[ろう]",
+          "romaji": "hirou",
+          "meaning": "疲勞",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "仕事が忙しくて疲労がたまっています。",
+              "zh": "工作很忙累積了疲勞。"
+            }
+          ]
+        },
+        {
+          "word": "感情",
+          "reading": "かんじょう",
+          "furigana": "感[かん]情[じょう]",
+          "romaji": "kanjou",
+          "meaning": "感情、情感",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "彼女は感情を顔に出しません。",
+              "zh": "她不會把感情表現在臉上。"
+            }
+          ]
+        },
+        {
+          "word": "性格",
+          "reading": "せいかく",
+          "furigana": "性[せい]格[かく]",
+          "romaji": "seikaku",
+          "meaning": "性格",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "彼とは性格が合わないようです。",
+              "zh": "我和他性格好像合不來。"
+            }
+          ]
+        },
+        {
+          "word": "心理",
+          "reading": "しんり",
+          "furigana": "心[しん]理[り]",
+          "romaji": "shinri",
+          "meaning": "心理",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "人間の複雑な心理を理解するのは難しいです。",
+              "zh": "要理解人類複雜的心理很困難。"
+            }
+          ]
+        },
+        {
+          "word": "記憶",
+          "reading": "きおく",
+          "furigana": "記[き]憶[おく]",
+          "romaji": "kioku",
+          "meaning": "記憶",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "子供の頃の記憶がありません。",
+              "zh": "沒有小時候的記憶。"
+            }
+          ]
+        },
+        {
+          "word": "意志",
+          "reading": "いし",
+          "furigana": "意[い]志[し]",
+          "romaji": "ishi",
+          "meaning": "意志",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "強い意志を持てば、目標を達成できます。",
+              "zh": "只要抱持堅強的意志，就能達成目標。"
+            }
+          ]
+        },
+        {
+          "word": "意識",
+          "reading": "いしき",
+          "furigana": "意[い]識[しき]",
+          "romaji": "ishiki",
+          "meaning": "意識",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "事故の後、彼は意識を取り戻しました。",
+              "zh": "事故之後，他恢復了意識。"
+            }
+          ]
+        },
+        {
+          "word": "精神",
+          "reading": "せいしん",
+          "furigana": "精[せい]神[しん]",
+          "romaji": "seishin",
+          "meaning": "精神、心靈",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "スポーツを通じて精神を鍛えます。",
+              "zh": "透過運動鍛鍊精神。"
+            }
+          ]
+        },
+        {
+          "word": "愛情",
+          "reading": "あいじょう",
+          "furigana": "愛[あい]情[じょう]",
+          "romaji": "aijou",
+          "meaning": "愛情",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "親の愛情をたっぷり受けて育ちました。",
+              "zh": "接受了父母滿滿的愛情長大。"
+            }
+          ]
+        },
+        {
+          "word": "勇気",
+          "reading": "ゆうき",
+          "furigana": "勇[ゆう]気[き]",
+          "romaji": "yuuki",
+          "meaning": "勇氣",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "勇気を出して告白しました。",
+              "zh": "鼓起勇氣告白了。"
+            }
+          ]
+        },
+        {
+          "word": "自信",
+          "reading": "じしん",
+          "furigana": "自[じ]信[しん]",
+          "romaji": "jishin",
+          "meaning": "自信",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "もっと自分に自信を持ってください。",
+              "zh": "請對自己更有自信一點。"
+            }
+          ]
+        },
+        {
+          "word": "我慢",
+          "reading": "がまん",
+          "furigana": "我[が]慢[まん]",
+          "romaji": "gaman",
+          "meaning": "忍耐",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "痛みを我慢して歩き続けました。",
+              "zh": "忍耐著疼痛繼續走。"
+            }
+          ]
+        },
+        {
+          "word": "苦労",
+          "reading": "くろう",
+          "furigana": "苦[く]労[ろう]",
+          "romaji": "kurou",
+          "meaning": "辛勞、吃苦",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "若い頃はいろいろな苦労をしました。",
+              "zh": "年輕時吃了很多苦。"
+            }
+          ]
+        },
+        {
+          "word": "感覚",
+          "reading": "かんかく",
+          "furigana": "感[かん]覚[かく]",
+          "romaji": "kankaku",
+          "meaning": "感覺",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "寒さで手の感覚がなくなりました。",
+              "zh": "因為寒冷手變得沒有感覺了。"
+            }
+          ]
+        },
+        {
+          "word": "満足",
+          "reading": "まんぞく",
+          "furigana": "満[まん]足[ぞく]",
+          "romaji": "manzoku",
+          "meaning": "滿足、滿意",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "今の生活に満足しています。",
+              "zh": "對現在的生活感到滿足。"
+            }
+          ]
+        },
+        {
+          "word": "不満",
+          "reading": "ふまん",
+          "furigana": "不[ふ]満[まん]",
+          "romaji": "fuman",
+          "meaning": "不滿",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "彼は会社に対して不満を持っています。",
+              "zh": "他對公司抱有不滿。"
+            }
+          ]
+        },
+        {
+          "word": "関心",
+          "reading": "かんしん",
+          "furigana": "関[かん]心[しん]",
+          "romaji": "kanshin",
+          "meaning": "關心、興趣",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "環境問題に関心があります。",
+              "zh": "對環境問題有關心(感興趣)。"
+            }
+          ]
+        },
+        {
+          "word": "感謝",
+          "reading": "かんしゃ",
+          "furigana": "感[かん]謝[しゃ]",
+          "romaji": "kansha",
+          "meaning": "感謝",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "助けてくれた友人に感謝しています。",
+              "zh": "感謝幫助我的朋友。"
+            }
+          ]
+        },
+        {
+          "word": "期待",
+          "reading": "きたい",
+          "furigana": "期[き]待[たい]",
+          "romaji": "kitai",
+          "meaning": "期待",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "彼の活躍に期待しています。",
+              "zh": "很期待他的活躍表現。"
+            }
+          ]
+        },
+        {
+          "word": "怒り",
+          "reading": "いかり",
+          "furigana": "怒[いか]り",
+          "romaji": "ikari",
+          "meaning": "憤怒",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "怒りを抑えることができませんでした。",
+              "zh": "無法壓抑住憤怒。"
+            }
+          ]
+        },
+        {
+          "word": "悲しみ",
+          "reading": "かなしみ",
+          "furigana": "悲[かな]しみ",
+          "romaji": "kanashimi",
+          "meaning": "悲傷",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "深い悲しみを乗り越えます。",
+              "zh": "克服深沉的悲傷。"
+            }
+          ]
+        },
+        {
+          "word": "食欲",
+          "reading": "しょくよく",
+          "furigana": "食[しょく]欲[よく]",
+          "romaji": "shokuyoku",
+          "meaning": "食慾",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "夏は暑くて食欲がありません。",
+              "zh": "夏天很熱沒有食慾。"
+            }
+          ]
+        },
+        {
+          "word": "外食",
+          "reading": "がいしょく",
+          "furigana": "外[がい]食[しょく]",
+          "romaji": "gaishoku",
+          "meaning": "外食、在外用餐",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "週末は家族で外食します。",
+              "zh": "週末和家人在外用餐。"
+            }
+          ]
+        },
+        {
+          "word": "食卓",
+          "reading": "しょくたく",
+          "furigana": "食[しょく]卓[たく]",
+          "romaji": "shokutaku",
+          "meaning": "餐桌",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "食卓に料理が並んでいます。",
+              "zh": "餐桌上擺滿了料理。"
+            }
+          ]
+        },
+        {
+          "word": "献立",
+          "reading": "こんだて",
+          "furigana": "献[こん]立[だて]",
+          "romaji": "kondate",
+          "meaning": "菜單、食譜",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "今日の夕食の献立を考えます。",
+              "zh": "思考今天晚餐的菜色。"
+            }
+          ]
+        },
+        {
+          "word": "おかず",
+          "reading": "おかず",
+          "furigana": "おかず",
+          "romaji": "okazu",
+          "meaning": "配菜、菜餚",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "ご飯のおかずを作ります。",
+              "zh": "做配飯的菜。"
+            }
+          ]
+        },
+        {
+          "word": "缶詰",
+          "reading": "かんづめ",
+          "furigana": "缶[かん]詰[づめ]",
+          "romaji": "kanzume",
+          "meaning": "罐頭",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "魚の缶詰を買ってきました。",
+              "zh": "買了魚罐頭回來。"
+            }
+          ]
+        },
+        {
+          "word": "冷凍",
+          "reading": "れいとう",
+          "furigana": "冷[れい]凍[とう]",
+          "romaji": "reitou",
+          "meaning": "冷凍",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "肉を冷凍して保存します。",
+              "zh": "把肉冷凍保存。"
+            }
+          ]
+        },
+        {
+          "word": "穀物",
+          "reading": "こくもつ",
+          "furigana": "穀[こく]物[もつ]",
+          "romaji": "kokumotsu",
+          "meaning": "穀物",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "米や麦は大切な穀物です。",
+              "zh": "米和麥是重要的穀物。"
+            }
+          ]
+        },
+        {
+          "word": "農業",
+          "reading": "のうぎょう",
+          "furigana": "農[のう]業[ぎょう]",
+          "romaji": "nougyou",
+          "meaning": "農業",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "この村は農業が盛んです。",
+              "zh": "這個村莊的農業很興盛。"
+            }
+          ]
+        },
+        {
+          "word": "調味料",
+          "reading": "ちょうみりょう",
+          "furigana": "調[ちょう]味[み]料[りょう]",
+          "romaji": "choumiryou",
+          "meaning": "調味料",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "塩や醤油などの調味料を使います。",
+              "zh": "使用鹽和醬油等調味料。"
+            }
+          ]
+        },
+        {
+          "word": "大豆",
+          "reading": "だいず",
+          "furigana": "大[だい]豆[ず]",
+          "romaji": "daizu",
+          "meaning": "大豆、黃豆",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "豆腐は大豆から作られます。",
+              "zh": "豆腐是由大豆製成的。"
+            }
+          ]
+        },
+        {
+          "word": "小麦",
+          "reading": "こむぎ",
+          "furigana": "小[こ]麦[むぎ]",
+          "romaji": "komugi",
+          "meaning": "小麥",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "パンは小麦から作られます。",
+              "zh": "麵包是由小麥製成的。"
+            }
+          ]
+        },
+        {
+          "word": "包丁",
+          "reading": "ほうちょう",
+          "furigana": "包[ほう]丁[ちょう]",
+          "romaji": "houchou",
+          "meaning": "菜刀",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "よく切れる包丁を買いました。",
+              "zh": "買了一把很好切的菜刀。"
+            }
+          ]
+        },
+        {
+          "word": "鍋",
+          "reading": "なべ",
+          "furigana": "鍋[なべ]",
+          "romaji": "nabe",
+          "meaning": "鍋子",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "寒い日は家族で鍋を食べます。",
+              "zh": "寒冷的日子和家人一起吃火鍋。"
+            }
+          ]
+        },
+        {
+          "word": "湯",
+          "reading": "ゆ",
+          "furigana": "湯[ゆ]",
+          "romaji": "yu",
+          "meaning": "熱水",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "お茶を入れるために湯を沸かします。",
+              "zh": "為了泡茶而燒熱水。"
+            }
+          ]
+        },
+        {
+          "word": "氷",
+          "reading": "こおり",
+          "furigana": "氷[こおり]",
+          "romaji": "koori",
+          "meaning": "冰塊",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "ジュースに氷を入れます。",
+              "zh": "在果汁裡加冰塊。"
+            }
+          ]
+        },
+        {
+          "word": "主食",
+          "reading": "しゅしょく",
+          "furigana": "主[しゅ]食[しょく]",
+          "romaji": "shushoku",
+          "meaning": "主食",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "日本人の主食はお米です。",
+              "zh": "日本人的主食是米飯。"
+            }
+          ]
+        },
+        {
+          "word": "デザート",
+          "reading": "でざーと",
+          "furigana": "デザート",
+          "romaji": "deza-to",
+          "meaning": "甜點",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "食後に甘いデザートを食べます。",
+              "zh": "飯後吃甜的點心。"
+            }
+          ]
+        },
+        {
+          "word": "食器",
+          "reading": "しょっき",
+          "furigana": "食[しょっ]器[き]",
+          "romaji": "shokki",
+          "meaning": "餐具",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "食事の後は食器を洗います。",
+              "zh": "吃完飯後洗餐具。"
+            }
+          ]
+        },
+        {
+          "word": "風味",
+          "reading": "ふうみ",
+          "furigana": "風[ふう]味[み]",
+          "romaji": "fuumi",
+          "meaning": "風味、味道",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N3",
+          "sentences": [
+            {
+              "ja": "チーズの豊かな風味がします。",
+              "zh": "散發出豐富的起司風味。"
+            }
+          ]
         }
       ],
       "kana": {
