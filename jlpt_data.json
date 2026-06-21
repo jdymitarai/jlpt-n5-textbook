@@ -31902,6 +31902,2046 @@
               "zh": "書桌上有花瓶。"
             }
           ]
+        },
+        {
+          "word": "車",
+          "reading": "くるま",
+          "furigana": "車[くるま]",
+          "romaji": "kuruma",
+          "meaning": "車子、汽車",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "車で会社へ行きます。",
+              "zh": "開車去公司。"
+            }
+          ]
+        },
+        {
+          "word": "自動車",
+          "reading": "じどうしゃ",
+          "furigana": "自[じ]動[どう]車[しゃ]",
+          "romaji": "jidousha",
+          "meaning": "汽車",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "自動車の運転を習います。",
+              "zh": "學習開車。"
+            }
+          ]
+        },
+        {
+          "word": "自転車",
+          "reading": "じてんしゃ",
+          "furigana": "自[じ]転[てん]車[しゃ]",
+          "romaji": "jitensha",
+          "meaning": "腳踏車、自行車",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "自転車で学校に行きます。",
+              "zh": "騎腳踏車去學校。"
+            }
+          ]
+        },
+        {
+          "word": "電車",
+          "reading": "でんしゃ",
+          "furigana": "電[でん]車[しゃ]",
+          "romaji": "densha",
+          "meaning": "電車",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "電車に乗ります。",
+              "zh": "搭電車。"
+            }
+          ]
+        },
+        {
+          "word": "地下鉄",
+          "reading": "ちかてつ",
+          "furigana": "地[ち]下[か]鉄[てつ]",
+          "romaji": "chikatetsu",
+          "meaning": "地下鐵",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "地下鉄は便利です。",
+              "zh": "地下鐵很方便。"
+            }
+          ]
+        },
+        {
+          "word": "新幹線",
+          "reading": "しんかんせん",
+          "furigana": "新[しん]幹[かん]線[せん]",
+          "romaji": "shinkansen",
+          "meaning": "新幹線",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "新幹線で東京へ行きます。",
+              "zh": "搭新幹線去東京。"
+            }
+          ]
+        },
+        {
+          "word": "バス",
+          "reading": "ばす",
+          "furigana": "バス",
+          "romaji": "basu",
+          "meaning": "公車、巴士",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "バスを待ちます。",
+              "zh": "等公車。"
+            }
+          ]
+        },
+        {
+          "word": "タクシー",
+          "reading": "たくしー",
+          "furigana": "タクシー",
+          "romaji": "takushii",
+          "meaning": "計程車",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "タクシーを呼びましょう。",
+              "zh": "我們叫計程車吧。"
+            }
+          ]
+        },
+        {
+          "word": "飛行機",
+          "reading": "ひこうき",
+          "furigana": "飛[ひ]行[こう]機[き]",
+          "romaji": "hikouki",
+          "meaning": "飛機",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "飛行機は速いです。",
+              "zh": "飛機很快。"
+            }
+          ]
+        },
+        {
+          "word": "船",
+          "reading": "ふね",
+          "furigana": "船[ふね]",
+          "romaji": "fune",
+          "meaning": "船",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "海に船がいます。",
+              "zh": "海上有船。"
+            }
+          ]
+        },
+        {
+          "word": "駅",
+          "reading": "えき",
+          "furigana": "駅[えき]",
+          "romaji": "eki",
+          "meaning": "車站",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "駅の前で会いましょう。",
+              "zh": "在車站前見面吧。"
+            }
+          ]
+        },
+        {
+          "word": "切符",
+          "reading": "きっぷ",
+          "furigana": "切[きっ]符[ぷ]",
+          "romaji": "kippu",
+          "meaning": "車票",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "切符を買います。",
+              "zh": "買車票。"
+            }
+          ]
+        },
+        {
+          "word": "道",
+          "reading": "みち",
+          "furigana": "道[みち]",
+          "romaji": "michi",
+          "meaning": "道路",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "道を歩きます。",
+              "zh": "走在路上。"
+            }
+          ]
+        },
+        {
+          "word": "橋",
+          "reading": "はし",
+          "furigana": "橋[はし]",
+          "romaji": "hashi",
+          "meaning": "橋",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "あの橋を渡ります。",
+              "zh": "過那座橋。"
+            }
+          ]
+        },
+        {
+          "word": "交差点",
+          "reading": "こうさてん",
+          "furigana": "交[こう]差[さ]点[てん]",
+          "romaji": "kousaten",
+          "meaning": "十字路口、交叉路口",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "次の交差点を右に曲がります。",
+              "zh": "在下一個十字路口右轉。"
+            }
+          ]
+        },
+        {
+          "word": "信号",
+          "reading": "しんごう",
+          "furigana": "信[しん]号[ごう]",
+          "romaji": "shingou",
+          "meaning": "紅綠燈、號誌",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "信号が赤です。",
+              "zh": "紅綠燈是紅燈。"
+            }
+          ]
+        },
+        {
+          "word": "角",
+          "reading": "かど",
+          "furigana": "角[かど]",
+          "romaji": "kado",
+          "meaning": "轉角、角落",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "そこの角を曲がってください。",
+              "zh": "請在那個轉角轉彎。"
+            }
+          ]
+        },
+        {
+          "word": "右",
+          "reading": "みぎ",
+          "furigana": "右[みぎ]",
+          "romaji": "migi",
+          "meaning": "右邊",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "右を見てください。",
+              "zh": "請看右邊。"
+            }
+          ]
+        },
+        {
+          "word": "左",
+          "reading": "ひだり",
+          "furigana": "左[ひだり]",
+          "romaji": "hidari",
+          "meaning": "左邊",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "左に銀行があります。",
+              "zh": "左邊有銀行。"
+            }
+          ]
+        },
+        {
+          "word": "運転",
+          "reading": "うんてん",
+          "furigana": "運[うん]転[てん]",
+          "romaji": "unten",
+          "meaning": "駕駛、開車",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "車の運転ができます。",
+              "zh": "我會開車。"
+            }
+          ]
+        },
+        {
+          "word": "映画",
+          "reading": "えいが",
+          "furigana": "映[えい]画[が]",
+          "romaji": "eiga",
+          "meaning": "電影",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "映画を見に行きます。",
+              "zh": "去看電影。"
+            }
+          ]
+        },
+        {
+          "word": "音楽",
+          "reading": "おんがく",
+          "furigana": "音[おん]楽[がく]",
+          "romaji": "ongaku",
+          "meaning": "音樂",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "毎日音楽を聞きます。",
+              "zh": "每天聽音樂。"
+            }
+          ]
+        },
+        {
+          "word": "歌",
+          "reading": "うた",
+          "furigana": "歌[うた]",
+          "romaji": "uta",
+          "meaning": "歌曲、歌",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "上手な歌ですね。",
+              "zh": "唱得真好的歌呢。"
+            }
+          ]
+        },
+        {
+          "word": "ギター",
+          "reading": "ぎたー",
+          "furigana": "ギター",
+          "romaji": "gitaa",
+          "meaning": "吉他",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "ギターを弾きます。",
+              "zh": "彈吉他。"
+            }
+          ]
+        },
+        {
+          "word": "ピアノ",
+          "reading": "ぴあの",
+          "furigana": "ピアノ",
+          "romaji": "piano",
+          "meaning": "鋼琴",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "妹はピアノが上手です。",
+              "zh": "妹妹很擅長彈鋼琴。"
+            }
+          ]
+        },
+        {
+          "word": "雑誌",
+          "reading": "ざっし",
+          "furigana": "雑[ざっ]誌[し]",
+          "romaji": "zasshi",
+          "meaning": "雜誌",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "雑誌を読みます。",
+              "zh": "看雜誌。"
+            }
+          ]
+        },
+        {
+          "word": "本",
+          "reading": "ほん",
+          "furigana": "本[ほん]",
+          "romaji": "hon",
+          "meaning": "書本",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "図書館で本を借ります。",
+              "zh": "在圖書館借書。"
+            }
+          ]
+        },
+        {
+          "word": "写真",
+          "reading": "しゃしん",
+          "furigana": "写[しゃ]真[しん]",
+          "romaji": "shashin",
+          "meaning": "照片",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "友達と写真を撮りました。",
+              "zh": "和朋友拍了照。"
+            }
+          ]
+        },
+        {
+          "word": "カメラ",
+          "reading": "かめら",
+          "furigana": "カメラ",
+          "romaji": "kamera",
+          "meaning": "相機",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "新しいカメラが欲しいです。",
+              "zh": "想要新的相機。"
+            }
+          ]
+        },
+        {
+          "word": "旅行",
+          "reading": "りょこう",
+          "furigana": "旅[りょ]行[こう]",
+          "romaji": "ryokou",
+          "meaning": "旅行",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "来月、旅行に行きます。",
+              "zh": "下個月去旅行。"
+            }
+          ]
+        },
+        {
+          "word": "プール",
+          "reading": "ぷーる",
+          "furigana": "プール",
+          "romaji": "puuru",
+          "meaning": "游泳池",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "夏はプールで泳ぎます。",
+              "zh": "夏天在游泳池游泳。"
+            }
+          ]
+        },
+        {
+          "word": "公園",
+          "reading": "こうえん",
+          "furigana": "公[こう]園[えん]",
+          "romaji": "kouen",
+          "meaning": "公園",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "公園を散歩します。",
+              "zh": "在公園散步。"
+            }
+          ]
+        },
+        {
+          "word": "買い物",
+          "reading": "かいもの",
+          "furigana": "買[か]い 物[もの]",
+          "romaji": "kaimono",
+          "meaning": "購物、買東西",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "デパートへ買い物に行きます。",
+              "zh": "去百貨公司買東西。"
+            }
+          ]
+        },
+        {
+          "word": "お土産",
+          "reading": "おみやげ",
+          "furigana": "お 土[みや]産[げ]",
+          "romaji": "omiyage",
+          "meaning": "伴手禮、土產",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "旅行のお土産を買いました。",
+              "zh": "買了旅行的伴手禮。"
+            }
+          ]
+        },
+        {
+          "word": "お祭り",
+          "reading": "おまつり",
+          "furigana": "お 祭[まつ]り",
+          "romaji": "omatsuri",
+          "meaning": "祭典、節慶",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "夏のお祭りは楽しいです。",
+              "zh": "夏天的祭典很有趣。"
+            }
+          ]
+        },
+        {
+          "word": "手紙",
+          "reading": "てがみ",
+          "furigana": "手[て]紙[がみ]",
+          "romaji": "tegami",
+          "meaning": "信件",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "友達に手紙を書きます。",
+              "zh": "寫信給朋友。"
+            }
+          ]
+        },
+        {
+          "word": "切手",
+          "reading": "きって",
+          "furigana": "切[きっ]手[て]",
+          "romaji": "kitte",
+          "meaning": "郵票",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "郵便局で切手を買います。",
+              "zh": "在郵局買郵票。"
+            }
+          ]
+        },
+        {
+          "word": "テニス",
+          "reading": "てにす",
+          "furigana": "テニス",
+          "romaji": "tenisu",
+          "meaning": "網球",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "一緒にテニスをしましょう。",
+              "zh": "一起打網球吧。"
+            }
+          ]
+        },
+        {
+          "word": "サッカー",
+          "reading": "さっかー",
+          "furigana": "サッカー",
+          "romaji": "sakkaa",
+          "meaning": "足球",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "サッカーを見るのが好きです。",
+              "zh": "喜歡看足球比賽。"
+            }
+          ]
+        },
+        {
+          "word": "パーティー",
+          "reading": "ぱーてぃー",
+          "furigana": "パーティー",
+          "romaji": "paatii",
+          "meaning": "派對",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "今夜はパーティーがあります。",
+              "zh": "今晚有派對。"
+            }
+          ]
+        },
+        {
+          "word": "天気",
+          "reading": "てんき",
+          "furigana": "天[てん]気[き]",
+          "romaji": "tenki",
+          "meaning": "天氣",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "今日はいい天気です。",
+              "zh": "今天天氣很好。"
+            }
+          ]
+        },
+        {
+          "word": "晴れ",
+          "reading": "はれ",
+          "furigana": "晴[は]れ",
+          "romaji": "hare",
+          "meaning": "晴天",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "明日は晴れです。",
+              "zh": "明天是晴天。"
+            }
+          ]
+        },
+        {
+          "word": "曇り",
+          "reading": "くもり",
+          "furigana": "曇[くも]り",
+          "romaji": "kumori",
+          "meaning": "陰天",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "今日は曇りですね。",
+              "zh": "今天是陰天呢。"
+            }
+          ]
+        },
+        {
+          "word": "雨",
+          "reading": "あめ",
+          "furigana": "雨[あめ]",
+          "romaji": "ame",
+          "meaning": "雨",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "雨が降っています。",
+              "zh": "正在下雨。"
+            }
+          ]
+        },
+        {
+          "word": "雪",
+          "reading": "ゆき",
+          "furigana": "雪[ゆき]",
+          "romaji": "yuki",
+          "meaning": "雪",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "冬は雪が降ります。",
+              "zh": "冬天下雪。"
+            }
+          ]
+        },
+        {
+          "word": "風",
+          "reading": "かぜ",
+          "furigana": "風[かぜ]",
+          "romaji": "kaze",
+          "meaning": "風",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "強い風が吹いています。",
+              "zh": "正吹著強風。"
+            }
+          ]
+        },
+        {
+          "word": "空",
+          "reading": "そら",
+          "furigana": "空[そら]",
+          "romaji": "sora",
+          "meaning": "天空",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "空が青いです。",
+              "zh": "天空很藍。"
+            }
+          ]
+        },
+        {
+          "word": "月",
+          "reading": "つき",
+          "furigana": "月[つき]",
+          "romaji": "tsuki",
+          "meaning": "月亮",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "夜、月を見ました。",
+              "zh": "晚上看到了月亮。"
+            }
+          ]
+        },
+        {
+          "word": "春",
+          "reading": "はる",
+          "furigana": "春[はる]",
+          "romaji": "haru",
+          "meaning": "春天",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "春は暖かいです。",
+              "zh": "春天很溫暖。"
+            }
+          ]
+        },
+        {
+          "word": "夏",
+          "reading": "なつ",
+          "furigana": "夏[なつ]",
+          "romaji": "natsu",
+          "meaning": "夏天",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "夏はとても暑いです。",
+              "zh": "夏天非常熱。"
+            }
+          ]
+        },
+        {
+          "word": "秋",
+          "reading": "あき",
+          "furigana": "秋[あき]",
+          "romaji": "aki",
+          "meaning": "秋天",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "秋は涼しいです。",
+              "zh": "秋天很涼爽。"
+            }
+          ]
+        },
+        {
+          "word": "冬",
+          "reading": "ふゆ",
+          "furigana": "冬[ふゆ]",
+          "romaji": "fuyu",
+          "meaning": "冬天",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "冬は寒いです。",
+              "zh": "冬天很冷。"
+            }
+          ]
+        },
+        {
+          "word": "朝",
+          "reading": "あさ",
+          "furigana": "朝[あさ]",
+          "romaji": "asa",
+          "meaning": "早上",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "毎朝、６時に起きます。",
+              "zh": "每天早上六點起床。"
+            }
+          ]
+        },
+        {
+          "word": "昼",
+          "reading": "ひる",
+          "furigana": "昼[ひる]",
+          "romaji": "hiru",
+          "meaning": "中午、白天",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "昼から雨が降ります。",
+              "zh": "從中午開始下雨。"
+            }
+          ]
+        },
+        {
+          "word": "夕方",
+          "reading": "ゆうがた",
+          "furigana": "夕[ゆう]方[がた]",
+          "romaji": "yuugata",
+          "meaning": "傍晚",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "夕方に家に帰ります。",
+              "zh": "傍晚回家。"
+            }
+          ]
+        },
+        {
+          "word": "夜",
+          "reading": "よる",
+          "furigana": "夜[よる]",
+          "romaji": "yoru",
+          "meaning": "晚上",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "夜、テレビを見ます。",
+              "zh": "晚上看電視。"
+            }
+          ]
+        },
+        {
+          "word": "晩",
+          "reading": "ばん",
+          "furigana": "晩[ばん]",
+          "romaji": "ban",
+          "meaning": "晚上、晚間",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "毎晩、本を読みます。",
+              "zh": "每晚看書。"
+            }
+          ]
+        },
+        {
+          "word": "夜中",
+          "reading": "よなか",
+          "furigana": "夜[よ]中[なか]",
+          "romaji": "yonaka",
+          "meaning": "半夜",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "夜中に電話がありました。",
+              "zh": "半夜有電話打來。"
+            }
+          ]
+        },
+        {
+          "word": "今朝",
+          "reading": "けさ",
+          "furigana": "今[け]朝[さ]",
+          "romaji": "kesa",
+          "meaning": "今天早上",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "今朝、早く起きました。",
+              "zh": "今天早上很早起床。"
+            }
+          ]
+        },
+        {
+          "word": "今晩",
+          "reading": "こんばん",
+          "furigana": "今[こん]晩[ばん]",
+          "romaji": "konban",
+          "meaning": "今天晚上",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "今晩、友達が来ます。",
+              "zh": "今晚朋友要來。"
+            }
+          ]
+        },
+        {
+          "word": "山",
+          "reading": "やま",
+          "furigana": "山[やま]",
+          "romaji": "yama",
+          "meaning": "山",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "高い山に登ります。",
+              "zh": "爬高山。"
+            }
+          ]
+        },
+        {
+          "word": "川",
+          "reading": "かわ",
+          "furigana": "川[かわ]",
+          "romaji": "kawa",
+          "meaning": "河川",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "川で魚を釣ります。",
+              "zh": "在河邊釣魚。"
+            }
+          ]
+        },
+        {
+          "word": "海",
+          "reading": "うみ",
+          "furigana": "海[うみ]",
+          "romaji": "umi",
+          "meaning": "海、海洋",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "海は広くて青いです。",
+              "zh": "大海廣闊又蔚藍。"
+            }
+          ]
+        },
+        {
+          "word": "池",
+          "reading": "いけ",
+          "furigana": "池[いけ]",
+          "romaji": "ike",
+          "meaning": "池塘",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "公園に池があります。",
+              "zh": "公園裡有池塘。"
+            }
+          ]
+        },
+        {
+          "word": "木",
+          "reading": "き",
+          "furigana": "木[き]",
+          "romaji": "ki",
+          "meaning": "樹木",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "あの木はとても古いです。",
+              "zh": "那棵樹非常老。"
+            }
+          ]
+        },
+        {
+          "word": "花",
+          "reading": "はな",
+          "furigana": "花[はな]",
+          "romaji": "hana",
+          "meaning": "花",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "きれいな花が咲きました。",
+              "zh": "開了漂亮的花。"
+            }
+          ]
+        },
+        {
+          "word": "国",
+          "reading": "くに",
+          "furigana": "国[くに]",
+          "romaji": "kuni",
+          "meaning": "國家",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "あなたの国はどこですか。",
+              "zh": "你的國家在哪裡？"
+            }
+          ]
+        },
+        {
+          "word": "町",
+          "reading": "まち",
+          "furigana": "町[まち]",
+          "romaji": "machi",
+          "meaning": "城鎮、城市",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "この町は静かです。",
+              "zh": "這個小鎮很安靜。"
+            }
+          ]
+        },
+        {
+          "word": "村",
+          "reading": "むら",
+          "furigana": "村[むら]",
+          "romaji": "mura",
+          "meaning": "村莊",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "私は小さい村に住んでいます。",
+              "zh": "我住在一個小村莊裡。"
+            }
+          ]
+        },
+        {
+          "word": "外国",
+          "reading": "がいこく",
+          "furigana": "外[がい]国[こく]",
+          "romaji": "gaikoku",
+          "meaning": "外國",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "外国へ旅行に行きます。",
+              "zh": "去外國旅行。"
+            }
+          ]
+        },
+        {
+          "word": "地図",
+          "reading": "ちず",
+          "furigana": "地[ち]図[ず]",
+          "romaji": "chizu",
+          "meaning": "地圖",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "地図を見て歩きます。",
+              "zh": "看著地圖走。"
+            }
+          ]
+        },
+        {
+          "word": "所",
+          "reading": "ところ",
+          "furigana": "所[ところ]",
+          "romaji": "tokoro",
+          "meaning": "地方、場所",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "ここはどんな所ですか。",
+              "zh": "這裡是個怎樣的地方？"
+            }
+          ]
+        },
+        {
+          "word": "北",
+          "reading": "きた",
+          "furigana": "北[きた]",
+          "romaji": "kita",
+          "meaning": "北邊",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "北に山があります。",
+              "zh": "北邊有山。"
+            }
+          ]
+        },
+        {
+          "word": "南",
+          "reading": "みなみ",
+          "furigana": "南[みなみ]",
+          "romaji": "minami",
+          "meaning": "南邊",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "南の国は暑いです。",
+              "zh": "南方的國家很熱。"
+            }
+          ]
+        },
+        {
+          "word": "東",
+          "reading": "ひがし",
+          "furigana": "東[ひがし]",
+          "romaji": "higashi",
+          "meaning": "東邊",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "太陽は東から昇ります。",
+              "zh": "太陽從東邊升起。"
+            }
+          ]
+        },
+        {
+          "word": "西",
+          "reading": "にし",
+          "furigana": "西[にし]",
+          "romaji": "nishi",
+          "meaning": "西邊",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "西の空が赤いです。",
+              "zh": "西邊的天空是紅色的。"
+            }
+          ]
+        },
+        {
+          "word": "石",
+          "reading": "いし",
+          "furigana": "石[いし]",
+          "romaji": "ishi",
+          "meaning": "石頭",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "道に石があります。",
+              "zh": "路上有石頭。"
+            }
+          ]
+        },
+        {
+          "word": "林",
+          "reading": "はやし",
+          "furigana": "林[はやし]",
+          "romaji": "hayashi",
+          "meaning": "樹林",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "林の中で鳥が鳴いています。",
+              "zh": "在樹林中有鳥叫。"
+            }
+          ]
+        },
+        {
+          "word": "森",
+          "reading": "もり",
+          "furigana": "森[もり]",
+          "romaji": "mori",
+          "meaning": "森林",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "深い森に入ります。",
+              "zh": "走進深邃的森林裡。"
+            }
+          ]
+        },
+        {
+          "word": "草",
+          "reading": "くさ",
+          "furigana": "草[くさ]",
+          "romaji": "kusa",
+          "meaning": "草",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "庭の草を引きます。",
+              "zh": "拔庭院的草。"
+            }
+          ]
+        },
+        {
+          "word": "動物",
+          "reading": "どうぶつ",
+          "furigana": "動[どう]物[ぶつ]",
+          "romaji": "doubutsu",
+          "meaning": "動物",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "いろいろな動物がいます。",
+              "zh": "有各式各樣的動物。"
+            }
+          ]
+        },
+        {
+          "word": "動物園",
+          "reading": "どうぶつえん",
+          "furigana": "動[どう]物[ぶつ]園[えん]",
+          "romaji": "doubutsuen",
+          "meaning": "動物園",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "週末に動物園へ行きます。",
+              "zh": "週末要去動物園。"
+            }
+          ]
+        },
+        {
+          "word": "犬",
+          "reading": "いぬ",
+          "furigana": "犬[いぬ]",
+          "romaji": "inu",
+          "meaning": "狗",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "白い犬を飼っています。",
+              "zh": "養了一隻白色的狗。"
+            }
+          ]
+        },
+        {
+          "word": "猫",
+          "reading": "ねこ",
+          "furigana": "猫[ねこ]",
+          "romaji": "neko",
+          "meaning": "貓",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "猫が寝ています。",
+              "zh": "貓正在睡覺。"
+            }
+          ]
+        },
+        {
+          "word": "鳥",
+          "reading": "とり",
+          "furigana": "鳥[とり]",
+          "romaji": "tori",
+          "meaning": "鳥",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "空に鳥が飛んでいます。",
+              "zh": "天空有鳥在飛。"
+            }
+          ]
+        },
+        {
+          "word": "虫",
+          "reading": "むし",
+          "furigana": "虫[むし]",
+          "romaji": "mushi",
+          "meaning": "昆蟲、蟲子",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "秋の虫が鳴いています。",
+              "zh": "秋天的蟲子在鳴叫。"
+            }
+          ]
+        },
+        {
+          "word": "豚",
+          "reading": "ぶた",
+          "furigana": "豚[ぶた]",
+          "romaji": "buta",
+          "meaning": "豬",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "あの農場に豚がいます。",
+              "zh": "那個農場裡有豬。"
+            }
+          ]
+        },
+        {
+          "word": "牛",
+          "reading": "うし",
+          "furigana": "牛[うし]",
+          "romaji": "ushi",
+          "meaning": "牛",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "牛が草を食べています。",
+              "zh": "牛正在吃草。"
+            }
+          ]
+        },
+        {
+          "word": "馬",
+          "reading": "うま",
+          "furigana": "馬[うま]",
+          "romaji": "uma",
+          "meaning": "馬",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "馬に乗ったことがありますか。",
+              "zh": "你騎過馬嗎？"
+            }
+          ]
+        },
+        {
+          "word": "猿",
+          "reading": "さる",
+          "furigana": "猿[さる]",
+          "romaji": "saru",
+          "meaning": "猴子",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "山に猿がたくさんいます。",
+              "zh": "山裡有很多猴子。"
+            }
+          ]
+        },
+        {
+          "word": "象",
+          "reading": "ぞう",
+          "furigana": "象[ぞう]",
+          "romaji": "zou",
+          "meaning": "大象",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "象は鼻が長いです。",
+              "zh": "大象的鼻子很長。"
+            }
+          ]
+        },
+        {
+          "word": "熊",
+          "reading": "くま",
+          "furigana": "熊[くま]",
+          "romaji": "kuma",
+          "meaning": "熊",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "森で熊に気をつけてください。",
+              "zh": "在森林裡請小心熊。"
+            }
+          ]
+        },
+        {
+          "word": "蛇",
+          "reading": "へび",
+          "furigana": "蛇[へび]",
+          "romaji": "hebi",
+          "meaning": "蛇",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "私は蛇が怖いです。",
+              "zh": "我很怕蛇。"
+            }
+          ]
+        },
+        {
+          "word": "うさぎ",
+          "reading": "うさぎ",
+          "furigana": "うさぎ",
+          "romaji": "usagi",
+          "meaning": "兔子",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "白いうさぎが走っています。",
+              "zh": "白色的兔子正在跑。"
+            }
+          ]
+        },
+        {
+          "word": "ネズミ",
+          "reading": "ねずみ",
+          "furigana": "ネズミ",
+          "romaji": "nezumi",
+          "meaning": "老鼠",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "家にネズミが出ました。",
+              "zh": "家裡出現了老鼠。"
+            }
+          ]
+        },
+        {
+          "word": "カエル",
+          "reading": "かえる",
+          "furigana": "カエル",
+          "romaji": "kaeru",
+          "meaning": "青蛙",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "雨の日はカエルが鳴きます。",
+              "zh": "下雨天青蛙會叫。"
+            }
+          ]
+        },
+        {
+          "word": "ペット",
+          "reading": "ぺっと",
+          "furigana": "ペット",
+          "romaji": "petto",
+          "meaning": "寵物",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "家でペットを飼いたいです。",
+              "zh": "想在家裡養寵物。"
+            }
+          ]
+        },
+        {
+          "word": "桜",
+          "reading": "さくら",
+          "furigana": "桜[さくら]",
+          "romaji": "sakura",
+          "meaning": "櫻花",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "春に桜が咲きます。",
+              "zh": "春天會開櫻花。"
+            }
+          ]
+        },
+        {
+          "word": "葉",
+          "reading": "は",
+          "furigana": "葉[は]",
+          "romaji": "ha",
+          "meaning": "葉子",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "木から葉が落ちます。",
+              "zh": "葉子從樹上掉下來。"
+            }
+          ]
+        },
+        {
+          "word": "枝",
+          "reading": "えだ",
+          "furigana": "枝[えだ]",
+          "romaji": "eda",
+          "meaning": "樹枝",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "鳥が木の枝に止まっています。",
+              "zh": "鳥停在樹枝上。"
+            }
+          ]
+        },
+        {
+          "word": "人",
+          "reading": "ひと",
+          "furigana": "人[ひと]",
+          "romaji": "hito",
+          "meaning": "人",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "あそこに人がいます。",
+              "zh": "那裡有人。"
+            }
+          ]
+        },
+        {
+          "word": "家族",
+          "reading": "かぞく",
+          "furigana": "家[か]族[ぞく]",
+          "romaji": "kazoku",
+          "meaning": "家人、家族",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "家族は四人です。",
+              "zh": "家裡有四個人。"
+            }
+          ]
+        },
+        {
+          "word": "両親",
+          "reading": "りょうしん",
+          "furigana": "両[りょう]親[しん]",
+          "romaji": "ryoushin",
+          "meaning": "雙親、父母",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "両親と住んでいます。",
+              "zh": "和父母住在一起。"
+            }
+          ]
+        },
+        {
+          "word": "父",
+          "reading": "ちち",
+          "furigana": "父[ちち]",
+          "romaji": "chichi",
+          "meaning": "（自己的）父親",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "父は会社員です。",
+              "zh": "父親是上班族。"
+            }
+          ]
+        },
+        {
+          "word": "母",
+          "reading": "はは",
+          "furigana": "母[はは]",
+          "romaji": "haha",
+          "meaning": "（自己的）母親",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "母は料理が上手です。",
+              "zh": "母親很擅長做菜。"
+            }
+          ]
+        },
+        {
+          "word": "お父さん",
+          "reading": "おとうさん",
+          "furigana": "お 父[とう]さん",
+          "romaji": "otousan",
+          "meaning": "（別人的）父親、爸爸",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "お父さんはお元気ですか。",
+              "zh": "令尊好嗎？"
+            }
+          ]
+        },
+        {
+          "word": "お母さん",
+          "reading": "おかあさん",
+          "furigana": "お 母[かあ]さん",
+          "romaji": "okaasan",
+          "meaning": "（別人的）母親、媽媽",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "お母さんに花をあげました。",
+              "zh": "送花給媽媽了。"
+            }
+          ]
+        },
+        {
+          "word": "兄",
+          "reading": "あに",
+          "furigana": "兄[あに]",
+          "romaji": "ani",
+          "meaning": "（自己的）哥哥",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "兄は大学生です。",
+              "zh": "哥哥是大學生。"
+            }
+          ]
+        },
+        {
+          "word": "お兄さん",
+          "reading": "おにいさん",
+          "furigana": "お 兄[にい]さん",
+          "romaji": "oniisan",
+          "meaning": "（別人的）哥哥",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "お兄さんは背が高いですね。",
+              "zh": "你哥哥個子很高呢。"
+            }
+          ]
+        },
+        {
+          "word": "姉",
+          "reading": "あね",
+          "furigana": "姉[あね]",
+          "romaji": "ane",
+          "meaning": "（自己的）姊姊",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "姉は東京にいます。",
+              "zh": "姊姊在東京。"
+            }
+          ]
+        },
+        {
+          "word": "お姉さん",
+          "reading": "おねえさん",
+          "furigana": "お 姉[ねえ]さん",
+          "romaji": "oneesan",
+          "meaning": "（別人的）姊姊",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "お姉さんはきれいです。",
+              "zh": "你姊姊很漂亮。"
+            }
+          ]
+        },
+        {
+          "word": "弟",
+          "reading": "おとうと",
+          "furigana": "弟[おとうと]",
+          "romaji": "otouto",
+          "meaning": "弟弟",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "弟と遊びます。",
+              "zh": "和弟弟一起玩。"
+            }
+          ]
+        },
+        {
+          "word": "妹",
+          "reading": "いもうと",
+          "furigana": "妹[いもうと]",
+          "romaji": "imouto",
+          "meaning": "妹妹",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "妹は可愛いですよ。",
+              "zh": "我妹妹很可愛喔。"
+            }
+          ]
+        },
+        {
+          "word": "兄弟",
+          "reading": "きょうだい",
+          "furigana": "兄[きょう]弟[だい]",
+          "romaji": "kyoudai",
+          "meaning": "兄弟姊妹",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "兄弟は何人ですか。",
+              "zh": "你有幾個兄弟姊妹？"
+            }
+          ]
+        },
+        {
+          "word": "祖父",
+          "reading": "そふ",
+          "furigana": "祖[そ]父[ふ]",
+          "romaji": "sofu",
+          "meaning": "祖父、爺爺",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "祖父は今年八十歳です。",
+              "zh": "祖父今年八十歲了。"
+            }
+          ]
+        },
+        {
+          "word": "祖母",
+          "reading": "そぼ",
+          "furigana": "祖[そ]母[ぼ]",
+          "romaji": "sobo",
+          "meaning": "祖母、奶奶",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "祖母と散歩しました。",
+              "zh": "和奶奶一起去散步了。"
+            }
+          ]
+        },
+        {
+          "word": "夫",
+          "reading": "おっと",
+          "furigana": "夫[おっと]",
+          "romaji": "otto",
+          "meaning": "（自己的）丈夫",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "夫は今日休みです。",
+              "zh": "我丈夫今天休假。"
+            }
+          ]
+        },
+        {
+          "word": "妻",
+          "reading": "つま",
+          "furigana": "妻[つま]",
+          "romaji": "tsuma",
+          "meaning": "（自己的）妻子",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "妻と買い物に行きます。",
+              "zh": "和妻子去買東西。"
+            }
+          ]
+        },
+        {
+          "word": "友達",
+          "reading": "ともだち",
+          "furigana": "友[とも]達[だち]",
+          "romaji": "tomodachi",
+          "meaning": "朋友",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "友達に電話をかけます。",
+              "zh": "打電話給朋友。"
+            }
+          ]
+        },
+        {
+          "word": "先生",
+          "reading": "せんせい",
+          "furigana": "先[せん]生[せい]",
+          "romaji": "sensei",
+          "meaning": "老師",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N5",
+          "sentences": [
+            {
+              "ja": "先生に質問します。",
+              "zh": "向老師提問。"
+            }
+          ]
         }
       ],
       "verbConjugations": [
