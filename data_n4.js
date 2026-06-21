@@ -1,11 +1,1568 @@
 window.JLPT_DATA_CHUNKS = window.JLPT_DATA_CHUNKS || {};
 window.JLPT_DATA_CHUNKS["N4"] = {
-  "vocabulary": [],
-  "verbConjugations": [],
-  "adjectiveGroups": {
-    "iAdjectives": [],
-    "naAdjectives": []
-  },
+  "vocabulary": [
+      {
+      "id": "v_n4_auto_88_1782048031099",
+      "word": "準備",
+      "furigana": "じゅんび",
+      "romaji": "junbi",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "準備",
+      "sentences": [
+            {
+                  "ja": "旅行の準備をします。",
+                  "furigana": "りょこうのじゅんびをします。",
+                  "en": "準備旅行。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_89_1782048031099",
+      "word": "予習",
+      "furigana": "よしゅう",
+      "romaji": "yoshuu",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "預習",
+      "sentences": [
+            {
+                  "ja": "授業の前に予習をします。",
+                  "furigana": "じゅぎょうのまえによしゅうをします。",
+                  "en": "上課前先預習。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_90_1782048031099",
+      "word": "復習",
+      "furigana": "ふくしゅう",
+      "romaji": "fukushuu",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "複習",
+      "sentences": [
+            {
+                  "ja": "毎日漢字の復習をします。",
+                  "furigana": "まいにちかんじのふくしゅうをします。",
+                  "en": "每天複習漢字。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_85_1782047432387",
+      "word": "庭",
+      "furigana": "にわ",
+      "romaji": "niwa",
+      "type": "noun",
+      "category": "society_politics_law",
+      "level": "N4",
+      "meaning": "院子 / 庭院",
+      "sentences": [
+            {
+                  "ja": "庭に花が咲いています。",
+                  "furigana": "にわにはながさいています。",
+                  "en": "院子裡開著花。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_86_1782047432387",
+      "word": "門",
+      "furigana": "もん",
+      "romaji": "mon",
+      "type": "noun",
+      "category": "society_politics_law",
+      "level": "N4",
+      "meaning": "大門",
+      "sentences": [
+            {
+                  "ja": "学校の門の前で待っています。",
+                  "furigana": "がっこうのもんのまえでまっています。",
+                  "en": "在學校的大門前等。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_87_1782047432387",
+      "word": "玄関",
+      "furigana": "げんかん",
+      "romaji": "genkan",
+      "type": "noun",
+      "category": "society_politics_law",
+      "level": "N4",
+      "meaning": "玄關 / 入口",
+      "sentences": [
+            {
+                  "ja": "玄関で靴を脱いでください。",
+                  "furigana": "げんかんでくつをぬいでください。",
+                  "en": "請在玄關脫鞋。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_82_1782046914699",
+      "word": "季節",
+      "furigana": "きせつ",
+      "romaji": "kisetsu",
+      "type": "noun",
+      "category": "geography_ecology",
+      "level": "N4",
+      "meaning": "季節",
+      "sentences": [
+            {
+                  "ja": "好きな季節は秋です。",
+                  "furigana": "すきなきせつはあきです。",
+                  "en": "喜歡的季節是秋天。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_83_1782046914699",
+      "word": "景色",
+      "furigana": "けしき",
+      "romaji": "keshiki",
+      "type": "noun",
+      "category": "geography_ecology",
+      "level": "N4",
+      "meaning": "景色",
+      "sentences": [
+            {
+                  "ja": "山の上からの景色は美しい。",
+                  "furigana": "やまのうえからのけしきはうつくしい。",
+                  "en": "從山上看下去的景色很美。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_84_1782046914699",
+      "word": "海岸",
+      "furigana": "かいがん",
+      "romaji": "kaigan",
+      "type": "noun",
+      "category": "geography_ecology",
+      "level": "N4",
+      "meaning": "海岸",
+      "sentences": [
+            {
+                  "ja": "海岸を散歩する。",
+                  "furigana": "かいがんをさんぽする。",
+                  "en": "在海岸散步。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_79_1782046231336",
+      "word": "島",
+      "furigana": "しま",
+      "romaji": "shima",
+      "type": "noun",
+      "category": "geography_ecology",
+      "level": "N4",
+      "meaning": "島嶼",
+      "sentences": [
+            {
+                  "ja": "船で島に渡ります。",
+                  "furigana": "ふねでしまにわたります。",
+                  "en": "搭船前往島嶼。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_80_1782046231336",
+      "word": "湖",
+      "furigana": "みずうみ",
+      "romaji": "mizuumi",
+      "type": "noun",
+      "category": "geography_ecology",
+      "level": "N4",
+      "meaning": "湖泊",
+      "sentences": [
+            {
+                  "ja": "湖の周りを散歩する。",
+                  "furigana": "みずうみのまわりをさんぽする。",
+                  "en": "在湖泊周圍散步。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_81_1782046231336",
+      "word": "森",
+      "furigana": "もり",
+      "romaji": "mori",
+      "type": "noun",
+      "category": "geography_ecology",
+      "level": "N4",
+      "meaning": "森林",
+      "sentences": [
+            {
+                  "ja": "森の中に動物がいます。",
+                  "furigana": "もりのなかにどうぶつがいます。",
+                  "en": "森林裡有動物。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_76_1782045633741",
+      "word": "火事",
+      "furigana": "かじ",
+      "romaji": "kaji",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "火災",
+      "sentences": [
+            {
+                  "ja": "遠くで火事がありました。",
+                  "furigana": "とおくでかじがありました。",
+                  "en": "遠處發生了火災。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_77_1782045633741",
+      "word": "警察",
+      "furigana": "けいさつ",
+      "romaji": "keisatsu",
+      "type": "noun",
+      "category": "society_politics_law",
+      "level": "N4",
+      "meaning": "警察",
+      "sentences": [
+            {
+                  "ja": "警察に電話をかけます。",
+                  "furigana": "けいさつにでんわをかけます。",
+                  "en": "打電話給警察。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_78_1782045633741",
+      "word": "交番",
+      "furigana": "こうばん",
+      "romaji": "kouban",
+      "type": "noun",
+      "category": "society_politics_law",
+      "level": "N4",
+      "meaning": "派出所",
+      "sentences": [
+            {
+                  "ja": "道に迷って交番で聞いた。",
+                  "furigana": "みちにまよってこうばできいた。",
+                  "en": "迷路了，在派出所問了路。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_73_1782045030340",
+      "word": "泥棒",
+      "furigana": "どろぼう",
+      "romaji": "dorobou",
+      "type": "noun",
+      "category": "society_politics_law",
+      "level": "N4",
+      "meaning": "小偷 / 強盜",
+      "sentences": [
+            {
+                  "ja": "泥棒が家に入りました。",
+                  "furigana": "どろぼうがいえにはいりました。",
+                  "en": "小偷進了屋裡。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_74_1782045030340",
+      "word": "事故",
+      "furigana": "じこ",
+      "romaji": "jiko",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "事故 / 車禍",
+      "sentences": [
+            {
+                  "ja": "交差点で事故がありました。",
+                  "furigana": "こうさてんでじこがありました。",
+                  "en": "十字路口發生了車禍。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_75_1782045030340",
+      "word": "地震",
+      "furigana": "じしん",
+      "romaji": "jishin",
+      "type": "noun",
+      "category": "geography_ecology",
+      "level": "N4",
+      "meaning": "地震",
+      "sentences": [
+            {
+                  "ja": "大きな地震が起きました。",
+                  "furigana": "おおきなじしんがおきました。",
+                  "en": "發生了大地震。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_70_1782044429616",
+      "word": "会議室",
+      "furigana": "かいぎしつ",
+      "romaji": "kaigishitsu",
+      "type": "noun",
+      "category": "living_housing",
+      "level": "N4",
+      "meaning": "會議室",
+      "sentences": [
+            {
+                  "ja": "会議室に集まってください。",
+                  "furigana": "かいぎしつにあつまってください。",
+                  "en": "請在會議室集合。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_71_1782044429616",
+      "word": "事務所",
+      "furigana": "じむしょ",
+      "romaji": "jimusho",
+      "type": "noun",
+      "category": "living_housing",
+      "level": "N4",
+      "meaning": "辦公室 / 事務所",
+      "sentences": [
+            {
+                  "ja": "事務所で書類を作ります。",
+                  "furigana": "じむしょでしょるいをつくります。",
+                  "en": "在辦公室製作文件。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_72_1782044429616",
+      "word": "図書室",
+      "furigana": "としょしつ",
+      "romaji": "toshoshitsu",
+      "type": "noun",
+      "category": "living_housing",
+      "level": "N4",
+      "meaning": "圖書室",
+      "sentences": [
+            {
+                  "ja": "放課後は図書室で勉強します。",
+                  "furigana": "ほうかごはとしょしつでべんきょうします。",
+                  "en": "放學後在圖書室學習。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_67_1782043830968",
+      "word": "駐車場",
+      "furigana": "ちゅうしゃじょう",
+      "romaji": "chuushajou",
+      "type": "noun",
+      "category": "living_housing",
+      "level": "N4",
+      "meaning": "停車場",
+      "sentences": [
+            {
+                  "ja": "車を駐車場に止めます。",
+                  "furigana": "くるまをちゅうしゃじょうにとめます。",
+                  "en": "把車停在停車場。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_68_1782043830968",
+      "word": "飛行場",
+      "furigana": "ひこうじょう",
+      "romaji": "hikoujou",
+      "type": "noun",
+      "category": "living_housing",
+      "level": "N4",
+      "meaning": "機場",
+      "sentences": [
+            {
+                  "ja": "バスで飛行場まで行きます。",
+                  "furigana": "ばすでひこうじょうまでいきます。",
+                  "en": "搭公車去機場。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_69_1782043830968",
+      "word": "体育館",
+      "furigana": "たいいくかん",
+      "romaji": "taiikukan",
+      "type": "noun",
+      "category": "living_housing",
+      "level": "N4",
+      "meaning": "體育館",
+      "sentences": [
+            {
+                  "ja": "体育館でスポーツをします。",
+                  "furigana": "たいいくかんですぽーつをします。",
+                  "en": "在體育館做運動。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_64_1782043232136",
+      "word": "消防署",
+      "furigana": "しょうぼうしょ",
+      "romaji": "shoubousho",
+      "type": "noun",
+      "category": "society_politics_law",
+      "level": "N4",
+      "meaning": "消防局",
+      "sentences": [
+            {
+                  "ja": "駅の前に消防署があります。",
+                  "furigana": "えきのまえにしょうぼうしょがあります。",
+                  "en": "車站前面有消防局。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_65_1782043232136",
+      "word": "市役所",
+      "furigana": "しやくしょ",
+      "romaji": "shiyakusho",
+      "type": "noun",
+      "category": "society_politics_law",
+      "level": "N4",
+      "meaning": "市政府",
+      "sentences": [
+            {
+                  "ja": "市役所で手続きをします。",
+                  "furigana": "しやくしょでてつづきをします。",
+                  "en": "在市政府辦理手續。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_66_1782043232136",
+      "word": "大使館",
+      "furigana": "たいしかん",
+      "romaji": "taishikan",
+      "type": "noun",
+      "category": "society_politics_law",
+      "level": "N4",
+      "meaning": "大使館",
+      "sentences": [
+            {
+                  "ja": "パスポートを大使館で更新する。",
+                  "furigana": "ぱすぽーとをたいしかんでこうしんする。",
+                  "en": "在大使館更新護照。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_61_1782042629970",
+      "word": "旅館",
+      "furigana": "りょかん",
+      "romaji": "ryokan",
+      "type": "noun",
+      "category": "living_housing",
+      "level": "N4",
+      "meaning": "旅館",
+      "sentences": [
+            {
+                  "ja": "温泉の旅館に泊まります。",
+                  "furigana": "おんせんのりょかにとまります。",
+                  "en": "住在溫泉旅館。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_62_1782042629970",
+      "word": "港",
+      "furigana": "みなと",
+      "romaji": "minato",
+      "type": "noun",
+      "category": "geography_ecology",
+      "level": "N4",
+      "meaning": "港口",
+      "sentences": [
+            {
+                  "ja": "港に船がたくさんあります。",
+                  "furigana": "みなとにふねがたくさんあります。",
+                  "en": "港口有很多船。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_63_1782042629970",
+      "word": "会場",
+      "furigana": "かいじょう",
+      "romaji": "kaijou",
+      "type": "noun",
+      "category": "society_politics_law",
+      "level": "N4",
+      "meaning": "會場",
+      "sentences": [
+            {
+                  "ja": "コンサートの会場はどこですか。",
+                  "furigana": "こんさーとのかいじょうはどこですか。",
+                  "en": "演唱會的會場在哪裡？"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_58_1782042031066",
+      "word": "自然",
+      "furigana": "しぜん",
+      "romaji": "shizen",
+      "type": "noun",
+      "category": "geography_ecology",
+      "level": "N4",
+      "meaning": "自然",
+      "sentences": [
+            {
+                  "ja": "この村は自然が豊かです。",
+                  "furigana": "このむらはしぜんがゆたかです。",
+                  "en": "這個村莊的自然資源很豐富。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_59_1782042031066",
+      "word": "空気",
+      "furigana": "くうき",
+      "romaji": "kuuki",
+      "type": "noun",
+      "category": "geography_ecology",
+      "level": "N4",
+      "meaning": "空氣",
+      "sentences": [
+            {
+                  "ja": "田舎は空気がきれいです。",
+                  "furigana": "いなかはくうきがきれいです。",
+                  "en": "鄉下的空氣很乾淨。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_60_1782042031066",
+      "word": "星",
+      "furigana": "ほし",
+      "romaji": "hoshi",
+      "type": "noun",
+      "category": "geography_ecology",
+      "level": "N4",
+      "meaning": "星星",
+      "sentences": [
+            {
+                  "ja": "夜空に星が輝いています。",
+                  "furigana": "よぞらにほしがかがやいています。",
+                  "en": "夜空中星星在閃爍。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_55_1782041431228",
+      "word": "専門",
+      "furigana": "せんもん",
+      "romaji": "senmon",
+      "type": "noun",
+      "category": "education_learning",
+      "level": "N4",
+      "meaning": "專門 / 專業",
+      "sentences": [
+            {
+                  "ja": "彼の専門は歴史です。",
+                  "furigana": "かれのせんもんはれきしです。",
+                  "en": "他的專業是歷史。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_56_1782041431228",
+      "word": "実験",
+      "furigana": "じっけん",
+      "romaji": "jikken",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "實驗",
+      "sentences": [
+            {
+                  "ja": "理科の授業で実験をした。",
+                  "furigana": "りかのじゅぎょうでじっけんをした。",
+                  "en": "在理科課堂上做了實驗。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_57_1782041431228",
+      "word": "成功",
+      "furigana": "せいこう",
+      "romaji": "seikou",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "成功",
+      "sentences": [
+            {
+                  "ja": "手術は無事に成功しました。",
+                  "furigana": "しゅじゅつはぶじにせいこうしました。",
+                  "en": "手術順利地成功了。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_52_1782040831717",
+      "word": "会議",
+      "furigana": "かいぎ",
+      "romaji": "kaigi",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "會議",
+      "sentences": [
+            {
+                  "ja": "午後から会議があります。",
+                  "furigana": "ごごからかいぎがあります。",
+                  "en": "下午開始有會議。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_53_1782040831717",
+      "word": "講義",
+      "furigana": "こうぎ",
+      "romaji": "kougi",
+      "type": "noun",
+      "category": "education_learning",
+      "level": "N4",
+      "meaning": "講義 / 課程",
+      "sentences": [
+            {
+                  "ja": "大学の講義に出席する。",
+                  "furigana": "だいがくのこうぎにしゅっせきする。",
+                  "en": "出席大學的課程。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_54_1782040831717",
+      "word": "授業",
+      "furigana": "じゅぎょう",
+      "romaji": "jugyou",
+      "type": "noun",
+      "category": "education_learning",
+      "level": "N4",
+      "meaning": "上課 / 課堂",
+      "sentences": [
+            {
+                  "ja": "日本語の授業を受けます。",
+                  "furigana": "にほんごのじゅぎょうをうけます。",
+                  "en": "上日語課。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_49_1782040230130",
+      "word": "注意",
+      "furigana": "ちゅうい",
+      "romaji": "chuui",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "注意 / 小心",
+      "sentences": [
+            {
+                  "ja": "車に注意してください。",
+                  "furigana": "くるまにちゅういしてください。",
+                  "en": "請小心車子。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_50_1782040230130",
+      "word": "故障",
+      "furigana": "こしょう",
+      "romaji": "koshou",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "故障",
+      "sentences": [
+            {
+                  "ja": "パソコンが故障しました。",
+                  "furigana": "ぱそこんがこしょうしました。",
+                  "en": "電腦故障了。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_51_1782040230130",
+      "word": "修理",
+      "furigana": "しゅうり",
+      "romaji": "shuuri",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "修理",
+      "sentences": [
+            {
+                  "ja": "自転車を修理に出しました。",
+                  "furigana": "じてんしゃをしゅうりにだしました。",
+                  "en": "把腳踏車送去修理了。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_46_1782039630236",
+      "word": "意見",
+      "furigana": "いけん",
+      "romaji": "iken",
+      "type": "noun",
+      "category": "culture_thought",
+      "level": "N4",
+      "meaning": "意見",
+      "sentences": [
+            {
+                  "ja": "みんなの意見を聞きましょう。",
+                  "furigana": "みんなのいけんをききましょう。",
+                  "en": "聽聽大家的意見吧。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_47_1782039630236",
+      "word": "相談",
+      "furigana": "そうだん",
+      "romaji": "soudan",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "商量 / 諮詢",
+      "sentences": [
+            {
+                  "ja": "先生に進路を相談する。",
+                  "furigana": "せんせいにしんろをそうだんする。",
+                  "en": "向老師商量升學出路。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_48_1782039630236",
+      "word": "連絡",
+      "furigana": "れんらく",
+      "romaji": "renraku",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "聯絡",
+      "sentences": [
+            {
+                  "ja": "着いたら連絡してください。",
+                  "furigana": "ついたられんらくしてください。",
+                  "en": "到了請聯絡我。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_43_1782039033414",
+      "word": "遠慮",
+      "furigana": "えんりょ",
+      "romaji": "enryo",
+      "type": "noun",
+      "category": "relations_human",
+      "level": "N4",
+      "meaning": "客氣 / 顧慮",
+      "sentences": [
+            {
+                  "ja": "遠慮しないでたくさん食べてください。",
+                  "furigana": "えんりょしないでたくさんたべてください。",
+                  "en": "請不要客氣，多吃一點。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_44_1782039033414",
+      "word": "賛成",
+      "furigana": "さんせい",
+      "romaji": "sansei",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "贊成",
+      "sentences": [
+            {
+                  "ja": "その意見に賛成します。",
+                  "furigana": "そのいけんにさんせいします。",
+                  "en": "我贊成那個意見。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_45_1782039033414",
+      "word": "反対",
+      "furigana": "はんたい",
+      "romaji": "hantai",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "反對",
+      "sentences": [
+            {
+                  "ja": "私の家族は留学に反対しています。",
+                  "furigana": "わたしかぞくはりゅうがくにはんたいしています。",
+                  "en": "我的家人反對我留學。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_40_1782038429094",
+      "word": "原因",
+      "furigana": "げんいん",
+      "romaji": "genin",
+      "type": "noun",
+      "category": "properties_relations",
+      "level": "N4",
+      "meaning": "原因",
+      "sentences": [
+            {
+                  "ja": "事故の原因を調べます。",
+                  "furigana": "じこのげんいんをしらべます。",
+                  "en": "調查事故的原因。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_41_1782038429094",
+      "word": "結果",
+      "furigana": "けっか",
+      "romaji": "kekka",
+      "type": "noun",
+      "category": "properties_relations",
+      "level": "N4",
+      "meaning": "結果",
+      "sentences": [
+            {
+                  "ja": "テストの結果が良かったです。",
+                  "furigana": "てすとのけっかがよかったです。",
+                  "en": "考試的結果很好。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_42_1782038429094",
+      "word": "失敗",
+      "furigana": "しっぱい",
+      "romaji": "shippai",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "失敗",
+      "sentences": [
+            {
+                  "ja": "実験に失敗しました。",
+                  "furigana": "じっけんにしっぱいしました。",
+                  "en": "實驗失敗了。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_37_1782037831115",
+      "word": "運動",
+      "furigana": "うんどう",
+      "romaji": "undou",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "運動",
+      "sentences": [
+            {
+                  "ja": "健康のために毎日運動します。",
+                  "furigana": "けんこうのためにまいにちうんどうします。",
+                  "en": "為了健康每天做運動。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_38_1782037831115",
+      "word": "健康",
+      "furigana": "けんこう",
+      "romaji": "kenkou",
+      "type": "noun",
+      "category": "geography_ecology",
+      "level": "N4",
+      "meaning": "健康",
+      "sentences": [
+            {
+                  "ja": "健康に気をつけてください。",
+                  "furigana": "けんこうにきをつけてください。",
+                  "en": "請注意健康。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_39_1782037831115",
+      "word": "景色",
+      "furigana": "けしき",
+      "romaji": "keshiki",
+      "type": "noun",
+      "category": "geography_ecology",
+      "level": "N4",
+      "meaning": "景色 / 風景",
+      "sentences": [
+            {
+                  "ja": "山からの景色が綺麗です。",
+                  "furigana": "やまからのけしきがきれいです。",
+                  "en": "從山上看到的風景很美。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_34_1782037230176",
+      "word": "地震",
+      "furigana": "じしん",
+      "romaji": "jishin",
+      "type": "noun",
+      "category": "geography_ecology",
+      "level": "N4",
+      "meaning": "地震",
+      "sentences": [
+            {
+                  "ja": "日本は地震が多い国です。",
+                  "furigana": "にほんはじしんがおおいくにです。",
+                  "en": "日本是地震很多的國家。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_35_1782037230176",
+      "word": "火事",
+      "furigana": "かじ",
+      "romaji": "kaji",
+      "type": "noun",
+      "category": "society_politics_law",
+      "level": "N4",
+      "meaning": "火災",
+      "sentences": [
+            {
+                  "ja": "近くで火事がありました。",
+                  "furigana": "ちかくでかじがありました。",
+                  "en": "附近發生了火災。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_36_1782037230176",
+      "word": "台風",
+      "furigana": "たいふう",
+      "romaji": "taifuu",
+      "type": "noun",
+      "category": "geography_ecology",
+      "level": "N4",
+      "meaning": "颱風",
+      "sentences": [
+            {
+                  "ja": "強い台風が近づいています。",
+                  "furigana": "つよいたいふうがちかづいています。",
+                  "en": "強烈颱風正在逼近。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_31_1782036629098",
+      "word": "用意",
+      "furigana": "ようい",
+      "romaji": "youi",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "準備 / 預備",
+      "sentences": [
+            {
+                  "ja": "食事の用意ができました。",
+                  "furigana": "しょくじのよういができました。",
+                  "en": "用餐的準備已經做好了。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_32_1782036629098",
+      "word": "説明",
+      "furigana": "せつめい",
+      "romaji": "setsumei",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "說明",
+      "sentences": [
+            {
+                  "ja": "使い方の説明を読みます。",
+                  "furigana": "つかいかたのせつめいをよみます。",
+                  "en": "閱讀使用方法的說明。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_33_1782036629098",
+      "word": "案内",
+      "furigana": "あんない",
+      "romaji": "annai",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "引導 / 導覽",
+      "sentences": [
+            {
+                  "ja": "駅までの道を案内してください。",
+                  "furigana": "えきまでのみちをあんないしてください。",
+                  "en": "請為我帶路去車站。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_28_1782036030089",
+      "word": "興味",
+      "furigana": "きょうみ",
+      "romaji": "kyoumi",
+      "type": "noun",
+      "category": "psychology_character",
+      "level": "N4",
+      "meaning": "興趣 / 關注",
+      "sentences": [
+            {
+                  "ja": "日本の文化に興味があります。",
+                  "furigana": "にほんのぶんかにきょうみがあります。",
+                  "en": "對日本的文化感興趣。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_29_1782036030089",
+      "word": "習慣",
+      "furigana": "しゅうかん",
+      "romaji": "shuukan",
+      "type": "noun",
+      "category": "culture_thought",
+      "level": "N4",
+      "meaning": "習慣",
+      "sentences": [
+            {
+                  "ja": "早寝早起きの習慣をつけます。",
+                  "furigana": "はやねはやおきのしゅうかんをつけます。",
+                  "en": "養成早睡早起的習慣。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_30_1782036030089",
+      "word": "挨拶",
+      "furigana": "あいさつ",
+      "romaji": "aisatsu",
+      "type": "noun",
+      "category": "relations_human",
+      "level": "N4",
+      "meaning": "打招呼 / 問候",
+      "sentences": [
+            {
+                  "ja": "元気よく挨拶をしましょう。",
+                  "furigana": "げんきよくあいさつをしましょう。",
+                  "en": "充滿精神地打招呼吧。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_25_1782035429048",
+      "word": "予約",
+      "furigana": "よやく",
+      "romaji": "yoyaku",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "預約",
+      "sentences": [
+            {
+                  "ja": "レストランの予約をしました。",
+                  "furigana": "れすとらんのよやくをしました。",
+                  "en": "預約了餐廳。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_26_1782035429048",
+      "word": "約束",
+      "furigana": "やくそく",
+      "romaji": "yakusoku",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "約定",
+      "sentences": [
+            {
+                  "ja": "友達と約束があります。",
+                  "furigana": "ともだちとやくそくがあります。",
+                  "en": "和朋友有約。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_27_1782035429048",
+      "word": "予定",
+      "furigana": "よてい",
+      "romaji": "yotei",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "預定 / 計畫",
+      "sentences": [
+            {
+                  "ja": "週末の予定はまだありません。",
+                  "furigana": "しゅうまつのよていはまだありません。",
+                  "en": "週末的計畫還沒決定。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_22_1782034838119",
+      "word": "事故",
+      "furigana": "じこ",
+      "romaji": "jiko",
+      "type": "noun",
+      "category": "society_politics_law",
+      "level": "N4",
+      "meaning": "事故 / 車禍",
+      "sentences": [
+            {
+                  "ja": "交差点で交通事故がありました。",
+                  "furigana": "こうさてんでこうつうじこがありました。",
+                  "en": "在十字路口發生了交通事故。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_23_1782034838119",
+      "word": "警察",
+      "furigana": "けいさつ",
+      "romaji": "keisatsu",
+      "type": "noun",
+      "category": "society_politics_law",
+      "level": "N4",
+      "meaning": "警察",
+      "sentences": [
+            {
+                  "ja": "道に迷って警察に道を聞きました。",
+                  "furigana": "みちにまよってけいさつにみちをききました。",
+                  "en": "迷路了所以向警察問路。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_24_1782034838119",
+      "word": "泥棒",
+      "furigana": "どろぼう",
+      "romaji": "dorobou",
+      "type": "noun",
+      "category": "society_politics_law",
+      "level": "N4",
+      "meaning": "小偷",
+      "sentences": [
+            {
+                  "ja": "留守中に泥棒に入られました。",
+                  "furigana": "るすちゅうにどろぼうにはいられました。",
+                  "en": "不在家時遭小偷潛入了。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_19_1782034234206",
+      "word": "工場",
+      "furigana": "こうじょう",
+      "romaji": "koujou",
+      "type": "noun",
+      "category": "living_housing",
+      "level": "N4",
+      "meaning": "工廠",
+      "sentences": [
+            {
+                  "ja": "この町には大きな工場があります。",
+                  "furigana": "このまちにはおおきなこうじょうがあります。",
+                  "en": "這個城鎮有間大工廠。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_20_1782034234206",
+      "word": "病院",
+      "furigana": "びょういん",
+      "romaji": "byouin",
+      "type": "noun",
+      "category": "living_housing",
+      "level": "N4",
+      "meaning": "醫院",
+      "sentences": [
+            {
+                  "ja": "風邪を引いたので病院へ行きます。",
+                  "furigana": "かぜをひいたのでびょういんへいきます。",
+                  "en": "因為感冒了所以去醫院。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_21_1782034234206",
+      "word": "図書館",
+      "furigana": "としょかん",
+      "romaji": "toshokan",
+      "type": "noun",
+      "category": "living_housing",
+      "level": "N4",
+      "meaning": "圖書館",
+      "sentences": [
+            {
+                  "ja": "休みの日は図書館で勉強します。",
+                  "furigana": "やすみのひはとしょかんでべんきょうします。",
+                  "en": "放假時會在圖書館讀書。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_16_1782033640439",
+      "word": "歴史",
+      "furigana": "れきし",
+      "romaji": "rekishi",
+      "type": "noun",
+      "category": "culture_thought",
+      "level": "N4",
+      "meaning": "歷史",
+      "sentences": [
+            {
+                  "ja": "日本の歴史について勉強しています。",
+                  "furigana": "にほんのれきしについてべんきょうしています。",
+                  "en": "正在學習關於日本的歷史。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_17_1782033640439",
+      "word": "小説",
+      "furigana": "しょうせつ",
+      "romaji": "shousetsu",
+      "type": "noun",
+      "category": "culture_thought",
+      "level": "N4",
+      "meaning": "小說",
+      "sentences": [
+            {
+                  "ja": "寝る前に小説を読みます。",
+                  "furigana": "ねるまえにしょうせつをよみます。",
+                  "en": "睡前會讀小說。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_18_1782033640439",
+      "word": "授業",
+      "furigana": "じゅぎょう",
+      "romaji": "jugyou",
+      "type": "noun",
+      "category": "education_learning",
+      "level": "N4",
+      "meaning": "課程 / 課堂",
+      "sentences": [
+            {
+                  "ja": "今日の授業はとても面白かったです。",
+                  "furigana": "きょうのじゅぎょうはとてもおもしろかったです。",
+                  "en": "今天的課程非常有趣。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_13_1782033029433",
+      "word": "規則",
+      "furigana": "きそく",
+      "romaji": "kisoku",
+      "type": "noun",
+      "category": "society_politics_law",
+      "level": "N4",
+      "meaning": "規則",
+      "sentences": [
+            {
+                  "ja": "学校の規則を守ってください。",
+                  "furigana": "がっこうのきそくをまもってください。",
+                  "en": "請遵守學校的規則。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_14_1782033029433",
+      "word": "交通",
+      "furigana": "こうつう",
+      "romaji": "koutsuu",
+      "type": "noun",
+      "category": "traffic_travel",
+      "level": "N4",
+      "meaning": "交通",
+      "sentences": [
+            {
+                  "ja": "この町は交通が便利です。",
+                  "furigana": "このまちはこうつうがべんりです。",
+                  "en": "這個城鎮的交通很方便。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_15_1782033029433",
+      "word": "計画",
+      "furigana": "けいかく",
+      "romaji": "keikaku",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "計畫",
+      "sentences": [
+            {
+                  "ja": "夏休みの計画を立てました。",
+                  "furigana": "なつやすみのけいかくをたてました。",
+                  "en": "制定了暑假的計畫。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_10_1782032434884",
+      "word": "趣味",
+      "furigana": "しゅみ",
+      "romaji": "shumi",
+      "type": "noun",
+      "category": "psychology_character",
+      "level": "N4",
+      "meaning": "興趣",
+      "sentences": [
+            {
+                  "ja": "私の趣味は写真を撮ることです。",
+                  "furigana": "わたしのしゅみはしゃしんをとることです。",
+                  "en": "我的興趣是拍照。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_11_1782032434884",
+      "word": "試合",
+      "furigana": "しあい",
+      "romaji": "shiai",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "比賽",
+      "sentences": [
+            {
+                  "ja": "明日のサッカーの試合が楽しみです。",
+                  "furigana": "あしたのさっかーのしあいがたのしみです。",
+                  "en": "很期待明天的足球比賽。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_12_1782032434884",
+      "word": "季節",
+      "furigana": "きせつ",
+      "romaji": "kisetsu",
+      "type": "noun",
+      "category": "geography_ecology",
+      "level": "N4",
+      "meaning": "季節",
+      "sentences": [
+            {
+                  "ja": "日本の季節は四つあります。",
+                  "furigana": "にほんのきせつはよっつあります。",
+                  "en": "日本有四個季節。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_7_1782031857547",
+      "word": "会議",
+      "furigana": "かいぎ",
+      "romaji": "kaigi",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "會議",
+      "sentences": [
+            {
+                  "ja": "午後の会議は三時からです。",
+                  "furigana": "ごごのかいぎはさんじからです。",
+                  "en": "下午的會議從三點開始。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_8_1782031857547",
+      "word": "理由",
+      "furigana": "りゆう",
+      "romaji": "riyuu",
+      "type": "noun",
+      "category": "properties_relations",
+      "level": "N4",
+      "meaning": "理由",
+      "sentences": [
+            {
+                  "ja": "遅れた理由を説明してください。",
+                  "furigana": "おくれたりゆうをせつめいしてください。",
+                  "en": "請說明遲到的理由。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_9_1782031857547",
+      "word": "意見",
+      "furigana": "いけん",
+      "romaji": "iken",
+      "type": "noun",
+      "category": "culture_thought",
+      "level": "N4",
+      "meaning": "意見",
+      "sentences": [
+            {
+                  "ja": "自分の意見をはっきり言うべきだ。",
+                  "furigana": "じぶんのいけんをはっきりいうべきだ。",
+                  "en": "應該清楚表達自己的意見。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_4_1782031289454",
+      "word": "準備",
+      "furigana": "じゅんび",
+      "romaji": "junbi",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "準備",
+      "sentences": [
+            {
+                  "ja": "旅行の準備はもう終わりましたか。",
+                  "furigana": "りょこうのじゅんびはもうおわりましたか。",
+                  "en": "旅行的準備已經完成了嗎？"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_5_1782031289454",
+      "word": "連絡",
+      "furigana": "れんらく",
+      "romaji": "renraku",
+      "type": "noun",
+      "category": "activities_actions",
+      "level": "N4",
+      "meaning": "聯絡",
+      "sentences": [
+            {
+                  "ja": "後で必ず連絡してください。",
+                  "furigana": "あとでかならずれんらくしてください。",
+                  "en": "稍後請務必跟我聯絡。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_6_1782031289454",
+      "word": "相談",
+      "furigana": "そうだん",
+      "romaji": "soudan",
+      "type": "noun",
+      "category": "relations_human",
+      "level": "N4",
+      "meaning": "商量 / 討論",
+      "sentences": [
+            {
+                  "ja": "先生に進学の相談をしました。",
+                  "furigana": "せんせいにしんがくのそうだんをしました。",
+                  "en": "跟老師商量了升學的事情。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_1_1782030711304",
+      "word": "約束",
+      "furigana": "やくそく",
+      "romaji": "yakusoku",
+      "type": "noun",
+      "category": "relations_human",
+      "level": "N4",
+      "meaning": "約定",
+      "sentences": [
+            {
+                  "ja": "友達との約束を守るべきです。",
+                  "furigana": "ともだちとのやくそくをまもるべきです。",
+                  "en": "應該要遵守和朋友的約定。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_2_1782030711304",
+      "word": "経験",
+      "furigana": "けいけん",
+      "romaji": "keiken",
+      "type": "noun",
+      "category": "psychology_character",
+      "level": "N4",
+      "meaning": "經驗",
+      "sentences": [
+            {
+                  "ja": "あの国での経験はとても貴重でした。",
+                  "furigana": "あのくにでのけいけんはとてもきちょうでした。",
+                  "en": "在那個國家的經驗非常珍貴。"
+            }
+      ]
+},
+      {
+      "id": "v_n4_auto_3_1782030711304",
+      "word": "案内",
+      "furigana": "あんない",
+      "romaji": "annai",
+      "type": "noun",
+      "category": "relations_human",
+      "level": "N4",
+      "meaning": "引導 / 導覽",
+      "sentences": [
+            {
+                  "ja": "京都の町を案内してくれますか。",
+                  "furigana": "きょうとのまちをあんないしてくれますか。",
+                  "en": "可以幫我導覽京都的街道嗎？"
+            }
+      ]
+},
+      ,
+    {
+      "word": "社長",
+      "furigana": "しゃちょう",
+      "romaji": "shachou",
+      "meaning": "總經理/社長",
+      "category": "economy_business",
+      "exampleJa": "社長は会議中です。",
+      "exampleFurigana": "しゃちょうはかいぎちゅうです。",
+      "exampleEn": "The president is in a meeting."
+    },
+    {
+      "word": "法律",
+      "furigana": "ほうりつ",
+      "romaji": "houritsu",
+      "meaning": "法律",
+      "category": "society_politics_law",
+      "exampleJa": "新しい法律が作られた。",
+      "exampleFurigana": "あたらしいほうりつがつくられた。",
+      "exampleEn": "A new law was made."
+    },
+    {
+      "word": "貿易",
+      "furigana": "ぼうえき",
+      "romaji": "boueki",
+      "meaning": "貿易",
+      "category": "economy_business",
+      "exampleJa": "貿易の仕事をしています。",
+      "exampleFurigana": "ぼうえきのしごとをしています。",
+      "exampleEn": "I work in trade."
+    }
+  ],
   "kana": {
     "hiragana": [
       {
@@ -610,2015 +2167,1282 @@ window.JLPT_DATA_CHUNKS["N4"] = {
   ],
   "grammar": [
     {
-      "id": "g1",
-      "title": "〜は〜です (A 是 B)",
-      "structure": "名詞 A + は (wa) + 名詞 B + です (desu)",
-      "explanation": "這是日語中最基礎的名詞句型。表示「A 是 B」。助詞「は」做為主題標記，提示句子討論的對象為名詞 A。雖然寫作「ha」，但發音為「wa」。「です」是禮貌的句尾助動詞（相當於中文的「是」），代表對聽眾的禮貌態度。",
+      "id": "g_n4_1",
+      "title": "〜あげる (給予)",
+      "structure": "名詞(人) + に + 名詞(物) + を + あげる",
+      "explanation": "表示說話者或我方將物品「給予」他人，或是第三者給予第三者。不可以用在「別人給我」的情況。",
       "examples": [
         {
-          "ja": "私は学生です。",
-          "furigana": "わたしはがくせいです。",
-          "en": "我是學生。"
+          "ja": "私は妹にプレゼントをあげました。",
+          "furigana": "わたしはいもうとにプレゼントをあげました。",
+          "en": "我給了妹妹禮物。"
         },
         {
-          "ja": "これは辞書です。",
-          "furigana": "これはじしょです。",
-          "en": "這是辭典。"
-        },
-        {
-          "ja": "田中さんは日本人です。",
-          "furigana": "たなかさんはにほんじんです。",
-          "en": "田中先生是日本人。"
+          "ja": "田中さんは鈴木さんに本をあげます。",
+          "furigana": "たなかさんはすずきさんにほんをあげます。",
+          "en": "田中先生把書給了鈴木先生。"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g2",
-      "title": "〜は〜ではありません (A 不是 B)",
-      "structure": "名詞 A + は + 名詞 B + ではありません (dewa arimasen)",
-      "explanation": "這是「〜は〜です」的否定表達，代表「A 不是 B」。在較為輕鬆口語的對話中，常使用「じゃありません」或「じゃないです」代替較為正式的「疑問」。",
+      "id": "g_n4_2",
+      "title": "〜もらう (收到)",
+      "structure": "名詞(人) + に/から + 名詞(物) + を + もらう",
+      "explanation": "表示說話者或我方從他人那裡「收到」物品。接受的一方通常是主語（は）。",
       "examples": [
         {
-          "ja": "私は先生ではありません。",
-          "furigana": "わたしはせんせいではありません。",
-          "en": "我不是老師。"
-        },
-        {
-          "ja": "これは私の傘ではありません。",
-          "furigana": "これはわたしのかさではありません。",
-          "en": "這不是我的雨傘。"
-        },
-        {
-          "ja": "鈴木さんは学生じゃありません。",
-          "furigana": "すずきさんはがくせいじゃありません。",
-          "en": "鈴木先生不是學生。"
+          "ja": "私は友達に時計をもらいました。",
+          "furigana": "わたしはともだちにとけいをもらいました。",
+          "en": "我從朋友那裡收到了手錶。"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g3",
-      "title": "〜は〜でした / ではありませんでした (過去式：是/不是)",
-      "structure": "過去肯定：名詞 A + は + 名詞 B + でした (deshita)\n過去否定：名詞 A + は + 名詞 B + ありませんでした (dewa arimasen deshita)",
-      "explanation": "用來描述名詞句的過去時間狀態。肯定過去式為「A 以前是 B」（でした）；否定過去式則為「A 以前不是 B」（ flannel ）。",
+      "id": "g_n4_3",
+      "title": "〜くれる (給我)",
+      "structure": "名詞(人) + が/は + (私に) + 名詞(物) + を + くれる",
+      "explanation": "表示他人將物品「給」說話者或我方。給予的一方為主語（が/は）。",
       "examples": [
         {
-          "ja": "昨日は雨でした。",
-          "furigana": "きのうはあめでした。",
-          "en": "昨天是雨天。"
-        },
-        {
-          "ja": "十年前、彼は学生でした。",
-          "furigana": "じゅうねんまえ、かれはがくせいでした。",
-          "en": "十年前，他曾是個學生。"
-        },
-        {
-          "ja": "昨日は休みではありませんでした。",
-          "furigana": "きのうはやすみではありませんでした。",
-          "en": "昨天不是休假日。"
+          "ja": "父が私に時計をくれました。",
+          "furigana": "ちちがわたしにとけいをくれました。",
+          "en": "父親給了我手錶。"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g4",
-      "title": "助詞：か (疑問終助詞)",
-      "structure": "句子 + か？",
-      "explanation": "在一個完整句子的尾端加上「か」，句子就變成疑問句。語序與肯定句完全相同。在正式日文書寫中，不需要標點問號「？」，通常以句號「。」結尾，但在現代教學或非正式對話中，問號也被廣泛使用。",
+      "id": "g_n4_4",
+      "title": "〜てあげる (為...做)",
+      "structure": "動詞て形 + あげる",
+      "explanation": "表示主動為他人做某事，帶有施恩的語氣，不建議對長輩使用。",
       "examples": [
         {
-          "ja": "あなたは学生ですか。",
-          "furigana": "あなたはがくせいですか。",
-          "en": "你是學生嗎？"
-        },
-        {
-          "ja": "あの人は誰ですか。",
-          "furigana": "あのひとはだれですか。",
-          "en": "那個人是誰？"
-        },
-        {
-          "ja": "日本語は難しいですか。",
-          "furigana": "にほんごはむずかしいですか。",
-          "en": "日語很難嗎？"
+          "ja": "私が荷物を持ってあげます。",
+          "furigana": "わたしがにもつをもっていあげます。",
+          "en": "我來幫你拿行李吧。"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g5",
-      "title": "助詞：の (所有格與名詞修飾)",
-      "structure": "名詞 A + の + 名詞 B",
-      "explanation": "助詞「の」用於連結兩個名詞。可以用來代表所有關係（「A的B」）、產地或材質（「A製的B」、「A處的B」）、或細節說明（「關於A的B」）。等同於中文的「的」。",
+      "id": "g_n4_5",
+      "title": "〜てもらう (請...做)",
+      "structure": "動詞て形 + もらう",
+      "explanation": "表示請他人為自己做某事，並對此感到感激。主語是受惠者。",
       "examples": [
         {
-          "ja": "これは私の本です。",
-          "furigana": "これはわたしのほんです。",
-          "en": "這是我的書。"
-        },
-        {
-          "ja": "日本の車を買いました。",
-          "furigana": "にほんのくるまをかいました。",
-          "en": "我買了日本的車子。"
-        },
-        {
-          "ja": "日本語の先生に会いました。",
-          "furigana": "にほんごのせんせいにあいました。",
-          "en": "我見到了日語老師。"
+          "ja": "先生に漢字を教えてもらいました。",
+          "furigana": "せんせいにかんじをおしえてもらいました。",
+          "en": "請老師教我漢字了。"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g6",
-      "title": "これ / それ / あれ (事物指示代名詞)",
-      "structure": "これ (Kore) / それ (Sore) / あれ (Are) + は + 名詞 + です",
-      "explanation": "用來代替特定事物，依說話者與聽話者的相對空間距離而定：\n- これ (Kore)：「這個」（靠近說話者範圍內的事物）\n- それ (Sore)：「那個」（靠近聽話者範圍內的事物）\n- あれ (Are)：「那個」（遠離說話者與聽話者雙方的事物）",
+      "id": "g_n4_6",
+      "title": "〜てくれる (為我做)",
+      "structure": "動詞て形 + くれる",
+      "explanation": "表示他人主動為我方做某事。主語是施惠者。",
       "examples": [
         {
-          "ja": "これは何ですか。",
-          "furigana": "これはなんですか。",
-          "en": "這是什麼？"
-        },
-        {
-          "ja": "それは私の辞書です。",
-          "furigana": "それはわたしのじしょです。",
-          "en": "那是（你那邊的）我的辭典。"
-        },
-        {
-          "ja": "あれは学校です。",
-          "furigana": "あれはがっこうです。",
-          "en": "那邊（遠處）是學校。"
+          "ja": "友達が自転車を修理してくれました。",
+          "furigana": "ともだちがじてんしゃをしゅうりしてくれました。",
+          "en": "朋友幫我修理了腳踏車。"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g7",
-      "title": "この / その / あの (指示限定詞)",
-      "structure": "この (Kono) / その (Sono) / あの (Ano) + 名詞",
-      "explanation": "與「これ/それ/あれ」不同，這組詞不能單獨使用，必須放在名詞前修飾該名詞（如「這本書」、「那雙鞋」）：\n- この (Kono)：「這[名詞]」\n- その (Sono)：「那[名詞]」\n- あの (Ano)：「那邊的[名詞]」",
+      "id": "g_n4_7",
+      "title": "〜ば (條件假定)",
+      "structure": "動詞ば形 / い形容詞 (-い) ければ / な形容詞・名詞 ならば",
+      "explanation": "表示前句是後句成立的必要條件。「如果...的話」。",
       "examples": [
         {
-          "ja": "この本は面白いです。",
-          "furigana": "このほんはおもしろいです。",
-          "en": "這本書很有趣。"
+          "ja": "春になれば、桜が咲きます。",
+          "furigana": "はるになれば、さくらがさきます。",
+          "en": "春天一到，櫻花就會開。"
         },
         {
-          "ja": "その靴はいくらですか。",
-          "furigana": "そのくつはいくらですか。",
-          "en": "那雙鞋子多少錢？"
-        },
-        {
-          "ja": "あの人は誰ですか。",
-          "furigana": "あのひとはだれですか。",
-          "en": "那個人是誰？"
+          "ja": "安ければ、買います。",
+          "furigana": "やすければ、かいます。",
+          "en": "如果便宜的話我就買。"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g8",
-      "title": "ここ / そこ / あそこ (場所指示代名詞)",
-      "structure": "ここ / そこ / あそこ + は + 地點 + です",
-      "explanation": "用來指示地點位置：\n- ここ (Koko)：「這裡」（靠近說話者的地方）\n- そこ (Soko)：「那裡」（靠近聽話者的地方）\n- あそこ (Asoko)：「那裡」（遠離說話者與聽話者雙方的地方）",
+      "id": "g_n4_8",
+      "title": "〜なら (話題假定)",
+      "structure": "名詞 / 普通形 + なら",
+      "explanation": "承接對方的話題提出建議或意見，或表示在某個範圍內的條件。",
       "examples": [
         {
-          "ja": "ここは教室です。",
-          "furigana": "ここはきょうしつです。",
-          "en": "這裡是教室。"
-        },
-        {
-          "ja": "トイレはそこです。",
-          "furigana": "トイレはそこです。",
-          "en": "洗手間在那裡。"
-        },
-        {
-          "ja": "あそこは駅ですか。",
-          "furigana": "あそこはえきですか。",
-          "en": "那邊是車站嗎？"
+          "ja": "温泉なら、箱根がいいですよ。",
+          "furigana": "おんせんなら、はこねがいいですよ。",
+          "en": "說到溫泉的話，箱根很不錯喔。"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g9",
-      "title": "助詞：も (也 / 同樣)",
-      "structure": "名詞 + も",
-      "explanation": "當助詞「も」被使用時，它會直接取代「は」或「が」，表示此名詞與前面提到的名詞具有同樣的性質（意為「也」、「同樣」）。",
+      "id": "g_n4_9",
+      "title": "〜たら (假定/發現)",
+      "structure": "普通形過去式 (た形) + ら",
+      "explanation": "1. 表示假定條件「如果...的話」。2. 表示某個動作完成後，發現了後句的結果。",
       "examples": [
         {
-          "ja": "私も学生です。",
-          "furigana": "わたしもがくせいです。",
-          "en": "我也是學生。"
+          "ja": "雨が降ったら、行きません。",
+          "furigana": "あめがふったら、いきません。",
+          "en": "如果下雨的話就不去。"
         },
         {
-          "ja": "田中さんは英語も話せます。",
-          "furigana": "たなかさんはえいごもはなせます。",
-          "en": "田中先生也會說英語。"
-        },
-        {
-          "ja": "昨日も雨が降りました。",
-          "furigana": "きのうもあめがふりました。",
-          "en": "昨天也下雨了。"
+          "ja": "窓を開けたら、海が見えました。",
+          "furigana": "まどをあけたら、うみがみえました。",
+          "en": "一打開窗戶，就看到了海。"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g10",
-      "title": "助詞：を (他動詞的受格標記)",
-      "structure": "名詞 + を (o) + 他動詞",
-      "explanation": "助詞「を」代表前面的名詞是他動詞（動作動詞）的直接動作對象。雖然寫法是「wo」，但在發音時一律唸作「o」。",
+      "id": "g_n4_10",
+      "title": "〜と (恆常條件)",
+      "structure": "動詞辭書形 / ない形 + と",
+      "explanation": "表示只要具備前句條件，必然、自然會發生後句的結果。常用於真理、習慣、機器操作或指路。",
       "examples": [
         {
-          "ja": "水を飲みます。",
-          "furigana": "みずをのみます。",
-          "en": "喝水。"
+          "ja": "このボタンを押すと、水が出ます。",
+          "furigana": "このボタンをおすと、みずがでます。",
+          "en": "一按這個按鈕，水就會出來。"
         },
         {
-          "ja": "パンを食べました。",
-          "furigana": "パンをたべました。",
-          "en": "吃了麵包。"
-        },
-        {
-          "ja": "日本語を勉強します。",
-          "furigana": "にほんごをべんきょうします。",
-          "en": "學習日語。"
+          "ja": "まっすぐ行くと、右に銀行があります。",
+          "furigana": "まっすぐいくと、みぎにぎんこうがあります。",
+          "en": "一直走，右邊就有銀行。"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g11",
-      "title": "助詞：に (時間、目的地與動作對象)",
-      "structure": "1. 具體時間 + に + 動詞\n2. 地點 + に + 行く/来る/帰る\n3. 對象 + に + 會面/給予",
-      "explanation": "格助詞「に」有三大核心功能：\n1. 標示動作發生的明確時間點（如星期、幾點等，不含今天、明天等抽象時間）。\n2. 標示移動的方向和目的地（等同於「へ」）。\n3. 標示動作的承受對象（如與誰見面、拿給誰等）。",
+      "id": "g_n4_11",
+      "title": "〜かもしれない (可能)",
+      "structure": "普通形 / 名詞 / な形容詞語幹 + かもしれない",
+      "explanation": "表示雖然沒有確切根據，但有發生某事的可能性。「也許、說不定」。機率約 50%。",
       "examples": [
         {
-          "ja": "七時に起きます。",
-          "furigana": "しちじにおきます。",
-          "en": "七點起床。"
-        },
-        {
-          "ja": "日本に行きます。",
-          "furigana": "にほんにいきます。",
-          "en": "去日本。"
-        },
-        {
-          "ja": "友達に会います。",
-          "furigana": "ともだちにあいます。",
-          "en": "和朋友見面。"
+          "ja": "明日は雨が降るかもしれません。",
+          "furigana": "あしたはあめがふるかもしれません。",
+          "en": "明天也許會下雨。"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g12",
-      "title": "助詞：で (動作發生的地點與工具手段)",
-      "structure": "1. 地點 + で + 動作動詞\n2. 工具/手段 + で + 動作動詞",
-      "explanation": "助詞「で」有兩個重要用法：\n1. 標示一個動作具體「進行」或「發生」的場所（有別於表示靜態存在的「に」）。\n2. 標示進行該動作的工具、方法、語言或手段（意為「使用…」、「搭乘…」、「用…」）。",
+      "id": "g_n4_12",
+      "title": "〜でしょう / 〜だろう (推測)",
+      "structure": "普通形 / 名詞 / な形容詞語幹 + でしょう",
+      "explanation": "表示說話者對客觀事實的推測，或向對方徵求同意。「...吧」。",
       "examples": [
         {
-          "ja": "図書館で勉強します。",
-          "furigana": "としょかんでべんきょうします。",
-          "en": "在圖書館學習。"
-        },
-        {
-          "ja": "電車で学校へ行きます。",
-          "furigana": "でんしゃでがっこうへいきます。",
-          "en": "搭電車去學校。"
-        },
-        {
-          "ja": "日本語で話します。",
-          "furigana": "にほんごではなします。",
-          "en": "用日語交談。"
+          "ja": "明日は晴れるでしょう。",
+          "furigana": "あしたははれるでしょう。",
+          "en": "明天會放晴吧。"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g13",
-      "title": "助詞：へ (移動的方向)",
-      "structure": "地點 + へ (e) + 移動動詞 (行く/来る/帰る)",
-      "explanation": "助詞「へ」寫作「he」但發音為「e」。用來標示移動的「朝向」、「方向」（類似英文的 toward）。相較於「に」更關注目的地，「へ」主要強調移動的方向過程。",
+      "id": "g_n4_13",
+      "title": "〜はずだ (理應)",
+      "structure": "動詞・い形容詞普通形 / な形容詞 + な / 名詞 + の + はずだ",
+      "explanation": "基於客觀根據做出的強烈推斷。「按理說應該...」。",
       "examples": [
         {
-          "ja": "学校へ行きます。",
-          "furigana": "がっこうへいきます。",
-          "en": "去學校。"
-        },
-        {
-          "ja": "家へ帰ります。",
-          "furigana": "うちへかえります。",
-          "en": "回家。"
-        },
-        {
-          "ja": "日本へようこそ！",
-          "furigana": "にほんへようこそ！",
-          "en": "歡迎來到日本！"
+          "ja": "彼は昨日出発したから、今日着くはずです。",
+          "furigana": "かれはきのうしゅっぱつしたから、きょうつくはずです。",
+          "en": "他昨天就出發了，今天按理說應該會到。"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g14",
-      "title": "助詞：と (和 / 共事對象)",
-      "structure": "1. 名詞 A + と + 名詞 B\n2. 人物 + と + 動詞",
-      "explanation": "助詞「と」表示：\n1. 完全並列的關係（「A和B」，用來列舉所有名詞）。\n2. 動作的共事夥伴或對象（「和某人一起…」）。",
+      "id": "g_n4_14",
+      "title": "〜ようだ (好像是)",
+      "structure": "動詞・い形容詞普通形 / な形容詞 + な / 名詞 + の + ようだ",
+      "explanation": "基於感官察覺到的現象做出的主觀推測。「看起來好像...」。",
       "examples": [
         {
-          "ja": "机の上にペンと本があります。",
-          "furigana": "つくえのうえにペンとほんがあります。",
-          "en": "桌子上有筆和書。"
-        },
-        {
-          "ja": "友達と映画を見ました。",
-          "furigana": "ともだちとえいがをみました。",
-          "en": "和朋友一起看了電影。"
-        },
-        {
-          "ja": "家族と日本へ来ました。",
-          "furigana": "かぞくとにほんへきました。",
-          "en": "和家人一起來了日本。"
+          "ja": "隣の部屋に誰かいるようです。",
+          "furigana": "となりのへやにだれかいるようです。",
+          "en": "隔壁房間好像有人。"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g15",
-      "title": "動詞的丁寧形 (敬體肯定與否定：〜ます / 〜ません)",
-      "structure": "現在肯定：動詞ます連用形 + ます\n現在否定：動詞ます連用形 + ません",
-      "explanation": "日語中對他人表示禮貌時所使用的動詞時態（丁寧體）。動詞依變化規則分為三類：\n- 第一類動詞 (五段動詞)：原形字尾為 -u 聲音，將其變為該行 -i 聲音再接 ます (如 読む -> 読みます)。\n- 第二類動詞 (上一段/下一段動詞)：原形字尾為 -ru，直接去掉 -ru 後接 ます (如 食べる -> 食べます)。\n- 第三類動詞 (不規則動詞)：する -> します、来る -> きます。",
+      "id": "g_n4_15",
+      "title": "〜らしい (傳聞/典型)",
+      "structure": "普通形 / 名詞 / な形容詞語幹 + らしい",
+      "explanation": "1. 根據傳聞或客觀根據的推測。2. 接在名詞後表示具備該名詞最典型的特徵「很有...的樣子」。",
       "examples": [
         {
-          "ja": "私は毎日本を読みます。",
-          "furigana": "わたしはまいにちほんをよみます。",
-          "en": "我每天讀書。"
+          "ja": "あの二人は結婚するらしいです。",
+          "furigana": "あのふたりはけっこんするらしいです。",
+          "en": "聽說那兩人要結婚了。"
         },
         {
-          "ja": "お酒は飲みません。",
-          "furigana": "おさけはのみません。",
-          "en": "我不喝酒。"
-        },
-        {
-          "ja": "明日、学校へ行きます。",
-          "furigana": "あした、がっこうへいきます。",
-          "en": "明天要去學校。"
+          "ja": "今日は春らしい天気ですね。",
+          "furigana": "きょうははるらしいんてんきですね。",
+          "en": "今天真是充滿春意的天氣呢。"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g16",
-      "title": "動詞的過去丁寧形 (過去肯定與否定：〜ました / 〜ませんでした)",
-      "structure": "過去肯定：動詞ます連用形 + ました\n過去否定：動詞ます連用形 + ませんでした",
-      "explanation": "動詞丁寧形（敬體）的過去式表示法。",
+      "id": "g_n4_16",
+      "title": "〜そうだ (樣態推測)",
+      "structure": "動詞ます形去ます / い・な形容詞語幹 + そうだ",
+      "explanation": "從外觀看起來覺得好像要發生某事，或具備某種狀態。「看起來好像...」。(例外: いい -> よさそうだ)",
       "examples": [
         {
-          "ja": "朝ご飯を食べました。",
-          "furigana": "あさごはんをたべました。",
-          "en": "吃過早餐了。"
+          "ja": "雨が降りそうです。",
+          "furigana": "あめがふりそうです。",
+          "en": "好像要下雨了。"
         },
         {
-          "ja": "昨日は勉強しませんでした。",
-          "furigana": "きのうはべんきょうしませんでした。",
-          "en": "昨天沒有唸書。"
-        },
-        {
-          "ja": "映画を見ました。",
-          "furigana": "えいがをみました。",
-          "en": "看了電影。"
+          "ja": "このケーキは美味しそうですね。",
+          "furigana": "このケーキはおいしそうですね。",
+          "en": "這個蛋糕看起來很好吃呢。"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g17",
-      "title": "〜があります / います (人與物品的存在句：有 / 存在)",
-      "structure": "無生命對象：地點 + に + 名詞 + があります\n有生命對象：地點 + に + 名詞 + がいます",
-      "explanation": "用來表示「在某個地方有某物/某人」或表示自己「擁有…」。\n- あります (arimasu)：主語為無生命物品、植物或抽象事物（書、車、時間）。\n- います (imasu)：主語為人、動物等有生命個體（學生、貓、狗）。",
+      "id": "g_n4_17",
+      "title": "〜そうだ (傳聞)",
+      "structure": "普通形 + そうだ",
+      "explanation": "傳達從別人那裡聽來的話。「聽說...」。",
       "examples": [
         {
-          "ja": "机の上に本があります。",
-          "furigana": "つくえのうえにほんがあります。",
-          "en": "桌子上有書。"
-        },
-        {
-          "ja": "あそこに犬がいます。",
-          "furigana": "あそこにいぬがいます。",
-          "en": "那裡有一隻狗。"
-        },
-        {
-          "ja": "私には妹がいます。",
-          "furigana": "わたしにはいもうとがいます。",
-          "en": "我有妹妹。"
+          "ja": "天気予報によると、明日は雨が降るそうです。",
+          "furigana": "てんきよほうによると、あしたはあめがふるそうです。",
+          "en": "根據天氣預報，聽說明天會下雨。"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g18",
-      "title": "い形容詞的修飾與連接 (い形容詞句)",
-      "structure": "1. 直接修飾名詞：い形容詞 (原形) + 名詞\n2. 敬體結句：い形容詞 (原形) + です\n3. 否定狀態：去字尾「い」 + くないです / くありません",
-      "explanation": "い形容詞指的是辭書原形結尾必定為平假名「い」的形容詞。它們可以直接接名詞，也可以在句尾加上「です」以做敬體。否定時將最後的「い」改為「くない」；過去式則將「い」改為「かった」。",
+      "id": "g_n4_18",
+      "title": "〜すぎる (過度)",
+      "structure": "動詞ます形去ます / い・な形容詞語幹 + すぎる",
+      "explanation": "表示程度超過了適當的範圍，通常帶有負面的意思。「太...、過於...」。",
       "examples": [
         {
-          "ja": "これは私の本です。",
-          "furigana": "これはあたらしいくつです。",
-          "en": "這是新鞋子。"
+          "ja": "昨日、お酒を飲みすぎました。",
+          "furigana": "きのう、おさけをのみすぎました。",
+          "en": "昨天酒喝太多了。"
         },
         {
-          "ja": "このラーメンは美味しくないです。",
-          "furigana": "このラーメンはおいしくないです。",
-          "en": "這碗拉麵不好吃。"
-        },
-        {
-          "ja": "昨日はとても寒かったです。",
-          "furigana": "きのうはとてもさむかったです。",
-          "en": "昨天非常冷。"
+          "ja": "この問題は複雑すぎます。",
+          "furigana": "このもんだいはふくざつすぎます。",
+          "en": "這個問題太複雜了。"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g19",
-      "title": "な形容詞的修飾與連接 (な形容詞句)",
-      "structure": "1. 直接修飾名詞：な形容詞 (基本形) + な + 名詞\n2. 敬體結句：な形容詞 (基本形) + です\n3. 否定狀態：な形容詞 (基本形) + 疑問 / じゃありません",
-      "explanation": "な形容詞的原形通常以平假名「だ」結尾（或不顯示，除了「きれい」「きらい」等特殊字尾外，通常不以「い」結尾）。修飾名詞時，需要介接「な」；在做結句時，其變化形式與名詞完全相同（使用です、でした、疑問）。",
+      "id": "g_n4_19",
+      "title": "〜やすい / 〜にくい (難易)",
+      "structure": "動詞ます形去ます + やすい / にくい",
+      "explanation": "表示某個動作做起來很「容易」或很「困難」，或某事物很「容易/難以」發生某種變化。",
       "examples": [
         {
-          "ja": "ここは静かな部屋です。",
-          "furigana": "ここはしずかなへやです。",
-          "en": "這裡是個安靜的房間。"
+          "ja": "このペンは書きやすいです。",
+          "furigana": "このペンはかきやすいです。",
+          "en": "這支筆很好寫。"
         },
         {
-          "ja": "図書館はとても静かです。",
-          "furigana": "としょかんはとてもしずかです。",
-          "en": "圖書館非常安靜。"
-        },
-        {
-          "ja": "あの人は親切じゃありません。",
-          "furigana": "あのひとはしんせつじゃありません。",
-          "en": "那個人不親切。"
+          "ja": "ガラスは割れにくいです。",
+          "furigana": "ガラスはわれにくいです。",
+          "en": "玻璃不容易破。"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g20",
-      "title": "〜たいです (個人想要做某事)",
-      "structure": "動詞ます連用形 (去ます) + たいです",
-      "explanation": "表示說話者自己內心想要做某項動作的願望（「我想做…」）。把動詞丁寧形「ます」去掉，更換為「たいです」。此時，表示動作客體的助詞「を」經常會替換為「が」（亦可保留「を」）。",
+      "id": "g_n4_20",
+      "title": "〜てみる (嘗試)",
+      "structure": "動詞て形 + みる",
+      "explanation": "表示抱著看看結果如何的心態去嘗試做某事。「試著做...看看」。",
       "examples": [
         {
-          "ja": "お茶を（が）飲みたいです。",
-          "furigana": "おちゃを（が）のみたいです。",
-          "en": "我想喝茶。"
-        },
-        {
-          "ja": "日本へ行きたいです。",
-          "furigana": "にほんへいきたいです。",
-          "en": "我想去日本。"
-        },
-        {
-          "ja": "新しい服を買いたいです。",
-          "furigana": "あたらしいふくをかいたいです。",
-          "en": "我想買新衣服。"
+          "ja": "この靴を履いてみてもいいですか。",
+          "furigana": "このくつをはいてみてもいいですか。",
+          "en": "我可以試穿這雙鞋看看嗎？"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g21",
-      "title": "〜がほしいです (想要得到某個物品)",
-      "structure": "物品名詞 + が + ほしいです",
-      "explanation": "表示說話者「想要得到某個具體物品」（「我想要[名詞]」）。注意此字眼是「い形容詞」，且只用於描述名詞物品，不可用在動詞動作願望。",
+      "id": "g_n4_21",
+      "title": "〜てしまう (完成/遺憾)",
+      "structure": "動詞て形 + しまう",
+      "explanation": "1. 表示動作完全結束。2. 表示對發生了意想不到、不好的事情感到遺憾或後悔。",
       "examples": [
         {
-          "ja": "新しい車がほしいです。",
-          "furigana": "あたらしいくるまがほしいです。",
-          "en": "我想要新車。"
+          "ja": "宿題はもう全部やってしまいました。",
+          "furigana": "しゅくだいはもうぜんぶやってしまいました。",
+          "en": "作業已經全部做完了。"
         },
         {
-          "ja": "友達がほしいです。",
-          "furigana": "ともだちがほしいです。",
-          "en": "我想要朋友。"
-        },
-        {
-          "ja": "時間がほしいです。",
-          "furigana": "じかんがほしいです。",
-          "en": "我想要時間。"
+          "ja": "パスポートを落としてしまいました。",
+          "furigana": "パスポートをおとしてしまいました。",
+          "en": "不小心把護照弄丟了。"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g22",
-      "title": "動詞的て形 (動詞連接形 Te形變化)",
-      "structure": "動詞的 て形 (Te-form)",
-      "explanation": "動詞的「て形」是日語中至關重要的接續形態，用於連接兩個動作、請求、或構成進行式等。三類動詞的變法如下：\n- 第一類動詞：う、つ、る 結尾變「って」 | む、ぶ、ぬ 結尾變「んで」 | く 結尾變「いて」（例外：行く 變「行って」） | ぐ 結尾變「いで」 | す 變「して」。\n- 第二類動詞：去掉字尾的「る」直接加「て」 (如 食べる -> 食べて)。\n- 第三類動詞：する 變「して」、来る 變「きて」。",
+      "id": "g_n4_22",
+      "title": "〜ておく (事先準備)",
+      "structure": "動詞て形 + おく",
+      "explanation": "1. 為了某個目的事先做好準備。2. 讓某個狀態保持原樣。",
       "examples": [
         {
-          "ja": "食べて (たべて)",
-          "furigana": "たべて",
-          "en": "吃（動詞て形）"
+          "ja": "旅行の前に、ホテルを予約しておきます。",
+          "furigana": "りょこうのまえに、ホテルをよやくしておきます。",
+          "en": "旅行前，先預訂好飯店。"
         },
         {
-          "ja": "書いて (かいて)",
-          "furigana": "かいて",
-          "en": "寫（動詞て形）"
-        },
-        {
-          "ja": "行って (いって)",
-          "furigana": "いって",
-          "en": "去（動詞て形）"
+          "ja": "窓を開けておいてください。",
+          "furigana": "まどをあけておいてください。",
+          "en": "請把窗戶開著(保持原樣)。"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g23",
-      "title": "〜てください (請做某動作)",
-      "structure": "動詞 [て形] + ください",
-      "explanation": "用於禮貌地請求或拜託他人做某事（「請您做…」）。這是日語學習中非常常用且實用的句型。",
+      "id": "g_n4_23",
+      "title": "〜てある (狀態存續)",
+      "structure": "他動詞て形 + ある",
+      "explanation": "表示某人為了某個目的而人為地做了一個動作，且該動作的結果或狀態持續至今。",
       "examples": [
         {
-          "ja": "ここに名前を書いてください。",
-          "furigana": "ここになまえをかいてください。",
-          "en": "請在這裡寫下名字。"
-        },
-        {
-          "ja": "日本語で話してください。",
-          "furigana": "にほんごではなしてください。",
-          "en": "請用日文說話。"
-        },
-        {
-          "ja": "ちょっと待ってください。",
-          "furigana": "ちょっとまってください。",
-          "en": "請稍微等一下。"
+          "ja": "壁にカレンダーが掛けてあります。",
+          "furigana": "かべにカレンダーがかけてあります。",
+          "en": "牆上掛著日曆。(某人刻意掛的)"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g24",
-      "title": "〜ています (正在進行 / 狀態的持續)",
-      "structure": "動詞 [て形] + います",
-      "explanation": "主要有兩種含意：\n1. 動作正在進行中，等同於英文的「-ing」（如 正在看電視）。\n2. 動作完成後，該動作所帶來的狀態一直持續到現在（如 住在東京、結婚了）。",
+      "id": "g_n4_24",
+      "title": "〜ている (結果狀態)",
+      "structure": "自動詞て形 + いる",
+      "explanation": "表示動作發生後，其結果狀態一直持續。與「てある」不同，它不強調人為目的。",
       "examples": [
         {
-          "ja": "今、テレビを見ています。",
-          "furigana": "いま、テレビをみています。",
-          "en": "現在正在看電視。"
-        },
-        {
-          "ja": "妹は東京に住んでいます。",
-          "furigana": "いもうとはとうきょうにすんでいます。",
-          "en": "我妹妹住在東京（持續狀態）。"
-        },
-        {
-          "ja": "田中さんはもう結婚しています。",
-          "furigana": "たなかさんはもうけっこんしています。",
-          "en": "田中先生已經結婚了（狀態）。"
+          "ja": "窓が開いています。",
+          "furigana": "まどがあいています。",
+          "en": "窗戶開著。"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g25",
-      "title": "〜てもいいです (可以做某事：許可 / 徵求同意)",
-      "structure": "動詞 [て形] + もいいです",
-      "explanation": "用於給予他人許可（「你可以做…」），或是詢問是否可以做某事（「我可以做…嗎？」）。徵求許可時需在句尾加上疑問終助詞「か」。",
+      "id": "g_n4_25",
+      "title": "使役形 (讓/使)",
+      "structure": "動詞使役形 (第I類：a段+せる / 第II類：+させる / 第III類：させる、こさせる)",
+      "explanation": "表示強制或容許他人做某事。「讓...做... / 叫...做...」。",
       "examples": [
         {
-          "ja": "写真を撮ってもいいですか。",
-          "furigana": "しゃしんをとってもいいですか。",
-          "en": "我可以拍照嗎？"
-        },
-        {
-          "ja": "この本を読んでもいいです。",
-          "furigana": "このほんをよんでもいいです。",
-          "en": "你可以看這本書。"
-        },
-        {
-          "ja": "ここに入ってもいいですか。",
-          "furigana": "ここにはいってもいいですか。",
-          "en": "我可以進去這裡嗎？"
+          "ja": "母は子供に野菜を食べさせます。",
+          "furigana": "はははこどもにやさいをたべさせます。",
+          "en": "媽媽讓小孩吃蔬菜。"
         }
       ],
-      "level": "N5"
+      "level": "N4"
     },
     {
-      "id": "g26",
-      "title": "〜てはいけません (不可以做某事：禁止)",
-      "structure": "動詞 [て形] + はいけません",
-      "explanation": "表示強烈的禁止他人做某個動作。常用於公共場所的規則聲明、警示標誌，或是長輩對晚輩的警告（意為「不准…」、「不可以…」）。",
+      "id": "g_n4_26",
+      "title": "受身形 (被動)",
+      "structure": "動詞受身形 (第I類：a段+れる / 第II類：+られる / 第III類：される、こられる)",
+      "explanation": "表示受到他人的動作影響。特別是當自己權益受損時常用的「受害被動」。",
+      "examples": [
+        {
+          "ja": "私は先生に褒められました。",
+          "furigana": "わたしはせんせいにほめられました。",
+          "en": "我被老師稱讚了。"
+        },
+        {
+          "ja": "私は弟にパソコンを壊されました。",
+          "furigana": "わたしはおとうとにパソコンをこわされました。",
+          "en": "我的電腦被弟弟弄壞了。(受害被動)"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_27",
+      "title": "使役受身形 (被迫)",
+      "structure": "動詞使役受身形 (第I類：a段+される/せられる / 第II類：+させられる / 第III類：させられる、こさせられる)",
+      "explanation": "表示違背自身意願，被強制要求做某事。「被迫做...」。",
+      "examples": [
+        {
+          "ja": "私は母に野菜を食べさせられました。",
+          "furigana": "わたしはははにやさいをたべさせられました。",
+          "en": "我被媽媽逼著吃蔬菜。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_28",
+      "title": "〜ために (目的/原因)",
+      "structure": "動詞辭書形 / 名詞 + の + ために",
+      "explanation": "1. 表示目的「為了...」。 2. 表示原因「因為...」。",
+      "examples": [
+        {
+          "ja": "健康のために、毎日運動しています。",
+          "furigana": "けんこうのために、まいにちうんどうしています。",
+          "en": "為了健康，每天運動。"
+        },
+        {
+          "ja": "雪のために、電車が遅れました。",
+          "furigana": "ゆきのために、でんしゃがおくれました。",
+          "en": "因為下雪，電車誤點了。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_29",
+      "title": "〜ように (目的/期望)",
+      "structure": "動詞辭書形 / ない形 / 可能形 + ように",
+      "explanation": "表示為了達成某個不具備強烈意志的狀態，或是期望。「為了能... / 希望能...」。",
+      "examples": [
+        {
+          "ja": "日本語が話せるように、毎日勉強しています。",
+          "furigana": "にほんごがはなせるように、まいにちべんきょうしています。",
+          "en": "為了能說日文，每天都在學習。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_30",
+      "title": "〜ば〜ほど (越...越)",
+      "structure": "動詞ば形 + 動詞辭書形 + ほど / い形容詞ければ + い形容詞 + ほど",
+      "explanation": "表示隨著某個條件的程度加深，後句的情況也隨之變化。「越...越...」。",
+      "examples": [
+        {
+          "ja": "日本語は勉強すればするほど、面白くなります。",
+          "furigana": "にほんごはべんきょうすればするほど、おもしろくなります。",
+          "en": "日文越學越覺得有趣。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_31",
+      "title": "〜ところだ (正要/正在/剛做完)",
+      "structure": "動詞辭書形 (正要) / ている (正在) / た形 (剛做完) + ところだ",
+      "explanation": "強調動作處於哪個時間點。「正準備做... / 正在做... / 剛剛做完...」。",
+      "examples": [
+        {
+          "ja": "今からご飯を食べるところです。",
+          "furigana": "いまからごはんをたべるところです。",
+          "en": "現在正要吃飯。"
+        },
+        {
+          "ja": "たった今、バスが出発したところです。",
+          "furigana": "たったいま、バスがしゅっぱつしたところです。",
+          "en": "公車剛剛才發車。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_32",
+      "title": "〜ばかりだ (盡是/剛做完)",
+      "structure": "名詞 / 動詞て形 + ばかりだ (盡是) / 動詞た形 + ばかりだ (剛做完)",
+      "explanation": "1. 表示只做某事或全是某物。2. 表示動作才剛結束不久(帶有主觀感覺)。",
+      "examples": [
+        {
+          "ja": "彼は遊んでばかりいます。",
+          "furigana": "かれはあそんでばかりいます。",
+          "en": "他淨是在玩。"
+        },
+        {
+          "ja": "日本に来たばかりです。",
+          "furigana": "にほんにきたばかりです。",
+          "en": "才剛來日本不久。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_33",
+      "title": "〜にする (決定)",
+      "structure": "名詞 + にする",
+      "explanation": "表示從幾個選項中做出選擇、決定。「決定要...」。",
+      "examples": [
+        {
+          "ja": "私はコーヒーにします。",
+          "furigana": "わたしはコーヒーにします。",
+          "en": "我決定要咖啡。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_34",
+      "title": "〜ことにする (決定做)",
+      "structure": "動詞辭書形 / ない形 + ことにする",
+      "explanation": "表示經過思考後，自己下定決心做某事。「決定要...」。",
+      "examples": [
+        {
+          "ja": "明日からタバコをやめることにしました。",
+          "furigana": "あしたからタバコをやめることにしました。",
+          "en": "決定從明天開始戒菸。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_35",
+      "title": "〜ことになる (被決定)",
+      "structure": "動詞辭書形 / ない形 + ことになる",
+      "explanation": "表示並非自己的意志，而是由他人、組織或客觀形勢決定的結果。「決定要... / 被安排...」。",
+      "examples": [
+        {
+          "ja": "来月、出張することになりました。",
+          "furigana": "らいげつ、しゅっちょうすることになりました。",
+          "en": "下個月被安排要去出差。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_36",
+      "title": "尊敬語 (尊敬)",
+      "structure": "お/ご + 動詞ます形去ます + になる / 尊敬動詞 (いらっしゃる、召し上がる等)",
+      "explanation": "用於抬高對方的動作，表達敬意。",
+      "examples": [
+        {
+          "ja": "社長はもうお帰りになりました。",
+          "furigana": "しゃちょうはもうおかえりになりました。",
+          "en": "社長已經回去了。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_37",
+      "title": "謙譲語 (謙遜)",
+      "structure": "お/ご + 動詞ます形去ます + する / 謙譲動詞 (参る、いただく等)",
+      "explanation": "用於降低自己或己方的動作，以表達對對方的敬意。",
+      "examples": [
+        {
+          "ja": "私がご案内します。",
+          "furigana": "わたしがごあんないします。",
+          "en": "由我來為您帶路。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_38",
+      "title": "〜なさい (命令)",
+      "structure": "動詞ます形去ます + なさい",
+      "explanation": "語氣較為溫和的命令形，通常用於父母對小孩、老師對學生等上對下的關係。「去... / 做...」。",
+      "examples": [
+        {
+          "ja": "早く寝なさい。",
+          "furigana": "はやくねなさい。",
+          "en": "快去睡覺。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_39",
+      "title": "〜な (禁止)",
+      "structure": "動詞辭書形 + な",
+      "explanation": "語氣強烈的禁止形，多為男性用語或用於標語中。「不准... / 不要...」。",
+      "examples": [
+        {
+          "ja": "危ないから、入るな。",
+          "furigana": "あぶないから、はいるな。",
+          "en": "很危險，不准進去。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_40",
+      "title": "〜てはいけない (禁止)",
+      "structure": "動詞て形 + はいけない / はだめだ",
+      "explanation": "表示規則上的禁止，或是警告對方不可以做某事。「不可以...」。",
       "examples": [
         {
           "ja": "ここで写真を撮ってはいけません。",
           "furigana": "ここでしゃしんをとってはいけません。",
           "en": "這裡不可以拍照。"
-        },
-        {
-          "ja": "タバコを吸ってはいけません。",
-          "furigana": "タバコをすってはいけません。",
-          "en": "不可以抽煙。"
-        },
-        {
-          "ja": "教室で遊んではいけません。",
-          "furigana": "きょうしつであそんではいけません。",
-          "en": "不准在教室裡玩耍。"
-        }
-      ],
-      "level": "N5"
-    },
-    {
-      "id": "g27",
-      "title": "〜てから (動作A完成之後，再做動作B)",
-      "structure": "動詞 A [て形] + から、動詞 B",
-      "explanation": "表示在動作 A 完成或結束後，才緊接進行動作 B。通常強調動作的先後邏輯順序關係。",
-      "examples": [
-        {
-          "ja": "手を洗ってから、ご飯を食べます。",
-          "furigana": "てをあらってから、ごはんをたべます。",
-          "en": "洗過手之後吃飯。"
-        },
-        {
-          "ja": "宿題をしてから、テレビを見ました。",
-          "furigana": "しゅくだいをしてから、テレビをみました。",
-          "en": "寫完功課後看了電視。"
-        },
-        {
-          "ja": "日本へ行ってから、日本語を勉強しました。",
-          "furigana": "にほんへいってから、にほんごをべんきょうしました。",
-          "en": "去了日本之後才開始學習日語。"
-        }
-      ],
-      "level": "N5"
-    },
-    {
-      "id": "g28",
-      "title": "動詞的ない形 (常體否定形 / Nai形變化)",
-      "structure": "動詞的 ない形 (Nai-form)",
-      "explanation": "動詞的「ない形」是日常口語對話中的否定式（常體否定）。三類動詞的變法如下：\n- 第一類動詞：將字尾最後一個 -u 聲音改為同行的 -a 聲音，然後加上 ない (如 書く -> 書かない)。\n- 第二類動詞：直接去掉字尾的「る」並加上 ない (如 食べる -> 食べない)。\n- 第三類動詞：する 變「しない」、来る 變「こない」。",
-      "examples": [
-        {
-          "ja": "書かない (かかない)",
-          "furigana": "かかない",
-          "en": "不寫（動詞ない形 / 口語）"
-        },
-        {
-          "ja": "食べない (たべない)",
-          "furigana": "たべない",
-          "en": "不吃（動詞ない形 / 口語）"
-        },
-        {
-          "ja": "来ない (こない)",
-          "furigana": "こない",
-          "en": "不來（動詞ない形 / 口語）"
-        }
-      ],
-      "level": "N5"
-    },
-    {
-      "id": "g29",
-      "title": "〜ないでください (請不要做某動作)",
-      "structure": "動詞 [ない形] + でください",
-      "explanation": "用於禮貌地請求他人「不要」或「避免」進行某個動作（「請不要做…」）。與「〜てください」相反。",
-      "examples": [
-        {
-          "ja": "ここで写真を撮らないでください。",
-          "furigana": "ここでしゃしんをとらないでください。",
-          "en": "請不要在這裡拍照。"
-        },
-        {
-          "ja": "忘れないでください。",
-          "furigana": "わすれないでください。",
-          "en": "請不要忘記。"
-        },
-        {
-          "ja": "心配しないでください。",
-          "furigana": "しんぱいしないでください。",
-          "en": "請不要擔心。"
-        }
-      ],
-      "level": "N5"
-    },
-    {
-      "id": "g30",
-      "title": "〜のが好きです / 上手です (動作名詞化接續句型)",
-      "structure": "動詞 [辭書形] + のが + 好きです / 上手です",
-      "explanation": "在日語中，「喜歡」(好き) 或「擅長」(上手) 的前置賓語助詞必須是「が」，且其前面只能接「名詞」。因此如果想要表達對某個「動作」的偏好或專長，就必須在該動詞的辭書形原形後面加上代名詞「の」，使整個動作段落名詞化。",
-      "examples": [
-        {
-          "ja": "私に本を読むのが好きです。 (Note: data.js: 私は本を読むのが好きです。)",
-          "furigana": "わたしはほんをよむのがすきです。",
-          "en": "我喜歡看書。"
-        },
-        {
-          "ja": "リーさんは料理を作るのが上手です。",
-          "furigana": "リーさんはりょうりをつくるのがじょうずです。",
-          "en": "李先生很擅長做菜。"
-        },
-        {
-          "ja": "日本語を話すのが難しいです。",
-          "furigana": "にほんごを話すのがむずかしいです。",
-          "en": "說日文很困難。"
-        }
-      ],
-      "level": "N5"
-    },
-    {
-      "id": "g31",
-      "title": "〜から (表示原因或理由的接続詞)",
-      "structure": "句子 A (原因) + から、句子 B (結果)",
-      "explanation": "接在句子 A 的末尾，表示句子 A 是句子 B 動作發生的原因、因果關係或理由（意為「因為…所以…」）。可以接在丁寧形句子後，也可以單獨在回答為什麼（「どうしてですか」）時結尾使用。",
-      "examples": [
-        {
-          "ja": "雨が降っていますから、傘を持っていきます。",
-          "furigana": "あめがふっていますから、かさをもっていきます。",
-          "en": "因為在下雨，所以我要帶傘去。"
-        },
-        {
-          "ja": "時間がありませんから、タクシーに乗りました。",
-          "furigana": "じかんがありませんから、タクシーにのりました。",
-          "en": "因為沒有時間，所以搭了計程車。"
-        },
-        {
-          "ja": "日本語が好きですから、毎日勉強します。",
-          "furigana": "にほんごがすきですから、まいにちべんきょうします。",
-          "en": "因為喜歡日文，所以每天學習。"
-        }
-      ],
-      "level": "N5"
-    },
-    {
-      "id": "g32",
-      "title": "〜てください（ます）か (請求協助的委婉說法)",
-      "structure": "動詞 [て形] + くださいませんか",
-      "explanation": "當需要禮貌地向他人尋求幫忙或拜託事情時使用。比普通的「〜てください」語氣更加含蓄且富有敬意（意為「能不能請您幫我做…呢？」）。",
-      "examples": [
-        {
-          "ja": "もう一度言ってくださいませんか。",
-          "furigana": "もういちどいってくださいませんか。",
-          "en": "能請您再說一次嗎？"
-        },
-        {
-          "ja": "塩を取ってくださいませんか。",
-          "furigana": "しおをとってくださいませんか。",
-          "en": "能請您幫我拿一下鹽嗎？"
-        },
-        {
-          "ja": "英語で話してくださいませんか。",
-          "furigana": "えいごではなしてくださいませんか。",
-          "en": "能請您用英文說話嗎？"
-        }
-      ],
-      "level": "N5"
-    },
-    {
-      "id": "g33",
-      "title": "頻度・程度副詞 (日常頻率與程度副詞用法)",
-      "structure": "肯定關聯副詞：よく (經常), ときどき (偶爾)\n否定關聯副詞：あまり (不常), ぜんぜん (完全不) + 否定句態",
-      "explanation": "副詞用於調整句子動作或狀態的程度。「あまり」與「ぜんぜん」在日語中具有呼應否定的特性，其句尾的動詞或形容詞必須一律使用否定形（例如 ません、ありません）。",
-      "examples": [
-        {
-          "ja": "よく映画を見ます。",
-          "furigana": "よくえいがをみます。",
-          "en": "我經常看電影。"
-        },
-        {
-          "ja": "お酒はあまり飲みません。",
-          "furigana": "おさけはあまりのみません。",
-          "en": "我不常喝酒。"
-        },
-        {
-          "ja": "日本語がぜんぜん分かりません。",
-          "furigana": "にほんごがぜんぜんわかりません。",
-          "en": "我完全不懂日語。"
-        }
-      ],
-      "level": "N5"
-    },
-    {
-      "id": "g34",
-      "title": "比較：〜のほうが〜より (兩樣物品之比較句型)",
-      "structure": "名詞 A + のほうが + 名詞 B + より + 形容詞 + です",
-      "explanation": "當需要針對兩樣特定事物做特性上的比較時使用。意為「與名詞 B 相比，名詞 A 更加 [形容詞]」。「のほうが」代表屬性突出的一方，「より」代表被比較的基準對象。",
-      "examples": [
-        {
-          "ja": "中国のほうが日本より広いです。",
-          "furigana": "ちゅうごくのほうがにほんよりひろいです。",
-          "en": "中國比日本寬廣。"
-        },
-        {
-          "ja": "電車のほうがバスより速いです。",
-          "furigana": "でんしゃのほうがバスよりはやいです。",
-          "en": "電車比公車快。"
-        },
-        {
-          "ja": "りんごのほうがみかんより好きです。",
-          "furigana": "りんごのほうがみかんよりすきです。",
-          "en": "比起橘子，我更喜歡蘋果。"
-        }
-      ],
-      "level": "N5"
-    },
-    {
-      "id": "g35",
-      "title": "最上級：〜のなかで〜がいちばん (多者中的最高級句型)",
-      "structure": "類別範圍 + のなかで + 名詞 + がいちばん + 形容詞 + です",
-      "explanation": "用於在三個或三個以上的事物（或一個特定的類別範圍）中，指出哪一個最具有某項特徵（「在…之中，…最…」）。「いちばん」意為第一或最突出。",
-      "examples": [
-        {
-          "ja": "日本料理のなかで寿司がいちばん好きです。",
-          "furigana": "にほんりょうりのなかですしがいちばんすきです。",
-          "en": "在日本料理之中，我最喜歡壽司。"
-        },
-        {
-          "ja": "一年の中で十二月がいちばん寒いです。",
-          "furigana": "いちねんのなかでじゅうにがつがいちばんさむいです。",
-          "en": "在一年之中，十二月最冷。"
-        },
-        {
-          "ja": "家族の中で父がいちばん背が高いです。",
-          "furigana": "かぞくのなかでちちがいちばんせがたかいです。",
-          "en": "在家中，我父親身高最高。"
-        }
-      ],
-      "level": "N5"
-    },
-    {
-      "id": "g1",
-      "title": "〜ています (正在做/狀態持續)",
-      "structure": "動詞て形 + います",
-      "explanation": "表示動作正在進行中（正在做某事），或者某個動作完成後所留下的狀態持續。例如：正在寫信、或是門開著的狀態。",
-      "examples": [
-        {
-          "ja": "今日本語を勉強しています。",
-          "furigana": "いまにほんごをべんきょうしています。",
-          "en": "現在正在學習日語。"
-        },
-        {
-          "ja": "彼は東京に住んでいます。",
-          "furigana": "かれはとうきょうにすんでいます。",
-          "en": "他住在東京（狀態持續）。"
-        },
-        {
-          "ja": "田中さんは結婚しています。",
-          "furigana": "たなかさんはけっこんしています。",
-          "en": "田中先生已經結婚了（狀態）。"
         }
       ],
       "level": "N4"
     },
     {
-      "id": "g2",
-      "title": "〜たことがあります (曾經做過)",
-      "structure": "動詞た形 + ことがあります",
-      "explanation": "表示過去的經歷。意為「曾經做過某事」。常用於詢問或說明人生中的某個體驗。",
+      "id": "g_n4_41",
+      "title": "〜なければならない (必須)",
+      "structure": "動詞ない形去ない + なければならない / なければいけない",
+      "explanation": "表示因為義務、規則或社會常識等客觀因素，所以非做不可。「必須... / 一定要...」。",
       "examples": [
         {
-          "ja": "日本へ行ったことがあります。",
-          "furigana": "にほんへいったことがあります。",
-          "en": "我曾經去過日本。"
-        },
-        {
-          "ja": "すしを食べたことがありますか。",
-          "furigana": "すしをたべたことがありますか。",
-          "en": "你吃過壽司嗎？"
-        },
-        {
-          "ja": "一度も歌舞伎を見たことがありません。",
-          "furigana": "いちどもかぶきをみたことがありません。",
-          "en": "我一次也沒看過歌舞伎。"
+          "ja": "明日までにレポートを提出しなければなりません。",
+          "furigana": "あしたまでにレポートをていしゅつしなければなりません。",
+          "en": "明天之前必須交報告。"
         }
       ],
       "level": "N4"
     },
     {
-      "id": "g3",
-      "title": "〜つもりです (打算做某事)",
-      "structure": "動詞原形/ない形 + つもりです",
-      "explanation": "表示說話者自己主觀上的決定或計劃。意為「打算做某事」或「打算不做某事」。",
+      "id": "g_n4_42",
+      "title": "〜なくてもいい (不...也可以)",
+      "structure": "動詞ない形去ない + くてもいい",
+      "explanation": "表示沒有義務做某事，容許對方不做。「不...也可以 / 不用...」。",
       "examples": [
         {
-          "ja": "来年日本に留学するつもりです。",
-          "furigana": "らいねんにほんにりゅうがくするつもりです。",
-          "en": "我打算明年去日本留學。"
-        },
-        {
-          "ja": "今日はお酒を飲まないつもりです。",
-          "furigana": "きょうはおさけをのまないつもりです。",
-          "en": "我今天打算不喝酒。"
-        },
-        {
-          "ja": "夏休みに旅行に行くつもりですか。",
-          "furigana": "なつやすみにりょこうにいくつもりですか。",
-          "en": "你暑假打算去旅行嗎？"
+          "ja": "明日は休みだから、早く起きなくてもいいです。",
+          "furigana": "あしたはやすみだから、はやくおきなくてもいいです。",
+          "en": "明天放假，所以不用早起也可以。"
         }
       ],
       "level": "N4"
     },
     {
-      "id": "g4",
-      "title": "〜ほうがいいです (最好做某事)",
-      "structure": "動詞た形/ない形 + ほうがいいです",
-      "explanation": "用於給予他人具體的勸告、建議。意為「最好...（做某事）」或「最好不要...（做某事）」。相較於一般提議語氣較強烈。",
+      "id": "g_n4_43",
+      "title": "〜てもいい (可以...)",
+      "structure": "動詞て形 + もいい / もかまわない",
+      "explanation": "表示給予許可，或徵求對方的許可。「可以... / ...也沒關係」。",
       "examples": [
         {
-          "ja": "毎日運動したほうがいいです。",
-          "furigana": "まいにちうんどうしたほうがいいです。",
-          "en": "每天運動比較好。"
-        },
-        {
-          "ja": "風邪をひいたから、お風呂に入らないほうがいいです。",
-          "furigana": "かぜをひいたから、おふろにはいらないほうがいいです。",
-          "en": "因為感冒了，最好不要泡澡。"
-        },
-        {
-          "ja": "早く寝たほうがいいですよ。",
-          "furigana": "はやくねたほうがいいですよ。",
-          "en": "最好早點睡喔。"
+          "ja": "このペンを使ってもいいですか。",
+          "furigana": "このペンをつかってもいいですか。",
+          "en": "我可以使用這支筆嗎？"
         }
       ],
       "level": "N4"
     },
     {
-      "id": "g5",
-      "title": "〜し、〜し (既...又...)",
-      "structure": "簡體句 + し、簡體句 + し",
-      "explanation": "用於並列列舉兩個或兩個以上的原因、理由或事物特徵，常暗示後面有相應的結論。",
+      "id": "g_n4_44",
+      "title": "〜てほしい (希望對方做)",
+      "structure": "名詞(人) + に + 動詞て形 + ほしい / もらいたい",
+      "explanation": "表示說話者對他人的期望。「希望(你)...」。(注意：只能對他人使用，不能用於希望自己做某事)",
       "examples": [
         {
-          "ja": "この部屋は広いし、綺麗だし、家賃も安いです。",
-          "furigana": "このへやはひろいし、きれいだし、やちんもやすいです。",
-          "en": "這間房間既寬敞又乾淨，房租也很便宜。"
-        },
-        {
-          "ja": "頭も痛いし、熱もあるし、今日は休みます。",
-          "furigana": "あたまもいたいし、neつもあるし、きょうはやすみます。",
-          "en": "頭又痛，又發燒，我今天就請假了。"
+          "ja": "私は彼に早く帰ってきてほしいです。",
+          "furigana": "わたしはかれにはやくかえってきてほしいです。",
+          "en": "我希望他能早點回來。"
         }
       ],
       "level": "N4"
     },
     {
-      "id": "g6",
-      "title": "〜すぎる (太.../過度)",
-      "structure": "動詞ます形(去ます) / 形容詞去尾(い/な) + すぎる",
-      "explanation": "表示某動作或狀態超過了正常的限度，產生了不好的結果。意為「太...」或「過度...」。",
+      "id": "g_n4_45",
+      "title": "〜たい (希望自己做)",
+      "structure": "動詞ます形去ます + たい",
+      "explanation": "表示說話者自己想做某事。「我想...」。第三人稱的願望要用「〜たがっている」。",
       "examples": [
         {
-          "ja": "お酒を飲みすぎました。",
-          "furigana": "おさけをのみすぎました。",
-          "en": "酒喝得太多了。"
-        },
-        {
-          "ja": "このテストは難しすぎます。",
-          "furigana": "このてすとはむずかしすぎます。",
-          "en": "這個考試太難了。"
-        },
-        {
-          "ja": "食べすぎてお腹が痛いです。",
-          "furigana": "たべすぎておなかがいたいです。",
-          "en": "吃太多了肚子痛。"
+          "ja": "私は新しいパソコンが買いたいです。",
+          "furigana": "わたしはあたらしいパソコンがかいたいです。",
+          "en": "我想買一台新電腦。"
         }
       ],
       "level": "N4"
     },
     {
-      "id": "g7",
-      "title": "〜やすい/にくい (容易/難於做某事)",
-      "structure": "動詞ます形(去ます) + やすい / にくい",
-      "explanation": "表示做某動作的難易度。意為「容易做某事」或「難於做某事」。常形容事物特徵。",
+      "id": "g_n4_46",
+      "title": "〜たがる (第三人稱想做)",
+      "structure": "動詞ます形去ます + たがる",
+      "explanation": "表示從第三人稱的外在表現，客觀觀察出對方很想做某事。「(他)想... / (他)似乎想...」。",
+      "examples": [
+        {
+          "ja": "子供は新しいおもちゃを買いたがっています。",
+          "furigana": "こどもはあたらしいおもちゃをかいたがっています。",
+          "en": "小孩吵著想買新玩具。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_47",
+      "title": "〜かもしれない (說不定)",
+      "structure": "普通形 / な形容詞語幹 / 名詞 + かもしれない",
+      "explanation": "表示有某種可能性，雖然沒有確切根據。「也許... / 說不定...」。發生機率約一半一半。",
+      "examples": [
+        {
+          "ja": "明日は雪が降るかもしれません。",
+          "furigana": "あしたはゆきがふるかもしれません。",
+          "en": "明天說不定會下雪。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_48",
+      "title": "〜かどうか (是否...)",
+      "structure": "普通形 / な形容詞語幹 / 名詞 + かどうか",
+      "explanation": "將沒有疑問詞的疑問句放入另一個句子中。「是否... / 是不是...」。",
+      "examples": [
+        {
+          "ja": "明日晴れるかどうか、わかりません。",
+          "furigana": "あしたはれるかどうか、わかりません。",
+          "en": "明天是否會放晴，我不知道。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_49",
+      "title": "〜か (疑問詞子句)",
+      "structure": "疑問詞 + 普通形 / な形容詞語幹 / 名詞 + か",
+      "explanation": "將帶有疑問詞(何、誰、どこ等)的疑問句放入另一個句子中。",
+      "examples": [
+        {
+          "ja": "会議が何時に始まるか、知っていますか。",
+          "furigana": "かいぎがなんじにはじまるか、しっていますか。",
+          "en": "你知道會議幾點開始嗎？"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_50",
+      "title": "〜について (關於)",
+      "structure": "名詞 + について",
+      "explanation": "表示所思考、談論或調查的內容與主題。「關於...」。",
+      "examples": [
+        {
+          "ja": "日本の文化について調べています。",
+          "furigana": "にほんのぶんかについてしらべています。",
+          "en": "我正在調查關於日本文化的資訊。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_51",
+      "title": "〜によって (因...而異 / 被...)",
+      "structure": "名詞 + によって",
+      "explanation": "1. 表示根據前項的不同，後項也會有所變化「因...而異」。 2. 表示受身形的動作主體(特別是發明或創作)「被...」。",
+      "examples": [
+        {
+          "ja": "人によって、考え方が違います。",
+          "furigana": "ひとによって、かんがえかたがちがいます。",
+          "en": "每個人的想法都因人而異。"
+        },
+        {
+          "ja": "電話はベルによって発明されました。",
+          "furigana": "でんわはベルによってはつめいされました。",
+          "en": "電話是貝爾發明的。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_52",
+      "title": "〜ために (為了 / 因為)",
+      "structure": "動詞辭書形 / 名詞の + ために (為了) / 普通形 + ために (因為)",
+      "explanation": "1. 表示帶有強烈個人意志的目的「為了...」。 2. 表示客觀的原因理由「因為...」。",
+      "examples": [
+        {
+          "ja": "家を買うために、お金を貯めています。",
+          "furigana": "いえをかうために、おかねをためています。",
+          "en": "為了買房子，我正在存錢。"
+        },
+        {
+          "ja": "事故のために、電車が止まりました。",
+          "furigana": "じこのために、でんしゃがとまりました。",
+          "en": "因為發生事故，電車停駛了。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_53",
+      "title": "〜のに (明明...卻)",
+      "structure": "普通形 / な形容詞な / 名詞な + のに",
+      "explanation": "表示逆接，前項成立的情況下，後項卻出現了不符合常理或預期的結果，常帶有不滿或遺憾的語氣。",
+      "examples": [
+        {
+          "ja": "一生懸命勉強したのに、試験に落ちてしまった。",
+          "furigana": "いっしょうけんめいべんきょうしたのに、しけんにおちてしまった。",
+          "en": "明明拼命讀書了，考試卻不及格。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_54",
+      "title": "〜まま (保持原樣)",
+      "structure": "動詞た形 / ない形 / な形容詞な / 名詞の + まま",
+      "explanation": "表示維持前項的狀態，不加改變地去做後項的動作。「就這樣保持著...」。",
+      "examples": [
+        {
+          "ja": "靴を履いたまま、部屋に入らないでください。",
+          "furigana": "くつをはいたまま、へやにはいらないでください。",
+          "en": "請不要穿著鞋子進房間。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_55",
+      "title": "〜はずだ (理應...)",
+      "structure": "普通形 / な形容詞な / 名詞の + はずだ",
+      "explanation": "基於客觀事實或一定的根據，做出的強烈推斷。「按理說應該會...」。",
+      "examples": [
+        {
+          "ja": "彼は昨日出発したから、もう着いているはずです。",
+          "furigana": "かれはきのうしゅっぱつしたから、もうついているはずです。",
+          "en": "他昨天就出發了，按理說現在應該已經到了。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_56",
+      "title": "〜はずがない (不可能)",
+      "structure": "普通形 / な形容詞な / 名詞の + はずがない",
+      "explanation": "基於一定的根據，做出的強烈否定推斷。「按理說不可能...」。",
+      "examples": [
+        {
+          "ja": "こんな難しい問題、子供にわかるはずがありません。",
+          "furigana": "こんなむずかしいもんだい、こどもにわかるはずがありません。",
+          "en": "這麼難的問題，小孩是不可能會懂的。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_57",
+      "title": "〜ような / 〜ように (像...一樣)",
+      "structure": "普通形 / 名詞の + ような(接名詞) / ように(接動詞/形容詞)",
+      "explanation": "舉出一個典型的例子來說明事物。「就像...一樣的...」。",
+      "examples": [
+        {
+          "ja": "私は田中さんのような親切な人が好きです。",
+          "furigana": "わたしはたなかさんのようなしんせつなひとがすきです。",
+          "en": "我喜歡像田中先生這樣親切的人。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_58",
+      "title": "〜ところだ (正要 / 正在 / 剛做完)",
+      "structure": "動詞辭書形 (正要) / ている (正在) / た形 (剛做完) + ところだ",
+      "explanation": "將焦點放在動作發展到哪個時間點上。",
+      "examples": [
+        {
+          "ja": "今から出かけるところです。",
+          "furigana": "いまからでかけるところです。",
+          "en": "現在正要出門。"
+        },
+        {
+          "ja": "たった今、家に着いたところです。",
+          "furigana": "たったいま、いえについたところです。",
+          "en": "剛剛才剛到家。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_59",
+      "title": "〜ばかりだ (剛做完)",
+      "structure": "動詞た形 + ばかりだ",
+      "explanation": "表示說話者主觀認為動作才剛結束不久(與客觀時間長短無關)。「剛...不久」。",
+      "examples": [
+        {
+          "ja": "この靴は先月買ったばかりです。",
+          "furigana": "このくつはせんげつかったばかりです。",
+          "en": "這雙鞋上個月才剛買。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_60",
+      "title": "〜ば〜ほど (越...越...)",
+      "structure": "ば形 + 辭書形 + ほど",
+      "explanation": "表示隨著前項程度的增加，後項也成正比發生變化。「越...就越...」。",
+      "examples": [
+        {
+          "ja": "外国語は、使えば使うほど上手になります。",
+          "furigana": "がいこくごは、つかえばつかうほどじょうずになります。",
+          "en": "外語是越使用就會越熟練的。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_61",
+      "title": "〜とおり(に) / 〜どおり(に) (照著...)",
+      "structure": "動詞辭書形 / た形 + とおりに / 名詞 + どおりに",
+      "explanation": "表示按照前項的樣子、指示或預期去做。「照著... / 如同...」。",
+      "examples": [
+        {
+          "ja": "私が言うとおりに、書いてください。",
+          "furigana": "わたしがいうとおりに、かいてください。",
+          "en": "請照著我說的寫。"
+        },
+        {
+          "ja": "説明書どおりに組み立てました。",
+          "furigana": "せつめいしょどおりにくみたてました。",
+          "en": "照著說明書組裝起來了。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_62",
+      "title": "〜らしい (似乎 / 很有...風格)",
+      "structure": "名詞 / 普通形 + らしい",
+      "explanation": "1. 根據客觀傳聞做出的推測「似乎...」。2. 具備該名詞應有的典型特質「很有...的風格」。",
+      "examples": [
+        {
+          "ja": "彼は今日は休むらしいです。",
+          "furigana": "かれはきょうはやすむらしいです。",
+          "en": "他今天似乎要請假。"
+        },
+        {
+          "ja": "今日は秋らしい天気ですね。",
+          "furigana": "きょうはあきらしいんてんきですね。",
+          "en": "今天真是充滿秋意的天氣呢。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_63",
+      "title": "〜によると / 〜によれば (根據)",
+      "structure": "名詞 + によると / によれば",
+      "explanation": "表示情報、傳聞的來源出處。句尾通常搭配傳聞用法「〜そうです / 〜ということです」。「根據...」。",
+      "examples": [
+        {
+          "ja": "天気予報によると、明日は雨だそうです。",
+          "furigana": "てんきよほうによると、あしたはあめだそうです。",
+          "en": "根據天氣預報，明天好像會下雨。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_64",
+      "title": "〜そうです (聽說)",
+      "structure": "普通形 + そうです",
+      "explanation": "表示將從別處聽來的情報傳達給對方(傳聞用法)。「聽說...」。",
+      "examples": [
+        {
+          "ja": "彼は来年結婚するそうです。",
+          "furigana": "かれはらいねんけっこんするそうです。",
+          "en": "聽說他明年要結婚。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_65",
+      "title": "〜そうです (看起來像)",
+      "structure": "動詞ます形去ます / い形容詞去い / な形容詞語幹 + そうです",
+      "explanation": "表示從外表、視覺上做出的直覺判斷(樣態用法)。「看起來好像... / 似乎快要...」。",
+      "examples": [
+        {
+          "ja": "このケーキは美味しそうですね。",
+          "furigana": "このケーキはおいしそうですね。",
+          "en": "這個蛋糕看起來很好吃呢。"
+        },
+        {
+          "ja": "今にも雨が降りそうです。",
+          "furigana": "いまにもあめがふりそうです。",
+          "en": "看起來馬上就要下雨了。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_66",
+      "title": "〜すぎる (太過於)",
+      "structure": "動詞ます形去ます / い形容詞去い / な形容詞語幹 + すぎる",
+      "explanation": "表示動作或狀態超出了適當的限度，通常帶有負面的意思。「太... / 過於...」。",
+      "examples": [
+        {
+          "ja": "ゆうべはお酒を飲みすぎました。",
+          "furigana": "ゆうべはおさけをのみすぎました。",
+          "en": "昨晚酒喝太多了。"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "g_n4_67",
+      "title": "〜やすい (容易... / 好...)",
+      "structure": "動詞ます形去ます + やすい",
+      "explanation": "表示某個動作很容易進行，或是具有很容易發生某種狀態的傾向。「很容易... / 很好...」。",
       "examples": [
         {
           "ja": "このペンはとても書きやすいです。",
-          "furigana": "このぺんはとてもかきやすいです。",
-          "en": "這支筆非常容易書寫。"
-        },
-        {
-          "ja": "日本語の漢字は覚えにくいです。",
-          "furigana": "にほんごのかんじはおぼえにくいです。",
-          "en": "日語的漢字很難記住。"
+          "furigana": "このペンはとてもかきやすいです。",
+          "en": "這支筆很好寫。"
         }
       ],
       "level": "N4"
     },
     {
-      "id": "g8",
-      "title": "〜たら (如果.../之後...)",
-      "structure": "動詞た形 + ら",
-      "explanation": "表示假定條件。意為「如果...就...」。或者用於表示前項動作完成後隨即進行後項（當...之後就...）。",
+      "id": "g_n4_68",
+      "title": "〜にくい (難以... / 不好...)",
+      "structure": "動詞ます形去ます + にくい",
+      "explanation": "表示某個動作很難進行，或是具有很難發生某種狀態的傾向。「很難... / 不好...」。",
       "examples": [
         {
-          "ja": "雨が降ったら、行きません。",
-          "furigana": "あめがふったら、いきません。",
-          "en": "如果下雨，我就不去了。"
-        },
-        {
-          "ja": "駅に着いたら、電話をしてください。",
-          "furigana": "えきについたら、でんわをしてください。",
-          "en": "到了車站之後，請給我打電話。"
+          "ja": "この漢字は複雑で覚えにくいです。",
+          "furigana": "このかんじはふくざつでおぼえにくいです。",
+          "en": "這個漢字很複雜，很難記。"
         }
       ],
       "level": "N4"
     },
     {
-      "id": "g9",
-      "title": "〜なければなりません (必須...)",
-      "structure": "動詞ない形(去ない) + なければなりません / なければならない",
-      "explanation": "表示必須履行某項義務，做某件不可避免的事。意為「必須...」或「一定要...」。",
+      "id": "g_n4_69",
+      "title": "〜くする / 〜にする (使之變成)",
+      "structure": "い形容詞去い + くする / な形容詞・名詞 + にする",
+      "explanation": "表示透過人為的動作，改變某個事物的狀態。「把...弄成... / 讓...變成...」。",
       "examples": [
         {
-          "ja": "明日早く起きなければなりません。",
-          "furigana": "あしたはやくおきなければなりません。",
-          "en": "明天必須早起。"
+          "ja": "テレビの音を大きくしてください。",
+          "furigana": "テレビのおとをおおきくしてください。",
+          "en": "請把電視的聲音開大一點。"
         },
         {
-          "ja": "毎日宿題を出さなければなりません。",
-          "furigana": "まいにちしゅくだいをださなければなりません。",
-          "en": "每天必須提交作業。"
+          "ja": "部屋をきれいにしました。",
+          "furigana": "へやをきれいにしました。",
+          "en": "把房間弄乾淨了。"
         }
       ],
       "level": "N4"
     },
     {
-      "id": "g10",
-      "title": "〜てもいいです (可以做某事)",
-      "structure": "動詞て形 + もいいです",
-      "explanation": "用於表示許可。意為「可以做某事」或「做某事也沒關係」。",
+      "id": "g_n4_70",
+      "title": "〜にする (決定)",
+      "structure": "名詞 + にする",
+      "explanation": "表示在多個選項中，個人做出了選擇或決定。「我決定要... / 我選...」。",
       "examples": [
         {
-          "ja": "ここで写真を撮ってもいいですか。",
-          "furigana": "ここでしゃしんをとってもいいですか。",
-          "en": "可以在這裡拍照嗎？"
-        },
-        {
-          "ja": "窓を開けてもいいですよ。",
-          "furigana": "まどをあけてもいいですよ。",
-          "en": "可以把窗戶打開喔。"
+          "ja": "飲み物はコーヒーにします。",
+          "furigana": "のみものはコーヒーにします。",
+          "en": "飲料我選咖啡。"
         }
       ],
       "level": "N4"
     },
     {
-      "id": "g11",
-      "title": "〜てはいけません (不可以做某事)",
-      "structure": "動詞て形 + は行けません / は行けない",
-      "explanation": "表示禁止行為。意為「不可以做某事」或「禁止做某事」。語氣較為直接。",
+      "id": "g_n4_71",
+      "title": "〜ことにする (決定做某事)",
+      "structure": "動詞辭書形 / ない形 + ことにする",
+      "explanation": "表示經過自己的意志，決定了要做或不做某個動作。「我決定要...」。",
       "examples": [
         {
-          "ja": "ここでタバコを吸ってはいけません。",
-          "furigana": "ここでたばこをすってはいけません。",
-          "en": "這裡禁止吸菸。"
-        },
-        {
-          "ja": "教室で大声で話してはいけません。",
-          "furigana": "きょうしつでおおごえではなしてはいけません。",
-          "en": "在教室裡不可以大聲說話。"
+          "ja": "明日からダイエットすることにしました。",
+          "furigana": "あしたからダイエットすることにしました。",
+          "en": "我決定從明天開始減肥。"
         }
       ],
       "level": "N4"
     },
     {
-      "id": "g12",
-      "title": "〜と (一...就...)",
-      "structure": "動詞原形 + と + 後續句",
-      "explanation": "表示前項動作或狀態一旦成立，後項便會自然而然、必然發生（自然規律、習慣或道路指引）。後續不能接意志、命令或請求。",
+      "id": "g_n4_72",
+      "title": "〜ことになっている (規定/預定)",
+      "structure": "動詞辭書形 / ない形 + ことになっている",
+      "explanation": "表示並非自己的意志，而是外在的規則、法律、習慣或他人的安排所決定的。「規定要... / 預定要...」。",
       "examples": [
         {
-          "ja": "春になると、桜が咲きます。",
-          "furigana": "はるになると、さくらがさきます。",
-          "en": "到了春天，櫻花就會綻放。"
-        },
-        {
-          "ja": "この道をまっすぐ行くと、左に交番があります。",
-          "furigana": "このみちをまっすぐいくと、ひだりにこうばんがあります。",
-          "en": "沿這條路直走的話，左邊就會有派出所。"
+          "ja": "日本では、車は左側を走ることになっています。",
+          "furigana": "にほんでは、くるまはひだりがわをはしることになっています。",
+          "en": "在日本，規定車輛要靠左行駛。"
         }
       ],
       "level": "N4"
     },
     {
-      "id": "g13",
-      "title": "〜ようにする (努力做到...)",
-      "structure": "動詞原形/ない形 + ようにする / ようにしています",
-      "explanation": "表示自己下定決心並持續努力，建立某個習慣。意為「努力做到...」或「設法...」。",
+      "id": "g_n4_73",
+      "title": "〜ように (為了)",
+      "structure": "動詞辭書形(多為無意志動詞/可能形) / ない形 + ように",
+      "explanation": "表示為了達到某種狀態，而在前項設定目標。「為了能... / 為了不...」。與「ために」不同在於前面多接無法控制的狀態。",
       "examples": [
         {
-          "ja": "毎日水をたくさん飲むようにしています。",
-          "furigana": "まいにちみずをたくさんのむようにしています。",
-          "en": "我努力做到每天多喝水。"
-        },
-        {
-          "ja": "甘いものを食べないようにします。",
-          "furigana": "あまいものをたべないようにします。",
-          "en": "我會努力少吃甜食。"
+          "ja": "日本語が話せるように、毎日練習しています。",
+          "furigana": "にほんごがはなせるように、まいにちれんしゅうしています。",
+          "en": "為了能開口說日文，每天都在練習。"
         }
       ],
       "level": "N4"
     },
     {
-      "id": "g14",
-      "title": "〜てあげる/もらう/くれる (授受動詞)",
-      "structure": "動詞て形 + あげる/もらう/くれる",
-      "explanation": "表示人與人之間恩惠的給予與接受動作。「てあげる」為自己或同輩給他人做某事；「てもらう」為請求他人做某事並獲得好處；「てくれる」為他人主動為自己或家人做某事。",
+      "id": "g_n4_74",
+      "title": "〜ところだった (差點就...)",
+      "structure": "動詞辭書形 + ところだった",
+      "explanation": "表示差一點點就要發生某個(通常是不好的)結果，但最後並沒有發生。「差一點就...」。",
       "examples": [
         {
-          "ja": "友達の荷物を持ってあげました。",
-          "furigana": "ともだちのにもつをもってあげました。",
-          "en": "我幫朋友拿了行李。"
-        },
-        {
-          "ja": "日本語を教えてもらいました。",
-          "furigana": "にほんごをおしえてもらいました。",
-          "en": "我請他教我日語（得到了教導）。"
-        },
-        {
-          "ja": "先生が本を貸してくれました。",
-          "furigana": "せんせいがほんをかしてくれました。",
-          "en": "老師借了我一本書（主動幫我）。"
+          "ja": "危ない！もう少しで車にひかれるところだった。",
+          "furigana": "あぶない！もうすこしでくるまにひかれるところだった。",
+          "en": "好險！差一點就被車撞到了。"
         }
       ],
       "level": "N4"
     },
     {
-      "id": "g15",
-      "title": "〜ば (如果.../假定形)",
-      "structure": "動詞ば形 / 形容詞去尾加ければ",
-      "explanation": "表示假定條件。主要用於表示前項是後項成立的必要前提條件。",
+      "id": "g_n4_75",
+      "title": "〜ばよかった (要是...就好了)",
+      "structure": "動詞ば形 + よかった / 動詞ない形 + なければよかった",
+      "explanation": "表示對過去已經發生的事情感到後悔、遺憾。「要是當時有...就好了 / 要是沒...就好了」。",
       "examples": [
         {
-          "ja": "安ければ、買います。",
-          "furigana": "やすければ、かいます。",
-          "en": "如果便宜的話就買。"
-        },
-        {
-          "ja": "雨が降らなければ、ハイキングに行きます。",
-          "furigana": "あめがふらなければ、はいきんぐにいきます。",
-          "en": "如果不下雨，我們就去健行。"
+          "ja": "もっと早く家を出ればよかったです。",
+          "furigana": "もっとはやくいえをでればよかったです。",
+          "en": "要是當時早點出門就好了。"
         }
       ],
       "level": "N4"
     },
     {
-      "id": "g1",
-      "title": "〜ようとする (正打算/企圖)",
-      "structure": "動詞意向形 + とする",
-      "explanation": "表示某個動作即將要開始，或者某人正試圖去完成某個動作（正打算...）。",
+      "id": "g_n4_76",
+      "title": "〜てみる (試著做做看)",
+      "structure": "動詞て形 + みる",
+      "explanation": "表示為了知道結果如何，而嘗試去做某件事。「試著...看看」。",
       "examples": [
         {
-          "ja": "出かけようとした時、雨が降り出しました。",
-          "furigana": "でかけようとしたとき、あめがふりだしました。",
-          "en": "正打算出門的時候，開始下雨了。"
-        },
-        {
-          "ja": "犬が私の靴を食べようとしています。",
-          "furigana": "いぬがわたしのくつをたべようとしています。",
-          "en": "小狗正打算咬（吃）我的鞋子。"
+          "ja": "この服、着てみてもいいですか。",
+          "furigana": "このふく、きてみてもいいですか。",
+          "en": "這件衣服，我可以試穿看看嗎？"
         }
       ],
-      "level": "N3"
+      "level": "N4"
     },
     {
-      "id": "g2",
-      "title": "〜みたいです (像...一樣)",
-      "structure": "名詞/簡體句 + みたいです",
-      "explanation": "表示比喻、推測或列舉。意為「好像...一樣」或「推測似乎是...」。口語常用。",
+      "id": "g_n4_77",
+      "title": "〜ておく (事先準備/放任)",
+      "structure": "動詞て形 + おく",
+      "explanation": "1. 為將來做準備「事先...」。 2. 為了下次使用而保持原狀「把...放著」。 3. 放置不管。",
       "examples": [
         {
-          "ja": "彼女はモデルみたいに綺麗です。",
-          "furigana": "かのじょはモデルみたいにきれいです。",
-          "en": "她像模特兒一樣漂亮。"
+          "ja": "旅行の前に、ホテルを予約しておきます。",
+          "furigana": "りょこうのまえに、ホテルをよやくしておきます。",
+          "en": "旅行前，先預約好飯店。"
         },
         {
-          "ja": "明日は雨みたいですね。",
-          "furigana": "あしたはあめみたいですね。",
-          "en": "明天好像會下雨呢。"
+          "ja": "窓を開けておいてください。",
+          "furigana": "まどをあけておいてください。",
+          "en": "請讓窗戶開著(保持打開狀態)。"
         }
       ],
-      "level": "N3"
+      "level": "N4"
     },
     {
-      "id": "g3",
-      "title": "〜らしい (典型特徵/傳聞)",
-      "structure": "名詞 + らしい / 簡體句 + らしい",
-      "explanation": "表示典型特徵（極具該事物的特質），或者表示有可靠根據的傳聞（據說...）。",
+      "id": "g_n4_78",
+      "title": "〜てしまう (完成/遺憾)",
+      "structure": "動詞て形 + しまう",
+      "explanation": "1. 表示動作徹底完成「...完了」。 2. 表示無可挽回或發生了不好的事而感到遺憾、後悔「不小心...了」。",
       "examples": [
         {
-          "ja": "今日は春らしい暖かい日です。",
-          "furigana": "きょうははるらしいあたたかいひです。",
-          "en": "今天是個像春天一般溫暖的日子（很有春天的氣息）。"
+          "ja": "買った本を全部読んでしまった。",
+          "furigana": "かったほんをぜんぶよんでしまった。",
+          "en": "把買來的書全部看完了。"
         },
         {
-          "ja": "噂によると、あの店は閉まるらしいです。",
-          "furigana": "うわさによると、あのみせはしまるらしいです。",
-          "en": "根據傳聞，那家店似乎要關門了。"
+          "ja": "パスポートを落としてしまいました。",
+          "furigana": "パスポートをおとしてしまいました。",
+          "en": "不小心把護照弄丟了。"
         }
       ],
-      "level": "N3"
+      "level": "N4"
     },
     {
-      "id": "g4",
-      "title": "〜っぽい (帶有某種傾向)",
-      "structure": "名詞/動詞去ます形 + っぽい",
-      "explanation": "表示事物看起來具有某種特徵，或者容易發生某種行為（多用於貶義，偏向.../像...一樣）。",
+      "id": "g_n4_79",
+      "title": "〜てある (狀態存續)",
+      "structure": "他動詞て形 + ある",
+      "explanation": "表示某人懷抱著某種目的做了動作，且該動作完成後的結果與狀態一直保留到現在。「(已經)...了」。",
       "examples": [
         {
-          "ja": "この牛乳は水っぽくて美味しくないです。",
-          "furigana": "このぎゅうにゅうはみずっぽくておいしくないです。",
-          "en": "這牛奶稀得像水一樣，不好喝。"
-        },
-        {
-          "ja": "彼は忘れっぽいです。",
-          "furigana": "かれはわすれっぽいです。",
-          "en": "他很容易健忘。"
+          "ja": "カレンダーに予定が書いてあります。",
+          "furigana": "カレンダーによていがかいてあります。",
+          "en": "日曆上寫著預定行程(已經寫好在那裡了)。"
         }
       ],
-      "level": "N3"
+      "level": "N4"
     },
     {
-      "id": "g5",
-      "title": "〜がる (表示第三人稱感覺)",
-      "structure": "形容詞去尾(い/な) + がる / がっている",
-      "explanation": "用於描述第三人稱內心感受或生理狀態的外在表現（想要、討厭、害怕等）。",
+      "id": "g_n4_80",
+      "title": "〜ていく (遠去/持續變化)",
+      "structure": "動詞て形 + いく",
+      "explanation": "1. 表示動作主體從現在的位置朝遠方移動「...去」。 2. 表示狀態從現在開始往未來的持續變化「逐漸...」。",
       "examples": [
         {
-          "ja": "子供が外に行きたがっています。",
-          "furigana": "こどもがそとにいきたがっています。",
-          "en": "小孩正表現出很想去外面的樣子。"
+          "ja": "鳥が飛んでいきました。",
+          "furigana": "とりがとんでいきました。",
+          "en": "鳥兒飛走了。"
         },
         {
-          "ja": "彼は恥ずかしがらないで話しました。",
-          "furigana": "かれははずかしがらないではなしました。",
-          "en": "他毫不害羞地說了話。"
+          "ja": "これからも日本語の勉強を続けていくつもりです。",
+          "furigana": "これからもにほんごのべんきょうをつづけていくつもりです。",
+          "en": "今後我也打算繼續學習日文。"
         }
       ],
-      "level": "N3"
+      "level": "N4"
     },
     {
-      "id": "g6",
-      "title": "〜うちに (在...期間之內)",
-      "structure": "動詞原形/ている/ない/形容詞 + うちに",
-      "explanation": "表示在某種狀態改變之前，趁機完成某個動作（趁著...）。或者指在不知不覺中發生了變化。",
+      "id": "g_n4_81",
+      "title": "〜てくる (靠近/狀態發生)",
+      "structure": "1. 表示動作主體從遠方朝現在的位置移動「...來」。 2. 表示某個狀態從過去一直延續到現在。 3. 表示某種心理或生理現象自然湧現。",
+      "explanation": "See structure",
       "examples": [
         {
-          "ja": "冷めないうちに早く食べてください。",
-          "furigana": "さめないうちに早くたべてください。",
-          "en": "請趁熱吃。"
+          "ja": "犬が走ってきました。",
+          "furigana": "いぬがはしってきました。",
+          "en": "狗跑過來了。"
         },
         {
-          "ja": "日本にいるうちに富士山に登りたいです。",
-          "furigana": "にほんへいるうちにふじさんにのぼりたいです。",
-          "en": "趁著還在日本時，想要登富士山。"
+          "ja": "だんだん寒くなってきました。",
+          "furigana": "だんだんさむくなってきました。",
+          "en": "漸漸變冷了(直到現在)。"
+        },
+        {
+          "ja": "悲しくて、涙が出てきました。",
+          "furigana": "かなしくて、なみだがでてきました。",
+          "en": "因為很悲傷，眼淚流了出來。"
         }
       ],
-      "level": "N3"
+      "level": "N4"
     },
     {
-      "id": "g7",
-      "title": "〜たとたん (剛一...就)",
-      "structure": "動詞た形 + とたん",
-      "explanation": "表示前項動作剛完成的一瞬間，緊接著發生了出乎意料的後項變化。",
+      "id": "g_n4_82",
+      "title": "〜し、〜し (不僅...而且)",
+      "structure": "普通形 + し、普通形 + し",
+      "explanation": "用來並列列舉多個理由或事物。「又...又... / 既...也...」。",
       "examples": [
         {
-          "ja": "お酒を飲んだとたん、顔が赤くなりました。",
-          "furigana": "おさけをのんだとたん、かおがあかくなりました。",
-          "en": "剛一喝酒，臉就立刻變紅了。"
-        },
-        {
-          "ja": "立ち上がったとたん、めまいがしました。",
-          "furigana": "たちあがったとたん、めまいがしました。",
-          "en": "剛一站起身，就感到一陣頭暈。"
+          "ja": "この店は美味しいし、安いし、いつも人が多いです。",
+          "furigana": "このみせはおいしいし、やすいし、いつもひとがおおいです。",
+          "en": "這家店既好吃又便宜，所以總是有很多人。"
         }
       ],
-      "level": "N3"
-    },
-    {
-      "id": "g8",
-      "title": "〜たびに (每次...)",
-      "structure": "動詞原形/名詞+の + たびに",
-      "explanation": "表示每次進行前項動作時，無一例外地都會伴隨著後項情況。",
-      "examples": [
-        {
-          "ja": "この曲を聞くたびに、学生時代を思い出します。",
-          "furigana": "このきょくを聞くたびに、がくせいじだいをおもいだします。",
-          "en": "每次聽這首歌，都會讓我想起學生時代。"
-        },
-        {
-          "ja": "旅行のたびに、お土産を買います。",
-          "furigana": "りょこうのたびに、おみやげをかいます。",
-          "en": "每次旅行都會買伴手禮。"
-        }
-      ],
-      "level": "N3"
-    },
-    {
-      "id": "g9",
-      "title": "〜ついでに (順便)",
-      "structure": "動詞原形/た形/名詞+の + ついでに",
-      "explanation": "以進行主體動作為主要目的，利用這個機會順便做另一件事。",
-      "examples": [
-        {
-          "ja": "スーパーに行くついでに、ゴミを出してください。",
-          "furigana": "すーぱーにいくづいでに、ごみをだしてください。",
-          "en": "去超市的時候，順便把垃圾拿出去。"
-        },
-        {
-          "ja": "散歩のついでに、本屋に寄りました。",
-          "furigana": "さんぽのついでに、ほんやによりました。",
-          "en": "散步的順便，順路去了趟書店。"
-        }
-      ],
-      "level": "N3"
-    },
-    {
-      "id": "g10",
-      "title": "〜はずです (理應如此)",
-      "structure": "簡體句/名詞+の + はずです",
-      "explanation": "說話者根據客觀事實或客觀理由，得出有十足把握的客觀判斷。意為「理應...」或「應該會...」。",
-      "examples": [
-        {
-          "ja": "彼は昨日たくさん勉強したから、今日のテストはできるはずです。",
-          "furigana": "かれはきのうたくさんべんきょうしたから、きょうのてすとはできるはずです。",
-          "en": "他昨天讀了那麼多書，今天的考試理應沒問題。"
-        },
-        {
-          "ja": "薬を飲んだから、もうすぐ熱が下がるはずです。",
-          "furigana": "くすりをのんだから、もうすぐねつがさがるはずです。",
-          "en": "因為吃了藥，發燒應該很快會退。"
-        }
-      ],
-      "level": "N3"
-    },
-    {
-      "id": "g11",
-      "title": "〜わけです (自然而然的結論)",
-      "structure": "簡體句 + わけです",
-      "explanation": "表示根據前文客觀事實，得出理所當然的結論，或者解釋事情發生的緣由。意為「也就是說...」或「難怪...」。",
-      "examples": [
-        {
-          "ja": "彼は日本に5年も住んでいるから、日本語が上手なわけです。",
-          "furigana": "かれはにほんにごねんもすんでいるから、にほんごがじょうずなわけです。",
-          "en": "他在日本住了5年，難怪日語這麼好。"
-        },
-        {
-          "ja": "消費税が上がれば、物価も高くなるわけです。",
-          "furigana": "しょうひぜいがあがれば、ぶっかもたかくなるわけです。",
-          "en": "消費稅上漲的話，物價自然也會變高。"
-        }
-      ],
-      "level": "N3"
-    },
-    {
-      "id": "g12",
-      "title": "〜わけにはいかない (不能做某事)",
-      "structure": "動詞原形 + わけにはいかない",
-      "explanation": "表示受到社會常識、道德、人情或自身責任的約束，在心理上「不能做某事」。",
-      "examples": [
-        {
-          "ja": "明日は大事な試験があるから、休むわけにはいきません。",
-          "furigana": "あしたはだいじなしけんがあるから、やすむわけにはいきません。",
-          "en": "明天有重要的考試，所以不能請假。"
-        },
-        {
-          "ja": "車の運転があるから、お酒を飲むわけにはいきません。",
-          "furigana": "くるまのうんてんがあるから、おさけをのむわけにはいきません。",
-          "en": "因為要開車，所以不能喝酒。"
-        }
-      ],
-      "level": "N3"
-    },
-    {
-      "id": "g13",
-      "title": "〜おきに (每隔...)",
-      "structure": "數量詞 + おきに",
-      "explanation": "表示時間或空間上的等間隔重複。意為「每隔...」。",
-      "examples": [
-        {
-          "ja": "このバスは15分おきに出発します。",
-          "furigana": "このばすはじゅうごふんおきにしゅっぱつします。",
-          "en": "這班公車每隔15分鐘發車一次。"
-        },
-        {
-          "ja": "この木は2メートルおきに植えられています。",
-          "furigana": "このきはにめーとるおきにうえられています。",
-          "en": "這些樹是每隔兩公尺種植一棵。"
-        }
-      ],
-      "level": "N3"
-    },
-    {
-      "id": "g14",
-      "title": "〜たばかり (剛剛完成)",
-      "structure": "動詞た形 + ばかり",
-      "explanation": "表示動作或事件完成後，在說話者的主觀時間感受上「才剛過去不久」。",
-      "examples": [
-        {
-          "ja": "さっきご飯を食べたばかりだから、まだお腹がいっぱいです。",
-          "furigana": "さっきごはんをたべたばかりだから、まだおなかがいっぱいです。",
-          "en": "因為才剛吃完飯，肚子還很飽。"
-        },
-        {
-          "ja": "先月日本に来たばかりです。",
-          "furigana": "せんげつにほんにきたばかりです。",
-          "en": "我是上個月剛來到日本的。"
-        }
-      ],
-      "level": "N3"
-    },
-    {
-      "id": "g15",
-      "title": "〜さえ (甚至/連)",
-      "structure": "名詞 + さえ + 否定後續",
-      "explanation": "提出一個極端的事物作為代表，以此說明其他一般事物更是如此（甚至連...都...）。",
-      "examples": [
-        {
-          "ja": "この問題は難しすぎて、先生でさえ分かりません。",
-          "furigana": "このもんだいはむずかしすぎて、せんせいでさえわかりません。",
-          "en": "這個題目太難了，甚至連老師都不懂。"
-        },
-        {
-          "ja": "ひらがなさえ書けないなら、漢字は無理です。",
-          "furigana": "ひらがなさえかけないなら、かんじはむりです。",
-          "en": "如果連平假名都不會寫，漢字是不可能的。"
-        }
-      ],
-      "level": "N3"
-    },
-    {
-      "id": "g1",
-      "title": "〜がち (容易有某不良傾向)",
-      "structure": "名詞/動詞去ます形 + がち",
-      "explanation": "表示容易發生某種事情，或者頻繁處於某種不良狀態。意為「往往...」或「容易...（多為負面）」。",
-      "examples": [
-        {
-          "ja": "最近は曇りがちの天気が続いています。",
-          "furigana": "さいきんはくもりがちのてんきがつづいています。",
-          "en": "最近多為陰天的天氣（容易陰天）。"
-        },
-        {
-          "ja": "一人暮らしの人は野菜が不足しがちです。",
-          "furigana": "ひとりぐらしのひとはやさいがふそくしがちです。",
-          "en": "獨居的人往往容易蔬菜攝取不足。"
-        }
-      ],
-      "level": "N2"
-    },
-    {
-      "id": "g2",
-      "title": "〜だらけ (滿是討厭之物)",
-      "structure": "名詞 + だらけ",
-      "explanation": "表示事物表面沾滿了令人不快、骯髒或令人討厭的東西（如泥土、錯誤、血、傷口等）。「滿是...」。",
-      "examples": [
-        {
-          "ja": "彼の作文は間違いだらけです。",
-          "furigana": "かれのさくぶんはまちがいだらけです。",
-          "en": "他的作文裡滿是錯誤。"
-        },
-        {
-          "ja": "雨の中を走ったので、靴が泥だらけになりました。",
-          "furigana": "あめのなかをはしったので、くつがどろだらけになりました。",
-          "en": "因為在雨中跑步，鞋子沾滿了泥巴。"
-        }
-      ],
-      "level": "N2"
-    },
-    {
-      "id": "g3",
-      "title": "〜ぎみ (稍微有點...感覺)",
-      "structure": "名詞/動詞去ます形 + ぎみ",
-      "explanation": "表示身體或心理上，呈現出某種輕微的不良症狀或感覺。意為「稍微有點...」或「有些...的傾向」。",
-      "examples": [
-        {
-          "ja": "今日は少し風邪ぎみなので、早く寝ます。",
-          "furigana": "きょうはすこしかぜぎみなので、ひゃくねます。",
-          "en": "今天稍微有點感冒的感覺，所以我要早點睡。"
-        },
-        {
-          "ja": "最近仕事が忙しくて、寝不足ぎみです。",
-          "furigana": "さいきんしごとがいそがしくて、ねぶそくぎみです。",
-          "en": "最近工作忙碌，稍微有點睡眠不足。"
-        }
-      ],
-      "level": "N2"
-    },
-    {
-      "id": "g4",
-      "title": "〜際（に）(在...之時)",
-      "structure": "動詞原形/た形/名詞+の + 際（に）",
-      "explanation": "正式的書面用語，相當於「〜とき」，意為「在...之時」或「在...之際」。常用於公共告示或說明書中。",
-      "examples": [
-        {
-          "ja": "帰国の際、お世話になった人に挨拶しました。",
-          "furigana": "きこくのさい、おせわになったひとにあいさつしました。",
-          "en": "回國之際，我向照顧過我的人打了招呼。"
-        },
-        {
-          "ja": "パスポートを紛失した際は、すぐに警察に連絡してください。",
-          "furigana": "ぱすぽーとをふんしつしたさいは、すぐにけいさつにれんらくしてください。",
-          "en": "遺失護照之時，請立刻聯絡警察。"
-        }
-      ],
-      "level": "N2"
-    },
-    {
-      "id": "g5",
-      "title": "〜に際して (在準備開始...之際)",
-      "structure": "動詞原形/名詞 + に際して",
-      "explanation": "表示在面臨某個重要事件即將開始之時（在...之際）。較偏向書面且正式的口吻。",
-      "examples": [
-        {
-          "ja": "留学に際して、多くの人から励まされました。",
-          "furigana": "りゅうがくにさいして、おおくのひとからはげまされました。",
-          "en": "留學之際，我收到了許多人的鼓勵。"
-        },
-        {
-          "ja": "契約に際し、必要な書類を準備してください。",
-          "furigana": "けいやくにさいし、ひつようなしょるいをじゅんびしてください。",
-          "en": "在簽訂契約之時，請準備好必要的檔案。"
-        }
-      ],
-      "level": "N2"
-    },
-    {
-      "id": "g6",
-      "title": "〜たとえ〜ても (即使...也)",
-      "structure": "たとえ + 動詞て形 + も",
-      "explanation": "讓步假定的強烈語氣。意為「即使/哪怕...也一定...」。用於表達說話者的強烈決心。",
-      "examples": [
-        {
-          "ja": "たとえ反対されても、私は留学します。",
-          "furigana": "たとえはんたいされても、わたしはりゅうがくします。",
-          "en": "即使被反對，我也要去留學。"
-        },
-        {
-          "ja": "たとえ雨が降っても、試合は中止しません。",
-          "furigana": "たとえあめがふっても、しあいはちゅうししません。",
-          "en": "哪怕下雨，比賽也不會中止。"
-        }
-      ],
-      "level": "N2"
-    },
-    {
-      "id": "g7",
-      "title": "〜につれて (隨著比例單向發展)",
-      "structure": "動詞原形/名詞 + につれて",
-      "explanation": "表示伴隨著前項程度單方向的持續變化，後項也會按比例跟著發生程度的變化（隨著...）。",
-      "examples": [
-        {
-          "ja": "日本語が上手になるにつれて、会話が楽しくなりました。",
-          "furigana": "にほんごがじょうずになるにつれて、かいわがたのしくなりました。",
-          "en": "隨著日語變好，對話也變得愉快了。"
-        },
-        {
-          "ja": "時間が経つにつれて、悲しみが薄れていきました。",
-          "furigana": "じかんがたつにつれて、かなしみがうすれていきました。",
-          "en": "隨著時間流逝，悲傷也漸漸淡化了。"
-        }
-      ],
-      "level": "N2"
-    },
-    {
-      "id": "g8",
-      "title": "〜に伴って (伴隨著變動)",
-      "structure": "動詞原形/名詞 + に伴って",
-      "explanation": "表示伴隨前項的變動或發展，後項也會相應發生大規模的變化或產生連帶事件。意為「伴隨著...」。",
-      "examples": [
-        {
-          "ja": "スマートフォンの普及に伴って、SNSの利用者が増えました。",
-          "furigana": "すまーとふぉんのふきゅうにともなって、SNSのりようしゃがふえました。",
-          "en": "伴隨著智慧型手機的普及，社群網站使用者增加了。"
-        },
-        {
-          "ja": "人口の減少に伴い、労働力が不足しています。",
-          "furigana": "じんこうのげんしょうにともない、ろうどうりょくがふそくしています。",
-          "en": "伴隨人口減少，勞動力出現了不足。"
-        }
-      ],
-      "level": "N2"
-    },
-    {
-      "id": "g9",
-      "title": "〜にしたがって (隨之比例變遷)",
-      "structure": "動詞原形/名詞 + にしたがって",
-      "explanation": "表示遵循著某個規定、指示（按照...），或是表示伴隨著比例的變化（隨著...）。",
-      "examples": [
-        {
-          "ja": "規則に従って、正しく運転してください。",
-          "furigana": "きそくにしたがって、ただしくうんてんしてください。",
-          "en": "請遵守規則，正確開車。"
-        },
-        {
-          "ja": "標高が高くなるにしたがって、気温が下がります。",
-          "furigana": "ひょうこうがたかくなるにしたがって、きおんがさがります。",
-          "en": "隨著高度變高，氣溫會降低。"
-        }
-      ],
-      "level": "N2"
-    },
-    {
-      "id": "g10",
-      "title": "〜最中に (正當...之時)",
-      "structure": "動詞ている形 / 名詞+の + 最中に",
-      "explanation": "表示正在進行某個關鍵動作時，突然發生了意料之外的其他干擾事件（正當...最熱烈之時）。",
-      "examples": [
-        {
-          "ja": "会議の最中に、激しい地震が起きました。",
-          "furigana": "かいぎのさいちゅうに、はげしいじしんがおきました。",
-          "en": "正當開會之時，發生了強烈地震。"
-        },
-        {
-          "ja": "お風呂に入っている最中に、電話が鳴りました。",
-          "furigana": "おふろにはいっているさいちゅうに、でんわがなりました。",
-          "en": "正當泡澡的時候，電話響了。"
-        }
-      ],
-      "level": "N2"
-    },
-    {
-      "id": "g11",
-      "title": "〜つつある (正持續變化中)",
-      "structure": "動詞去ます形 + つつある",
-      "explanation": "表示某種狀態正在朝特定方向逐漸發展、變化中。書面語口吻（正在...中）。",
-      "examples": [
-        {
-          "ja": "日本の人口は減少しつつあります。",
-          "furigana": "にほんのじんこうはげん少しつつあります。",
-          "en": "日本的人口正處於持續減少的趨勢中。"
-        },
-        {
-          "ja": "温暖化のせいで、氷河が溶けつつあります。",
-          "furigana": "おんだんかのせいで、ひょうががとけつつあります。",
-          "en": "因為暖化，冰河正逐漸溶解。"
-        }
-      ],
-      "level": "N2"
-    },
-    {
-      "id": "g12",
-      "title": "〜からには (既然...就)",
-      "structure": "簡體句 + からには",
-      "explanation": "表示既然前項的事實已經成為定局，那麼後項理所當然地必須有強烈的意志、義務或決心。意為「既然...就」。",
-      "examples": [
-        {
-          "ja": "約束したからには、守るべきです。",
-          "furigana": "やくそくしたからには、まもるべきです。",
-          "en": "既然承諾了，就應該遵守。"
-        },
-        {
-          "ja": "日本に来たからには、日本語が上手になりたいです。",
-          "furigana": "にほんにきたからには、にほんごがじょうずになりたいです。",
-          "en": "既然來到了日本，我就想把日語學好。"
-        }
-      ],
-      "level": "N2"
-    },
-    {
-      "id": "g13",
-      "title": "〜以上（は）(既然...就)",
-      "structure": "簡體句 + 以上（は）",
-      "explanation": "與「からには」語意類似的表示義務與決心的說法。意為「既然...就」。",
-      "examples": [
-        {
-          "ja": "引き受けた以上は、最後までやり遂げます。",
-          "furigana": "ひきうけたいじょうは、さいごまでやりとげます。",
-          "en": "既然承接了這件事，我就會堅持到底。"
-        },
-        {
-          "ja": "試験を受ける以上、合格したいです。",
-          "furigana": "しけんをうけるいじょう、ごうかくしたいです。",
-          "en": "既然要參加考試，我就想要合格。"
-        }
-      ],
-      "level": "N2"
-    },
-    {
-      "id": "g14",
-      "title": "〜上は (既然...就/書面)",
-      "structure": "簡體句 + 上は",
-      "explanation": "偏向正式書面、公文宣告的「既然...就」。與「以上は」含義相同，常用於帶有責任或重大決心的語境。",
-      "examples": [
-        {
-          "ja": "こうなった上は、戦うしかありません。",
-          "furigana": "こうなったうえは、たたかうしかありません。",
-          "en": "既然事情演變至此，就只有戰鬥一途了。"
-        },
-        {
-          "ja": "社長が辞任する上は、新体制を作る必要があります。",
-          "furigana": "しゃちょうがじにんするうえは、しんたいせいをつくるひつようがあります。",
-          "en": "既然總經理要辭職，就有必要建立新的體制。"
-        }
-      ],
-      "level": "N2"
-    },
-    {
-      "id": "g15",
-      "title": "〜をめぐって (圍繞著討論或爭議)",
-      "structure": "名詞 + をめぐって / をめぐる",
-      "explanation": "表示圍繞著某個主題、問題或焦點，多方意見對立並展開爭論、討論或爭奪。意為「圍繞著...」。",
-      "examples": [
-        {
-          "ja": "憲法改正をめぐって、多くの議論が行われました。",
-          "furigana": "けんぽうかいせいをめぐって、おおくのぎろんがおこなわれました。",
-          "en": "圍繞著憲法修改，進行了許多討論。"
-        },
-        {
-          "ja": "遺産をめぐる争いが家族の間で起きました。",
-          "furigana": "いさんをめぐるあらそいがかぞくのあいだでおきました。",
-          "en": "圍繞著遺產的爭奪，在家人間爆發了。"
-        }
-      ],
-      "level": "N2"
-    },
-    {
-      "id": "g1",
-      "title": "〜が早いか (剛一...就緊接著)",
-      "structure": "動詞原形 + が早いか",
-      "explanation": "表示前項動作剛完成的極短時間內，後項出乎意料的動作便緊接著發生。通常不接命令或意志。",
-      "examples": [
-        {
-          "ja": "ベルが鳴るが早いか、学生たちは教室から飛び出しました。",
-          "furigana": "べるがなるがはやいか、がくせいたちはきょうしつからとびだしました。",
-          "en": "鐘聲剛一響起，學生們就爭先恐後地跑出了教室。"
-        },
-        {
-          "ja": "子供は家に帰るが早いか、おやつを食べ始めました。",
-          "furigana": "こどもはいえにかえるがはやいか、おやつをたべはじめました。",
-          "en": "小孩一回到家，就立刻開始吃起了點心。"
-        }
-      ],
-      "level": "N1"
-    },
-    {
-      "id": "g2",
-      "title": "〜や否や (剛一...隨即發生)",
-      "structure": "動詞原形 + や否や",
-      "explanation": "書面語。表示前一動作剛發生的那一瞬間，緊接著發生了後一項動作或變化（剛一...隨即...）。",
-      "examples": [
-        {
-          "ja": "そのニュースを聞くや否や、彼女は泣き崩れました。",
-          "furigana": "そのにゅーすをきくやいなや、かのじょはなきくずれました。",
-          "en": "一聽到那個消息，她立刻痛哭失聲。"
-        },
-        {
-          "ja": "社長が到着するや否や、会議が始まりました。",
-          "furigana": "しゃちょうがとうちゃくするやいなや、かいぎがはじまりました。",
-          "en": "總經理剛一抵達，會議隨即開始。"
-        }
-      ],
-      "level": "N1"
-    },
-    {
-      "id": "g3",
-      "title": "〜なり (剛一...就採取意外動作)",
-      "structure": "動詞原形 + なり",
-      "explanation": "表示前項動作剛手，後項便以此為契機，立刻採取了某個出人意料的動作。主詞一般為第三人稱。",
-      "examples": [
-        {
-          "ja": "彼は私の顔を見るなり、逃げ出しました。",
-          "furigana": "かれはわたしのかおをみるなり、にげだしました。",
-          "en": "他一看到我的臉，就立刻逃跑了。"
-        },
-        {
-          "ja": "電話を切るなり、彼女は家を飛び出していきました。",
-          "furigana": "でんわをきるなり、かのじょはいえをとびだしていきました。",
-          "en": "剛一掛斷電話，她就立刻跑出了家門。"
-        }
-      ],
-      "level": "N1"
-    },
-    {
-      "id": "g4",
-      "title": "〜そばから (剛...又隨即回復原狀)",
-      "structure": "動詞原形/た形 + そばから",
-      "explanation": "表示即使反覆做前項動作，隨即又會發生後項，使前項徒勞無功。常用於健忘、清理等無奈語境中。",
-      "examples": [
-        {
-          "ja": "漢字は覚えるそばから忘れてしまいます。",
-          "furigana": "かんじはおぼえるそばからわすれてしまいます。",
-          "en": "漢字往往是一邊記，轉身就又忘光了。"
-        },
-        {
-          "ja": "子供が散らかすそばから、部屋を片付けます。",
-          "furigana": "こどもがちらかすそばから、へやをかたづけます。",
-          "en": "小孩子剛一弄亂，我就得隨即收拾房間。"
-        }
-      ],
-      "level": "N1"
-    },
-    {
-      "id": "g5",
-      "title": "〜てからというもの (自從...以來持續變化)",
-      "structure": "動詞て形 + からというもの",
-      "explanation": "表示自從發生了某個關鍵性契機之後，生活或心境發生了持續至今的重大轉變與變化。",
-      "examples": [
-        {
-          "ja": "犬を飼い始めてからというもの、毎日が楽しくなりました。",
-          "furigana": "いぬをかいはじめてからというもの、まいにちがたのしくなりました。",
-          "en": "自從開始養狗以來，每天的生活都變得無比快樂。"
-        },
-        {
-          "ja": "タバコをやめてからというもの、体の調子が良くなりました。",
-          "furigana": "たばこをやめてからというもの、からだのちょうしがよくなりました。",
-          "en": "自從戒菸以來，身體狀況就一直很好。"
-        }
-      ],
-      "level": "N1"
-    },
-    {
-      "id": "g6",
-      "title": "〜を皮切りに (以...為起點發展)",
-      "structure": "名詞 + を皮切りにして / を皮切りにして",
-      "explanation": "表示以某一個事件或起點為起端，隨後一個接一個地蓬勃展開了相同類型的連鎖發展。",
-      "examples": [
-        {
-          "ja": "東京公演を皮切りに、全国ツアーが始まりました。",
-          "furigana": "とうきょうこうえんをかわきりに、ぜんこくつあーがはじまりました。",
-          "en": "以東京公演為起點，全國巡迴演出正式拉開了帷幕。"
-        },
-        {
-          "ja": "彼の一言を皮切りに、全員が意見を出し合いました。",
-          "furigana": "かれのひとことをかわきりに、ぜんいんがいけんをだしあいました。",
-          "en": "以他的一句話為契機，所有人紛紛開始發表意見。"
-        }
-      ],
-      "level": "N1"
-    },
-    {
-      "id": "g7",
-      "title": "〜に至るまで (範圍廣至...甚至連)",
-      "structure": "名詞 + に至るまで",
-      "explanation": "強調範圍極其廣闊，連極微小、極特殊的對象都包含在內。意為「甚至到...」或「連...都包括」。",
-      "examples": [
-        {
-          "ja": "この本は、文法から歴史に至るまで細かく書かれています。",
-          "furigana": "このほんは、ぶんぽうかられきしにいたるまでこまかくかかれています。",
-          "en": "這本書裡，從文法甚至到歷史，都寫得非常詳細。"
-        },
-        {
-          "ja": "社長から新入社員に至るまで、全員が清掃に参加しました。",
-          "furigana": "しゃちょうからしんにゅうしゃいんにいたるまで、ぜんいんがせいそうにさんかしました。",
-          "en": "從總經理甚至到剛進來的新員工，所有人都在清掃活動中露面了。"
-        }
-      ],
-      "level": "N1"
-    },
-    {
-      "id": "g8",
-      "title": "〜を限りに (以...為最後期限)",
-      "structure": "名詞 + を限りに",
-      "explanation": "表示以當前時間、機會為最終的截止界限，以後將不再進行相同的行為了（以...為最後）。",
-      "examples": [
-        {
-          "ja": "今日を限りに、この店を閉店いたします。",
-          "furigana": "きょうをかぎりに、このみせをへいてんいたします。",
-          "en": "以今天為最後期限，本店將正式結束營業。"
-        },
-        {
-          "ja": "今年度を限りに、引退することに決めました。",
-          "furigana": "こんねんどをかぎりに、いんたいすることにきめました。",
-          "en": "我決定以今年度為限正式退休。"
-        }
-      ],
-      "level": "N1"
-    },
-    {
-      "id": "g9",
-      "title": "〜をもって (以書面期限/手段)",
-      "structure": "名詞 + をもって",
-      "explanation": "書面、宣告用語。表示以某個時間點作為終止或起始界限，或者是表示以此作為手段或依據進行。",
-      "examples": [
-        {
-          "ja": "本日の営業は、18時をもって終了いたします。",
-          "furigana": "ほんじつのえいぎょうは、じゅうはちじをもってしゅうりょういたします。",
-          "en": "今天的營業，將在 18 點整正式結束。"
-        },
-        {
-          "ja": "彼の実力をもってすれば、合格は簡単です。",
-          "furigana": "かれのじつりょくをもってすれば、ごうかくはかんたんです。",
-          "en": "如果以他的實力為前提，及格是很簡單的。"
-        }
-      ],
-      "level": "N1"
-    },
-    {
-      "id": "g10",
-      "title": "〜ところを (在特定困境時)",
-      "structure": "簡體句/名詞+の + ところを",
-      "explanation": "表示在對方處於特定忙碌、困境或私密時間時，向對方致以歉意並尋求幫助。意為「在...之時（多表感謝或歉意）」。",
-      "examples": [
-        {
-          "ja": "お忙しいところをお越しいただき、ありがとうございます。",
-          "furigana": "おいそがしいところをおこしいただき、ありがとうございます。",
-          "en": "感謝您在百忙之中抽空光臨。"
-        },
-        {
-          "ja": "お休みのところをお邪魔して、申し訳ありません。",
-          "furigana": "おやすみのところをおじゃまして、もうしわけありません。",
-          "en": "在您休息之時前來打擾，實在是非常抱歉。"
-        }
-      ],
-      "level": "N1"
-    },
-    {
-      "id": "g11",
-      "title": "〜だに (光是...就)",
-      "structure": "動詞原形/名詞 + だに",
-      "explanation": "書面、文學用語。表示光是做某項心智動作（想像、考慮、聽說等），就會引起強烈的生理或心理反應。意為「光是...就」。",
-      "examples": [
-        {
-          "ja": "あの事故のことは、思い出すだに恐ろしいです。",
-          "furigana": "あのじこのことは、おもいだすだにおそろしいです。",
-          "en": "那起事故的事情，光是回想起來就覺得可怕。"
-        },
-        {
-          "ja": "このような賞をいただけるとは、夢にだに思いませんでした。",
-          "furigana": "このようなしょうをいただけるとは、ゆめにだにおもいませんでした。",
-          "en": "能夠獲得這樣的獎項，我連作夢都沒想到。"
-        }
-      ],
-      "level": "N1"
-    },
-    {
-      "id": "g12",
-      "title": "〜すら (甚至/連)",
-      "structure": "名詞 + すら",
-      "explanation": "與「さえ」相似，但偏向書面語口吻，提出一個極端的基本對象以此說明其他更是如此（甚至連...）。",
-      "examples": [
-        {
-          "ja": "簡単な漢字すら書けないのに、論文など無理です。",
-          "furigana": "かんたんなかんじすらかけないのに、ろんぶんなどむりです。",
-          "en": "連簡單的漢字都不會寫，寫論文之類的簡引是不可能。"
-        },
-        {
-          "ja": "事故の後、彼は立つことすらできませんでした。",
-          "furigana": "じこのあと、かれはたつことすらできませんでした。",
-          "en": "事故之後，他甚至連站立都無法做到。"
-        }
-      ],
-      "level": "N1"
-    },
-    {
-      "id": "g13",
-      "title": "〜ならでは (獨特的卓越價值)",
-      "structure": "名詞 + ならでは / ならではの",
-      "explanation": "高度讚賞某個對象，表示只有該對象才具備的、無可比擬的卓越特徵。意為「只有...才有的」。",
-      "examples": [
-        {
-          "ja": "京都ならではの古い街並みを楽しめます。",
-          "furigana": "きょうとならではのふるいまちなみをたのしめます。",
-          "en": "可以享受到只有在京都才能體驗到的古老街道風情。"
-        },
-        {
-          "ja": "一流のシェフならではの美味しい料理です。",
-          "furigana": "いちりゅうのしぇふならではのおいしいりょうりです。",
-          "en": "這是只有一流廚師才能做出的美味佳餚。"
-        }
-      ],
-      "level": "N1"
-    },
-    {
-      "id": "g14",
-      "title": "〜ともなると (一旦上升至高階地位)",
-      "structure": "名詞 + ともなると / ともなれば",
-      "explanation": "表示一旦處於某個特定的高水準、高身份或高階狀態時，自然會伴隨著相應的卓越表現、標準或環境轉變。",
-      "examples": [
-        {
-          "ja": "プロの歌手ともなると、歌声の迫力が違います。",
-          "furigana": "ぷろのかしゅともなると、うたごえのはくりょくがちがいます。",
-          "en": "一旦成為職業歌手，歌聲的震撼力就截然不同。"
-        },
-        {
-          "ja": "一流大学ともなれば、入試が非常に難しいです。",
-          "furigana": "いちりゅうだいがくともなれば、にゅうしがひじょうにむずかしいです。",
-          "en": "一旦到了頂尖大學，入學考試就會非常困難。"
-        }
-      ],
-      "level": "N1"
-    },
-    {
-      "id": "g15",
-      "title": "〜ずにはすまない (道義上不能不)",
-      "structure": "動詞ない形(去ない) + ずにはすまない / ざるを得ない",
-      "explanation": "表示在當前的環境氣氛、社會道德或人情道義上，自己「不能不採取某項行動」，不去做的話事情無法落幕。",
-      "examples": [
-        {
-          "ja": "迷惑をかけたのだから、謝らずにはすまないでしょう。",
-          "furigana": "めいわくをかけたのだから、あやまらずにはすまないでしょう。",
-          "en": "既然給人添了麻煩，就不能不去道歉吧（不道歉說不過去）。"
-        },
-        {
-          "ja": "事実を知った以上、警察に報告せずにはすまないです。",
-          "furigana": "じじつをしったいじょう、けいさつにほうこくせずにはすまないです。",
-          "en": "既然已經知道了事實，就不能不向警察報告。"
-        }
-      ],
-      "level": "N1"
+      "level": "N4"
     }
   ]
 };
-if (typeof module !== 'undefined') { module.exports = window.JLPT_DATA_CHUNKS["N4"]; }

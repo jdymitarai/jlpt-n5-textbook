@@ -2615,6 +2615,451 @@ window.JLPT_DATA = {
     }
   ],
   "verbConjugations": {},
-  "adjectiveGroups": {}
+  "adjectiveGroups": {},
+  "pronouns": [
+    {
+      "category": "第一人稱 (自稱)",
+      "description": "表示說話者自己，依據性別與禮貌程度區分。",
+      "words": [
+        {
+          "word": "私",
+          "furigana": "わたし / わたくし",
+          "meaning": "我 (男女通用)"
+        },
+        {
+          "word": "僕",
+          "furigana": "ぼく",
+          "meaning": "我 (男性專用)"
+        },
+        {
+          "word": "俺",
+          "furigana": "おれ",
+          "meaning": "我 (男性專用)"
+        },
+        {
+          "word": "あたし",
+          "furigana": "",
+          "meaning": "我 (女性專用)"
+        }
+      ]
+    },
+    {
+      "category": "第二人稱 (對稱)",
+      "description": "表示對話的對象。",
+      "words": [
+        {
+          "word": "あなた",
+          "furigana": "",
+          "meaning": "你 (一般稱呼)"
+        },
+        {
+          "word": "君",
+          "furigana": "きみ",
+          "meaning": "你 (對平輩或晚輩)"
+        },
+        {
+          "word": "お前",
+          "furigana": "おまえ",
+          "meaning": "你 (對平輩或晚輩)"
+        },
+        {
+          "word": "あんた",
+          "furigana": "",
+          "meaning": "你 (極熟絡或帶有情緒)"
+        }
+      ]
+    },
+    {
+      "category": "第三人稱 (他稱)",
+      "description": "表示不在場的第三方。",
+      "words": [
+        {
+          "word": "彼",
+          "furigana": "かれ",
+          "meaning": "他 (指代男性)"
+        },
+        {
+          "word": "彼女",
+          "furigana": "かのじょ",
+          "meaning": "她 (指代女性)"
+        },
+        {
+          "word": "あいつ",
+          "furigana": "",
+          "meaning": "那傢伙 (帶有強烈情緒)"
+        },
+        {
+          "word": "こいつ",
+          "furigana": "",
+          "meaning": "這傢伙 (帶有強烈情緒)"
+        },
+        {
+          "word": "そいつ",
+          "furigana": "",
+          "meaning": "那傢伙 (帶有強烈情緒)"
+        }
+      ]
+    },
+    {
+      "category": "反身代名詞",
+      "description": "表示動作的對象就是自己本身。",
+      "words": [
+        {
+          "word": "自分",
+          "furigana": "じぶん",
+          "meaning": "自己 (一般常用)"
+        },
+        {
+          "word": "自身",
+          "furigana": "じしん",
+          "meaning": "自己本身 (一般常用)"
+        },
+        {
+          "word": "自ら",
+          "furigana": "みずから",
+          "meaning": "親自 (書面或強調)"
+        },
+        {
+          "word": "己",
+          "furigana": "おのれ",
+          "meaning": "自己 (書面或強調)"
+        }
+      ]
+    },
+    {
+      "category": "人稱複數後綴",
+      "description": "加在代名詞後方，用來表示群體的必備字尾。",
+      "words": [
+        {
+          "word": "～たち",
+          "furigana": "",
+          "meaning": "中立與鄭重 (如：私たち)"
+        },
+        {
+          "word": "～がた",
+          "furigana": "",
+          "meaning": "中立與鄭重 (如：あなたがた)"
+        },
+        {
+          "word": "～ら",
+          "furigana": "",
+          "meaning": "隨性與口語 (如：僕ら、彼ら)"
+        }
+      ]
+    }
+  ],
+  "adverbsGroup": {
+    "N5": [
+      {
+        "word": "今",
+        "meaning": "現在",
+        "context": "時間與頻率",
+        "subcontext": "現在與未來"
+      },
+      {
+        "word": "すぐ",
+        "meaning": "馬上",
+        "context": "時間與頻率",
+        "subcontext": "現在未來"
+      },
+      {
+        "word": "もうすぐ",
+        "meaning": "快要",
+        "context": "時間與頻率",
+        "subcontext": "現在未來"
+      },
+      {
+        "word": "後で",
+        "meaning": "稍後",
+        "context": "時間與頻率",
+        "subcontext": "現在未來"
+      },
+      {
+        "word": "さっき",
+        "meaning": "剛才",
+        "context": "時間與頻率",
+        "subcontext": "過去與完成"
+      },
+      {
+        "word": "昔",
+        "meaning": "以前",
+        "context": "時間與頻率",
+        "subcontext": "過去與完成"
+      },
+      {
+        "word": "すでに",
+        "meaning": "已經",
+        "context": "時間與頻率",
+        "subcontext": "過去與完成"
+      },
+      {
+        "word": "もう",
+        "meaning": "已經/再",
+        "context": "時間與頻率",
+        "subcontext": "過去與完成"
+      },
+      {
+        "word": "まだ",
+        "meaning": "還沒",
+        "context": "時間與頻率",
+        "subcontext": "現在未來"
+      },
+      {
+        "word": "いつも",
+        "meaning": "總是",
+        "context": "時間與頻率",
+        "subcontext": "頻率"
+      },
+      {
+        "word": "よく",
+        "meaning": "經常",
+        "context": "時間與頻率",
+        "subcontext": "頻率"
+      },
+      {
+        "word": "たまに",
+        "meaning": "偶爾",
+        "context": "時間與頻率",
+        "subcontext": "頻率"
+      },
+      {
+        "word": "全然",
+        "meaning": "完全不...",
+        "context": "時間與頻率",
+        "subcontext": "頻率"
+      },
+      {
+        "word": "時々",
+        "meaning": "有時",
+        "context": "時間與頻率",
+        "subcontext": "頻率"
+      },
+      {
+        "word": "また",
+        "meaning": "又/再",
+        "context": "時間與頻率",
+        "subcontext": "頻率"
+      },
+      {
+        "word": "とても",
+        "meaning": "非常",
+        "context": "程度與數量",
+        "subcontext": "高度與極端"
+      },
+      {
+        "word": "かなり",
+        "meaning": "相當",
+        "context": "程度與數量",
+        "subcontext": "高度與極端"
+      },
+      {
+        "word": "すごく",
+        "meaning": "極度",
+        "context": "程度與數量",
+        "subcontext": "高度與極端"
+      },
+      {
+        "word": "最も",
+        "meaning": "最...",
+        "context": "程度與數量",
+        "subcontext": "高度與極端"
+      },
+      {
+        "word": "一番",
+        "meaning": "最",
+        "context": "程度與數量",
+        "subcontext": "高度與極端"
+      },
+      {
+        "word": "少し",
+        "meaning": "一點點",
+        "context": "程度與數量",
+        "subcontext": "微小與中等"
+      },
+      {
+        "word": "ちょっと",
+        "meaning": "稍微",
+        "context": "程度與數量",
+        "subcontext": "微小與中等"
+      },
+      {
+        "word": "まあまあ",
+        "meaning": "還算可以",
+        "context": "程度與數量",
+        "subcontext": "微小與中等"
+      },
+      {
+        "word": "もっと",
+        "meaning": "更加",
+        "context": "程度與數量",
+        "subcontext": "增減與極限"
+      },
+      {
+        "word": "ますます",
+        "meaning": "越來越...",
+        "context": "程度與數量",
+        "subcontext": "增減與極限"
+      },
+      {
+        "word": "ほぼ",
+        "meaning": "幾乎",
+        "context": "程度與數量",
+        "subcontext": "增減與極限"
+      },
+      {
+        "word": "だんだん",
+        "meaning": "漸漸地",
+        "context": "程度與數量",
+        "subcontext": "增減與極限"
+      },
+      {
+        "word": "たくさん",
+        "meaning": "很多",
+        "context": "程度與數量",
+        "subcontext": "高度與極端"
+      },
+      {
+        "word": "大分",
+        "meaning": "相當/很大程度",
+        "context": "程度與數量",
+        "subcontext": "高度與極端"
+      },
+      {
+        "word": "ゆっくり",
+        "meaning": "慢慢地",
+        "context": "狀態與模樣",
+        "subcontext": "動作方式"
+      },
+      {
+        "word": "はっきり",
+        "meaning": "清楚地",
+        "context": "狀態與模樣",
+        "subcontext": "動作方式"
+      },
+      {
+        "word": "しっかり",
+        "meaning": "確實地/牢固地",
+        "context": "狀態與模樣",
+        "subcontext": "動作方式"
+      },
+      {
+        "word": "こっそり",
+        "meaning": "偷偷地",
+        "context": "狀態與模樣",
+        "subcontext": "動作方式"
+      },
+      {
+        "word": "イライラ",
+        "meaning": "焦躁地",
+        "context": "狀態與模樣",
+        "subcontext": "心理生理模樣"
+      },
+      {
+        "word": "ドキドキ",
+        "meaning": "心跳加速地",
+        "context": "狀態與模樣",
+        "subcontext": "心理生理模樣"
+      },
+      {
+        "word": "ペコペコ",
+        "meaning": "肚子餓/點頭哈腰",
+        "context": "狀態與模樣",
+        "subcontext": "心理生理模樣"
+      },
+      {
+        "word": "ピカピカ",
+        "meaning": "閃閃發光",
+        "context": "狀態與模樣",
+        "subcontext": "自然物理模樣"
+      },
+      {
+        "word": "サラサラ",
+        "meaning": "柔順/清爽",
+        "context": "狀態與模樣",
+        "subcontext": "自然物理模樣"
+      },
+      {
+        "word": "ドカン",
+        "meaning": "砰的一聲",
+        "context": "狀態與模樣",
+        "subcontext": "自然物理模樣"
+      },
+      {
+        "word": "そのまま",
+        "meaning": "就那樣/照原樣",
+        "context": "狀態與模樣",
+        "subcontext": "動作方式"
+      },
+      {
+        "word": "わざと",
+        "meaning": "故意地",
+        "context": "狀態與模樣",
+        "subcontext": "動作方式"
+      },
+      {
+        "word": "たぶん",
+        "meaning": "大概",
+        "context": "語氣與推測",
+        "subcontext": "推測與可能性"
+      },
+      {
+        "word": "もしかすると",
+        "meaning": "說不定",
+        "context": "語氣與推測",
+        "subcontext": "推測與可能性"
+      },
+      {
+        "word": "きっと",
+        "meaning": "一定",
+        "context": "語氣與推測",
+        "subcontext": "推測與可能性"
+      },
+      {
+        "word": "決して",
+        "meaning": "絕對不...",
+        "context": "語氣與推測",
+        "subcontext": "強烈否定斷定"
+      },
+      {
+        "word": "絶対に",
+        "meaning": "絕對...",
+        "context": "語氣與推測",
+        "subcontext": "強烈否定斷定"
+      },
+      {
+        "word": "ぜひ",
+        "meaning": "務必",
+        "context": "語氣與推測",
+        "subcontext": "強烈否定斷定"
+      },
+      {
+        "word": "まるで",
+        "meaning": "簡直就像...",
+        "context": "語氣與推測",
+        "subcontext": "比喻與舉例"
+      },
+      {
+        "word": "例えば",
+        "meaning": "例如",
+        "context": "語氣與推測",
+        "subcontext": "比喻與舉例"
+      },
+      {
+        "word": "もし",
+        "meaning": "如果",
+        "context": "語氣與推測",
+        "subcontext": "推測與可能性"
+      },
+      {
+        "word": "どうも",
+        "meaning": "總覺得/實在是",
+        "context": "語氣與推測",
+        "subcontext": "推測與可能性"
+      }
+    ],
+    "N4": [],
+    "N3": [],
+    "N2": [],
+    "N1": []
+  }
 };
-if (typeof module !== 'undefined') { module.exports = window.JLPT_DATA; }

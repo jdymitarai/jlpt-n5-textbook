@@ -1,0 +1,36 @@
+{
+  "levels": [
+    "N5",
+    "N4",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "categories": [
+    "med_basic",
+    "med_nursing",
+    "med_medsurg",
+    "med_pedsmats",
+    "med_psychcomm",
+    "body_physiology",
+    "health_medical",
+    "psychology_character",
+    "food_culture",
+    "fashion_beauty",
+    "housing_space",
+    "transport_mobility",
+    "leisure_sports",
+    "astronomy_meteorology",
+    "geography_ecology",
+    "biological_world",
+    "relations_human",
+    "society_politics_law",
+    "economy_business",
+    "culture_thought",
+    "math_quantity",
+    "properties_relations"
+  ],
+  "currentLevelIndex": 0,
+  "currentCategoryIndex": 5,
+  "totalGenerated": 100
+}

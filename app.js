@@ -1138,94 +1138,203 @@ document.addEventListener("DOMContentLoaded", () => {
   };
 
   const renderConsolidationData = () => {
-    // 1. Render Verbs
-    const tableVerbs = document.getElementById("table-verbs-body");
-    if (tableVerbs) {
-      tableVerbs.innerHTML = "";
-      const verbConjugations = JLPT_DATA.verbConjugations[currentLevel] || [];
-      verbConjugations.forEach(v => {
-        const tr = document.createElement("tr");
-        tr.innerHTML = `
-          <td class="clickable-jp" data-speech="${v.dictionary.split(" ")[0]}">${v.dictionary}</td>
-          <td class="clickable-jp" data-speech="${v.masu.split(" ")[0]}">${v.masu}</td>
-          <td class="clickable-jp" data-speech="${v.te.split(" ")[0]}">${v.te}</td>
-          <td class="clickable-jp" data-speech="${v.nai.split(" ")[0]}">${v.nai}</td>
-          <td>${v.meaning}</td>
-          <td><span class="vocab-badge ${v.group.includes("第一") ? "verbs" : v.group.includes("第二") ? "people" : "time"}">${v.group}</span></td>
-        `;
-        tableVerbs.appendChild(tr);
-      });
-    }
+    try {
+      // 1. Render Verbs
+      const tableVerbs = document.getElementById("table-verbs-body");
+      if (tableVerbs) {
+        tableVerbs.innerHTML = "";
+        const verbConjugations = JLPT_DATA.verbConjugations[currentLevel] || [];
+        verbConjugations.forEach(v => {
+          // Backward compatibility + new format support
+          const dictionary = v.dictionary || (v.conjugations && v.conjugations.dictionary && v.conjugations.dictionary.jp) || v.word || '';
+          const masu = v.masu || (v.conjugations && v.conjugations.masu && v.conjugations.masu.jp) || '';
+          const te = v.te || (v.conjugations && v.conjugations.te && v.conjugations.te.jp) || '';
+          const nai = v.nai || (v.conjugations && v.conjugations.nai && v.conjugations.nai.jp) || '';
+          const kanou = (v.conjugations && v.conjugations.kanou && v.conjugations.kanou.jp) || '-';
+          const meaning = v.meaning || '暫無釋義';
+          const groupStr = typeof v.group === 'number' ? `第${['一', '二', '三'][v.group - 1] || v.group}類動詞` : (v.group || '');
+          
+          const badgeClass = groupStr.includes("一") ? "verbs" : groupStr.includes("二") ? "people" : "time";
 
-    // 2. Render Adjectives (i-adjectives)
-    const tableAdjI = document.getElementById("table-adj-i-body");
-    if (tableAdjI) {
-      tableAdjI.innerHTML = "";
-      const adjGroup = JLPT_DATA.adjectiveGroups[currentLevel] || { iAdjectives: [], naAdjectives: [] };
-      adjGroup.iAdjectives.forEach(a => {
-        const tr = document.createElement("tr");
-        tr.innerHTML = `
-          <td class="clickable-jp" data-speech="${a.word.split(" ")[0]}">${a.word}</td>
-          <td>${a.meaning}</td>
-          <td class="clickable-jp" data-speech="${a.negative}">${a.negative}</td>
-          <td class="clickable-jp" data-speech="${a.past}">${a.past}</td>
-        `;
-        tableAdjI.appendChild(tr);
-      });
-    }
+          const tr = document.createElement("tr");
+          // Add 可能形 column (Requires HTML update too, but we will add it here, and if HTML is missing it, it just overflows or is ignored, wait! The user asked for it, we must add it to HTML as well)
+          tr.innerHTML = `
+            <td class="clickable-jp" data-speech="${dictionary.split(" ")[0]}">${dictionary}</td>
+            <td class="clickable-jp" data-speech="${masu.split(" ")[0]}">${masu}</td>
+            <td class="clickable-jp" data-speech="${te.split(" ")[0]}">${te}</td>
+            <td class="clickable-jp" data-speech="${nai.split(" ")[0]}">${nai}</td>
+            <td class="clickable-jp" data-speech="${kanou !== '-' ? kanou.split(" ")[0] : ''}">${kanou}</td>
+            <td>${meaning}</td>
+            <td><span class="vocab-badge ${badgeClass}">${groupStr}</span></td>
+          `;
+          tableVerbs.appendChild(tr);
+        });
+      }
 
-    // 3. Render Adjectives (na-adjectives)
-    const tableAdjNa = document.getElementById("table-adj-na-body");
-    if (tableAdjNa) {
-      tableAdjNa.innerHTML = "";
-      const adjGroup = JLPT_DATA.adjectiveGroups[currentLevel] || { iAdjectives: [], naAdjectives: [] };
-      adjGroup.naAdjectives.forEach(a => {
-        const tr = document.createElement("tr");
-        tr.innerHTML = `
-          <td class="clickable-jp" data-speech="${a.word.split(" ")[0]}">${a.word}</td>
-          <td>${a.meaning}</td>
-          <td class="clickable-jp" data-speech="${a.negative}">${a.negative}</td>
-          <td class="clickable-jp" data-speech="${a.past}">${a.past}</td>
-        `;
-        tableAdjNa.appendChild(tr);
-      });
-    }
-
-    // 4. Render Counters
-    renderCounterGrid("grid-counter-items", JLPT_DATA.counterTables.items);
-    renderCounterGrid("grid-counter-people", JLPT_DATA.counterTables.people);
-    renderCounterGrid("grid-counter-days", JLPT_DATA.counterTables.days);
-
-    // 5. Render Demonstratives
-    const tableDem = document.getElementById("table-dem-body");
-    if (tableDem) {
-      tableDem.innerHTML = "";
-      JLPT_DATA.demonstratives.forEach(d => {
-        const tr = document.createElement("tr");
-        tr.innerHTML = `
-          <td style="font-weight: 600; color: var(--secondary);">${d.type}</td>
-          <td class="clickable-jp" data-speech="${d.ko.split(" ")[0]}">${d.ko}</td>
-          <td class="clickable-jp" data-speech="${d.so.split(" ")[0]}">${d.so}</td>
-          <td class="clickable-jp" data-speech="${d.a.split(" ")[0]}">${d.a}</td>
-          <td class="clickable-jp" data-speech="${d.do.split(" ")[0]}">${d.do}</td>
-        `;
-        tableDem.appendChild(tr);
-      });
-    }
-
-    // Bind speak handlers for dynamically generated elements
-    document.querySelectorAll(".clickable-jp").forEach(el => {
-      el.onclick = (e) => {
-        e.stopPropagation();
-        const text = el.getAttribute("data-speech") || el.textContent;
-        // Clean characters for speech synthesis (remove furigana brackets)
-        const cleanText = text.replace(/\([^)]*\)/g, "").trim();
-        speak(cleanText);
+      // 2. Render Adjectives (i-adjectives)
+      const tableAdjI = document.getElementById("table-adj-i-body");
+      if (tableAdjI) {
+        tableAdjI.innerHTML = "";
+        const adjGroup = JLPT_DATA.adjectiveGroups[currentLevel] || { iAdjectives: [], naAdjectives: [] };
+        const iAdjs = Array.isArray(adjGroup) ? adjGroup.filter(a => a.type === 'i' || a.type === 'i-adjective') : (adjGroup.iAdjectives || []);
         
-        el.classList.add("ripple-effect");
-        setTimeout(() => el.classList.remove("ripple-effect"), 300);
-      };
-    });
+        iAdjs.forEach(a => {
+          const word = a.word || '';
+          const meaning = a.meaning || '暫無釋義';
+          const negative = a.negative || (a.conjugations && a.conjugations.negative && a.conjugations.negative.jp) || '';
+          const past = a.past || (a.conjugations && a.conjugations.past && a.conjugations.past.jp) || '';
+          
+          const tr = document.createElement("tr");
+          tr.innerHTML = `
+            <td class="clickable-jp" data-speech="${word.split(" ")[0]}">${word}</td>
+            <td>${meaning}</td>
+            <td class="clickable-jp" data-speech="${negative.split(" ")[0]}">${negative}</td>
+            <td class="clickable-jp" data-speech="${past.split(" ")[0]}">${past}</td>
+          `;
+          tableAdjI.appendChild(tr);
+        });
+      }
+
+      // 3. Render Adjectives (na-adjectives)
+      const tableAdjNa = document.getElementById("table-adj-na-body");
+      if (tableAdjNa) {
+        tableAdjNa.innerHTML = "";
+        const adjGroup = JLPT_DATA.adjectiveGroups[currentLevel] || { iAdjectives: [], naAdjectives: [] };
+        const naAdjs = Array.isArray(adjGroup) ? adjGroup.filter(a => a.type === 'na' || a.type === 'na-adjective') : (adjGroup.naAdjectives || []);
+        
+        naAdjs.forEach(a => {
+          const word = a.word || '';
+          const meaning = a.meaning || '暫無釋義';
+          const negative = a.negative || (a.conjugations && a.conjugations.negative && a.conjugations.negative.jp) || '';
+          const past = a.past || (a.conjugations && a.conjugations.past && a.conjugations.past.jp) || '';
+          
+          const tr = document.createElement("tr");
+          tr.innerHTML = `
+            <td class="clickable-jp" data-speech="${word.split(" ")[0]}">${word}</td>
+            <td>${meaning}</td>
+            <td class="clickable-jp" data-speech="${negative.split(" ")[0]}">${negative}</td>
+            <td class="clickable-jp" data-speech="${past.split(" ")[0]}">${past}</td>
+          `;
+          tableAdjNa.appendChild(tr);
+        });
+      }
+
+      // 4. Render Counters
+      if (JLPT_DATA.counterTables) {
+        if (typeof renderCounterGrid === 'function') {
+          if (JLPT_DATA.counterTables.items) renderCounterGrid("grid-counter-items", JLPT_DATA.counterTables.items);
+          if (JLPT_DATA.counterTables.people) renderCounterGrid("grid-counter-people", JLPT_DATA.counterTables.people);
+          if (JLPT_DATA.counterTables.days) renderCounterGrid("grid-counter-days", JLPT_DATA.counterTables.days);
+        }
+      }
+
+      // 5. Render Demonstratives
+      const tableDem = document.getElementById("table-dem-body");
+
+      // 6. Render Nouns
+      const nounsContainer = document.getElementById("nouns-container");
+      if (nounsContainer && JLPT_DATA.vocabulary) {
+        nounsContainer.innerHTML = "";
+        const nouns = JLPT_DATA.vocabulary.filter(v => v.type === 'noun' || v.pos === '名詞');
+        // Just take some N5 words that are likely nouns to show as a placeholder if we don't have POS
+        const displayNouns = nouns.slice(0, 100);
+        let html = '';
+        displayNouns.forEach(n => {
+           html += `<div style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid var(--border-color); border-radius: 6px; cursor: pointer;" class="clickable-jp" data-speech="${n.word}">
+             <div style="font-weight: 600; font-size: 1.1em;">${n.word}</div>
+             ${n.furigana ? `<div style="font-size: 0.8em; color: var(--text-secondary);">${n.furigana}</div>` : ''}
+             <div style="font-size: 0.85em; color: var(--text-secondary); margin-top: 4px;">${n.meaning}</div>
+           </div>`;
+        });
+        nounsContainer.innerHTML = html;
+      }
+
+      // 7. Render Pronouns
+      const pronounsContainer = document.getElementById("pronouns-container");
+      if (pronounsContainer && JLPT_DATA.pronouns) {
+        pronounsContainer.innerHTML = "";
+        JLPT_DATA.pronouns.forEach(group => {
+          let wordsHtml = group.words.map(w => `
+            <div class="col" style="min-width: 200px; margin-bottom: 12px; background: rgba(255, 255, 255, 0.05); padding: 12px; border-radius: 8px; border: 1px solid var(--border-color);">
+              <div style="margin-bottom: 4px;">
+                <span class="clickable-jp" data-speech="${w.word}" style="font-size: 1.2em; font-weight: bold; color: var(--text-primary); cursor: pointer;">${w.word}</span>
+                ${w.furigana ? `<span style="font-size: 0.85em; opacity: 0.8; color: var(--text-secondary); margin-left: 6px;">(${w.furigana})</span>` : ''}
+              </div>
+              <div style="color: var(--text-secondary); font-size: 0.9em;">${w.meaning}</div>
+            </div>
+          `).join("");
+
+          const html = `
+            <div style="margin-bottom: 24px; width: 100%;">
+              <h4 style="color: var(--primary); font-family: var(--font-title); margin-bottom: 4px; display: flex; align-items: center; gap: 8px;">
+                <span style="display: inline-block; width: 6px; height: 16px; background: var(--primary); border-radius: 4px;"></span>
+                ${group.category}
+              </h4>
+              <p style="color: var(--text-secondary); font-size: 0.85rem; margin-bottom: 12px; padding-left: 14px;">${group.description}</p>
+              <div class="row" style="display: flex; flex-wrap: wrap; gap: 12px; padding-left: 14px;">
+                ${wordsHtml}
+              </div>
+            </div>
+          `;
+          pronounsContainer.insertAdjacentHTML("beforeend", html);
+        });
+      }
+
+      // 8. Render Adverbs
+      const adverbsContainer = document.getElementById("adverbs-container");
+      if (adverbsContainer && JLPT_DATA.adverbsGroup && JLPT_DATA.adverbsGroup[currentLevel]) {
+        adverbsContainer.innerHTML = "";
+        
+        // Group by context
+        const contextMap = {};
+        JLPT_DATA.adverbsGroup[currentLevel].forEach(a => {
+           if (!contextMap[a.context]) contextMap[a.context] = {};
+           if (!contextMap[a.context][a.subcontext]) contextMap[a.context][a.subcontext] = [];
+           contextMap[a.context][a.subcontext].push(a);
+        });
+
+        for (const [ctx, subObj] of Object.entries(contextMap)) {
+           let ctxHtml = `<div style="margin-bottom: 24px;"><h4 style="color: var(--primary); font-family: var(--font-title); margin-bottom: 12px; border-bottom: 1px solid var(--border-color); padding-bottom: 4px;">${ctx}</h4>`;
+           
+           for (const [subCtx, items] of Object.entries(subObj)) {
+              ctxHtml += `<div style="margin-bottom: 16px;">
+                <div style="font-weight: bold; font-size: 0.9em; color: var(--text-secondary); margin-bottom: 8px; padding-left: 8px; border-left: 3px solid var(--text-secondary);">${subCtx}</div>
+                <div style="display: flex; flex-wrap: wrap; gap: 10px; padding-left: 14px;">`;
+                
+              items.forEach(a => {
+                ctxHtml += `<div style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid var(--border-color); border-radius: 6px; cursor: pointer;" class="clickable-jp" data-speech="${a.word}">
+                  <span style="font-weight: bold; color: var(--text-primary); font-size: 1.1em;">${a.word}</span>
+                  <span style="color: var(--text-secondary); font-size: 0.85em; margin-left: 8px;">${a.meaning}</span>
+                </div>`;
+              });
+              ctxHtml += `</div></div>`;
+           }
+           ctxHtml += `</div>`;
+           adverbsContainer.insertAdjacentHTML("beforeend", ctxHtml);
+        }
+      }
+
+
+      if (tableDem && JLPT_DATA.demonstratives) {
+        tableDem.innerHTML = "";
+        JLPT_DATA.demonstratives.forEach(d => {
+          const tr = document.createElement("tr");
+          tr.innerHTML = `
+            <td>${d.series}</td>
+            <td class="clickable-jp" data-speech="${d.ko}">${d.ko}</td>
+            <td class="clickable-jp" data-speech="${d.so}">${d.so}</td>
+            <td class="clickable-jp" data-speech="${d.a}">${d.a}</td>
+            <td class="clickable-jp" data-speech="${d.do}">${d.do}</td>
+          `;
+          tableDem.appendChild(tr);
+        });
+      }
+      
+      
+      // We will let the pronouns/adverbs injectors handle their own logic by appending to this function or executing afterwards.
+    } catch (e) {
+      console.error("Error in renderConsolidationData:", e);
+    }
   };
 
   const renderCounterGrid = (elementId, list) => {

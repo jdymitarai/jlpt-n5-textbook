@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const vm = require('vm');
 
-const dir = 'C:\\Users\\O1004\\.gemini\\antigravity\\scratch\\jlpt-n5-textbook';
+const dir = __dirname;
 
 console.log("Starting unified multi-level bundling and packaging...");
 
@@ -114,7 +114,7 @@ const deployCode = `async () => {
   return { success: true, deploy: deployRes, attach: attachRes };
 }`;
 
-const outputDeployTxtPath = 'C:\\Users\\O1004\\.gemini\\antigravity\\brain\\461414d4-4d3d-4ce2-92e2-f2d0a23768ee\\scratch\\deploy_code.txt';
+const outputDeployTxtPath = 'deploy_code.txt';
 fs.writeFileSync(outputDeployTxtPath, deployCode, 'utf8');
 console.log("Successfully generated deploy_code.txt!");
 console.log(`Bundled Worker script size: ${(workerCode.length / (1024 * 1024)).toFixed(2)} MB`);

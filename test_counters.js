@@ -1,0 +1,11 @@
+const fs = require('fs');
+const vm = require('vm');
+let data = fs.readFileSync('data.js', 'utf8');
+const ctx = { window: {} };
+vm.createContext(ctx);
+vm.runInContext(data, ctx);
+const JLPT_DATA = ctx.window.JLPT_DATA;
+JLPT_DATA.counters = [{id: 'test'}];
+const newData = `window.JLPT_DATA = ${JSON.stringify(JLPT_DATA, null, 2)};\n`;
+console.log(newData.includes('"counters":'));
+fs.writeFileSync('data.js', newData, 'utf8');

@@ -1854,3 +1854,10 @@ body {
   border-color: var(--primary) !important;
 }
 
+
+.nouns-grid-container, .pronouns-grid-container, .adverbs-grid-container { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 16px; margin-top: 16px; }
+.noun-card, .pronoun-card, .adverb-card { background: var(--bg-card); padding: 16px; border-radius: var(--radius-md); box-shadow: var(--shadow-sm); border: 1px solid var(--border-color); }
+.noun-word, .pronoun-word, .adverb-word { font-size: 1.25rem; font-weight: 700; color: var(--text-primary); margin-bottom: 8px; }
+.noun-kana, .pronoun-kana, .adverb-kana { font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 4px; }
+.noun-meaning, .pronoun-meaning, .adverb-meaning { font-size: 0.95rem; color: var(--text-primary); }
+
