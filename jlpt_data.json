@@ -82337,6 +82337,1086 @@
               "zh": "少女羞紅了臉頰。"
             }
           ]
+        },
+        {
+          "word": "煮詰める",
+          "furigana": "煮[に]詰[つ]める",
+          "meaning": "熬煮、濃縮",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 飲食與烹飪",
+          "masu_form": "煮詰めます",
+          "nai_form": "煮詰めない",
+          "ta_form": "煮詰めた",
+          "nakatta_form": "煮詰めなかった",
+          "potential_form": "煮詰められる",
+          "causative_form": "煮詰めさせる",
+          "passive_form": "煮詰められる",
+          "volitional_form": "煮詰めよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_food_cooking",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "ソースを弱火でじっくり煮詰める。",
+              "zh": "用小火慢慢熬煮醬汁。"
+            }
+          ]
+        },
+        {
+          "word": "盛り付ける",
+          "furigana": "盛[も]り付[つ]ける",
+          "meaning": "裝盤、擺盤",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 飲食與烹飪",
+          "masu_form": "盛り付けます",
+          "nai_form": "盛り付けない",
+          "ta_form": "盛り付けた",
+          "nakatta_form": "盛り付けなかった",
+          "potential_form": "盛り付けられる",
+          "causative_form": "盛り付けさせる",
+          "passive_form": "盛り付けられる",
+          "volitional_form": "盛り付けよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_food_cooking",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "料理を美しく皿に盛り付ける。",
+              "zh": "將料理漂亮地擺盤。"
+            }
+          ]
+        },
+        {
+          "word": "拵える",
+          "furigana": "拵[こしら]える",
+          "meaning": "製作、準備(飯菜)",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 飲食與烹飪",
+          "masu_form": "拵えます",
+          "nai_form": "拵えない",
+          "ta_form": "拵えた",
+          "nakatta_form": "拵えなかった",
+          "potential_form": "拵えられる",
+          "causative_form": "拵えさせる",
+          "passive_form": "拵えられる",
+          "volitional_form": "拵えよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_food_cooking",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "客のためにご馳走を拵える。",
+              "zh": "為了客人準備豐盛的飯菜。"
+            }
+          ]
+        },
+        {
+          "word": "添える",
+          "furigana": "添[そ]える",
+          "meaning": "附加、點綴",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 飲食與烹飪",
+          "masu_form": "添えます",
+          "nai_form": "添えない",
+          "ta_form": "添えた",
+          "nakatta_form": "添えなかった",
+          "potential_form": "添えられる",
+          "causative_form": "添えさせる",
+          "passive_form": "添えられる",
+          "volitional_form": "添えよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_food_cooking",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "料理に彩りとしてパセリを添える。",
+              "zh": "在料理上點綴荷蘭芹作為色彩點綴。"
+            }
+          ]
+        },
+        {
+          "word": "かき混ぜる",
+          "furigana": "かき混[ま]ぜる",
+          "meaning": "攪拌",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 飲食與烹飪",
+          "masu_form": "かき混ぜます",
+          "nai_form": "かき混ぜない",
+          "ta_form": "かき混ぜた",
+          "nakatta_form": "かき混ぜなかった",
+          "potential_form": "かき混ぜられる",
+          "causative_form": "かき混ぜさせる",
+          "passive_form": "かき混ぜられる",
+          "volitional_form": "かき混ぜよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_food_cooking",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "卵をボウルに入れてよくかき混ぜる。",
+              "zh": "將雞蛋打入碗中充分攪拌。"
+            }
+          ]
+        },
+        {
+          "word": "ふやかす",
+          "furigana": "ふやかす",
+          "meaning": "泡軟",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 飲食與烹飪",
+          "masu_form": "ふやかします",
+          "nai_form": "ふやかさない",
+          "ta_form": "ふやかした",
+          "nakatta_form": "ふやかさなかった",
+          "potential_form": "ふやかせる",
+          "causative_form": "ふやかさせる",
+          "passive_form": "ふやかされる",
+          "volitional_form": "ふやかそう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_food_cooking",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "乾燥した豆を水でふやかす。",
+              "zh": "用水把乾燥的豆子泡軟。"
+            }
+          ]
+        },
+        {
+          "word": "ふやける",
+          "furigana": "ふやける",
+          "meaning": "泡軟、發脹",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 飲食與烹飪",
+          "masu_form": "ふやけます",
+          "nai_form": "ふやけない",
+          "ta_form": "ふやけた",
+          "nakatta_form": "ふやけなかった",
+          "potential_form": "ふやけられる",
+          "causative_form": "ふやけさせる",
+          "passive_form": "ふやけられる",
+          "volitional_form": "ふやけよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_food_cooking",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "お風呂に長く入りすぎて指先がふやけた。",
+              "zh": "泡澡泡太久，指尖都泡發脹了。"
+            }
+          ]
+        },
+        {
+          "word": "焦がす",
+          "furigana": "焦[こ]がす",
+          "meaning": "烤焦、燒焦",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 飲食與烹飪",
+          "masu_form": "焦がします",
+          "nai_form": "焦がさない",
+          "ta_form": "焦がした",
+          "nakatta_form": "焦がさなかった",
+          "potential_form": "焦がせる",
+          "causative_form": "焦がさせる",
+          "passive_form": "焦がされる",
+          "volitional_form": "焦がそう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_food_cooking",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "うっかりして魚を焦がしてしまった。",
+              "zh": "一個不小心把魚烤焦了。"
+            }
+          ]
+        },
+        {
+          "word": "焦げる",
+          "furigana": "焦[こ]げる",
+          "meaning": "燒焦、烤焦",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 飲食與烹飪",
+          "masu_form": "焦げます",
+          "nai_form": "焦げない",
+          "ta_form": "焦げた",
+          "nakatta_form": "焦げなかった",
+          "potential_form": "焦げられる",
+          "causative_form": "焦げさせる",
+          "passive_form": "焦げられる",
+          "volitional_form": "焦げよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_food_cooking",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "パンが真っ黒に焦げている。",
+              "zh": "麵包烤得焦黑。"
+            }
+          ]
+        },
+        {
+          "word": "浸す",
+          "furigana": "浸[ひた]す",
+          "meaning": "浸泡",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 飲食與烹飪",
+          "masu_form": "浸します",
+          "nai_form": "浸さない",
+          "ta_form": "浸した",
+          "nakatta_form": "浸さなかった",
+          "potential_form": "浸せる",
+          "causative_form": "浸させる",
+          "passive_form": "浸される",
+          "volitional_form": "浸そう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_food_cooking",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "肉をワインに浸して柔らかくする。",
+              "zh": "將肉浸泡在葡萄酒中使其變軟。"
+            }
+          ]
+        },
+        {
+          "word": "漬ける",
+          "furigana": "漬[つ]ける",
+          "meaning": "醃漬、浸泡",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 飲食與烹飪",
+          "masu_form": "漬けます",
+          "nai_form": "漬けない",
+          "ta_form": "漬けた",
+          "nakatta_form": "漬けなかった",
+          "potential_form": "漬けられる",
+          "causative_form": "漬けさせる",
+          "passive_form": "漬けられる",
+          "volitional_form": "漬けよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_food_cooking",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "野菜を塩水に漬ける。",
+              "zh": "將蔬菜醃漬在鹽水裡。"
+            }
+          ]
+        },
+        {
+          "word": "発酵する",
+          "furigana": "発[はっ]酵[こう]する",
+          "meaning": "發酵",
+          "verb_group": "第三類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 飲食與烹飪",
+          "masu_form": "発酵します",
+          "nai_form": "発酵しない",
+          "ta_form": "発酵した",
+          "nakatta_form": "発酵しなかった",
+          "potential_form": "発酵できる",
+          "causative_form": "発酵させる",
+          "passive_form": "発酵される",
+          "volitional_form": "発酵しよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_food_cooking",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "大豆が発酵して納豆になる。",
+              "zh": "大豆發酵後變成納豆。"
+            }
+          ]
+        },
+        {
+          "word": "腐る",
+          "furigana": "腐[くさ]る",
+          "meaning": "腐壞、腐敗",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 飲食與烹飪",
+          "masu_form": "腐ります",
+          "nai_form": "腐らない",
+          "ta_form": "腐った",
+          "nakatta_form": "腐らなかった",
+          "potential_form": "腐れる",
+          "causative_form": "腐らせる",
+          "passive_form": "腐られる",
+          "volitional_form": "腐ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_food_cooking",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "夏場は食べ物がすぐに腐る。",
+              "zh": "夏天食物很快就會腐壞。"
+            }
+          ]
+        },
+        {
+          "word": "吟味する",
+          "furigana": "吟[ぎん]味[み]する",
+          "meaning": "斟酌、仔細挑選",
+          "verb_group": "第三類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 飲食與烹飪",
+          "masu_form": "吟味します",
+          "nai_form": "吟味しない",
+          "ta_form": "吟味した",
+          "nakatta_form": "吟味しなかった",
+          "potential_form": "吟味できる",
+          "causative_form": "吟味させる",
+          "passive_form": "吟味される",
+          "volitional_form": "吟味しよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_food_cooking",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "素材を吟味して美味しい料理を作る。",
+              "zh": "仔細挑選食材來製作美味的料理。"
+            }
+          ]
+        },
+        {
+          "word": "飲み込む",
+          "furigana": "飲[の]み込[こ]む",
+          "meaning": "吞嚥",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 飲食與烹飪",
+          "masu_form": "飲み込みます",
+          "nai_form": "飲み込まない",
+          "ta_form": "飲み込んだ",
+          "nakatta_form": "飲み込まなかった",
+          "potential_form": "飲み込める",
+          "causative_form": "飲み込ませる",
+          "passive_form": "飲み込まれる",
+          "volitional_form": "飲み込もう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_food_cooking",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "薬を水と一緒に飲み込む。",
+              "zh": "把藥配著水一起吞下。"
+            }
+          ]
+        },
+        {
+          "word": "吐き出す",
+          "furigana": "吐[は]き出[だ]す",
+          "meaning": "吐出",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 飲食與烹飪",
+          "masu_form": "吐き出します",
+          "nai_form": "吐き出さない",
+          "ta_form": "吐き出した",
+          "nakatta_form": "吐き出さなかった",
+          "potential_form": "吐き出せる",
+          "causative_form": "吐き出させる",
+          "passive_form": "吐き出される",
+          "volitional_form": "吐き出そう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_food_cooking",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "魚の骨を皿に吐き出す。",
+              "zh": "將魚骨頭吐在盤子裡。"
+            }
+          ]
+        },
+        {
+          "word": "咀嚼する",
+          "furigana": "咀[そ]嚼[しゃく]する",
+          "meaning": "咀嚼",
+          "verb_group": "第三類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 飲食與烹飪",
+          "masu_form": "咀嚼します",
+          "nai_form": "咀嚼しない",
+          "ta_form": "咀嚼した",
+          "nakatta_form": "咀嚼しなかった",
+          "potential_form": "咀嚼できる",
+          "causative_form": "咀嚼させる",
+          "passive_form": "咀嚼される",
+          "volitional_form": "咀嚼しよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_food_cooking",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "食べ物をよく咀嚼してから飲み込む。",
+              "zh": "將食物仔細咀嚼後再吞嚥。"
+            }
+          ]
+        },
+        {
+          "word": "まぶす",
+          "furigana": "まぶす",
+          "meaning": "撒上、裹上",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 飲食與烹飪",
+          "masu_form": "まぶします",
+          "nai_form": "まぶさない",
+          "ta_form": "まぶした",
+          "nakatta_form": "まぶさなかった",
+          "potential_form": "まぶせる",
+          "causative_form": "まぶさせる",
+          "passive_form": "まぶされる",
+          "volitional_form": "まぶそう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_food_cooking",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "肉に小麦粉をまぶして揚げる。",
+              "zh": "在肉上裹上麵粉後油炸。"
+            }
+          ]
+        },
+        {
+          "word": "濾す",
+          "furigana": "濾[こ]す",
+          "meaning": "過濾",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 飲食與烹飪",
+          "masu_form": "濾します",
+          "nai_form": "濾さない",
+          "ta_form": "濾した",
+          "nakatta_form": "濾さなかった",
+          "potential_form": "濾せる",
+          "causative_form": "濾させる",
+          "passive_form": "濾される",
+          "volitional_form": "濾そう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_food_cooking",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "スープの具材を濾して滑らかにする。",
+              "zh": "將湯的食材過濾使其變得滑順。"
+            }
+          ]
+        },
+        {
+          "word": "炙る",
+          "furigana": "炙[あぶ]る",
+          "meaning": "烤、烘烤",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 飲食與烹飪",
+          "masu_form": "炙ります",
+          "nai_form": "炙らない",
+          "ta_form": "炙った",
+          "nakatta_form": "炙らなかった",
+          "potential_form": "炙れる",
+          "causative_form": "炙らせる",
+          "passive_form": "炙られる",
+          "volitional_form": "炙ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_food_cooking",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "スルメを火で軽く炙って食べる。",
+              "zh": "將魷魚乾用火稍微烤一下吃。"
+            }
+          ]
+        },
+        {
+          "word": "着飾る",
+          "furigana": "着[き]飾[かざ]る",
+          "meaning": "盛裝打扮",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 穿脫與打扮",
+          "masu_form": "着飾ります",
+          "nai_form": "着飾らない",
+          "ta_form": "着飾った",
+          "nakatta_form": "着飾らなかった",
+          "potential_form": "着飾れる",
+          "causative_form": "着飾らせる",
+          "passive_form": "着飾られる",
+          "volitional_form": "着飾ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_clothing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "パーティーのために華やかに着飾る。",
+              "zh": "為了派對華麗地盛裝打扮。"
+            }
+          ]
+        },
+        {
+          "word": "装う",
+          "furigana": "装[よそお]う",
+          "meaning": "打扮、假裝",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 穿脫與打扮",
+          "masu_form": "装います",
+          "nai_form": "装わない",
+          "ta_form": "装った",
+          "nakatta_form": "装わなかった",
+          "potential_form": "装える",
+          "causative_form": "装わせる",
+          "passive_form": "装われる",
+          "volitional_form": "装おう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_clothing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "秋らしく装って出かける。",
+              "zh": "打扮得很有秋意後出門。"
+            }
+          ]
+        },
+        {
+          "word": "まとう",
+          "furigana": "まとう",
+          "meaning": "纏繞、穿著",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 穿脫與打扮",
+          "masu_form": "まといます",
+          "nai_form": "まとわない",
+          "ta_form": "まとった",
+          "nakatta_form": "まとわなかった",
+          "potential_form": "まとえる",
+          "causative_form": "まとわせる",
+          "passive_form": "まとわれる",
+          "volitional_form": "まとおう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_clothing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "美しいドレスを身にまとう。",
+              "zh": "穿著美麗的洋裝。"
+            }
+          ]
+        },
+        {
+          "word": "羽織る",
+          "furigana": "羽[は]織[お]る",
+          "meaning": "披著、穿在外面",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 穿脫與打扮",
+          "masu_form": "羽織ります",
+          "nai_form": "羽織らない",
+          "ta_form": "羽織った",
+          "nakatta_form": "羽織らなかった",
+          "potential_form": "羽織れる",
+          "causative_form": "羽織らせる",
+          "passive_form": "羽織られる",
+          "volitional_form": "羽織ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_clothing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "少し肌寒いのでカーディガンを羽織る。",
+              "zh": "有點微寒，所以披上一件開襟羊毛衫。"
+            }
+          ]
+        },
+        {
+          "word": "繕う",
+          "furigana": "繕[つくろ]う",
+          "meaning": "縫補、掩飾",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 穿脫與打扮",
+          "masu_form": "繕います",
+          "nai_form": "繕わない",
+          "ta_form": "繕った",
+          "nakatta_form": "繕わなかった",
+          "potential_form": "繕える",
+          "causative_form": "繕わせる",
+          "passive_form": "繕われる",
+          "volitional_form": "繕おう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_clothing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "ほころびた洋服を繕う。",
+              "zh": "縫補破洞的洋服。"
+            }
+          ]
+        },
+        {
+          "word": "はだける",
+          "furigana": "はだける",
+          "meaning": "敞開、露出",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 穿脫與打扮",
+          "masu_form": "はだけます",
+          "nai_form": "はだけない",
+          "ta_form": "はだけた",
+          "nakatta_form": "はだけなかった",
+          "potential_form": "はだけられる",
+          "causative_form": "はだけさせる",
+          "passive_form": "はだけられる",
+          "volitional_form": "はだけよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_clothing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "着物の襟がはだけている。",
+              "zh": "和服的衣襟敞開著。"
+            }
+          ]
+        },
+        {
+          "word": "着こなす",
+          "furigana": "着[き]こなす",
+          "meaning": "穿出風格、懂得穿搭",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 穿脫與打扮",
+          "masu_form": "着こなします",
+          "nai_form": "着こなさない",
+          "ta_form": "着こなした",
+          "nakatta_form": "着こなさなかった",
+          "potential_form": "着こなせる",
+          "causative_form": "着こなさせる",
+          "passive_form": "着こなされる",
+          "volitional_form": "着こなそう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_clothing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼女はどんな服でも上手く着こなす。",
+              "zh": "她無論什麼樣的衣服都能穿出風格。"
+            }
+          ]
+        },
+        {
+          "word": "着古す",
+          "furigana": "着[き]古[ふる]す",
+          "meaning": "穿舊",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 穿脫與打扮",
+          "masu_form": "着古します",
+          "nai_form": "着古さない",
+          "ta_form": "着古した",
+          "nakatta_form": "着古さなかった",
+          "potential_form": "着古せる",
+          "causative_form": "着古させる",
+          "passive_form": "着古される",
+          "volitional_form": "着古そう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_clothing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "着古したセーターを捨てる。",
+              "zh": "丟掉穿舊的毛衣。"
+            }
+          ]
+        },
+        {
+          "word": "洗い流す",
+          "furigana": "洗[あら]い流[なが]す",
+          "meaning": "洗去、沖洗掉",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 穿脫與打扮",
+          "masu_form": "洗い流します",
+          "nai_form": "洗い流さない",
+          "ta_form": "洗い流した",
+          "nakatta_form": "洗い流さなかった",
+          "potential_form": "洗い流せる",
+          "causative_form": "洗い流させる",
+          "passive_form": "洗い流される",
+          "volitional_form": "洗い流そう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_clothing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "髪の汚れをシャワーで洗い流す。",
+              "zh": "用淋浴將頭髮上的污垢沖洗掉。"
+            }
+          ]
+        },
+        {
+          "word": "洗い落とす",
+          "furigana": "洗[あら]い落[お]とす",
+          "meaning": "洗掉(污漬等)",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 穿脫與打扮",
+          "masu_form": "洗い落とします",
+          "nai_form": "洗い落とさない",
+          "ta_form": "洗い落とした",
+          "nakatta_form": "洗い落とさなかった",
+          "potential_form": "洗い落とせる",
+          "causative_form": "洗い落とさせる",
+          "passive_form": "洗い落とされる",
+          "volitional_form": "洗い落とそう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_clothing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "服についた泥をきれいに洗い落とす。",
+              "zh": "將沾在衣服上的泥巴清洗乾淨。"
+            }
+          ]
+        },
+        {
+          "word": "整える",
+          "furigana": "整[ととの]える",
+          "meaning": "整理、整頓(儀容等)",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 穿脫與打扮",
+          "masu_form": "整えます",
+          "nai_form": "整えない",
+          "ta_form": "整えた",
+          "nakatta_form": "整えなかった",
+          "potential_form": "整えられる",
+          "causative_form": "整えさせる",
+          "passive_form": "整えられる",
+          "volitional_form": "整えよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_clothing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "面接の前に身だしなみを整える。",
+              "zh": "面試前整理儀容。"
+            }
+          ]
+        },
+        {
+          "word": "染める",
+          "furigana": "染[そ]める",
+          "meaning": "染(色)",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 穿脫與打扮",
+          "masu_form": "染めます",
+          "nai_form": "染めない",
+          "ta_form": "染めた",
+          "nakatta_form": "染めなかった",
+          "potential_form": "染められる",
+          "causative_form": "染めさせる",
+          "passive_form": "染められる",
+          "volitional_form": "染めよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_clothing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "白髪を黒く染める。",
+              "zh": "將白髮染黑。"
+            }
+          ]
+        },
+        {
+          "word": "織る",
+          "furigana": "織[お]る",
+          "meaning": "編織",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 穿脫與打扮",
+          "masu_form": "織ります",
+          "nai_form": "織らない",
+          "ta_form": "織った",
+          "nakatta_form": "織らなかった",
+          "potential_form": "織れる",
+          "causative_form": "織らせる",
+          "passive_form": "織られる",
+          "volitional_form": "織ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_clothing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "糸を紡いで美しい布を織る。",
+              "zh": "紡紗並織出美麗的布料。"
+            }
+          ]
+        },
+        {
+          "word": "紡ぐ",
+          "furigana": "紡[つむ]ぐ",
+          "meaning": "紡(紗)",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 穿脫與打扮",
+          "masu_form": "紡ぎます",
+          "nai_form": "紡がない",
+          "ta_form": "紡いだ",
+          "nakatta_form": "紡がなかった",
+          "potential_form": "紡げる",
+          "causative_form": "紡がせる",
+          "passive_form": "紡がれる",
+          "volitional_form": "紡ごう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_clothing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "綿から糸を紡ぐ。",
+              "zh": "從棉花紡出棉線。"
+            }
+          ]
+        },
+        {
+          "word": "引きずる",
+          "furigana": "引[ひ]きずる",
+          "meaning": "拖著(衣服等)、拖延",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 穿脫與打扮",
+          "masu_form": "引きずります",
+          "nai_form": "引きずらない",
+          "ta_form": "引きずった",
+          "nakatta_form": "引きずらなかった",
+          "potential_form": "引きずれる",
+          "causative_form": "引きずらせる",
+          "passive_form": "引きずられる",
+          "volitional_form": "引きずろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_clothing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "長すぎるスカートの裾を引きずる。",
+              "zh": "拖著太長的裙襬。"
+            }
+          ]
+        },
+        {
+          "word": "擦り切れる",
+          "furigana": "擦[す]り切[き]れる",
+          "meaning": "磨損、磨破",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 穿脫與打扮",
+          "masu_form": "擦り切れます",
+          "nai_form": "擦り切れない",
+          "ta_form": "擦り切れた",
+          "nakatta_form": "擦り切れなかった",
+          "potential_form": "擦り切れる",
+          "causative_form": "擦り切れさせる",
+          "passive_form": "擦り切れる",
+          "volitional_form": "擦り切れよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_clothing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "ズボンの裾が擦り切れてしまった。",
+              "zh": "褲子的褲腳磨破了。"
+            }
+          ]
+        },
+        {
+          "word": "よれる",
+          "furigana": "よれる",
+          "meaning": "變形、起皺",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 穿脫與打扮",
+          "masu_form": "よれます",
+          "nai_form": "よれない",
+          "ta_form": "よれた",
+          "nakatta_form": "よれなかった",
+          "potential_form": "よれられる",
+          "causative_form": "よれさせる",
+          "passive_form": "よれられる",
+          "volitional_form": "よれよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_clothing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "何度も洗濯してTシャツの首元がよれる。",
+              "zh": "洗了好幾次T恤的領口變形了。"
+            }
+          ]
+        },
+        {
+          "word": "縮む",
+          "furigana": "縮[ちぢ]む",
+          "meaning": "縮水、縮小",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 穿脫與打扮",
+          "masu_form": "縮みます",
+          "nai_form": "縮まない",
+          "ta_form": "縮んだ",
+          "nakatta_form": "縮まなかった",
+          "potential_form": "縮める",
+          "causative_form": "縮ませる",
+          "passive_form": "縮まれる",
+          "volitional_form": "縮もう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_clothing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "洗濯したらセーターが縮んでしまった。",
+              "zh": "洗完之後毛衣縮水了。"
+            }
+          ]
+        },
+        {
+          "word": "ほころびる",
+          "furigana": "ほころびる",
+          "meaning": "綻線、裂開",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 穿脫與打扮",
+          "masu_form": "ほころびます",
+          "nai_form": "ほころびない",
+          "ta_form": "ほころびた",
+          "nakatta_form": "ほころびなかった",
+          "potential_form": "ほころびられる",
+          "causative_form": "ほころびさせる",
+          "passive_form": "ほころびられる",
+          "volitional_form": "ほころびよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_clothing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "袖の縫い目がほころびている。",
+              "zh": "袖子的接縫處綻線了。"
+            }
+          ]
+        },
+        {
+          "word": "束ねる",
+          "furigana": "束[たば]ねる",
+          "meaning": "綁起、紮起(頭髮等)",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 穿脫與打扮",
+          "masu_form": "束ねます",
+          "nai_form": "束ねない",
+          "ta_form": "束ねた",
+          "nakatta_form": "束ねなかった",
+          "potential_form": "束ねられる",
+          "causative_form": "束ねさせる",
+          "passive_form": "束ねられる",
+          "volitional_form": "束ねよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_clothing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "長い髪を後ろで一つに束ねる。",
+              "zh": "將長髮在後面紮成一束。"
+            }
+          ]
         }
       ],
       "kana": {
