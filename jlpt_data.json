@@ -79158,6 +79158,346 @@
               "zh": "因為多重債務最終宣告個人破產。"
             }
           ]
+        },
+        {
+          "word": "思想",
+          "reading": "しそう",
+          "furigana": "思[し]想[そう]",
+          "romaji": "shisou",
+          "meaning": "思想、想法",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "西洋の思想が日本に大きな影響を与えた。",
+              "zh": "西洋思想對日本產生了巨大的影響。"
+            }
+          ]
+        },
+        {
+          "word": "概念",
+          "reading": "がいねん",
+          "furigana": "概[がい]念[ねん]",
+          "romaji": "gainen",
+          "meaning": "概念",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "新しい概念を理解するのは難しい。",
+              "zh": "要理解新概念很困難。"
+            }
+          ]
+        },
+        {
+          "word": "理念",
+          "reading": "りねん",
+          "furigana": "理[り]念[ねん]",
+          "romaji": "rinen",
+          "meaning": "理念",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "会社の経営理念に共感して入社した。",
+              "zh": "因為對公司的經營理念產生共鳴而入社。"
+            }
+          ]
+        },
+        {
+          "word": "倫理",
+          "reading": "りんり",
+          "furigana": "倫[りん]理[り]",
+          "romaji": "rinri",
+          "meaning": "倫理",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "生命科学の発展は新たな倫理的問題を生み出した。",
+              "zh": "生命科學的發展產生了新的倫理問題。"
+            }
+          ]
+        },
+        {
+          "word": "道徳",
+          "reading": "どうとく",
+          "furigana": "道[どう]徳[とく]",
+          "romaji": "doutoku",
+          "meaning": "道德",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "学校で子供たちに道徳を教える。",
+              "zh": "在學校教導孩子們道德。"
+            }
+          ]
+        },
+        {
+          "word": "信仰",
+          "reading": "しんこう",
+          "furigana": "信[しん]仰[こう]",
+          "romaji": "shinkou",
+          "meaning": "信仰",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "人々は神への深い信仰を持っている。",
+              "zh": "人們對神抱持著深刻的信仰。"
+            }
+          ]
+        },
+        {
+          "word": "宗派",
+          "reading": "しゅうは",
+          "furigana": "宗[しゅう]派[は]",
+          "romaji": "shuuha",
+          "meaning": "宗派",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "同じ仏教でも様々な宗派がある。",
+              "zh": "同樣是佛教也有著各種宗派。"
+            }
+          ]
+        },
+        {
+          "word": "教義",
+          "reading": "きょうぎ",
+          "furigana": "教[きょう]義[ぎ]",
+          "romaji": "kyougi",
+          "meaning": "教義",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "その宗教の教義を厳格に守る。",
+              "zh": "嚴格遵守該宗教的教義。"
+            }
+          ]
+        },
+        {
+          "word": "芸能",
+          "reading": "げいのう",
+          "furigana": "芸[げい]能[のう]",
+          "romaji": "geinou",
+          "meaning": "演藝、才藝、傳統技藝",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "日本の伝統的な芸能を世界に紹介する。",
+              "zh": "將日本的傳統技藝介紹給全世界。"
+            }
+          ]
+        },
+        {
+          "word": "美意識",
+          "reading": "びいしき",
+          "furigana": "美[び]意[い]識[しき]",
+          "romaji": "biishiki",
+          "meaning": "審美觀、美感",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "日本人の独自の美意識が表れている。",
+              "zh": "展現出日本人獨特的審美觀。"
+            }
+          ]
+        },
+        {
+          "word": "民俗",
+          "reading": "みんぞく",
+          "furigana": "民[みん]俗[ぞく]",
+          "romaji": "minzoku",
+          "meaning": "民俗",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "各地の民俗行事について研究する。",
+              "zh": "研究各地的民俗活動。"
+            }
+          ]
+        },
+        {
+          "word": "風習",
+          "reading": "ふうしゅう",
+          "furigana": "風[ふう]習[しゅう]",
+          "romaji": "fuushuu",
+          "meaning": "風俗習慣",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "この村には昔からの風習が残っている。",
+              "zh": "這座村莊還保留著從以前流傳下來的風俗習慣。"
+            }
+          ]
+        },
+        {
+          "word": "儀式",
+          "reading": "ぎしき",
+          "furigana": "儀[ぎ]式[しき]",
+          "romaji": "gishiki",
+          "meaning": "儀式",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "厳かな雰囲気の中で儀式が行われた。",
+              "zh": "在莊嚴的氣氛中舉行了儀式。"
+            }
+          ]
+        },
+        {
+          "word": "神話",
+          "reading": "しんわ",
+          "furigana": "神[しん]話[わ]",
+          "romaji": "shinwa",
+          "meaning": "神話",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "ギリシャ神話には多くの神々が登場する。",
+              "zh": "希臘神話中登場了許多神明。"
+            }
+          ]
+        },
+        {
+          "word": "伝説",
+          "reading": "でんせつ",
+          "furigana": "伝[でん]説[せつ]",
+          "romaji": "densetsu",
+          "meaning": "傳說",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "この湖には竜が住んでいるという伝説がある。",
+              "zh": "傳說這座湖裡住著龍。"
+            }
+          ]
+        },
+        {
+          "word": "文明",
+          "reading": "ぶんめい",
+          "furigana": "文[ぶん]明[めい]",
+          "romaji": "bunmei",
+          "meaning": "文明",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "古代文明の謎を解き明かす。",
+              "zh": "解開古代文明之謎。"
+            }
+          ]
+        },
+        {
+          "word": "遺跡",
+          "reading": "いせき",
+          "furigana": "遺[い]跡[せき]",
+          "romaji": "iseki",
+          "meaning": "遺跡",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "ピラミッドなどの古代遺跡を巡る。",
+              "zh": "巡遊金字塔等古代遺跡。"
+            }
+          ]
+        },
+        {
+          "word": "遺産",
+          "reading": "いさん",
+          "furigana": "遺[い]産[さん]",
+          "romaji": "isan",
+          "meaning": "遺產",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "富士山は世界文化遺産に登録されている。",
+              "zh": "富士山被登錄為世界文化遺產。"
+            }
+          ]
+        },
+        {
+          "word": "文化財",
+          "reading": "ぶんかざい",
+          "furigana": "文[ぶん]化[か]財[ざい]",
+          "romaji": "bunkazai",
+          "meaning": "文化財",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "貴重な文化財を火災から守る。",
+              "zh": "保護貴重的文化財免受火災之害。"
+            }
+          ]
+        },
+        {
+          "word": "傑作",
+          "reading": "けっさく",
+          "furigana": "傑[けっ]作[さく]",
+          "romaji": "kessaku",
+          "meaning": "傑作",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "culture_thought",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "これは彼の人生における最大の傑作だ。",
+              "zh": "這是他人生中最偉大的傑作。"
+            }
+          ]
         }
       ],
       "kana": {
