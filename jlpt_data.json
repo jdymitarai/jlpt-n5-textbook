@@ -65748,6 +65748,2046 @@
               "zh": "車站周邊有很多店家。"
             }
           ]
+        },
+        {
+          "word": "交通機関",
+          "reading": "こうつうきかん",
+          "furigana": "交[こう]通[つう]機[き]関[かん]",
+          "romaji": "koutsuukikan",
+          "meaning": "交通機關、交通工具",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "台風で公共の交通機関が止まりました。",
+              "zh": "因為颱風，大眾交通工具停駛了。"
+            }
+          ]
+        },
+        {
+          "word": "運賃",
+          "reading": "うんちん",
+          "furigana": "運[うん]賃[ちん]",
+          "romaji": "unchin",
+          "meaning": "車資、運費",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "来月からバスの運賃が値上がりします。",
+              "zh": "下個月開始公車的車資會上漲。"
+            }
+          ]
+        },
+        {
+          "word": "ダイヤ",
+          "reading": "だいや",
+          "furigana": "ダイヤ",
+          "romaji": "daiya",
+          "meaning": "時刻表",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "事故の影響で電車のダイヤが乱れています。",
+              "zh": "受事故影響，電車的時刻表亂掉了。"
+            }
+          ]
+        },
+        {
+          "word": "車掌",
+          "reading": "しゃしょう",
+          "furigana": "車[しゃ]掌[しょう]",
+          "romaji": "shashou",
+          "meaning": "車掌、列車長",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "車掌が切符の確認に回ってきました。",
+              "zh": "列車長來巡視確認車票了。"
+            }
+          ]
+        },
+        {
+          "word": "終点",
+          "reading": "しゅうてん",
+          "furigana": "終[しゅう]点[てん]",
+          "romaji": "shuuten",
+          "meaning": "終點站",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "この電車は次が終点です。",
+              "zh": "這班電車下一站是終點站。"
+            }
+          ]
+        },
+        {
+          "word": "始発",
+          "reading": "しはつ",
+          "furigana": "始[し]発[はつ]",
+          "romaji": "shihatsu",
+          "meaning": "首班車",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "始発の電車に乗って空港へ向かいます。",
+              "zh": "搭乘首班電車前往機場。"
+            }
+          ]
+        },
+        {
+          "word": "終電",
+          "reading": "しゅうでん",
+          "furigana": "終[しゅう]電[でん]",
+          "romaji": "shuuden",
+          "meaning": "末班車",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "飲んでいたら終電に乗り遅れてしまいました。",
+              "zh": "喝酒喝到錯過了末班車。"
+            }
+          ]
+        },
+        {
+          "word": "踏切",
+          "reading": "ふみきり",
+          "furigana": "踏[ふみ]切[きり]",
+          "romaji": "fumikiri",
+          "meaning": "平交道",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "踏切で電車が通り過ぎるのを待ちます。",
+              "zh": "在平交道等電車通過。"
+            }
+          ]
+        },
+        {
+          "word": "路線",
+          "reading": "ろせん",
+          "furigana": "路[ろ]線[せん]",
+          "romaji": "rosen",
+          "meaning": "路線",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "新しいバスの路線が開通しました。",
+              "zh": "新的公車路線開通了。"
+            }
+          ]
+        },
+        {
+          "word": "航空機",
+          "reading": "こうくうき",
+          "furigana": "航[こう]空[くう]機[き]",
+          "romaji": "koukuuki",
+          "meaning": "航空機、飛機",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "最新型の航空機が導入されました。",
+              "zh": "引進了最新型的飛機。"
+            }
+          ]
+        },
+        {
+          "word": "操縦",
+          "reading": "そうじゅう",
+          "furigana": "操[そう]縦[じゅう]",
+          "romaji": "soujuu",
+          "meaning": "駕駛、操縱",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "飛行機を操縦するのは難しいです。",
+              "zh": "駕駛飛機是很困難的。"
+            }
+          ]
+        },
+        {
+          "word": "航海",
+          "reading": "こうかい",
+          "furigana": "航[こう]海[かい]",
+          "romaji": "koukai",
+          "meaning": "航海",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "船で世界を航海するのが夢です。",
+              "zh": "夢想是搭船航海環遊世界。"
+            }
+          ]
+        },
+        {
+          "word": "船便",
+          "reading": "ふなびん",
+          "furigana": "船[ふな]便[びん]",
+          "romaji": "funabin",
+          "meaning": "海運",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "重い荷物は船便で送ります。",
+              "zh": "重的行李用海運寄送。"
+            }
+          ]
+        },
+        {
+          "word": "違反",
+          "reading": "いはん",
+          "furigana": "違[い]反[はん]",
+          "romaji": "ihan",
+          "meaning": "違反、違規",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "交通ルールに違反すると罰金をとられます。",
+              "zh": "違反交通規則會被罰款。"
+            }
+          ]
+        },
+        {
+          "word": "車庫",
+          "reading": "しゃこ",
+          "furigana": "車[しゃ]庫[こ]",
+          "romaji": "shako",
+          "meaning": "車庫",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "車を車庫に入れます。",
+              "zh": "把車子停進車庫裡。"
+            }
+          ]
+        },
+        {
+          "word": "車道",
+          "reading": "しゃどう",
+          "furigana": "車[しゃ]道[どう]",
+          "romaji": "shadou",
+          "meaning": "車道",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "車道に飛び出さないでください。",
+              "zh": "請不要衝出車道。"
+            }
+          ]
+        },
+        {
+          "word": "歩道",
+          "reading": "ほどう",
+          "furigana": "歩[ほ]道[どう]",
+          "romaji": "hodou",
+          "meaning": "人行道",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "自転車は歩道ではなく車道を走るのが原則です。",
+              "zh": "自行車原則上不騎人行道而是騎車道。"
+            }
+          ]
+        },
+        {
+          "word": "標識",
+          "reading": "ひょうしき",
+          "furigana": "標[ひょう]識[しき]",
+          "romaji": "hyoushiki",
+          "meaning": "標誌",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "道路の標識に従って運転します。",
+              "zh": "遵從道路標誌駕駛。"
+            }
+          ]
+        },
+        {
+          "word": "乗車",
+          "reading": "じょうしゃ",
+          "furigana": "乗[じょう]車[しゃ]",
+          "romaji": "jousha",
+          "meaning": "乘車",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "乗車する前に切符を買ってください。",
+              "zh": "乘車前請先買票。"
+            }
+          ]
+        },
+        {
+          "word": "回数券",
+          "reading": "かいすうけん",
+          "furigana": "回[かい]数[すう]券[けん]",
+          "romaji": "kaisuuken",
+          "meaning": "回數票、套票",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "バスの回数券を買うと少し安くなります。",
+              "zh": "買公車的回數票會稍微便宜一點。"
+            }
+          ]
+        },
+        {
+          "word": "娯楽",
+          "reading": "ごらく",
+          "furigana": "娯[ご]楽[らく]",
+          "romaji": "goraku",
+          "meaning": "娛樂",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "休日は読書や映画などの娯楽を楽しみます。",
+              "zh": "假日時享受閱讀、電影等娛樂。"
+            }
+          ]
+        },
+        {
+          "word": "競技",
+          "reading": "きょうぎ",
+          "furigana": "競[きょう]技[ぎ]",
+          "romaji": "kyougi",
+          "meaning": "競技、比賽",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "オリンピックで新しい競技が採用されました。",
+              "zh": "奧運採用了新的競賽項目。"
+            }
+          ]
+        },
+        {
+          "word": "監督",
+          "reading": "かんとく",
+          "furigana": "監[かん]督[とく]",
+          "romaji": "kantoku",
+          "meaning": "教練、導演、監督",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "野球部の監督が厳しく指導します。",
+              "zh": "棒球隊的教練嚴格地指導。"
+            }
+          ]
+        },
+        {
+          "word": "審判",
+          "reading": "しんぱん",
+          "furigana": "審[しん]判[ぱん]",
+          "romaji": "shinpan",
+          "meaning": "裁判、審判",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "審判の判定に抗議しました。",
+              "zh": "對裁判的判決提出抗議。"
+            }
+          ]
+        },
+        {
+          "word": "勝敗",
+          "reading": "しょうはい",
+          "furigana": "勝[しょう]敗[はい]",
+          "romaji": "shouhai",
+          "meaning": "勝負、勝敗",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "どちらが勝つか、まだ勝敗は分かりません。",
+              "zh": "哪一方會贏，勝負還不知道。"
+            }
+          ]
+        },
+        {
+          "word": "決勝",
+          "reading": "けっしょう",
+          "furigana": "決[けっ]勝[しょう]",
+          "romaji": "kesshou",
+          "meaning": "決賽",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "いよいよ明日はテニスの決勝戦です。",
+              "zh": "明天終於是網球的決賽了。"
+            }
+          ]
+        },
+        {
+          "word": "予選",
+          "reading": "よせん",
+          "furigana": "予[よ]選[せん]",
+          "romaji": "yosen",
+          "meaning": "預賽、初賽",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "激しい予選を勝ち抜いて決勝に進みました。",
+              "zh": "在激烈的預賽中勝出晉級決賽。"
+            }
+          ]
+        },
+        {
+          "word": "演劇",
+          "reading": "えんげき",
+          "furigana": "演[えん]劇[げき]",
+          "romaji": "engeki",
+          "meaning": "戲劇",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "週末は劇場へ演劇を見に行きます。",
+              "zh": "週末去劇場看戲劇。"
+            }
+          ]
+        },
+        {
+          "word": "芝居",
+          "reading": "しばい",
+          "furigana": "芝[し]居[ばい]",
+          "romaji": "shibai",
+          "meaning": "戲劇、演戲",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "彼の下手な芝居にはすぐ気がつきました。",
+              "zh": "我立刻就察覺了他拙劣的演技(演戲)。"
+            }
+          ]
+        },
+        {
+          "word": "役者",
+          "reading": "やくしゃ",
+          "furigana": "役[やく]者[しゃ]",
+          "romaji": "yakusha",
+          "meaning": "演員",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "彼は有名な舞台役者です。",
+              "zh": "他是位有名的舞台劇演員。"
+            }
+          ]
+        },
+        {
+          "word": "鑑賞",
+          "reading": "かんしょう",
+          "furigana": "鑑[かん]賞[しょう]",
+          "romaji": "kanshou",
+          "meaning": "鑑賞、欣賞",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "美術館で絵画を鑑賞します。",
+              "zh": "在美術館欣賞畫作。"
+            }
+          ]
+        },
+        {
+          "word": "創作",
+          "reading": "そうさく",
+          "furigana": "創[そう]作[さく]",
+          "romaji": "sousaku",
+          "meaning": "創作",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "新しいメロディーを創作しました。",
+              "zh": "創作了新的旋律。"
+            }
+          ]
+        },
+        {
+          "word": "傑作",
+          "reading": "けっさく",
+          "furigana": "傑[けっ]作[さく]",
+          "romaji": "kessaku",
+          "meaning": "傑作",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "これは彼の人生最大の傑作です。",
+              "zh": "這是他人生中最大的傑作。"
+            }
+          ]
+        },
+        {
+          "word": "演奏",
+          "reading": "えんそう",
+          "furigana": "演[えん]奏[そう]",
+          "romaji": "ensou",
+          "meaning": "演奏",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "ピアノの素晴らしい演奏を聴きました。",
+              "zh": "聽了很棒的鋼琴演奏。"
+            }
+          ]
+        },
+        {
+          "word": "体操",
+          "reading": "たいそう",
+          "furigana": "体[たい]操[そう]",
+          "romaji": "taisou",
+          "meaning": "體操",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "毎朝、ラジオ体操をしています。",
+              "zh": "每天早上都會做廣播體操。"
+            }
+          ]
+        },
+        {
+          "word": "登山",
+          "reading": "とざん",
+          "furigana": "登[と]山[ざん]",
+          "romaji": "tozan",
+          "meaning": "登山、爬山",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "秋は気候が良いので登山に最適です。",
+              "zh": "秋天氣候涼爽，最適合登山。"
+            }
+          ]
+        },
+        {
+          "word": "碁",
+          "reading": "ご",
+          "furigana": "碁[ご]",
+          "romaji": "go",
+          "meaning": "圍棋",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "祖父は毎日友達と碁を打っています。",
+              "zh": "祖父每天都和朋友下圍棋。"
+            }
+          ]
+        },
+        {
+          "word": "将棋",
+          "reading": "しょうぎ",
+          "furigana": "将[しょう]棋[ぎ]",
+          "romaji": "shougi",
+          "meaning": "將棋 (日本象棋)",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "彼はプロの将棋の棋士を目指しています。",
+              "zh": "他的目標是成為職業將棋棋士。"
+            }
+          ]
+        },
+        {
+          "word": "余暇",
+          "reading": "よか",
+          "furigana": "余[よ]暇[か]",
+          "romaji": "yoka",
+          "meaning": "閒暇、空閒時間",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "余暇を利用して語学の勉強をします。",
+              "zh": "利用閒暇時間學習語言。"
+            }
+          ]
+        },
+        {
+          "word": "休養",
+          "reading": "きゅうよう",
+          "furigana": "休[きゅう]養[よう]",
+          "romaji": "kyuuyou",
+          "meaning": "休養",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "しばらく仕事から離れて休養をとります。",
+              "zh": "暫時離開工作去休養。"
+            }
+          ]
+        },
+        {
+          "word": "気象",
+          "reading": "きしょう",
+          "furigana": "気[き]象[しょう]",
+          "romaji": "kishou",
+          "meaning": "氣象",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "気象庁が明日の天気を発表しました。",
+              "zh": "氣象廳發布了明天的天氣。"
+            }
+          ]
+        },
+        {
+          "word": "異常気象",
+          "reading": "いじょうきしょう",
+          "furigana": "異[い]常[じょう]気[き]象[しょう]",
+          "romaji": "ijoukishou",
+          "meaning": "異常氣象",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "今年は世界中で異常気象が続いています。",
+              "zh": "今年世界各地持續發生異常氣象。"
+            }
+          ]
+        },
+        {
+          "word": "温暖化",
+          "reading": "おんだんか",
+          "furigana": "温[おん]暖[だん]化[か]",
+          "romaji": "ondanka",
+          "meaning": "暖化",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "地球温暖化の影響で氷が溶けています。",
+              "zh": "受到地球暖化的影響冰正在融化。"
+            }
+          ]
+        },
+        {
+          "word": "衛星",
+          "reading": "えいせい",
+          "furigana": "衛[えい]星[せい]",
+          "romaji": "eisei",
+          "meaning": "衛星",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "月は地球の衛星です。",
+              "zh": "月球是地球的衛星。"
+            }
+          ]
+        },
+        {
+          "word": "天体",
+          "reading": "てんたい",
+          "furigana": "天[てん]体[たい]",
+          "romaji": "tentai",
+          "meaning": "天體、星體",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "望遠鏡で天体を観測します。",
+              "zh": "用望遠鏡觀測天體。"
+            }
+          ]
+        },
+        {
+          "word": "星座",
+          "reading": "せいざ",
+          "furigana": "星[せい]座[ざ]",
+          "romaji": "seiza",
+          "meaning": "星座",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "夜空に冬の星座がきれいに見えます。",
+              "zh": "在夜空中可以清楚看到冬天的星座。"
+            }
+          ]
+        },
+        {
+          "word": "満月",
+          "reading": "まんげつ",
+          "furigana": "満[まん]月[げつ]",
+          "romaji": "mangetsu",
+          "meaning": "滿月",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "今夜はきれいな満月です。",
+              "zh": "今晚是美麗的滿月。"
+            }
+          ]
+        },
+        {
+          "word": "三日月",
+          "reading": "みかづき",
+          "furigana": "三[みか]日[づき]月[き]",
+          "romaji": "mikazuki",
+          "meaning": "新月、弦月",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "空に細い三日月が浮かんでいます。",
+              "zh": "天空中浮現著細細的新月。"
+            }
+          ]
+        },
+        {
+          "word": "太陽系",
+          "reading": "たいようけい",
+          "furigana": "太[たい]陽[よう]系[けい]",
+          "romaji": "taiyoukei",
+          "meaning": "太陽系",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "地球は太陽系の惑星の一つです。",
+              "zh": "地球是太陽系的行星之一。"
+            }
+          ]
+        },
+        {
+          "word": "惑星",
+          "reading": "わくせい",
+          "furigana": "惑[わく]星[せい]",
+          "romaji": "wakusei",
+          "meaning": "行星",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "宇宙には無数の惑星が存在します。",
+              "zh": "宇宙中存在著無數的行星。"
+            }
+          ]
+        },
+        {
+          "word": "流れ星",
+          "reading": "ながれぼし",
+          "furigana": "流[なが]れ星[ぼし]",
+          "romaji": "nagareboshi",
+          "meaning": "流星",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "流れ星を見て願い事をしました。",
+              "zh": "看著流星許了願。"
+            }
+          ]
+        },
+        {
+          "word": "大気",
+          "reading": "たいき",
+          "furigana": "大[たい]気[き]",
+          "romaji": "taiki",
+          "meaning": "大氣",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "大気汚染が深刻な問題になっています。",
+              "zh": "大氣汙染成了嚴重的問題。"
+            }
+          ]
+        },
+        {
+          "word": "気圧",
+          "reading": "きあつ",
+          "furigana": "気[き]圧[あつ]",
+          "romaji": "kiatsu",
+          "meaning": "氣壓",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "山の上は気圧が低いです。",
+              "zh": "山上的氣壓很低。"
+            }
+          ]
+        },
+        {
+          "word": "高気圧",
+          "reading": "こうきあつ",
+          "furigana": "高[こう]気[き]圧[あつ]",
+          "romaji": "koukiatsu",
+          "meaning": "高氣壓",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "高気圧に覆われて晴れるでしょう。",
+              "zh": "受到高氣壓籠罩天氣會放晴吧。"
+            }
+          ]
+        },
+        {
+          "word": "低気圧",
+          "reading": "ていきあつ",
+          "furigana": "低[てい]気[き]圧[あつ]",
+          "romaji": "teikiatsu",
+          "meaning": "低氣壓",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "低気圧が近づいて雨が降っています。",
+              "zh": "低氣壓逼近正在下雨。"
+            }
+          ]
+        },
+        {
+          "word": "嵐",
+          "reading": "あらし",
+          "furigana": "嵐[あらし]",
+          "romaji": "arashi",
+          "meaning": "暴風雨",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "夜になって激しい嵐になりました。",
+              "zh": "到了晚上變成了激烈的暴風雨。"
+            }
+          ]
+        },
+        {
+          "word": "稲光",
+          "reading": "いなびかり",
+          "furigana": "稲[いな]光[びかり]",
+          "romaji": "inabikari",
+          "meaning": "閃電",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "遠くで稲光が見えました。",
+              "zh": "在遠方看到了閃電。"
+            }
+          ]
+        },
+        {
+          "word": "津波",
+          "reading": "つなみ",
+          "furigana": "津[つ]波[なみ]",
+          "romaji": "tsunami",
+          "meaning": "海嘯",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "地震の後は津波に注意してください。",
+              "zh": "地震後請注意海嘯。"
+            }
+          ]
+        },
+        {
+          "word": "湿気",
+          "reading": "しっけ",
+          "furigana": "湿[しっ]気[け]",
+          "romaji": "shikke",
+          "meaning": "濕氣",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "梅雨の時期は湿気が多くて嫌です。",
+              "zh": "梅雨季節濕氣很重令人討厭。"
+            }
+          ]
+        },
+        {
+          "word": "湿度",
+          "reading": "しつど",
+          "furigana": "湿[しつ]度[ど]",
+          "romaji": "shitsudo",
+          "meaning": "濕度",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "部屋の湿度は６０パーセントくらいがいいです。",
+              "zh": "房間的濕度大概60%比較好。"
+            }
+          ]
+        },
+        {
+          "word": "緯度",
+          "reading": "いど",
+          "furigana": "緯[い]度[ど]",
+          "romaji": "ido",
+          "meaning": "緯度",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "日本は北半球の中緯度に位置しています。",
+              "zh": "日本位於北半球的中緯度地區。"
+            }
+          ]
+        },
+        {
+          "word": "経度",
+          "reading": "けいど",
+          "furigana": "経[けい]度[ど]",
+          "romaji": "keido",
+          "meaning": "經度",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "経度が違うと時差が生じます。",
+              "zh": "經度不同會產生時差。"
+            }
+          ]
+        },
+        {
+          "word": "赤道",
+          "reading": "せきどう",
+          "furigana": "赤[せき]道[どう]",
+          "romaji": "sekidou",
+          "meaning": "赤道",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "赤道に近い国は一年中暑いです。",
+              "zh": "靠近赤道的國家一年四季都很熱。"
+            }
+          ]
+        },
+        {
+          "word": "大陸",
+          "reading": "たいりく",
+          "furigana": "大[たい]陸[りく]",
+          "romaji": "tairiku",
+          "meaning": "大陸、洲",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "ユーラシア大陸は世界で一番大きいです。",
+              "zh": "歐亞大陸是世界上最大的大陸。"
+            }
+          ]
+        },
+        {
+          "word": "半島",
+          "reading": "はんとう",
+          "furigana": "半[はん]島[とう]",
+          "romaji": "hantou",
+          "meaning": "半島",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "伊豆半島は温泉で有名です。",
+              "zh": "伊豆半島以溫泉聞名。"
+            }
+          ]
+        },
+        {
+          "word": "岬",
+          "reading": "みさき",
+          "furigana": "岬[みさき]",
+          "romaji": "misaki",
+          "meaning": "海角、岬",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "岬の先端から海に沈む夕日を見ました。",
+              "zh": "從海角的尖端看著沉入海中的夕陽。"
+            }
+          ]
+        },
+        {
+          "word": "海峡",
+          "reading": "かいきょう",
+          "furigana": "海[かい]峡[きょう]",
+          "romaji": "kaikyou",
+          "meaning": "海峽",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "本州と北海道の間に津軽海峡があります。",
+              "zh": "本州和北海道之間有津輕海峽。"
+            }
+          ]
+        },
+        {
+          "word": "湾",
+          "reading": "わん",
+          "furigana": "湾[わん]",
+          "romaji": "wan",
+          "meaning": "海灣",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "東京湾の周りには多くの工場があります。",
+              "zh": "東京灣的周圍有許多工廠。"
+            }
+          ]
+        },
+        {
+          "word": "運河",
+          "reading": "うんが",
+          "furigana": "運[うん]河[が]",
+          "romaji": "unga",
+          "meaning": "運河",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "パナマ運河を船で通りました。",
+              "zh": "搭船通過了巴拿馬運河。"
+            }
+          ]
+        },
+        {
+          "word": "泉",
+          "reading": "いずみ",
+          "furigana": "泉[いずみ]",
+          "romaji": "izumi",
+          "meaning": "泉水",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "森の中にきれいな泉が湧いています。",
+              "zh": "森林裡湧出清澈的泉水。"
+            }
+          ]
+        },
+        {
+          "word": "滝",
+          "reading": "たき",
+          "furigana": "滝[たき]",
+          "romaji": "taki",
+          "meaning": "瀑布",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "山の中で大きな滝を見つけました。",
+              "zh": "在山裡發現了巨大的瀑布。"
+            }
+          ]
+        },
+        {
+          "word": "谷",
+          "reading": "たに",
+          "furigana": "谷[たに]",
+          "romaji": "tani",
+          "meaning": "山谷",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "深い谷の底に川が流れています。",
+              "zh": "深谷的底部流著河川。"
+            }
+          ]
+        },
+        {
+          "word": "峠",
+          "reading": "とうげ",
+          "furigana": "峠[とうげ]",
+          "romaji": "touge",
+          "meaning": "山口、山巔、難關",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "険しい峠を越えて隣の村へ行きます。",
+              "zh": "越過險峻的山口前往隔壁的村莊。"
+            }
+          ]
+        },
+        {
+          "word": "頂上",
+          "reading": "ちょうじょう",
+          "furigana": "頂[ちょう]上[じょう]",
+          "romaji": "choujou",
+          "meaning": "山頂、頂點",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "富士山の頂上まで登りました。",
+              "zh": "爬到了富士山的山頂。"
+            }
+          ]
+        },
+        {
+          "word": "噴火",
+          "reading": "ふんか",
+          "furigana": "噴[ふん]火[か]",
+          "romaji": "funka",
+          "meaning": "火山爆發",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "近くの火山が噴火しました。",
+              "zh": "附近的火山爆發了。"
+            }
+          ]
+        },
+        {
+          "word": "砂漠",
+          "reading": "さばく",
+          "furigana": "砂[さ]漠[ばく]",
+          "romaji": "sabaku",
+          "meaning": "沙漠",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "ラクダに乗って砂漠を旅します。",
+              "zh": "騎著駱駝在沙漠旅行。"
+            }
+          ]
+        },
+        {
+          "word": "生態系",
+          "reading": "せいたいけい",
+          "furigana": "生[せい]態[たい]系[けい]",
+          "romaji": "seitaikei",
+          "meaning": "生態系",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "森林伐採が生態系を破壊しています。",
+              "zh": "森林砍伐正在破壞生態系。"
+            }
+          ]
+        },
+        {
+          "word": "公害",
+          "reading": "こうがい",
+          "furigana": "公[こう]害[がい]",
+          "romaji": "kougai",
+          "meaning": "公害、汙染",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "昔は工場からの煙による公害が深刻でした。",
+              "zh": "以前工廠排煙造成的公害很嚴重。"
+            }
+          ]
+        },
+        {
+          "word": "汚染",
+          "reading": "おせん",
+          "furigana": "汚[お]染[せん]",
+          "romaji": "osen",
+          "meaning": "汙染",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "川の水が工場排水で汚染されています。",
+              "zh": "河水被工廠廢水汙染了。"
+            }
+          ]
+        },
+        {
+          "word": "資源",
+          "reading": "しげん",
+          "furigana": "資[し]源[げん]",
+          "romaji": "shigen",
+          "meaning": "資源",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "日本は天然資源が少ない国です。",
+              "zh": "日本是個天然資源稀少的國家。"
+            }
+          ]
+        },
+        {
+          "word": "昆虫",
+          "reading": "こんちゅう",
+          "furigana": "昆[こん]虫[ちゅう]",
+          "romaji": "konchuu",
+          "meaning": "昆蟲",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "夏になると森にたくさんの昆虫が集まります。",
+              "zh": "一到夏天森林裡就會聚集許多昆蟲。"
+            }
+          ]
+        },
+        {
+          "word": "害虫",
+          "reading": "がいちゅう",
+          "furigana": "害[がい]虫[ちゅう]",
+          "romaji": "gaichuu",
+          "meaning": "害蟲",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "畑の野菜が害虫に食べられてしまいました。",
+              "zh": "田裡的蔬菜被害蟲吃掉了。"
+            }
+          ]
+        },
+        {
+          "word": "獣",
+          "reading": "けもの",
+          "furigana": "獣[けもの]",
+          "romaji": "kemono",
+          "meaning": "野獸",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "山の中で野生の獣に出会いました。",
+              "zh": "在山裡遇到了野生野獸。"
+            }
+          ]
+        },
+        {
+          "word": "獲物",
+          "reading": "えもの",
+          "furigana": "獲[え]物[もの]",
+          "romaji": "emono",
+          "meaning": "獵物",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "ライオンが獲物を狙っています。",
+              "zh": "獅子正盯著獵物。"
+            }
+          ]
+        },
+        {
+          "word": "翼",
+          "reading": "つばさ",
+          "furigana": "翼[つばさ]",
+          "romaji": "tsubasa",
+          "meaning": "翅膀",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "鳥が大きな翼を広げて飛んでいます。",
+              "zh": "鳥兒展開大大的翅膀飛翔。"
+            }
+          ]
+        },
+        {
+          "word": "巣",
+          "reading": "す",
+          "furigana": "巣[す]",
+          "romaji": "su",
+          "meaning": "巢、窩",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "木の上に鳥の巣があります。",
+              "zh": "樹上有鳥巢。"
+            }
+          ]
+        },
+        {
+          "word": "芽",
+          "reading": "め",
+          "furigana": "芽[め]",
+          "romaji": "me",
+          "meaning": "芽、幼芽",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "春になって木に新しい芽が出ました。",
+              "zh": "到了春天，樹上長出了新芽。"
+            }
+          ]
+        },
+        {
+          "word": "根",
+          "reading": "ね",
+          "furigana": "根[ね]",
+          "romaji": "ne",
+          "meaning": "根",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "この植物は根が深く張っています。",
+              "zh": "這種植物的根扎得很深。"
+            }
+          ]
+        },
+        {
+          "word": "茎",
+          "reading": "くき",
+          "furigana": "茎[くき]",
+          "romaji": "kuki",
+          "meaning": "莖",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "花の茎を切って花瓶に飾ります。",
+              "zh": "把花的莖剪下插在花瓶裡裝飾。"
+            }
+          ]
+        },
+        {
+          "word": "幹",
+          "reading": "みき",
+          "furigana": "幹[みき]",
+          "romaji": "miki",
+          "meaning": "樹幹",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "この木は幹がとても太いです。",
+              "zh": "這棵樹的樹幹非常粗。"
+            }
+          ]
+        },
+        {
+          "word": "雑草",
+          "reading": "ざっそう",
+          "furigana": "雑[ざっ]草[そう]",
+          "romaji": "zassou",
+          "meaning": "雜草",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "庭の雑草を抜いてきれいにしました。",
+              "zh": "把庭院的雜草拔掉弄乾淨了。"
+            }
+          ]
+        },
+        {
+          "word": "芝生",
+          "reading": "しばふ",
+          "furigana": "芝[しば]生[ふ]",
+          "romaji": "shibafu",
+          "meaning": "草坪",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "公園の芝生に座ってお弁当を食べました。",
+              "zh": "坐在公園的草坪上吃便當。"
+            }
+          ]
+        },
+        {
+          "word": "枯葉",
+          "reading": "かれは",
+          "furigana": "枯[か]れ葉[は]",
+          "romaji": "kareha",
+          "meaning": "枯葉",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "秋になると道に枯葉が落ちます。",
+              "zh": "一到秋天路上就會落滿枯葉。"
+            }
+          ]
+        },
+        {
+          "word": "栽培",
+          "reading": "さいばい",
+          "furigana": "栽[さい]培[ばい]",
+          "romaji": "saibai",
+          "meaning": "栽培、種植",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "農家が美味しいトマトを栽培しています。",
+              "zh": "農家正在種植美味的番茄。"
+            }
+          ]
+        },
+        {
+          "word": "収穫",
+          "reading": "しゅうかく",
+          "furigana": "収[しゅう]穫[かく]",
+          "romaji": "shuukaku",
+          "meaning": "收成、收穫",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "秋は米の収穫の時期です。",
+              "zh": "秋天是米收成的時期。"
+            }
+          ]
+        },
+        {
+          "word": "飼育",
+          "reading": "しいく",
+          "furigana": "飼[し]育[く]",
+          "romaji": "shiiku",
+          "meaning": "飼養",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "動物園でパンダが飼育されています。",
+              "zh": "動物園裡飼養著熊貓。"
+            }
+          ]
+        },
+        {
+          "word": "野生",
+          "reading": "やせい",
+          "furigana": "野[や]生[せい]",
+          "romaji": "yasei",
+          "meaning": "野生",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "野生の動物に餌をあげてはいけません。",
+              "zh": "不可以餵食野生動物。"
+            }
+          ]
+        },
+        {
+          "word": "天然",
+          "reading": "てんねん",
+          "furigana": "天[てん]然[ねん]",
+          "romaji": "tennen",
+          "meaning": "天然",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "天然の温泉に入って疲れをとります。",
+              "zh": "泡天然溫泉消除疲勞。"
+            }
+          ]
+        },
+        {
+          "word": "絶滅",
+          "reading": "ぜつめつ",
+          "furigana": "絶[ぜつ]滅[めつ]",
+          "romaji": "zetsumetsu",
+          "meaning": "滅絕",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "環境破壊によって多くの生物が絶滅の危機にあります。",
+              "zh": "由於環境破壞，許多生物面臨滅絕的危機。"
+            }
+          ]
+        },
+        {
+          "word": "群れ",
+          "reading": "むれ",
+          "furigana": "群[む]れ",
+          "romaji": "mure",
+          "meaning": "群體、獸群、鳥群",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "鳥の群れが南へ飛んでいきました。",
+              "zh": "鳥群往南邊飛去了。"
+            }
+          ]
+        },
+        {
+          "word": "人間関係",
+          "reading": "にんげんかんけい",
+          "furigana": "人[にん]間[げん]関[かん]係[けい]",
+          "romaji": "ningenkankei",
+          "meaning": "人際關係",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "職場の人間関係に悩んでいます。",
+              "zh": "為了職場的人際關係而煩惱。"
+            }
+          ]
+        },
+        {
+          "word": "知人",
+          "reading": "ちじん",
+          "furigana": "知[ち]人[じん]",
+          "romaji": "chijin",
+          "meaning": "熟人、朋友",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "パーティーで偶然知人に会いました。",
+              "zh": "在派對上偶然遇到了熟人。"
+            }
+          ]
+        },
+        {
+          "word": "恩人",
+          "reading": "おんじん",
+          "furigana": "恩[おん]人[じん]",
+          "romaji": "onjin",
+          "meaning": "恩人",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "彼は私の命の恩人です。",
+              "zh": "他是我的救命恩人。"
+            }
+          ]
+        },
+        {
+          "word": "同僚",
+          "reading": "どうりょう",
+          "furigana": "同[どう]僚[りょう]",
+          "romaji": "douryou",
+          "meaning": "同事",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "仕事の後に同僚と飲みに行きます。",
+              "zh": "下班後和同事去喝酒。"
+            }
+          ]
+        },
+        {
+          "word": "部下",
+          "reading": "ぶか",
+          "furigana": "部[ぶ]下[か]",
+          "romaji": "buka",
+          "meaning": "部下",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "部下の失敗は上司の責任です。",
+              "zh": "部下的失敗是上司的責任。"
+            }
+          ]
+        },
+        {
+          "word": "夫妻",
+          "reading": "ふさい",
+          "furigana": "夫[ふ]妻[さい]",
+          "romaji": "fusai",
+          "meaning": "夫妻 (尊稱對方或指知名人物)",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "社長夫妻を食事にご招待しました。",
+              "zh": "邀請了社長夫妻共進晚餐。"
+            }
+          ]
+        },
+        {
+          "word": "婚約",
+          "reading": "こんやく",
+          "furigana": "婚[こん]約[やく]",
+          "romaji": "konyaku",
+          "meaning": "訂婚",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "彼女は来月婚約するそうです。",
+              "zh": "聽說她下個月要訂婚了。"
+            }
+          ]
+        },
+        {
+          "word": "見合い",
+          "reading": "みあい",
+          "furigana": "見[み]合[あ]い",
+          "romaji": "miai",
+          "meaning": "相親",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "親の勧めで見合いをすることになりました。",
+              "zh": "因為父母的勸說決定去相親了。"
+            }
+          ]
+        },
+        {
+          "word": "恋愛",
+          "reading": "れんあい",
+          "furigana": "恋[れん]愛[あい]",
+          "romaji": "ren'ai",
+          "meaning": "戀愛",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "二人は職場での恋愛を経て結婚しました。",
+              "zh": "兩人經過職場戀愛後結婚了。"
+            }
+          ]
+        },
+        {
+          "word": "片思い",
+          "reading": "かたおもい",
+          "furigana": "片[かた]思[おも]い",
+          "romaji": "kataomoi",
+          "meaning": "單戀",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "高校生の頃、彼にずっと片思いをしていました。",
+              "zh": "高中時期一直單戀著他。"
+            }
+          ]
+        },
+        {
+          "word": "友情",
+          "reading": "ゆうじょう",
+          "furigana": "友[ゆう]情[じょう]",
+          "romaji": "yuujou",
+          "meaning": "友情",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "彼らとの友情は一生続くでしょう。",
+              "zh": "和他們的友情會持續一輩子吧。"
+            }
+          ]
+        },
+        {
+          "word": "愛情",
+          "reading": "あいじょう",
+          "furigana": "愛[あい]情[じょう]",
+          "romaji": "aijou",
+          "meaning": "愛情、愛",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "親は子供に深い愛情を注ぎます。",
+              "zh": "父母對孩子傾注深厚的愛。"
+            }
+          ]
+        },
+        {
+          "word": "同情",
+          "reading": "どうじょう",
+          "furigana": "同[どう]情[じょう]",
+          "romaji": "doujou",
+          "meaning": "同情",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "困っている人に同情して助けました。",
+              "zh": "同情遇到困難的人並給予幫助。"
+            }
+          ]
+        },
+        {
+          "word": "恩",
+          "reading": "おん",
+          "furigana": "恩[おん]",
+          "romaji": "on",
+          "meaning": "恩情、恩惠",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "先生から受けた恩は決して忘れません。",
+              "zh": "絕不忘記從老師那裡受到的恩情。"
+            }
+          ]
+        },
+        {
+          "word": "義理",
+          "reading": "ぎり",
+          "furigana": "義[ぎ]理[り]",
+          "romaji": "giri",
+          "meaning": "情義、人情、義務",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "義理でパーティーに出席しなければなりません。",
+              "zh": "礙於人情必須出席派對。"
+            }
+          ]
+        },
+        {
+          "word": "交際",
+          "reading": "こうさい",
+          "furigana": "交[こう]際[さい]",
+          "romaji": "kousai",
+          "meaning": "交往、交際",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "二人は結婚を前提に交際しています。",
+              "zh": "兩人以結婚為前提在交往。"
+            }
+          ]
+        },
+        {
+          "word": "交流",
+          "reading": "こうりゅう",
+          "furigana": "交[こう]流[りゅう]",
+          "romaji": "kouryuu",
+          "meaning": "交流",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "他国の学生と文化交流を行います。",
+              "zh": "和外國學生進行文化交流。"
+            }
+          ]
+        },
+        {
+          "word": "対立",
+          "reading": "たいりつ",
+          "furigana": "対[たい]立[りつ]",
+          "romaji": "tairitsu",
+          "meaning": "對立",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "意見の対立から争いが起きました。",
+              "zh": "因為意見對立而發生了爭執。"
+            }
+          ]
+        },
+        {
+          "word": "反感",
+          "reading": "はんかん",
+          "furigana": "反[はん]感[かん]",
+          "romaji": "hankan",
+          "meaning": "反感",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "彼の偉そうな態度は人々の反感を買いました。",
+              "zh": "他自大的態度招致了人們的反感。"
+            }
+          ]
+        },
+        {
+          "word": "無視",
+          "reading": "むし",
+          "furigana": "無[む]視[し]",
+          "romaji": "mushi",
+          "meaning": "無視、不理會",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N2",
+          "sentences": [
+            {
+              "ja": "挨拶をしたのに無視されました。",
+              "zh": "明明打了招呼卻被無視了。"
+            }
+          ]
         }
       ],
       "kana": {
