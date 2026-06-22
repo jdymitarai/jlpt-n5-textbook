@@ -77118,6 +77118,686 @@
               "zh": "這瓶葡萄酒是知名品牌的。"
             }
           ]
+        },
+        {
+          "word": "星座",
+          "reading": "せいざ",
+          "furigana": "星[せい]座[ざ]",
+          "romaji": "seiza",
+          "meaning": "星座",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "夜空を見上げて、美しい星座を探す。",
+              "zh": "仰望夜空，尋找美麗的星座。"
+            }
+          ]
+        },
+        {
+          "word": "衛星",
+          "reading": "えいせい",
+          "furigana": "衛[えい]星[せい]",
+          "romaji": "eisei",
+          "meaning": "衛星",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "月は地球の唯一の自然衛星である。",
+              "zh": "月球是地球唯一的自然衛星。"
+            }
+          ]
+        },
+        {
+          "word": "惑星",
+          "reading": "わくせい",
+          "furigana": "惑[わく]星[せい]",
+          "romaji": "wakusei",
+          "meaning": "行星",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "火星は太陽系の中で四番目の惑星だ。",
+              "zh": "火星是太陽系中第四顆行星。"
+            }
+          ]
+        },
+        {
+          "word": "彗星",
+          "reading": "すいせい",
+          "furigana": "彗[すい]星[せい]",
+          "romaji": "suisei",
+          "meaning": "彗星",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "何十年かに一度、その巨大な彗星が観測される。",
+              "zh": "幾十年才會觀測到一次那顆巨大的彗星。"
+            }
+          ]
+        },
+        {
+          "word": "隕石",
+          "reading": "いんせき",
+          "furigana": "隕[いん]石[せき]",
+          "romaji": "inseki",
+          "meaning": "隕石",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "昔、ここに巨大な隕石が落下したと言われている。",
+              "zh": "據說很久以前這裡曾有巨大的隕石墜落。"
+            }
+          ]
+        },
+        {
+          "word": "銀河",
+          "reading": "ぎんが",
+          "furigana": "銀[ぎん]河[が]",
+          "romaji": "ginga",
+          "meaning": "銀河",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "空気の澄んだ場所では、肉眼でも銀河が見える。",
+              "zh": "在空氣清澈的地方，用肉眼也能看見銀河。"
+            }
+          ]
+        },
+        {
+          "word": "天体",
+          "reading": "てんたい",
+          "furigana": "天[てん]体[たい]",
+          "romaji": "tentai",
+          "meaning": "天體、星體",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "天体観測のために山頂へ向かう。",
+              "zh": "為了天體觀測而前往山頂。"
+            }
+          ]
+        },
+        {
+          "word": "太陽系",
+          "reading": "たいようけい",
+          "furigana": "太[たい]陽[よう]系[けい]",
+          "romaji": "taiyoukei",
+          "meaning": "太陽系",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "地球は太陽系に属している。",
+              "zh": "地球隸屬於太陽系。"
+            }
+          ]
+        },
+        {
+          "word": "観測",
+          "reading": "かんそく",
+          "furigana": "観[かん]測[そく]",
+          "romaji": "kansoku",
+          "meaning": "觀測",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "気象庁が桜の開花を観測した。",
+              "zh": "氣象廳觀測到了櫻花的綻放。"
+            }
+          ]
+        },
+        {
+          "word": "望遠鏡",
+          "reading": "ぼうえんきょう",
+          "furigana": "望[ぼう]遠[えん]鏡[きょう]",
+          "romaji": "bouenkyou",
+          "meaning": "望遠鏡",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "望遠鏡を使って遠くの星を観察する。",
+              "zh": "使用望遠鏡觀察遠方的星星。"
+            }
+          ]
+        },
+        {
+          "word": "気象",
+          "reading": "きしょう",
+          "furigana": "気[き]象[しょう]",
+          "romaji": "kishou",
+          "meaning": "氣象",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "異常気象の影響で農作物が不作となった。",
+              "zh": "受異常氣象的影響導致農作物歉收。"
+            }
+          ]
+        },
+        {
+          "word": "豪雨",
+          "reading": "ごうう",
+          "furigana": "豪[ごう]雨[う]",
+          "romaji": "gouu",
+          "meaning": "豪雨",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "突然のゲリラ豪雨で道路が冠水した。",
+              "zh": "突如其來的游擊式豪雨導致道路淹水。"
+            }
+          ]
+        },
+        {
+          "word": "雷雨",
+          "reading": "らいう",
+          "furigana": "雷[らい]雨[う]",
+          "romaji": "raiu",
+          "meaning": "雷雨",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "激しい雷雨のため、試合は一時中断された。",
+              "zh": "因為強烈的雷雨，比賽暫時中斷了。"
+            }
+          ]
+        },
+        {
+          "word": "吹雪",
+          "reading": "ふぶき",
+          "furigana": "吹[ふぶ]雪[き]",
+          "romaji": "fubuki",
+          "meaning": "暴風雪",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "猛吹雪で前が全く見えない。",
+              "zh": "猛烈的暴風雪讓人完全看不見前方。"
+            }
+          ]
+        },
+        {
+          "word": "竜巻",
+          "reading": "たつまき",
+          "furigana": "竜[たつ]巻[まき]",
+          "romaji": "tatsumaki",
+          "meaning": "龍捲風",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "竜巻が発生し、多くの家屋が被害を受けた。",
+              "zh": "發生了龍捲風，許多房屋受損。"
+            }
+          ]
+        },
+        {
+          "word": "降雨",
+          "reading": "こうう",
+          "furigana": "降[こう]雨[う]",
+          "romaji": "kouu",
+          "meaning": "降雨",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "明日は広い範囲で降雨が予想されます。",
+              "zh": "預測明天廣大範圍都會有降雨。"
+            }
+          ]
+        },
+        {
+          "word": "霧",
+          "reading": "きり",
+          "furigana": "霧[きり]",
+          "romaji": "kiri",
+          "meaning": "霧",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "濃い霧のせいで、飛行機の出発が遅れた。",
+              "zh": "因為濃霧的關係，飛機延遲起飛了。"
+            }
+          ]
+        },
+        {
+          "word": "霜",
+          "reading": "しも",
+          "furigana": "霜[しも]",
+          "romaji": "shimo",
+          "meaning": "霜",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "冬の朝、庭の草木に霜が降りていた。",
+              "zh": "冬天的早晨，庭院的花草結了一層霜。"
+            }
+          ]
+        },
+        {
+          "word": "露",
+          "reading": "つゆ",
+          "furigana": "露[つゆ]",
+          "romaji": "tsuyu",
+          "meaning": "露水",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "朝早く起きると、葉に露が光っていた。",
+              "zh": "早起時，看到葉子上的露水在閃閃發光。"
+            }
+          ]
+        },
+        {
+          "word": "虹",
+          "reading": "にじ",
+          "furigana": "虹[にじ]",
+          "romaji": "niji",
+          "meaning": "彩虹",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "astronomy_meteorology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "雨上がりの空に美しい虹がかかった。",
+              "zh": "雨後的天空掛著一道美麗的彩虹。"
+            }
+          ]
+        },
+        {
+          "word": "生態系",
+          "reading": "せいたいけい",
+          "furigana": "生[せい]態[たい]系[けい]",
+          "romaji": "sebitaikei",
+          "meaning": "生態系",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "森林伐採は地球の生態系に悪影響を及ぼす。",
+              "zh": "砍伐森林會對地球的生態系造成不良影響。"
+            }
+          ]
+        },
+        {
+          "word": "海抜",
+          "reading": "かいばつ",
+          "furigana": "海[かい]抜[ばつ]",
+          "romaji": "kaibatsu",
+          "meaning": "海拔",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "この町は海抜二千メートルの高地にある。",
+              "zh": "這座城鎮位於海拔兩千公尺的高地。"
+            }
+          ]
+        },
+        {
+          "word": "緯度",
+          "reading": "いど",
+          "furigana": "緯[い]度[ど]",
+          "romaji": "ido",
+          "meaning": "緯度",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "日本とほぼ同じ緯度に位置する国。",
+              "zh": "和日本位於幾乎相同緯度的國家。"
+            }
+          ]
+        },
+        {
+          "word": "経度",
+          "reading": "けいど",
+          "furigana": "経[けい]度[ど]",
+          "romaji": "keido",
+          "meaning": "經度",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "経度が十五度違うと、一時間の時差が生じる。",
+              "zh": "經度每相差十五度，就會產生一小時的時差。"
+            }
+          ]
+        },
+        {
+          "word": "盆地",
+          "reading": "ぼんち",
+          "furigana": "盆[ぼん]地[ち]",
+          "romaji": "bonchi",
+          "meaning": "盆地",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "盆地は夏が暑く、冬は冷え込みが厳しい。",
+              "zh": "盆地夏熱冬冷，溫差很大。"
+            }
+          ]
+        },
+        {
+          "word": "岬",
+          "reading": "みさき",
+          "furigana": "岬[みさき]",
+          "romaji": "misaki",
+          "meaning": "海角、岬",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "半島の突端にある岬に灯台が建っている。",
+              "zh": "半島尖端的海角上建有一座燈塔。"
+            }
+          ]
+        },
+        {
+          "word": "海峡",
+          "reading": "かいきょう",
+          "furigana": "海[かい]峡[きょう]",
+          "romaji": "kaikyou",
+          "meaning": "海峽",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "船で津軽海峡を渡って北海道へ行く。",
+              "zh": "搭船橫渡津輕海峽前往北海道。"
+            }
+          ]
+        },
+        {
+          "word": "半島",
+          "reading": "はんとう",
+          "furigana": "半[はん]島[とう]",
+          "romaji": "hantou",
+          "meaning": "半島",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "伊豆半島には多くの温泉地がある。",
+              "zh": "伊豆半島有許多溫泉勝地。"
+            }
+          ]
+        },
+        {
+          "word": "群島",
+          "reading": "ぐんとう",
+          "furigana": "群[ぐん]島[とう]",
+          "romaji": "guntou",
+          "meaning": "群島",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "ガラパゴス群島には独自の生態系がある。",
+              "zh": "加拉巴哥群島擁有獨特的生態系。"
+            }
+          ]
+        },
+        {
+          "word": "氷河",
+          "reading": "ひょうが",
+          "furigana": "氷[ひょう]河[が]",
+          "romaji": "hyouga",
+          "meaning": "冰河",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "地球温暖化により氷河の融解が進んでいる。",
+              "zh": "由於全球暖化，冰河的融化正在加速。"
+            }
+          ]
+        },
+        {
+          "word": "荒野",
+          "reading": "こうや",
+          "furigana": "荒[こう]野[や]",
+          "romaji": "kouya",
+          "meaning": "荒野",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "見渡す限りの荒野が広がっている。",
+              "zh": "一望無際的荒野蔓延著。"
+            }
+          ]
+        },
+        {
+          "word": "樹海",
+          "reading": "じゅかい",
+          "furigana": "樹[じゅ]海[かい]",
+          "romaji": "jukai",
+          "meaning": "樹海",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "富士山の麓には広大な樹海がある。",
+              "zh": "富士山腳下有著廣大的樹海。"
+            }
+          ]
+        },
+        {
+          "word": "沼",
+          "reading": "ぬま",
+          "furigana": "沼[ぬま]",
+          "romaji": "numa",
+          "meaning": "沼澤",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "その沼には珍しい水鳥が生息している。",
+              "zh": "那片沼澤棲息著罕見的水鳥。"
+            }
+          ]
+        },
+        {
+          "word": "沢",
+          "reading": "さわ",
+          "furigana": "沢[さわ]",
+          "romaji": "sawa",
+          "meaning": "山澗、溪谷",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "登山の途中で沢の水を飲んで喉を潤した。",
+              "zh": "登山途中喝了山澗的水解渴。"
+            }
+          ]
+        },
+        {
+          "word": "丘陵",
+          "reading": "きゅうりょう",
+          "furigana": "丘[きゅう]陵[りょう]",
+          "romaji": "kyuuryou",
+          "meaning": "丘陵",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "なだらかな丘陵地帯に茶畑が広がっている。",
+              "zh": "平緩的丘陵地帶遍布著茶園。"
+            }
+          ]
+        },
+        {
+          "word": "山脈",
+          "reading": "さんみゃく",
+          "furigana": "山[さん]脈[みゃく]",
+          "romaji": "sanmyaku",
+          "meaning": "山脈",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "日本アルプスと呼ばれる雄大な山脈。",
+              "zh": "被稱為日本阿爾卑斯山的雄偉山脈。"
+            }
+          ]
+        },
+        {
+          "word": "高原",
+          "reading": "こうげん",
+          "furigana": "高[こう]原[げん]",
+          "romaji": "kougen",
+          "meaning": "高原",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "夏は涼しい高原の避暑地へ行く。",
+              "zh": "夏天去涼爽的高原避暑勝地。"
+            }
+          ]
+        },
+        {
+          "word": "沿岸",
+          "reading": "えんがん",
+          "furigana": "沿[えん]岸[がん]",
+          "romaji": "engan",
+          "meaning": "沿岸、海岸",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "太平洋沿岸に沿って車を走らせる。",
+              "zh": "沿著太平洋沿岸開車。"
+            }
+          ]
+        },
+        {
+          "word": "泉",
+          "reading": "いずみ",
+          "furigana": "泉[いずみ]",
+          "romaji": "izumi",
+          "meaning": "泉水",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "森の奥に清らかな水が湧き出る泉がある。",
+              "zh": "森林深處有一座湧出清澈水流的泉水。"
+            }
+          ]
+        },
+        {
+          "word": "絶壁",
+          "reading": "ぜっぺき",
+          "furigana": "絶[ぜっ]壁[ぺき]",
+          "romaji": "zeppeki",
+          "meaning": "懸崖絕壁",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "geography_ecology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "波が激しく打ち寄せる絶壁の上に立つ。",
+              "zh": "站在海浪猛烈拍打的懸崖絕壁上。"
+            }
+          ]
         }
       ],
       "kana": {
