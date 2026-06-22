@@ -79838,6 +79838,346 @@
               "zh": "議案以過半數的贊成被通過了。"
             }
           ]
+        },
+        {
+          "word": "特性",
+          "reading": "とくせい",
+          "furigana": "特[とく]性[せい]",
+          "romaji": "tokusei",
+          "meaning": "特性",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "properties_relations",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "それぞれの素材の特性を生かす。",
+              "zh": "活用各種素材的特性。"
+            }
+          ]
+        },
+        {
+          "word": "属性",
+          "reading": "ぞくせい",
+          "furigana": "属[ぞく]性[せい]",
+          "romaji": "zokusei",
+          "meaning": "屬性",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "properties_relations",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "ユーザーの属性に合わせて広告を表示する。",
+              "zh": "配合使用者的屬性來顯示廣告。"
+            }
+          ]
+        },
+        {
+          "word": "本質",
+          "reading": "ほんしつ",
+          "furigana": "本[ほん]質[しつ]",
+          "romaji": "honshitsu",
+          "meaning": "本質",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "properties_relations",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "物事の本質を見極めることが重要だ。",
+              "zh": "看清事物的本質很重要。"
+            }
+          ]
+        },
+        {
+          "word": "形態",
+          "reading": "けいたい",
+          "furigana": "形[けい]態[たい]",
+          "romaji": "keitai",
+          "meaning": "形態、形式",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "properties_relations",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "家族の形態は時代とともに変化している。",
+              "zh": "家庭的形態隨著時代在變化。"
+            }
+          ]
+        },
+        {
+          "word": "仕組み",
+          "reading": "しくみ",
+          "furigana": "仕[し]組[く]み",
+          "romaji": "shikumi",
+          "meaning": "結構、機制",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "properties_relations",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "社会の仕組みを根本から変える。",
+              "zh": "從根本改變社會的機制。"
+            }
+          ]
+        },
+        {
+          "word": "情勢",
+          "reading": "じょうせい",
+          "furigana": "情[じょう]勢[せい]",
+          "romaji": "jousei",
+          "meaning": "情勢、局勢",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "properties_relations",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "国際情勢が緊迫している。",
+              "zh": "國際情勢十分緊張。"
+            }
+          ]
+        },
+        {
+          "word": "事態",
+          "reading": "じたい",
+          "furigana": "事[じ]態[たい]",
+          "romaji": "jitai",
+          "meaning": "事態",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "properties_relations",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "事態はさらに深刻化した。",
+              "zh": "事態變得更加嚴重了。"
+            }
+          ]
+        },
+        {
+          "word": "風潮",
+          "reading": "ふうちょう",
+          "furigana": "風[ふう]潮[ちょう]",
+          "romaji": "fuuchou",
+          "meaning": "風潮、趨勢",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "properties_relations",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "最近の若者の間に見られる風潮。",
+              "zh": "最近在年輕人之間可見的風潮。"
+            }
+          ]
+        },
+        {
+          "word": "変遷",
+          "reading": "へんせん",
+          "furigana": "変[へん]遷[せん]",
+          "romaji": "hensen",
+          "meaning": "變遷",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "properties_relations",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "日本語の歴史的な変遷をたどる。",
+              "zh": "追溯日語的歷史變遷。"
+            }
+          ]
+        },
+        {
+          "word": "起源",
+          "reading": "きげん",
+          "furigana": "起[き]源[げん]",
+          "romaji": "kigen",
+          "meaning": "起源",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "properties_relations",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "生命の起源に関する研究。",
+              "zh": "關於生命起源的研究。"
+            }
+          ]
+        },
+        {
+          "word": "根源",
+          "reading": "こんげん",
+          "furigana": "根[こん]源[げん]",
+          "romaji": "kongen",
+          "meaning": "根源",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "properties_relations",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "問題の根源を断ち切る必要がある。",
+              "zh": "有必要切斷問題的根源。"
+            }
+          ]
+        },
+        {
+          "word": "由来",
+          "reading": "ゆらい",
+          "furigana": "由[ゆ]来[らい]",
+          "romaji": "yurai",
+          "meaning": "由來、來源",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "properties_relations",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "この地名の由来を知っていますか。",
+              "zh": "你知道這個地名的由來嗎？"
+            }
+          ]
+        },
+        {
+          "word": "余波",
+          "reading": "よは",
+          "furigana": "余[よ]波[は]",
+          "romaji": "yoha",
+          "meaning": "餘波、影響",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "properties_relations",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "金融危機の余波がまだ残っている。",
+              "zh": "金融危機的餘波依然存在。"
+            }
+          ]
+        },
+        {
+          "word": "痕跡",
+          "reading": "こんせき",
+          "furigana": "痕[こん]跡[せき]",
+          "romaji": "konseki",
+          "meaning": "痕跡",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "properties_relations",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "犯人が争った痕跡がある。",
+              "zh": "有犯人爭鬥過的痕跡。"
+            }
+          ]
+        },
+        {
+          "word": "名残",
+          "reading": "なごり",
+          "furigana": "名[なご]残[り]",
+          "romaji": "nagori",
+          "meaning": "殘留、痕跡",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "properties_relations",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "城下町には昔の名残が感じられる。",
+              "zh": "在城下町能感受到過去的痕跡。"
+            }
+          ]
+        },
+        {
+          "word": "限界",
+          "reading": "げんかい",
+          "furigana": "限[げん]界[かい]",
+          "romaji": "genkai",
+          "meaning": "極限、界限",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "properties_relations",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "人間の能力には限界がある。",
+              "zh": "人類的能力是有極限的。"
+            }
+          ]
+        },
+        {
+          "word": "範疇",
+          "reading": "はんちゅう",
+          "furigana": "範[はん]疇[ちゅう]",
+          "romaji": "hanchuu",
+          "meaning": "範疇",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "properties_relations",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "それは私の理解の範疇を超えている。",
+              "zh": "那超出了我能理解的範疇。"
+            }
+          ]
+        },
+        {
+          "word": "領域",
+          "reading": "りょういき",
+          "furigana": "領[りょう]域[いき]",
+          "romaji": "ryouiki",
+          "meaning": "領域",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "properties_relations",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "新しい研究領域を開拓する。",
+              "zh": "開拓新的研究領域。"
+            }
+          ]
+        },
+        {
+          "word": "相違",
+          "reading": "そうい",
+          "furigana": "相[そう]違[い]",
+          "romaji": "soui",
+          "meaning": "相異、不同",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "properties_relations",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "両者の意見には大きな相違がある。",
+              "zh": "雙方的意見有很大的不同。"
+            }
+          ]
+        },
+        {
+          "word": "類似",
+          "reading": "るいじ",
+          "furigana": "類[るい]似[じ]",
+          "romaji": "ruiji",
+          "meaning": "類似、相似",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "properties_relations",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "過去の事件と類似した手口だ。",
+              "zh": "與過去案件相似的手法。"
+            }
+          ]
         }
       ],
       "kana": {
