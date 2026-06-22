@@ -86657,6 +86657,1626 @@
               "zh": "向著前輩出色的工作表現看齊並學習。"
             }
           ]
+        },
+        {
+          "word": "降りしきる",
+          "furigana": "降[ふ]りしきる",
+          "meaning": "下個不停",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 天氣變化",
+          "masu_form": "降りしきります",
+          "nai_form": "降りしきらない",
+          "ta_form": "降りしきった",
+          "nakatta_form": "降りしきらなかった",
+          "potential_form": "降りしきれる",
+          "causative_form": "降りしきらせる",
+          "passive_form": "降りしきられる",
+          "volitional_form": "降りしきろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_weather",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "雨が一日中降りしきっている。",
+              "zh": "雨一整天下個不停。"
+            }
+          ]
+        },
+        {
+          "word": "降り注ぐ",
+          "furigana": "降[ふ]り注[そそ]ぐ",
+          "meaning": "灑落、傾注",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 天氣變化",
+          "masu_form": "降り注ぎます",
+          "nai_form": "降り注がない",
+          "ta_form": "降り注いだ",
+          "nakatta_form": "降り注がなかった",
+          "potential_form": "降り注げる",
+          "causative_form": "降り注がせる",
+          "passive_form": "降り注がれる",
+          "volitional_form": "降り注ごう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_weather",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "太陽の光がまぶしく降り注ぐ。",
+              "zh": "耀眼的陽光灑落下來。"
+            }
+          ]
+        },
+        {
+          "word": "照りつける",
+          "furigana": "照[て]りつける",
+          "meaning": "烈日暴曬",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 天氣變化",
+          "masu_form": "照りつけます",
+          "nai_form": "照りつけない",
+          "ta_form": "照りつけた",
+          "nakatta_form": "照りつけなかった",
+          "potential_form": "照りつけられる",
+          "causative_form": "照りつけさせる",
+          "passive_form": "照りつけられる",
+          "volitional_form": "照りつけよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_weather",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "真夏の太陽が容赦なく照りつける。",
+              "zh": "盛夏的太陽毫不留情地暴曬著。"
+            }
+          ]
+        },
+        {
+          "word": "照り返す",
+          "furigana": "照[て]り返[かえ]す",
+          "meaning": "反射(光、熱)",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 天氣變化",
+          "masu_form": "照り返します",
+          "nai_form": "照り返さない",
+          "ta_form": "照り返した",
+          "nakatta_form": "照り返さなかった",
+          "potential_form": "照り返せる",
+          "causative_form": "照り返させる",
+          "passive_form": "照り返される",
+          "volitional_form": "照り返そう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_weather",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "アスファルトが強い日差しを照り返す。",
+              "zh": "柏油路反射著強烈的陽光。"
+            }
+          ]
+        },
+        {
+          "word": "吹き荒れる",
+          "furigana": "吹[ふ]き荒[あ]れる",
+          "meaning": "狂風大作、肆虐",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 天氣變化",
+          "masu_form": "吹き荒れます",
+          "nai_form": "吹き荒れない",
+          "ta_form": "吹き荒れた",
+          "nakatta_form": "吹き荒れなかった",
+          "potential_form": "吹き荒れられる",
+          "causative_form": "吹き荒れさせる",
+          "passive_form": "吹き荒れられる",
+          "volitional_form": "吹き荒れよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_weather",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "台風で猛烈な風が吹き荒れる。",
+              "zh": "因為颱風，強烈的狂風大作。"
+            }
+          ]
+        },
+        {
+          "word": "吹き付ける",
+          "furigana": "吹[ふ]き付[つ]ける",
+          "meaning": "吹打、刮向",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 天氣變化",
+          "masu_form": "吹き付けます",
+          "nai_form": "吹き付けない",
+          "ta_form": "吹き付けた",
+          "nakatta_form": "吹き付けなかった",
+          "potential_form": "吹き付けられる",
+          "causative_form": "吹き付けさせる",
+          "passive_form": "吹き付けられる",
+          "volitional_form": "吹き付けよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_weather",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "冷たい風が顔に吹き付ける。",
+              "zh": "冷風吹打在臉上。"
+            }
+          ]
+        },
+        {
+          "word": "吹き飛ばす",
+          "furigana": "吹[ふ]き飛[と]ばす",
+          "meaning": "吹走、刮跑",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 天氣變化",
+          "masu_form": "吹き飛ばします",
+          "nai_form": "吹き飛ばさない",
+          "ta_form": "吹き飛ばした",
+          "nakatta_form": "吹き飛ばさなかった",
+          "potential_form": "吹き飛ばせる",
+          "causative_form": "吹き飛ばさせる",
+          "passive_form": "吹き飛ばされる",
+          "volitional_form": "吹き飛ばそう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_weather",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "突風が看板を吹き飛ばした。",
+              "zh": "一陣狂風把招牌吹走了。"
+            }
+          ]
+        },
+        {
+          "word": "吹き荒ぶ",
+          "furigana": "吹[ふ]き荒[すさ]ぶ",
+          "meaning": "狂風呼嘯",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 天氣變化",
+          "masu_form": "吹き荒びます",
+          "nai_form": "吹き荒ばない",
+          "ta_form": "吹き荒んだ",
+          "nakatta_form": "吹き荒ばなかった",
+          "potential_form": "吹き荒べる",
+          "causative_form": "吹き荒ばせる",
+          "passive_form": "吹き荒ばれる",
+          "volitional_form": "吹き荒ぼう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_weather",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "冬の冷たい風が吹き荒ぶ。",
+              "zh": "冬天的冷風呼嘯著。"
+            }
+          ]
+        },
+        {
+          "word": "降り積もる",
+          "furigana": "降[ふ]り積[つ]もる",
+          "meaning": "下雪積聚",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 天氣變化",
+          "masu_form": "降り積もります",
+          "nai_form": "降り積もらない",
+          "ta_form": "降り積もった",
+          "nakatta_form": "降り積もらなかった",
+          "potential_form": "降り積もれる",
+          "causative_form": "降り積もらせる",
+          "passive_form": "降り積もられる",
+          "volitional_form": "降り積もろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_weather",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "一晩で雪が深く降り積もった。",
+              "zh": "一個晚上下起了厚厚的積雪。"
+            }
+          ]
+        },
+        {
+          "word": "澄み渡る",
+          "furigana": "澄[す]み渡[わた]る",
+          "meaning": "清澈透明、萬里無雲",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 天氣變化",
+          "masu_form": "澄み渡ります",
+          "nai_form": "澄み渡らない",
+          "ta_form": "澄み渡った",
+          "nakatta_form": "澄み渡らなかった",
+          "potential_form": "澄み渡れる",
+          "causative_form": "澄み渡らせる",
+          "passive_form": "澄み渡られる",
+          "volitional_form": "澄み渡ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_weather",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "秋の澄み渡った青空を見上げる。",
+              "zh": "仰望秋天萬里無雲的藍天。"
+            }
+          ]
+        },
+        {
+          "word": "晴れ渡る",
+          "furigana": "晴[は]れ渡[わた]る",
+          "meaning": "徹底放晴",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 天氣變化",
+          "masu_form": "晴れ渡ります",
+          "nai_form": "晴れ渡らない",
+          "ta_form": "晴れ渡った",
+          "nakatta_form": "晴れ渡らなかった",
+          "potential_form": "晴れ渡れる",
+          "causative_form": "晴れ渡らせる",
+          "passive_form": "晴れ渡られる",
+          "volitional_form": "晴れ渡ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_weather",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "空一面が美しく晴れ渡る。",
+              "zh": "天空一片徹底放晴、十分美麗。"
+            }
+          ]
+        },
+        {
+          "word": "凍てつく",
+          "furigana": "凍[い]てつく",
+          "meaning": "結冰、凍結",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 天氣變化",
+          "masu_form": "凍てつきます",
+          "nai_form": "凍てつかない",
+          "ta_form": "凍てついた",
+          "nakatta_form": "凍てつかなかった",
+          "potential_form": "凍てつける",
+          "causative_form": "凍てつかせる",
+          "passive_form": "凍てつかれる",
+          "volitional_form": "凍てつこう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_weather",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "池の水が凍てつくような寒さだ。",
+              "zh": "冷到連池水都結冰了。"
+            }
+          ]
+        },
+        {
+          "word": "和らぐ",
+          "furigana": "和[やわ]らぐ",
+          "meaning": "緩和、變溫和",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 天氣變化",
+          "masu_form": "和らぎます",
+          "nai_form": "和らがない",
+          "ta_form": "和らいだ",
+          "nakatta_form": "和らがなかった",
+          "potential_form": "和らげる",
+          "causative_form": "和らがせる",
+          "passive_form": "和らがれる",
+          "volitional_form": "和らごう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_weather",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "春が近づき、厳しい寒さが和らぐ。",
+              "zh": "春天臨近，嚴寒稍微緩和了。"
+            }
+          ]
+        },
+        {
+          "word": "冷え込む",
+          "furigana": "冷[ひ]え込[こ]む",
+          "meaning": "驟冷、變冷",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 天氣變化",
+          "masu_form": "冷え込みます",
+          "nai_form": "冷え込まない",
+          "ta_form": "冷え込んだ",
+          "nakatta_form": "冷え込まなかった",
+          "potential_form": "冷え込める",
+          "causative_form": "冷え込ませる",
+          "passive_form": "冷え込まれる",
+          "volitional_form": "冷え込もう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_weather",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "今夜から明日の朝にかけて冷え込む。",
+              "zh": "從今晚到明晨天氣會驟冷。"
+            }
+          ]
+        },
+        {
+          "word": "霞む",
+          "furigana": "霞[かす]む",
+          "meaning": "起薄霧、變得朦朧",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 天氣變化",
+          "masu_form": "霞みます",
+          "nai_form": "霞まない",
+          "ta_form": "霞んだ",
+          "nakatta_form": "霞まなかった",
+          "potential_form": "霞める",
+          "causative_form": "霞ませる",
+          "passive_form": "霞まれる",
+          "volitional_form": "霞もう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_weather",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "春の霧で遠くの山が霞んで見える。",
+              "zh": "因為春霧，遠處的山看起來朦朧不清。"
+            }
+          ]
+        },
+        {
+          "word": "煙る",
+          "furigana": "煙[けむ]る",
+          "meaning": "霧濛濛、煙霧瀰漫",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 天氣變化",
+          "masu_form": "煙ります",
+          "nai_form": "煙らない",
+          "ta_form": "煙った",
+          "nakatta_form": "煙らなかった",
+          "potential_form": "煙れる",
+          "causative_form": "煙らせる",
+          "passive_form": "煙られる",
+          "volitional_form": "煙ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_weather",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "春雨に煙る山並みが美しい。",
+              "zh": "在春雨中霧濛濛的群山十分美麗。"
+            }
+          ]
+        },
+        {
+          "word": "凌ぐ",
+          "furigana": "凌[しの]ぐ",
+          "meaning": "忍耐(嚴寒/酷暑)、挺過",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 天氣變化",
+          "masu_form": "凌ぎます",
+          "nai_form": "凌がない",
+          "ta_form": "凌いだ",
+          "nakatta_form": "凌がなかった",
+          "potential_form": "凌げる",
+          "causative_form": "凌がせる",
+          "passive_form": "凌がれる",
+          "volitional_form": "凌ごう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_weather",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "エアコンをつけて夏の暑さを凌ぐ。",
+              "zh": "開冷氣來熬過夏天的炎熱。"
+            }
+          ]
+        },
+        {
+          "word": "襲う",
+          "furigana": "襲[おそ]う",
+          "meaning": "侵襲、襲擊",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 天氣變化",
+          "masu_form": "襲います",
+          "nai_form": "襲わない",
+          "ta_form": "襲った",
+          "nakatta_form": "襲わなかった",
+          "potential_form": "襲える",
+          "causative_form": "襲わせる",
+          "passive_form": "襲われる",
+          "volitional_form": "襲おう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_weather",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "大型の台風が日本列島を襲う。",
+              "zh": "大型颱風侵襲日本列島。"
+            }
+          ]
+        },
+        {
+          "word": "荒れ狂う",
+          "furigana": "荒[あ]れ狂[くる]う",
+          "meaning": "肆虐、波濤洶湧",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 天氣變化",
+          "masu_form": "荒れ狂います",
+          "nai_form": "荒れ狂わない",
+          "ta_form": "荒れ狂った",
+          "nakatta_form": "荒れ狂わなかった",
+          "potential_form": "荒れ狂える",
+          "causative_form": "荒れ狂わせる",
+          "passive_form": "荒れ狂われる",
+          "volitional_form": "荒れ狂おう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_weather",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "強風で海が荒れ狂っている。",
+              "zh": "因為強風，大海波濤洶湧。"
+            }
+          ]
+        },
+        {
+          "word": "ぐずつく",
+          "furigana": "ぐずつく",
+          "meaning": "陰晴不定、連綿陰雨",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 天氣變化",
+          "masu_form": "ぐず付きます",
+          "nai_form": "ぐず付かない",
+          "ta_form": "ぐず付いた",
+          "nakatta_form": "ぐず付かなかった",
+          "potential_form": "ぐず付ける",
+          "causative_form": "ぐず付かせる",
+          "passive_form": "ぐず付かれる",
+          "volitional_form": "ぐず付こう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_weather",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "今週はぐずついた天気が続く。",
+              "zh": "這週會持續陰晴不定的壞天氣。"
+            }
+          ]
+        },
+        {
+          "word": "生い茂る",
+          "furigana": "生[お]い茂[しげ]る",
+          "meaning": "茂盛、繁茂",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 動植物生長",
+          "masu_form": "生い茂ります",
+          "nai_form": "生い茂らない",
+          "ta_form": "生い茂った",
+          "nakatta_form": "生い茂らなかった",
+          "potential_form": "生い茂れる",
+          "causative_form": "生い茂らせる",
+          "passive_form": "生い茂られる",
+          "volitional_form": "生い茂ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_nature_growth",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "庭に雑草が青々と生い茂っている。",
+              "zh": "庭院裡雜草青翠繁茂。"
+            }
+          ]
+        },
+        {
+          "word": "群がる",
+          "furigana": "群[むらが]る",
+          "meaning": "群集、成群結隊",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 動植物生長",
+          "masu_form": "群がります",
+          "nai_form": "群がらない",
+          "ta_form": "群がった",
+          "nakatta_form": "群がらなかった",
+          "potential_form": "群がれる",
+          "causative_form": "群がらせる",
+          "passive_form": "群がられる",
+          "volitional_form": "群がろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_nature_growth",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "甘い匂いに虫が群がる。",
+              "zh": "蟲子成群地聚集在甜味上。"
+            }
+          ]
+        },
+        {
+          "word": "芽生える",
+          "furigana": "芽生[めば]える",
+          "meaning": "發芽、萌生",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 動植物生長",
+          "masu_form": "芽生えます",
+          "nai_form": "芽生えない",
+          "ta_form": "芽生えた",
+          "nakatta_form": "芽生えなかった",
+          "potential_form": "芽生えられる",
+          "causative_form": "芽生えさせる",
+          "passive_form": "芽生えられる",
+          "volitional_form": "芽生えよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_nature_growth",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "春になって木々に新しい葉が芽生える。",
+              "zh": "到了春天，樹木萌生出新葉。"
+            }
+          ]
+        },
+        {
+          "word": "朽ちる",
+          "furigana": "朽[くち]る",
+          "meaning": "腐朽、枯朽",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 動植物生長",
+          "masu_form": "朽ちます",
+          "nai_form": "朽ちない",
+          "ta_form": "朽ちた",
+          "nakatta_form": "朽ちなかった",
+          "potential_form": "朽ちられる",
+          "causative_form": "朽ちさせる",
+          "passive_form": "朽ちられる",
+          "volitional_form": "朽ちよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_nature_growth",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "森の中で倒れた木が朽ちて土に還る。",
+              "zh": "森林裡倒下的樹木腐朽後回歸泥土。"
+            }
+          ]
+        },
+        {
+          "word": "熟す",
+          "furigana": "熟[じゅく]す",
+          "meaning": "成熟",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 動植物生長",
+          "masu_form": "熟します",
+          "nai_form": "熟さない",
+          "ta_form": "熟した",
+          "nakatta_form": "熟さなかった",
+          "potential_form": "熟せる",
+          "causative_form": "熟させる",
+          "passive_form": "熟される",
+          "volitional_form": "熟そう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_nature_growth",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "畑のトマトが赤く熟した。",
+              "zh": "田裡的番茄紅透成熟了。"
+            }
+          ]
+        },
+        {
+          "word": "根付く",
+          "furigana": "根付[ねづ]く",
+          "meaning": "生根、扎根",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 動植物生長",
+          "masu_form": "根付きます",
+          "nai_form": "根付かない",
+          "ta_form": "根付いた",
+          "nakatta_form": "根付かなかった",
+          "potential_form": "根付ける",
+          "causative_form": "根付かせる",
+          "passive_form": "根付かれる",
+          "volitional_form": "根付こう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_nature_growth",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "移植した苗がしっかりと土に根付く。",
+              "zh": "移植的樹苗牢牢地在土裡生根了。"
+            }
+          ]
+        },
+        {
+          "word": "はびこる",
+          "furigana": "はびこる",
+          "meaning": "蔓延、滋長",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 動植物生長",
+          "masu_form": "はびこります",
+          "nai_form": "はびこらない",
+          "ta_form": "はびこった",
+          "nakatta_form": "はびこらなかった",
+          "potential_form": "はびこれる",
+          "causative_form": "はびこらせる",
+          "passive_form": "はびこられる",
+          "volitional_form": "はびころう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_nature_growth",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "空き地に雑草がはびこっている。",
+              "zh": "空地上雜草蔓延叢生。"
+            }
+          ]
+        },
+        {
+          "word": "枯れ果てる",
+          "furigana": "枯[か]れ果[は]てる",
+          "meaning": "完全枯萎",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 動植物生長",
+          "masu_form": "枯れ果てます",
+          "nai_form": "枯れ果てない",
+          "ta_form": "枯れ果てた",
+          "nakatta_form": "枯れ果てなかった",
+          "potential_form": "枯れ果てられる",
+          "causative_form": "枯れ果てさせる",
+          "passive_form": "枯れ果てられる",
+          "volitional_form": "枯れ果てよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_nature_growth",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "日照り続きで畑の作物が枯れ果てた。",
+              "zh": "由於持續乾旱，田裡的農作物完全枯萎了。"
+            }
+          ]
+        },
+        {
+          "word": "色づく",
+          "furigana": "色[いろ]づく",
+          "meaning": "變色、染上顏色",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 動植物生長",
+          "masu_form": "色づきます",
+          "nai_form": "色づかない",
+          "ta_form": "色づいた",
+          "nakatta_form": "色づかなかった",
+          "potential_form": "色づける",
+          "causative_form": "色づかせる",
+          "passive_form": "色づかれる",
+          "volitional_form": "色づこう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_nature_growth",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "秋が深まり、山の木々が色づき始めた。",
+              "zh": "秋意漸濃，山上的樹木開始染上了秋色。"
+            }
+          ]
+        },
+        {
+          "word": "咲き誇る",
+          "furigana": "咲[さ]き誇[ほこ]る",
+          "meaning": "盛開、繁花似錦",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 動植物生長",
+          "masu_form": "咲き誇ります",
+          "nai_form": "咲き誇らない",
+          "ta_form": "咲き誇った",
+          "nakatta_form": "咲き誇らなかった",
+          "potential_form": "咲き誇れる",
+          "causative_form": "咲き誇らせる",
+          "passive_form": "咲き誇られる",
+          "volitional_form": "咲き誇ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_nature_growth",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "公園に満開の桜が咲き誇っている。",
+              "zh": "公園裡盛開著繁花似錦的櫻花。"
+            }
+          ]
+        },
+        {
+          "word": "咲き乱れる",
+          "furigana": "咲[さ]き乱[みだ]れる",
+          "meaning": "百花齊放、盛開",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 動植物生長",
+          "masu_form": "咲き乱れます",
+          "nai_form": "咲き乱れない",
+          "ta_form": "咲き乱れた",
+          "nakatta_form": "咲き乱れなかった",
+          "potential_form": "咲き乱れられる",
+          "causative_form": "咲き乱れさせる",
+          "passive_form": "咲き乱れられる",
+          "volitional_form": "咲き乱れよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_nature_growth",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "野原に美しい花が咲き乱れる。",
+              "zh": "原野上百花齊放。"
+            }
+          ]
+        },
+        {
+          "word": "しなびる",
+          "furigana": "しなびる",
+          "meaning": "枯萎、乾癟",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 動植物生長",
+          "masu_form": "しなびます",
+          "nai_form": "しなびない",
+          "ta_form": "しなびた",
+          "nakatta_form": "しなびなかった",
+          "potential_form": "しなびられる",
+          "causative_form": "しなびさせる",
+          "passive_form": "しなびられる",
+          "volitional_form": "しなびよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_nature_growth",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "冷蔵庫の奥で野菜がしなびていた。",
+              "zh": "冰箱深處的蔬菜已經乾癟了。"
+            }
+          ]
+        },
+        {
+          "word": "しおれる",
+          "furigana": "しおれる",
+          "meaning": "凋謝、枯萎",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 動植物生長",
+          "masu_form": "しおれます",
+          "nai_form": "しおれない",
+          "ta_form": "しおれた",
+          "nakatta_form": "しおれなかった",
+          "potential_form": "しおれられる",
+          "causative_form": "しおれさせる",
+          "passive_form": "しおれられる",
+          "volitional_form": "しおれよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_nature_growth",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "水やりを忘れて花がしおれてしまった。",
+              "zh": "忘了澆水，花朵枯萎了。"
+            }
+          ]
+        },
+        {
+          "word": "しなう",
+          "furigana": "しなう",
+          "meaning": "彎曲、柔軟而有彈性",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 動植物生長",
+          "masu_form": "しないます",
+          "nai_form": "しないない",
+          "ta_form": "しなった",
+          "nakatta_form": "しなわなかった",
+          "potential_form": "しなえる",
+          "causative_form": "しなわせる",
+          "passive_form": "しなわれる",
+          "volitional_form": "しなおう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_nature_growth",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "強風で竹が大きくしなう。",
+              "zh": "竹子在強風中大幅度彎曲。"
+            }
+          ]
+        },
+        {
+          "word": "芽吹く",
+          "furigana": "芽吹[めぶ]く",
+          "meaning": "發芽、吐芽",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 動植物生長",
+          "masu_form": "芽吹きます",
+          "nai_form": "芽吹かない",
+          "ta_form": "芽吹いた",
+          "nakatta_form": "芽吹かなかった",
+          "potential_form": "芽吹ける",
+          "causative_form": "芽吹かせる",
+          "passive_form": "芽吹かれる",
+          "volitional_form": "芽吹こう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_nature_growth",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "春の訪れとともに山の木々が芽吹く。",
+              "zh": "隨著春天的到來，山上的樹木吐出了新芽。"
+            }
+          ]
+        },
+        {
+          "word": "羽ばたく",
+          "furigana": "羽[は]ばたく",
+          "meaning": "振翅、展翅",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 動植物生長",
+          "masu_form": "羽ばたきます",
+          "nai_form": "羽ばたかない",
+          "ta_form": "羽ばたいた",
+          "nakatta_form": "羽ばたかなかった",
+          "potential_form": "羽ばたける",
+          "causative_form": "羽ばたかせる",
+          "passive_form": "羽ばたかれる",
+          "volitional_form": "羽ばたこう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_nature_growth",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "鳥が大空へ向かって力強く羽ばたく。",
+              "zh": "鳥兒朝著天空強而有力地振翅高飛。"
+            }
+          ]
+        },
+        {
+          "word": "寄り付く",
+          "furigana": "寄[よ]り付[つ]く",
+          "meaning": "靠近、挨近",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 動植物生長",
+          "masu_form": "寄り付きます",
+          "nai_form": "寄り付かない",
+          "ta_form": "寄り付いた",
+          "nakatta_form": "寄り付かなかった",
+          "potential_form": "寄り付ける",
+          "causative_form": "寄り付かせる",
+          "passive_form": "寄り付かれる",
+          "volitional_form": "寄り付こう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_nature_growth",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "警戒心が強くて野生動物が寄り付かない。",
+              "zh": "因為警戒心強，野生動物都不會靠近。"
+            }
+          ]
+        },
+        {
+          "word": "産み落とす",
+          "furigana": "産[う]み落[お]とす",
+          "meaning": "生下、產下",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 動植物生長",
+          "masu_form": "産み落とします",
+          "nai_form": "産み落とさない",
+          "ta_form": "産み落とした",
+          "nakatta_form": "産み落とさなかった",
+          "potential_form": "産み落とせる",
+          "causative_form": "産み落とさせる",
+          "passive_form": "産み落とされる",
+          "volitional_form": "産み落とそう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_nature_growth",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "親鳥が巣に卵を産み落とした。",
+              "zh": "母鳥在巢裡產下了卵。"
+            }
+          ]
+        },
+        {
+          "word": "巣立つ",
+          "furigana": "巣立[すだ]つ",
+          "meaning": "離巢、獨立",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 動植物生長",
+          "masu_form": "巣立ちます",
+          "nai_form": "巣立たない",
+          "ta_form": "巣立った",
+          "nakatta_form": "巣立たなかった",
+          "potential_form": "巣立てる",
+          "causative_form": "巣立たせる",
+          "passive_form": "巣立たれる",
+          "volitional_form": "巣立とう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_nature_growth",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "ヒナが大きく成長して巣立つ。",
+              "zh": "雛鳥長大後離巢獨立了。"
+            }
+          ]
+        },
+        {
+          "word": "飼い馴らす",
+          "furigana": "飼[か]い馴[な]らす",
+          "meaning": "馴養、馴服",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 動植物生長",
+          "masu_form": "飼い馴らします",
+          "nai_form": "飼い馴らさない",
+          "ta_form": "飼い馴らした",
+          "nakatta_form": "飼い馴らさなかった",
+          "potential_form": "飼い馴らせる",
+          "causative_form": "飼い馴らさせる",
+          "passive_form": "飼い馴らされる",
+          "volitional_form": "飼い馴らそう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_nature_growth",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "人間が野生の馬を飼い馴らす。",
+              "zh": "人類馴服了野馬。"
+            }
+          ]
+        },
+        {
+          "word": "濁る",
+          "furigana": "濁[にご]る",
+          "meaning": "變渾濁、不清澈",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 物理與狀態改變",
+          "masu_form": "濁ります",
+          "nai_form": "濁らない",
+          "ta_form": "濁った",
+          "nakatta_form": "濁らなかった",
+          "potential_form": "濁れる",
+          "causative_form": "濁らせる",
+          "passive_form": "濁られる",
+          "volitional_form": "濁ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physical_change",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "大雨のせいで川の水が泥で濁っている。",
+              "zh": "因為大雨，河水因泥沙而變得渾濁。"
+            }
+          ]
+        },
+        {
+          "word": "澄む",
+          "furigana": "澄[す]む",
+          "meaning": "清澈、透明",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 物理與狀態改變",
+          "masu_form": "澄みます",
+          "nai_form": "澄まない",
+          "ta_form": "澄んだ",
+          "nakatta_form": "澄まなかった",
+          "potential_form": "澄める",
+          "causative_form": "澄ませる",
+          "passive_form": "澄まれる",
+          "volitional_form": "澄もう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physical_change",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "山の湖は底まで見えるほど澄んでいる。",
+              "zh": "山中湖泊清澈見底。"
+            }
+          ]
+        },
+        {
+          "word": "染まる",
+          "furigana": "染[そ]まる",
+          "meaning": "染上顏色、沾染",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 物理與狀態改變",
+          "masu_form": "染まります",
+          "nai_form": "染まらない",
+          "ta_form": "染まった",
+          "nakatta_form": "染まらなかった",
+          "potential_form": "染まれる",
+          "causative_form": "染まらせる",
+          "passive_form": "染まられる",
+          "volitional_form": "染まろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physical_change",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "夕日で西の空が赤く染まる。",
+              "zh": "夕陽將西邊的天空染成了紅色。"
+            }
+          ]
+        },
+        {
+          "word": "染める",
+          "furigana": "染[そ]める",
+          "meaning": "染色",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 物理與狀態改變",
+          "masu_form": "染めます",
+          "nai_form": "染めない",
+          "ta_form": "染めた",
+          "nakatta_form": "染めなかった",
+          "potential_form": "染められる",
+          "causative_form": "染めさせる",
+          "passive_form": "染められる",
+          "volitional_form": "染めよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physical_change",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "白い布を青く染める。",
+              "zh": "將白布染成藍色。"
+            }
+          ]
+        },
+        {
+          "word": "剥がれる",
+          "furigana": "剥[は]がれる",
+          "meaning": "剝落、脫落",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 物理與狀態改變",
+          "masu_form": "剥がれます",
+          "nai_form": "剥がれない",
+          "ta_form": "剥がれた",
+          "nakatta_form": "剥がれなかった",
+          "potential_form": "剥がれられる",
+          "causative_form": "剥がれさせる",
+          "passive_form": "剥がれられる",
+          "volitional_form": "剥がれよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physical_change",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "壁のポスターが風で剥がれそうだ。",
+              "zh": "牆上的海報快被風吹落了。"
+            }
+          ]
+        },
+        {
+          "word": "剥がす",
+          "furigana": "剥[は]がす",
+          "meaning": "撕下、剝下",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 物理與狀態改變",
+          "masu_form": "剥がします",
+          "nai_form": "剥がさない",
+          "ta_form": "剥がした",
+          "nakatta_form": "剥がさなかった",
+          "potential_form": "剥がせる",
+          "causative_form": "剥がさせる",
+          "passive_form": "剥がされる",
+          "volitional_form": "剥がそう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physical_change",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "値札をきれいに剥がす。",
+              "zh": "將價格標籤乾淨地撕下來。"
+            }
+          ]
+        },
+        {
+          "word": "剥げる",
+          "furigana": "剥[は]げる",
+          "meaning": "褪色、剝落",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 物理與狀態改變",
+          "masu_form": "剥げます",
+          "nai_form": "剥げない",
+          "ta_form": "剥げた",
+          "nakatta_form": "剥げなかった",
+          "potential_form": "剥げられる",
+          "causative_form": "剥げさせる",
+          "passive_form": "剥げられる",
+          "volitional_form": "剥げよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physical_change",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "古い家具のペンキが剥げてきている。",
+              "zh": "舊家具的油漆開始剝落了。"
+            }
+          ]
+        },
+        {
+          "word": "すり減る",
+          "furigana": "すり減[へ]る",
+          "meaning": "磨損、消耗",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 物理與狀態改變",
+          "masu_form": "すり減ります",
+          "nai_form": "すり減らない",
+          "ta_form": "すり減った",
+          "nakatta_form": "すり減らなかった",
+          "potential_form": "すり減れる",
+          "causative_form": "すり減らせる",
+          "passive_form": "すり減られる",
+          "volitional_form": "すり減ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physical_change",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "長く履いた靴の底がすり減っている。",
+              "zh": "穿了很久的鞋子鞋底磨損了。"
+            }
+          ]
+        },
+        {
+          "word": "ゆがむ",
+          "furigana": "ゆがむ",
+          "meaning": "歪曲、變形",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 物理與狀態改變",
+          "masu_form": "ゆがみます",
+          "nai_form": "ゆがまない",
+          "ta_form": "ゆがんだ",
+          "nakatta_form": "ゆがまなかった",
+          "potential_form": "ゆがめる",
+          "causative_form": "ゆがませる",
+          "passive_form": "ゆがまれる",
+          "volitional_form": "ゆがもう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physical_change",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "熱でプラスチックの容器がゆがんだ。",
+              "zh": "塑膠容器因為受熱而變形了。"
+            }
+          ]
+        },
+        {
+          "word": "たるむ",
+          "furigana": "たるむ",
+          "meaning": "鬆弛、下垂",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 物理與狀態改變",
+          "masu_form": "たるみます",
+          "nai_form": "たるまない",
+          "ta_form": "たるんだ",
+          "nakatta_form": "たるまなかった",
+          "potential_form": "たるめる",
+          "causative_form": "たるませる",
+          "passive_form": "たるまれる",
+          "volitional_form": "たるもう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physical_change",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "ロープがたるんでしまっている。",
+              "zh": "繩子鬆弛下垂了。"
+            }
+          ]
+        },
+        {
+          "word": "綻びる",
+          "furigana": "綻[ほころ]びる",
+          "meaning": "開線、(花)綻放",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 物理與狀態改變",
+          "masu_form": "綻びます",
+          "nai_form": "綻びない",
+          "ta_form": "綻びた",
+          "nakatta_form": "綻びなかった",
+          "potential_form": "綻びられる",
+          "causative_form": "綻びさせる",
+          "passive_form": "綻びられる",
+          "volitional_form": "綻びよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physical_change",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "長く着ていたので袖口が綻びている。",
+              "zh": "因為穿了很久，袖口開線了。"
+            }
+          ]
+        },
+        {
+          "word": "きしむ",
+          "furigana": "きしむ",
+          "meaning": "發出嘎吱聲",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 物理與狀態改變",
+          "masu_form": "きしみます",
+          "nai_form": "きしまない",
+          "ta_form": "きしんだ",
+          "nakatta_form": "きしまなかった",
+          "potential_form": "きしめる",
+          "causative_form": "きしませる",
+          "passive_form": "きしまれる",
+          "volitional_form": "きしもう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physical_change",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "古い床が歩くたびにきしむ。",
+              "zh": "古老的木地板每走一步都會發出嘎吱聲。"
+            }
+          ]
+        },
+        {
+          "word": "裂ける",
+          "furigana": "裂[さ]ける",
+          "meaning": "裂開、破裂",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 物理與狀態改變",
+          "masu_form": "裂けます",
+          "nai_form": "裂けない",
+          "ta_form": "裂けた",
+          "nakatta_form": "裂けなかった",
+          "potential_form": "裂けられる",
+          "causative_form": "裂けさせる",
+          "passive_form": "裂けられる",
+          "volitional_form": "裂けよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physical_change",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "転んだ拍子にズボンが裂けてしまった。",
+              "zh": "跌倒的瞬間褲子裂開了。"
+            }
+          ]
+        },
+        {
+          "word": "千切れる",
+          "furigana": "千切[ちぎ]れる",
+          "meaning": "被撕裂、扯斷",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 物理與狀態改變",
+          "masu_form": "千切れます",
+          "nai_form": "千切れない",
+          "ta_form": "千切れた",
+          "nakatta_form": "千切れなかった",
+          "potential_form": "千切れる",
+          "causative_form": "千切れさせる",
+          "passive_form": "千切られる",
+          "volitional_form": "千切れよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physical_change",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "風が強すぎて旗が千切れそうだ。",
+              "zh": "風太大，旗子感覺快被扯斷了。"
+            }
+          ]
+        },
+        {
+          "word": "溶け込む",
+          "furigana": "溶[と]け込[こ]む",
+          "meaning": "溶解在內、融入",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 物理與狀態改變",
+          "masu_form": "溶け込みます",
+          "nai_form": "溶け込まない",
+          "ta_form": "溶け込んだ",
+          "nakatta_form": "溶け込まなかった",
+          "potential_form": "溶け込める",
+          "causative_form": "溶け込ませる",
+          "passive_form": "溶け込まれる",
+          "volitional_form": "溶け込もう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physical_change",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "砂糖が完全に水に溶け込む。",
+              "zh": "糖完全溶解在水裡了。"
+            }
+          ]
+        },
+        {
+          "word": "ひび割れる",
+          "furigana": "ひび割[わ]れる",
+          "meaning": "龜裂、出現裂痕",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 物理與狀態改變",
+          "masu_form": "ひび割れます",
+          "nai_form": "ひび割れない",
+          "ta_form": "ひび割れた",
+          "nakatta_form": "ひび割れなかった",
+          "potential_form": "ひび割れられる",
+          "causative_form": "ひび割れさせる",
+          "passive_form": "ひび割れられる",
+          "volitional_form": "ひび割れよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physical_change",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "乾燥して土がひび割れている。",
+              "zh": "土壤因為乾燥而出現了龜裂。"
+            }
+          ]
+        },
+        {
+          "word": "ねじれる",
+          "furigana": "ねじれる",
+          "meaning": "扭曲、絞轉",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 物理與狀態改變",
+          "masu_form": "ねじれます",
+          "nai_form": "ねじれない",
+          "ta_form": "ねじれた",
+          "nakatta_form": "ねじれなかった",
+          "potential_form": "ねじれられる",
+          "causative_form": "ねじれさせる",
+          "passive_form": "ねじれられる",
+          "volitional_form": "ねじれよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physical_change",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "コードがねじれて絡まっている。",
+              "zh": "電線扭曲糾纏在一起了。"
+            }
+          ]
+        },
+        {
+          "word": "しぼむ",
+          "furigana": "しぼむ",
+          "meaning": "枯萎、癟掉",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 物理與狀態改變",
+          "masu_form": "しぼみます",
+          "nai_form": "しぼまない",
+          "ta_form": "しぼんだ",
+          "nakatta_form": "しぼまなかった",
+          "potential_form": "しぼめる",
+          "causative_form": "しぼませる",
+          "passive_form": "しぼまれる",
+          "volitional_form": "しぼもう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physical_change",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "時間が経って風船がしぼんでしまった。",
+              "zh": "過了很久，氣球癟掉了。"
+            }
+          ]
+        },
+        {
+          "word": "ばらける",
+          "furigana": "ばらける",
+          "meaning": "散開、七零八落",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 物理與狀態改變",
+          "masu_form": "ばらけます",
+          "nai_form": "ばらけない",
+          "ta_form": "ばらけた",
+          "nakatta_form": "ばらけなかった",
+          "potential_form": "ばらけられる",
+          "causative_form": "ばらけさせる",
+          "passive_form": "ばらけられる",
+          "volitional_form": "ばらけよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physical_change",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "束ねていた紙が床にばらけてしまった。",
+              "zh": "原本捆好的紙張散落在地板上。"
+            }
+          ]
+        },
+        {
+          "word": "こびり付く",
+          "furigana": "こびり付[つ]く",
+          "meaning": "黏附、沾著",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "自然與宇宙 ＞ 物理與狀態改變",
+          "masu_form": "こびり付きます",
+          "nai_form": "こびり付かない",
+          "ta_form": "こびり付いた",
+          "nakatta_form": "こびり付かなかった",
+          "potential_form": "こびり付ける",
+          "causative_form": "こびり付かせる",
+          "passive_form": "こびり付かれる",
+          "volitional_form": "こびり付こう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physical_change",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "フライパンの底に焦げがこびり付いている。",
+              "zh": "平底鍋底黏附著燒焦的東西。"
+            }
+          ]
         }
       ],
       "kana": {
