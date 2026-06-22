@@ -77798,6 +77798,1366 @@
               "zh": "站在海浪猛烈拍打的懸崖絕壁上。"
             }
           ]
+        },
+        {
+          "word": "哺乳類",
+          "reading": "ほにゅうるい",
+          "furigana": "哺[ほ]乳[にゅう]類[るい]",
+          "romaji": "honyuurui",
+          "meaning": "哺乳類",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "クジラは海に住む哺乳類である。",
+              "zh": "鯨魚是居住在海裡的哺乳類。"
+            }
+          ]
+        },
+        {
+          "word": "爬虫類",
+          "reading": "はちゅうるい",
+          "furigana": "爬[は]虫[ちゅう]類[るい]",
+          "romaji": "hachuurui",
+          "meaning": "爬蟲類",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼はヘビやトカゲなどの爬虫類を飼っている。",
+              "zh": "他飼養了蛇、蜥蜴等爬蟲類。"
+            }
+          ]
+        },
+        {
+          "word": "両生類",
+          "reading": "りょうせいるい",
+          "furigana": "両[りょう]生[せい]類[るい]",
+          "romaji": "ryouseirui",
+          "meaning": "兩棲類",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "カエルやサンショウウオは両生類に分類される。",
+              "zh": "青蛙和山椒魚被分類為兩棲類。"
+            }
+          ]
+        },
+        {
+          "word": "鳥類",
+          "reading": "ちょうるい",
+          "furigana": "鳥[ちょう]類[るい]",
+          "romaji": "chourui",
+          "meaning": "鳥類",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "この島には多くの珍しい鳥類が生息している。",
+              "zh": "這座島上棲息著許多珍稀鳥類。"
+            }
+          ]
+        },
+        {
+          "word": "魚類",
+          "reading": "ぎょるい",
+          "furigana": "魚[ぎょ]類[るい]",
+          "romaji": "gyorui",
+          "meaning": "魚類",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "魚類はエラ呼吸をする。",
+              "zh": "魚類用鰓呼吸。"
+            }
+          ]
+        },
+        {
+          "word": "昆虫",
+          "reading": "こんちゅう",
+          "furigana": "昆[こん]虫[ちゅう]",
+          "romaji": "konchuu",
+          "meaning": "昆蟲",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "夏休みには山で昆虫採集をする。",
+              "zh": "暑假時在山上採集昆蟲。"
+            }
+          ]
+        },
+        {
+          "word": "猛獣",
+          "reading": "もうじゅう",
+          "furigana": "猛[もう]獣[じゅう]",
+          "romaji": "moujuu",
+          "meaning": "猛獸",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "ライオンやトラなどの猛獣が檻の中にいる。",
+              "zh": "獅子或老虎等猛獸在籠子裡。"
+            }
+          ]
+        },
+        {
+          "word": "家畜",
+          "reading": "かちく",
+          "furigana": "家[か]畜[ちく]",
+          "romaji": "kachiku",
+          "meaning": "家畜",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "昔から牛や馬は家畜として人間に飼われてきた。",
+              "zh": "自古以來牛和馬就被人類當作家畜飼養。"
+            }
+          ]
+        },
+        {
+          "word": "獲物",
+          "reading": "えもの",
+          "furigana": "獲[え]物[もの]",
+          "romaji": "emono",
+          "meaning": "獵物",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "肉食動物が獲物を狙っている。",
+              "zh": "肉食動物正盯著獵物。"
+            }
+          ]
+        },
+        {
+          "word": "群れ",
+          "reading": "むれ",
+          "furigana": "群[む]れ",
+          "romaji": "mure",
+          "meaning": "群體、群",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "サルの群れが山から下りてきた。",
+              "zh": "一群猴子從山上跑了下來。"
+            }
+          ]
+        },
+        {
+          "word": "翼",
+          "reading": "つばさ",
+          "furigana": "翼[つばさ]",
+          "romaji": "tsubasa",
+          "meaning": "翅膀、翼",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "鳥が大きく翼を広げて空へ飛び立った。",
+              "zh": "鳥兒大大張開翅膀飛向天空。"
+            }
+          ]
+        },
+        {
+          "word": "尻尾",
+          "reading": "しっぽ",
+          "furigana": "尻[しっ]尾[ぽ]",
+          "romaji": "shippo",
+          "meaning": "尾巴",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "犬が嬉しそうに尻尾を振っている。",
+              "zh": "狗狗很開心地搖著尾巴。"
+            }
+          ]
+        },
+        {
+          "word": "樹木",
+          "reading": "じゅもく",
+          "furigana": "樹[じゅ]木[もく]",
+          "romaji": "jumoku",
+          "meaning": "樹木",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "公園には様々な種類の樹木が植えられている。",
+              "zh": "公園裡種植著各種種類的樹木。"
+            }
+          ]
+        },
+        {
+          "word": "幹",
+          "reading": "みき",
+          "furigana": "幹[みき]",
+          "romaji": "miki",
+          "meaning": "樹幹",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "この大木の幹はとても太い。",
+              "zh": "這棵大樹的樹幹非常粗壯。"
+            }
+          ]
+        },
+        {
+          "word": "茎",
+          "reading": "くき",
+          "furigana": "茎[くき]",
+          "romaji": "kuki",
+          "meaning": "莖",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "花の茎が風で折れてしまった。",
+              "zh": "花的莖被風吹斷了。"
+            }
+          ]
+        },
+        {
+          "word": "芽",
+          "reading": "め",
+          "furigana": "芽[め]",
+          "romaji": "me",
+          "meaning": "芽、新芽",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "春になって木々に新しい芽が出た。",
+              "zh": "到了春天，樹木長出了新芽。"
+            }
+          ]
+        },
+        {
+          "word": "蕾",
+          "reading": "つぼみ",
+          "furigana": "蕾[つぼみ]",
+          "romaji": "tsubomi",
+          "meaning": "花苞、花蕾",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "桜の蕾が少しずつ膨らんできた。",
+              "zh": "櫻花的花苞漸漸膨脹起來了。"
+            }
+          ]
+        },
+        {
+          "word": "果実",
+          "reading": "かじつ",
+          "furigana": "果[か]実[じつ]",
+          "romaji": "kajitsu",
+          "meaning": "果實",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "秋には甘い果実がたくさん収穫できる。",
+              "zh": "秋天可以收穫許多甜美的果實。"
+            }
+          ]
+        },
+        {
+          "word": "雑草",
+          "reading": "ざっそう",
+          "furigana": "雑[ざっ]草[そう]",
+          "romaji": "zassou",
+          "meaning": "雜草",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "庭の雑草をきれいに引き抜く。",
+              "zh": "把庭院裡的雜草拔除乾淨。"
+            }
+          ]
+        },
+        {
+          "word": "繁殖",
+          "reading": "はんしょく",
+          "furigana": "繁[はん]殖[しょく]",
+          "romaji": "hanshoku",
+          "meaning": "繁殖",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "biological_world",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "春は多くの鳥にとって繁殖の季節だ。",
+              "zh": "春天對許多鳥類來說是繁殖的季節。"
+            }
+          ]
+        },
+        {
+          "word": "人脈",
+          "reading": "じんみゃく",
+          "furigana": "人[じん]脈[みゃく]",
+          "romaji": "jinmyaku",
+          "meaning": "人脈",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "仕事の幅を広げるために人脈を作る。",
+              "zh": "為了擴展工作範圍而建立人脈。"
+            }
+          ]
+        },
+        {
+          "word": "縁",
+          "reading": "えん",
+          "furigana": "縁[えん]",
+          "romaji": "en",
+          "meaning": "緣分、關係",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "あなたと出会えたのも何かの縁ですね。",
+              "zh": "能與你相遇也是一種緣分呢。"
+            }
+          ]
+        },
+        {
+          "word": "恩人",
+          "reading": "おんじん",
+          "furigana": "恩[おん]人[じん]",
+          "romaji": "onjin",
+          "meaning": "恩人",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼は私の命を救ってくれた恩人だ。",
+              "zh": "他是救了我一命的恩人。"
+            }
+          ]
+        },
+        {
+          "word": "知己",
+          "reading": "ちき",
+          "furigana": "知[ち]己[き]",
+          "romaji": "chiki",
+          "meaning": "知己、熟人",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "昔からの知己を頼って上京した。",
+              "zh": "依靠著從以前就認識的熟人來到了東京。"
+            }
+          ]
+        },
+        {
+          "word": "恩師",
+          "reading": "おんし",
+          "furigana": "恩[おん]師[し]",
+          "romaji": "onshi",
+          "meaning": "恩師",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "大学時代の恩師に手紙を書く。",
+              "zh": "寫信給大學時代的恩師。"
+            }
+          ]
+        },
+        {
+          "word": "伴侶",
+          "reading": "はんりょ",
+          "furigana": "伴[はん]侶[りょ]",
+          "romaji": "hanryo",
+          "meaning": "伴侶",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼は人生の伴侶を見つけた。",
+              "zh": "他找到了人生的伴侶。"
+            }
+          ]
+        },
+        {
+          "word": "相棒",
+          "reading": "あいぼう",
+          "furigana": "相[あい]棒[ぼう]",
+          "romaji": "aibou",
+          "meaning": "搭檔、夥伴",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "長年の相棒と一緒に新しいビジネスを始める。",
+              "zh": "和多年的搭檔一起展開新事業。"
+            }
+          ]
+        },
+        {
+          "word": "親善",
+          "reading": "しんぜん",
+          "furigana": "親[しん]善[ぜん]",
+          "romaji": "shinzen",
+          "meaning": "親善、友好",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "両国の親善を深めるためのイベントが開催された。",
+              "zh": "為了加深兩國友好而舉辦了活動。"
+            }
+          ]
+        },
+        {
+          "word": "交際",
+          "reading": "こうさい",
+          "furigana": "交[こう]際[さい]",
+          "romaji": "kousai",
+          "meaning": "交往、交際",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "二人は結婚を前提に交際している。",
+              "zh": "兩人以結婚為前提正在交往。"
+            }
+          ]
+        },
+        {
+          "word": "絆",
+          "reading": "きずな",
+          "furigana": "絆[きずな]",
+          "romaji": "kizuna",
+          "meaning": "羈絆、紐帶",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "困難を乗り越えて、家族の絆が深まった。",
+              "zh": "克服了困難，加深了家族的羈絆。"
+            }
+          ]
+        },
+        {
+          "word": "義理",
+          "reading": "ぎり",
+          "furigana": "義[ぎ]理[り]",
+          "romaji": "giri",
+          "meaning": "情理、人情世故、名義上的",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "義理の兄が会社を経営している。",
+              "zh": "姊夫（姐夫/大伯等名義上的哥哥）在經營公司。"
+            }
+          ]
+        },
+        {
+          "word": "人情",
+          "reading": "にんじょう",
+          "furigana": "人[にん]情[じょう]",
+          "romaji": "ninjou",
+          "meaning": "人情、人情味",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "この町は下町の人情が残っている。",
+              "zh": "這座城鎮還保留著老街區的人情味。"
+            }
+          ]
+        },
+        {
+          "word": "孤立",
+          "reading": "こりつ",
+          "furigana": "孤[こ]立[りつ]",
+          "romaji": "koritsu",
+          "meaning": "孤立",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼は職場で孤立しているように見える。",
+              "zh": "他看起來在職場上被孤立了。"
+            }
+          ]
+        },
+        {
+          "word": "同志",
+          "reading": "どうし",
+          "furigana": "同[どう]志[し]",
+          "romaji": "doushi",
+          "meaning": "同志、志同道合的人",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "共通の目標を持つ同志が集まった。",
+              "zh": "有著共同目標的同志們聚集了起來。"
+            }
+          ]
+        },
+        {
+          "word": "主従",
+          "reading": "しゅじゅう",
+          "furigana": "主[しゅ]従[じゅう]",
+          "romaji": "shujuu",
+          "meaning": "主從",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "昔の日本では主従関係が非常に厳しかった。",
+              "zh": "在以前的日本，主從關係非常嚴格。"
+            }
+          ]
+        },
+        {
+          "word": "身内",
+          "reading": "みうち",
+          "furigana": "身[み]内[うち]",
+          "romaji": "miuchi",
+          "meaning": "親屬、自己人",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "結婚式には身内だけを招待する予定だ。",
+              "zh": "結婚典禮預定只邀請親屬。"
+            }
+          ]
+        },
+        {
+          "word": "先代",
+          "reading": "せんだい",
+          "furigana": "先[せん]代[だい]",
+          "romaji": "sendai",
+          "meaning": "上一代、前任",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "この店は先代の社長が築き上げたものだ。",
+              "zh": "這間店是前任社長所建立起來的。"
+            }
+          ]
+        },
+        {
+          "word": "後継者",
+          "reading": "こうけいしゃ",
+          "furigana": "後[こう]継[けい]者[しゃ]",
+          "romaji": "koukeisha",
+          "meaning": "繼承人、接班人",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "優れた後継者を育成することが重要だ。",
+              "zh": "培育優秀的接班人非常重要。"
+            }
+          ]
+        },
+        {
+          "word": "徒党",
+          "reading": "ととう",
+          "furigana": "徒[と]党[とう]",
+          "romaji": "totou",
+          "meaning": "結黨、同夥",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "徒党を組んで抗議活動を行う。",
+              "zh": "結黨進行抗議活動。"
+            }
+          ]
+        },
+        {
+          "word": "来賓",
+          "reading": "らいひん",
+          "furigana": "来[らい]賓[ひん]",
+          "romaji": "raihin",
+          "meaning": "來賓",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "relations_human",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "式典には多くの来賓が出席した。",
+              "zh": "典禮有許多來賓出席。"
+            }
+          ]
+        },
+        {
+          "word": "条約",
+          "reading": "じょうやく",
+          "furigana": "条[じょう]約[やく]",
+          "romaji": "jouyaku",
+          "meaning": "條約",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "両国間で平和条約が結ばれた。",
+              "zh": "兩國之間締結了和平條約。"
+            }
+          ]
+        },
+        {
+          "word": "協定",
+          "reading": "きょうてい",
+          "furigana": "協[きょう]定[てい]",
+          "romaji": "kyoutei",
+          "meaning": "協定",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "貿易に関する新たな協定に署名する。",
+              "zh": "簽署有關貿易的新協定。"
+            }
+          ]
+        },
+        {
+          "word": "憲法",
+          "reading": "けんぽう",
+          "furigana": "憲[けん]法[ぽう]",
+          "romaji": "kenpou",
+          "meaning": "憲法",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "国民の権利は憲法によって保障されている。",
+              "zh": "國民的權利受到憲法保障。"
+            }
+          ]
+        },
+        {
+          "word": "法案",
+          "reading": "ほうあん",
+          "furigana": "法[ほう]案[あん]",
+          "romaji": "houan",
+          "meaning": "法案",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "その法案は議会で可決された。",
+              "zh": "那項法案在議會中獲得通過。"
+            }
+          ]
+        },
+        {
+          "word": "議会",
+          "reading": "ぎかい",
+          "furigana": "議[ぎ]会[かい]",
+          "romaji": "gikai",
+          "meaning": "議會",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "地方議会の選挙が来月行われる。",
+              "zh": "下個月將舉行地方議會的選舉。"
+            }
+          ]
+        },
+        {
+          "word": "派閥",
+          "reading": "はばつ",
+          "furigana": "派[は]閥[ばつ]",
+          "romaji": "habatsu",
+          "meaning": "派閥",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "党内の派閥争いが激化している。",
+              "zh": "黨內的派閥鬥爭日益激烈。"
+            }
+          ]
+        },
+        {
+          "word": "主権",
+          "reading": "しゅけん",
+          "furigana": "主[しゅ]権[けん]",
+          "romaji": "shuken",
+          "meaning": "主權",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "国家の主権を尊重しなければならない。",
+              "zh": "必須尊重國家的主權。"
+            }
+          ]
+        },
+        {
+          "word": "世論",
+          "reading": "よろん",
+          "furigana": "世[よ]論[ろん]",
+          "romaji": "yoron",
+          "meaning": "輿論",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "世論の動向に注意を払う。",
+              "zh": "關注輿論的動向。"
+            }
+          ]
+        },
+        {
+          "word": "治安",
+          "reading": "ちあん",
+          "furigana": "治[ち]安[あん]",
+          "romaji": "chian",
+          "meaning": "治安",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "この地域は比較的治安が良い。",
+              "zh": "這個地區的治安相對較好。"
+            }
+          ]
+        },
+        {
+          "word": "訴訟",
+          "reading": "そしょう",
+          "furigana": "訴[そ]訟[しょう]",
+          "romaji": "soshou",
+          "meaning": "訴訟",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "会社を相手に損害賠償の訴訟を起こす。",
+              "zh": "以公司為對象提起損害賠償的訴訟。"
+            }
+          ]
+        },
+        {
+          "word": "判決",
+          "reading": "はんけつ",
+          "furigana": "判[はん]決[けつ]",
+          "romaji": "hanketsu",
+          "meaning": "判決",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "裁判長が無罪の判決を下した。",
+              "zh": "審判長下達了無罪的判決。"
+            }
+          ]
+        },
+        {
+          "word": "陪審",
+          "reading": "ばいしん",
+          "furigana": "陪[ばい]審[しん]",
+          "romaji": "baishin",
+          "meaning": "陪審、陪審團",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "市民が陪審員として裁判に参加する。",
+              "zh": "市民作為陪審員參與審判。"
+            }
+          ]
+        },
+        {
+          "word": "被告",
+          "reading": "ひこく",
+          "furigana": "被[ひ]告[こく]",
+          "romaji": "hikoku",
+          "meaning": "被告",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "被告は起訴事実を全面的に認めた。",
+              "zh": "被告全面承認了起訴事實。"
+            }
+          ]
+        },
+        {
+          "word": "原告",
+          "reading": "げんこく",
+          "furigana": "原[げん]告[こく]",
+          "romaji": "genkoku",
+          "meaning": "原告",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "原告側の主張が一部認められた。",
+              "zh": "原告方的主張獲得了部分承認。"
+            }
+          ]
+        },
+        {
+          "word": "汚職",
+          "reading": "おしょく",
+          "furigana": "汚[お]職[しょく]",
+          "romaji": "oshoku",
+          "meaning": "貪污、瀆職",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "政治家の汚職事件が次々と発覚した。",
+              "zh": "政治家的貪污事件接連被揭發。"
+            }
+          ]
+        },
+        {
+          "word": "賄賂",
+          "reading": "わいろ",
+          "furigana": "賄[わい]賂[ろ]",
+          "romaji": "wairo",
+          "meaning": "賄賂",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼は賄賂を受け取った疑いで逮捕された。",
+              "zh": "他因涉嫌收受賄賂而被逮捕。"
+            }
+          ]
+        },
+        {
+          "word": "特権",
+          "reading": "とっけん",
+          "furigana": "特[とっ]権[けん]",
+          "romaji": "tokken",
+          "meaning": "特權",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "一部の人々だけが特権を享受している。",
+              "zh": "只有一部分的人享受著特權。"
+            }
+          ]
+        },
+        {
+          "word": "規範",
+          "reading": "きはん",
+          "furigana": "規[き]範[はん]",
+          "romaji": "kihan",
+          "meaning": "規範、準則",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "社会の規範に従って行動する。",
+              "zh": "遵從社會的規範行動。"
+            }
+          ]
+        },
+        {
+          "word": "秩序",
+          "reading": "ちつじょ",
+          "furigana": "秩[ちつ]序[じょ]",
+          "romaji": "chitsujo",
+          "meaning": "秩序",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "警察は街の秩序を維持する責任がある。",
+              "zh": "警察有維持街道秩序的責任。"
+            }
+          ]
+        },
+        {
+          "word": "体制",
+          "reading": "たいせい",
+          "furigana": "体[たい]制[せい]",
+          "romaji": "taisei",
+          "meaning": "體制",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "society_politics_law",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "新しい管理体制のもとで業務が再開された。",
+              "zh": "在新的管理體制下重新展開了業務。"
+            }
+          ]
+        },
+        {
+          "word": "財政",
+          "reading": "ざいせい",
+          "furigana": "財[ざい]政[せい]",
+          "romaji": "zaisei",
+          "meaning": "財政",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "国の財政状況が悪化している。",
+              "zh": "國家的財政狀況正在惡化。"
+            }
+          ]
+        },
+        {
+          "word": "為替",
+          "reading": "かわせ",
+          "furigana": "為[か]替[わせ]",
+          "romaji": "kawase",
+          "meaning": "匯兌、外匯",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "外国為替市場で円安が進んだ。",
+              "zh": "在外匯市場日圓持續貶值。"
+            }
+          ]
+        },
+        {
+          "word": "株式",
+          "reading": "かぶしき",
+          "furigana": "株[かぶ]式[しき]",
+          "romaji": "kabushiki",
+          "meaning": "股份、股票",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "その会社は株式を上場している。",
+              "zh": "那家公司已經股票上市。"
+            }
+          ]
+        },
+        {
+          "word": "証券",
+          "reading": "しょうけん",
+          "furigana": "証[しょう]券[けん]",
+          "romaji": "shouken",
+          "meaning": "證券",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼は証券会社で働いている。",
+              "zh": "他在證券公司工作。"
+            }
+          ]
+        },
+        {
+          "word": "融資",
+          "reading": "ゆうし",
+          "furigana": "融[ゆう]資[し]",
+          "romaji": "yuushi",
+          "meaning": "融資、貸款",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "新しい事業のために銀行から融資を受ける。",
+              "zh": "為了新事業而接受銀行的融資。"
+            }
+          ]
+        },
+        {
+          "word": "負債",
+          "reading": "ふさい",
+          "furigana": "負[ふ]債[さい]",
+          "romaji": "fusai",
+          "meaning": "負債",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "多額の負債を抱えて倒産した。",
+              "zh": "背負著鉅額負債而破產了。"
+            }
+          ]
+        },
+        {
+          "word": "資産",
+          "reading": "しさん",
+          "furigana": "資[し]産[さん]",
+          "romaji": "shisan",
+          "meaning": "資產",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼の資産は数億円に上る。",
+              "zh": "他的資產高達數億日圓。"
+            }
+          ]
+        },
+        {
+          "word": "金融",
+          "reading": "きんゆう",
+          "furigana": "金[きん]融[ゆう]",
+          "romaji": "kinyuu",
+          "meaning": "金融",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "金融機関の再編が進んでいる。",
+              "zh": "金融機構正在進行重組。"
+            }
+          ]
+        },
+        {
+          "word": "不況",
+          "reading": "ふきょう",
+          "furigana": "不[ふ]況[きょう]",
+          "romaji": "fukyou",
+          "meaning": "不景氣、蕭條",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "世界的な不況の影響で失業者が増えた。",
+              "zh": "受全球經濟不景氣影響，失業者增加了。"
+            }
+          ]
+        },
+        {
+          "word": "収益",
+          "reading": "しゅうえき",
+          "furigana": "収[しゅう]益[えき]",
+          "romaji": "shuueki",
+          "meaning": "收益",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "今期は過去最高の収益を記録した。",
+              "zh": "本期創下了過去最高的收益紀錄。"
+            }
+          ]
+        },
+        {
+          "word": "業績",
+          "reading": "ぎょうせき",
+          "furigana": "業[ぎょう]績[せき]",
+          "romaji": "gyouseki",
+          "meaning": "業績",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "会社の業績が順調に伸びている。",
+              "zh": "公司的業績正在順利成長。"
+            }
+          ]
+        },
+        {
+          "word": "経費",
+          "reading": "けいひ",
+          "furigana": "経[けい]費[ひ]",
+          "romaji": "keihi",
+          "meaning": "經費、開支",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "無駄な経費を削減する必要がある。",
+              "zh": "有必要削減不必要的經費。"
+            }
+          ]
+        },
+        {
+          "word": "報酬",
+          "reading": "ほうしゅう",
+          "furigana": "報[ほう]酬[しゅう]",
+          "romaji": "houshuu",
+          "meaning": "報酬",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "仕事に見合った十分な報酬を受け取る。",
+              "zh": "獲得與工作相符的充足報酬。"
+            }
+          ]
+        },
+        {
+          "word": "賃金",
+          "reading": "ちんぎん",
+          "furigana": "賃[ちん]金[ぎん]",
+          "romaji": "chingin",
+          "meaning": "工資、薪水",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "労働者の最低賃金が引き上げられた。",
+              "zh": "勞工的最低工資被調高了。"
+            }
+          ]
+        },
+        {
+          "word": "関税",
+          "reading": "かんぜい",
+          "furigana": "関[かん]税[ぜい]",
+          "romaji": "kanzei",
+          "meaning": "關稅",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "輸入品には高い関税がかけられている。",
+              "zh": "進口商品被課徵了高額關稅。"
+            }
+          ]
+        },
+        {
+          "word": "流通",
+          "reading": "りゅうつう",
+          "furigana": "流[りゅう]通[つう]",
+          "romaji": "ryuutsuu",
+          "meaning": "流通",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "商品の流通経路を改善する。",
+              "zh": "改善商品的流通管道。"
+            }
+          ]
+        },
+        {
+          "word": "独占",
+          "reading": "どくせん",
+          "furigana": "独[どく]占[せん]",
+          "romaji": "dokusen",
+          "meaning": "獨占、壟斷",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "ある企業が市場を独占している。",
+              "zh": "某間企業壟斷了市場。"
+            }
+          ]
+        },
+        {
+          "word": "相場",
+          "reading": "そうば",
+          "furigana": "相[そう]場[ば]",
+          "romaji": "souba",
+          "meaning": "行情、市價",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "株の相場が大きく変動した。",
+              "zh": "股票的行情發生了大幅變動。"
+            }
+          ]
+        },
+        {
+          "word": "決済",
+          "reading": "けっさい",
+          "furigana": "決[けっ]済[さい]",
+          "romaji": "kessai",
+          "meaning": "結算、支付",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "クレジットカードでオンライン決済をする。",
+              "zh": "用信用卡進行線上支付(結算)。"
+            }
+          ]
+        },
+        {
+          "word": "破産",
+          "reading": "はさん",
+          "furigana": "破[は]産[さん]",
+          "romaji": "hasan",
+          "meaning": "破產",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "economy_business",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "多重債務によりついに自己破産した。",
+              "zh": "因為多重債務最終宣告個人破產。"
+            }
+          ]
         }
       ],
       "kana": {
