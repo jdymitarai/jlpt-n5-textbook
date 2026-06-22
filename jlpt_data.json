@@ -83417,6 +83417,1626 @@
               "zh": "將長髮在後面紮成一束。"
             }
           ]
+        },
+        {
+          "word": "拭き取る",
+          "furigana": "拭[ふ]き取[と]る",
+          "meaning": "擦去、擦掉",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 家事與居住",
+          "masu_form": "拭き取ります",
+          "nai_form": "拭き取らない",
+          "ta_form": "拭き取った",
+          "nakatta_form": "拭き取らなかった",
+          "potential_form": "拭き取れる",
+          "causative_form": "拭き取らせる",
+          "passive_form": "拭き取られる",
+          "volitional_form": "拭き取ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_housework",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "テーブルの汚れを雑巾で拭き取る。",
+              "zh": "用抹布擦去桌上的污垢。"
+            }
+          ]
+        },
+        {
+          "word": "掃き清める",
+          "furigana": "掃[は]き清[きよ]める",
+          "meaning": "打掃乾淨",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 家事與居住",
+          "masu_form": "掃き清めます",
+          "nai_form": "掃き清めない",
+          "ta_form": "掃き清めた",
+          "nakatta_form": "掃き清めなかった",
+          "potential_form": "掃き清められる",
+          "causative_form": "掃き清めさせる",
+          "passive_form": "掃き清められる",
+          "volitional_form": "掃き清めよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_housework",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "神社の境内をほうきで掃き清める。",
+              "zh": "用掃帚將神社境內打掃乾淨。"
+            }
+          ]
+        },
+        {
+          "word": "住み着く",
+          "furigana": "住[す]み着[つ]く",
+          "meaning": "定居、安頓下來",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 家事與居住",
+          "masu_form": "住み着きます",
+          "nai_form": "住み着かない",
+          "ta_form": "住み着いた",
+          "nakatta_form": "住み着かなかった",
+          "potential_form": "住み着ける",
+          "causative_form": "住み着かせる",
+          "passive_form": "住み着かれる",
+          "volitional_form": "住み着こう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_housework",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼はこの町にすっかり住み着いた。",
+              "zh": "他完全在這個城鎮定居了下來。"
+            }
+          ]
+        },
+        {
+          "word": "建て替える",
+          "furigana": "建[た]て替[か]える",
+          "meaning": "改建、重建",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 家事與居住",
+          "masu_form": "建て替えます",
+          "nai_form": "建て替えない",
+          "ta_form": "建て替えた",
+          "nakatta_form": "建て替えなかった",
+          "potential_form": "建て替えられる",
+          "causative_form": "建て替えさせる",
+          "passive_form": "建て替えられる",
+          "volitional_form": "建て替えよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_housework",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "老朽化した家を新しく建て替える。",
+              "zh": "將老舊的房子重新改建。"
+            }
+          ]
+        },
+        {
+          "word": "仕切る",
+          "furigana": "仕[し]切[き]る",
+          "meaning": "隔開、劃分",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 家事與居住",
+          "masu_form": "仕切ります",
+          "nai_form": "仕切らない",
+          "ta_form": "仕切った",
+          "nakatta_form": "仕切らなかった",
+          "potential_form": "仕切れる",
+          "causative_form": "仕切らせる",
+          "passive_form": "仕切られる",
+          "volitional_form": "仕切ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_housework",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "広い部屋をカーテンで二つに仕切る。",
+              "zh": "用窗簾將寬敞的房間隔成兩半。"
+            }
+          ]
+        },
+        {
+          "word": "くつろぐ",
+          "furigana": "くつろぐ",
+          "meaning": "放鬆、休息",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 家事與居住",
+          "masu_form": "くつろぎます",
+          "nai_form": "くつろがない",
+          "ta_form": "くつろいだ",
+          "nakatta_form": "くつろがなかった",
+          "potential_form": "くつろげる",
+          "causative_form": "くつろがせる",
+          "passive_form": "くつろがれる",
+          "volitional_form": "くつろごう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_housework",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "休日は家でゆっくりくつろぐのが好きだ。",
+              "zh": "假日喜歡在家裡好好放鬆休息。"
+            }
+          ]
+        },
+        {
+          "word": "放り込む",
+          "furigana": "放[ほう]り込[こ]む",
+          "meaning": "扔進、投入",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 家事與居住",
+          "masu_form": "放り込みます",
+          "nai_form": "放り込まない",
+          "ta_form": "放り込んだ",
+          "nakatta_form": "放り込まなかった",
+          "potential_form": "放り込める",
+          "causative_form": "放り込ませる",
+          "passive_form": "放り込まれる",
+          "volitional_form": "放り込もう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_housework",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "脱いだ服を洗濯機に放り込む。",
+              "zh": "把脫下來的衣服扔進洗衣機裡。"
+            }
+          ]
+        },
+        {
+          "word": "剥がす",
+          "furigana": "剥[はが]す",
+          "meaning": "撕下、剝下",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 家事與居住",
+          "masu_form": "剥がします",
+          "nai_form": "剥がさない",
+          "ta_form": "剥がした",
+          "nakatta_form": "剥がさなかった",
+          "potential_form": "剥がせる",
+          "causative_form": "剥がさせる",
+          "passive_form": "剥がされる",
+          "volitional_form": "剥がそう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_housework",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "壁に貼ってある古いポスターを剥がす。",
+              "zh": "撕下貼在牆上的舊海報。"
+            }
+          ]
+        },
+        {
+          "word": "擦る",
+          "furigana": "擦[こす]る",
+          "meaning": "用力擦、摩擦",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 家事與居住",
+          "masu_form": "擦ります",
+          "nai_form": "擦らない",
+          "ta_form": "擦った",
+          "nakatta_form": "擦らなかった",
+          "potential_form": "擦れる",
+          "causative_form": "擦らせる",
+          "passive_form": "擦られる",
+          "volitional_form": "擦ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_housework",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "鍋の焦げ付きをスポンジで強く擦る。",
+              "zh": "用海綿用力擦洗鍋子的燒焦處。"
+            }
+          ]
+        },
+        {
+          "word": "濯ぐ",
+          "furigana": "濯[すす]ぐ",
+          "meaning": "沖洗、清洗",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 家事與居住",
+          "masu_form": "濯ぎます",
+          "nai_form": "濯がない",
+          "ta_form": "濯いだ",
+          "nakatta_form": "濯がなかった",
+          "potential_form": "濯げる",
+          "causative_form": "濯がせる",
+          "passive_form": "濯がれる",
+          "volitional_form": "濯ごう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_housework",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "洗剤が残らないように食器を水でよく濯ぐ。",
+              "zh": "用水充分沖洗餐具以免殘留洗碗精。"
+            }
+          ]
+        },
+        {
+          "word": "絞る",
+          "furigana": "絞[しぼ]る",
+          "meaning": "擰乾、榨",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 家事與居住",
+          "masu_form": "絞ります",
+          "nai_form": "絞らない",
+          "ta_form": "絞った",
+          "nakatta_form": "絞らなかった",
+          "potential_form": "絞れる",
+          "causative_form": "絞らせる",
+          "passive_form": "絞られる",
+          "volitional_form": "絞ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_housework",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "濡れたタオルを固く絞る。",
+              "zh": "將濕毛巾用力擰乾。"
+            }
+          ]
+        },
+        {
+          "word": "吊るす",
+          "furigana": "吊[つる]す",
+          "meaning": "吊掛、懸掛",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 家事與居住",
+          "masu_form": "吊るします",
+          "nai_form": "吊るさない",
+          "ta_form": "吊るした",
+          "nakatta_form": "吊るさなかった",
+          "potential_form": "吊るせる",
+          "causative_form": "吊るさせる",
+          "passive_form": "吊るされる",
+          "volitional_form": "吊るそう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_housework",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "洗濯物をベランダに吊るす。",
+              "zh": "將洗好的衣服掛在陽台。"
+            }
+          ]
+        },
+        {
+          "word": "押し込む",
+          "furigana": "押[お]し込[こ]む",
+          "meaning": "塞進、硬擠進",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 家事與居住",
+          "masu_form": "押し込みます",
+          "nai_form": "押し込まない",
+          "ta_form": "押し込んだ",
+          "nakatta_form": "押し込まなかった",
+          "potential_form": "押し込める",
+          "causative_form": "押し込ませる",
+          "passive_form": "押し込まれる",
+          "volitional_form": "押し込もう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_housework",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "クローゼットに無理やり服を押し込む。",
+              "zh": "把衣服硬塞進衣櫥裡。"
+            }
+          ]
+        },
+        {
+          "word": "片付ける",
+          "furigana": "片付[かたづ]ける",
+          "meaning": "收拾、整理",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 家事與居住",
+          "masu_form": "片付けます",
+          "nai_form": "片付けない",
+          "ta_form": "片付けた",
+          "nakatta_form": "片付けなかった",
+          "potential_form": "片付けられる",
+          "causative_form": "片付けさせる",
+          "passive_form": "片付けられる",
+          "volitional_form": "片付けよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_housework",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "散らかった部屋をきれいに片付ける。",
+              "zh": "將凌亂的房間整理乾淨。"
+            }
+          ]
+        },
+        {
+          "word": "取り除く",
+          "furigana": "取[と]り除[のぞ]く",
+          "meaning": "去除、清除",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 家事與居住",
+          "masu_form": "取り除きます",
+          "nai_form": "取り除かない",
+          "ta_form": "取り除いた",
+          "nakatta_form": "取り除かなかった",
+          "potential_form": "取り除ける",
+          "causative_form": "取り除かせる",
+          "passive_form": "取り除かれる",
+          "volitional_form": "取り除こう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_housework",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "換気扇のしつこい油汚れを取り除く。",
+              "zh": "清除抽風機上頑固的油污。"
+            }
+          ]
+        },
+        {
+          "word": "構える",
+          "furigana": "構[かま]える",
+          "meaning": "建造(房屋)、設立、擺出姿勢",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 家事與居住",
+          "masu_form": "構えます",
+          "nai_form": "構えない",
+          "ta_form": "構えた",
+          "nakatta_form": "構えなかった",
+          "potential_form": "構えられる",
+          "causative_form": "構えさせる",
+          "passive_form": "構えられる",
+          "volitional_form": "構えよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_housework",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "郊外に一戸建ての家を構える。",
+              "zh": "在郊外建造一棟透天厝。"
+            }
+          ]
+        },
+        {
+          "word": "手入れする",
+          "furigana": "手入[ていれ]する",
+          "meaning": "保養、修繕",
+          "verb_group": "第三類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 家事與居住",
+          "masu_form": "手入れします",
+          "nai_form": "手入れしない",
+          "ta_form": "手入れした",
+          "nakatta_form": "手入れしなかった",
+          "potential_form": "手入れできる",
+          "causative_form": "手入れさせる",
+          "passive_form": "手入れされる",
+          "volitional_form": "手入れしよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_housework",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "庭の植物をこまめに手入れする。",
+              "zh": "勤勉地保養庭院的植物。"
+            }
+          ]
+        },
+        {
+          "word": "しまう",
+          "furigana": "しまう",
+          "meaning": "收起來",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 家事與居住",
+          "masu_form": "しまいます",
+          "nai_form": "しまわない",
+          "ta_form": "しまった",
+          "nakatta_form": "しまわなかった",
+          "potential_form": "しまえる",
+          "causative_form": "しまわせる",
+          "passive_form": "しまわれる",
+          "volitional_form": "しまおう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_housework",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "冬物のコートをタンスの奥にしまう。",
+              "zh": "把冬裝外套收進衣櫃深處。"
+            }
+          ]
+        },
+        {
+          "word": "掃き出す",
+          "furigana": "掃[は]き出[だ]す",
+          "meaning": "掃出去",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 家事與居住",
+          "masu_form": "掃き出します",
+          "nai_form": "掃き出さない",
+          "ta_form": "掃き出した",
+          "nakatta_form": "掃き出さなかった",
+          "potential_form": "掃き出せる",
+          "causative_form": "掃き出させる",
+          "passive_form": "掃き出される",
+          "volitional_form": "掃き出そう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_housework",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "部屋のゴミを外に掃き出す。",
+              "zh": "把房間的垃圾掃到外面。"
+            }
+          ]
+        },
+        {
+          "word": "こびり付く",
+          "furigana": "こびり付[つ]く",
+          "meaning": "黏附、沾著不掉",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 家事與居住",
+          "masu_form": "こびり付きます",
+          "nai_form": "こびり付かない",
+          "ta_form": "こびり付いた",
+          "nakatta_form": "こびり付かなかった",
+          "potential_form": "こびり付ける",
+          "causative_form": "こびり付かせる",
+          "passive_form": "こびり付かれる",
+          "volitional_form": "こびり付こう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_housework",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "フライパンに焦げがこびり付いて取れない。",
+              "zh": "平底鍋上沾著焦痕洗不掉。"
+            }
+          ]
+        },
+        {
+          "word": "乗り継ぐ",
+          "furigana": "乗[の]り継[つ]ぐ",
+          "meaning": "換乘、轉車",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 交通與休閒",
+          "masu_form": "乗り継ぎます",
+          "nai_form": "乗り継がない",
+          "ta_form": "乗り継いだ",
+          "nakatta_form": "乗り継がなかった",
+          "potential_form": "乗り継げる",
+          "causative_form": "乗り継がせる",
+          "passive_form": "乗り継がれる",
+          "volitional_form": "乗り継ごう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_transport_leisure",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "飛行機を乗り継いで目的地に向かう。",
+              "zh": "轉乘飛機前往目的地。"
+            }
+          ]
+        },
+        {
+          "word": "乗り越す",
+          "furigana": "乗[の]り越[こ]す",
+          "meaning": "坐過站",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 交通與休閒",
+          "masu_form": "乗り越します",
+          "nai_form": "乗り越さない",
+          "ta_form": "乗り越した",
+          "nakatta_form": "乗り越さなかった",
+          "potential_form": "乗り越せる",
+          "causative_form": "乗り越させる",
+          "passive_form": "乗り越される",
+          "volitional_form": "乗り越そう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_transport_leisure",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "電車で寝過ごして駅を乗り越してしまった。",
+              "zh": "在電車上不小心睡過頭，結果坐過站了。"
+            }
+          ]
+        },
+        {
+          "word": "乗り遅れる",
+          "furigana": "乗[の]り遅[おく]れる",
+          "meaning": "沒趕上(車/飛機)",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 交通與休閒",
+          "masu_form": "乗り遅れます",
+          "nai_form": "乗り遅れない",
+          "ta_form": "乗り遅れた",
+          "nakatta_form": "乗り遅れなかった",
+          "potential_form": "乗り遅れられる",
+          "causative_form": "乗り遅れさせる",
+          "passive_form": "乗り遅れられる",
+          "volitional_form": "乗り遅れよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_transport_leisure",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "渋滞のせいで最終電車に乗り遅れた。",
+              "zh": "因為塞車而沒趕上末班電車。"
+            }
+          ]
+        },
+        {
+          "word": "乗り込む",
+          "furigana": "乗[の]り込[こ]む",
+          "meaning": "搭乘、進入",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 交通與休閒",
+          "masu_form": "乗り込みます",
+          "nai_form": "乗り込まない",
+          "ta_form": "乗り込んだ",
+          "nakatta_form": "乗り込まなかった",
+          "potential_form": "乗り込める",
+          "causative_form": "乗り込ませる",
+          "passive_form": "乗り込まれる",
+          "volitional_form": "乗り込もう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_transport_leisure",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "満員のバスに無理やり乗り込む。",
+              "zh": "硬擠上客滿的公車。"
+            }
+          ]
+        },
+        {
+          "word": "漕ぐ",
+          "furigana": "漕[こ]ぐ",
+          "meaning": "划(船)、踩(腳踏車)",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 交通與休閒",
+          "masu_form": "漕ぎます",
+          "nai_form": "漕がない",
+          "ta_form": "漕いだ",
+          "nakatta_form": "漕がなかった",
+          "potential_form": "漕げる",
+          "causative_form": "漕がせる",
+          "passive_form": "漕がれる",
+          "volitional_form": "漕ごう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_transport_leisure",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "自転車のペダルを思い切り漕ぐ。",
+              "zh": "拼命踩腳踏車的踏板。"
+            }
+          ]
+        },
+        {
+          "word": "操る",
+          "furigana": "操[あやつ]る",
+          "meaning": "操作、駕駛",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 交通與休閒",
+          "masu_form": "操ります",
+          "nai_form": "操らない",
+          "ta_form": "操った",
+          "nakatta_form": "操らなかった",
+          "potential_form": "操れる",
+          "causative_form": "操らせる",
+          "passive_form": "操られる",
+          "volitional_form": "操ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_transport_leisure",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "巧みにヨットを操る。",
+              "zh": "巧妙地駕駛著遊艇。"
+            }
+          ]
+        },
+        {
+          "word": "飛び乗る",
+          "furigana": "飛[と]び乗[の]る",
+          "meaning": "跳上去、飛奔而上",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 交通與休閒",
+          "masu_form": "飛び乗ります",
+          "nai_form": "飛び乗らない",
+          "ta_form": "飛び乗った",
+          "nakatta_form": "飛び乗らなかった",
+          "potential_form": "飛び乗れる",
+          "causative_form": "飛び乗らせる",
+          "passive_form": "飛び乗られる",
+          "volitional_form": "飛び乗ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_transport_leisure",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "発車ぎりぎりの電車に飛び乗った。",
+              "zh": "飛奔跳上即將發車的電車。"
+            }
+          ]
+        },
+        {
+          "word": "見送る",
+          "furigana": "見[み]送[おく]る",
+          "meaning": "送行、目送",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 交通與休閒",
+          "masu_form": "見送ります",
+          "nai_form": "見送らない",
+          "ta_form": "見送った",
+          "nakatta_form": "見送らなかった",
+          "potential_form": "見送れる",
+          "causative_form": "見送らせる",
+          "passive_form": "見送られる",
+          "volitional_form": "見送ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_transport_leisure",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "空港まで友達を見送る。",
+              "zh": "到機場為朋友送行。"
+            }
+          ]
+        },
+        {
+          "word": "出迎える",
+          "furigana": "出[で]迎[むか]える",
+          "meaning": "迎接",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 交通與休閒",
+          "masu_form": "出迎えます",
+          "nai_form": "出迎えない",
+          "ta_form": "出迎えた",
+          "nakatta_form": "出迎えなかった",
+          "potential_form": "出迎えられる",
+          "causative_form": "出迎えさせる",
+          "passive_form": "出迎えられる",
+          "volitional_form": "出迎えよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_transport_leisure",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "駅まで家族を出迎える。",
+              "zh": "到車站迎接家人。"
+            }
+          ]
+        },
+        {
+          "word": "さまよう",
+          "furigana": "さまよう",
+          "meaning": "徘徊、流浪",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 交通與休閒",
+          "masu_form": "さまよいます",
+          "nai_form": "さまよわない",
+          "ta_form": "さまよった",
+          "nakatta_form": "さまよわなかった",
+          "potential_form": "さまよえる",
+          "causative_form": "さまよわせる",
+          "passive_form": "さまよわれる",
+          "volitional_form": "さまよおう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_transport_leisure",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "道に迷って夜の街をさまよう。",
+              "zh": "迷了路在夜晚的街道徘徊。"
+            }
+          ]
+        },
+        {
+          "word": "ぶらつく",
+          "furigana": "ぶらつく",
+          "meaning": "閒逛、溜達",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 交通與休閒",
+          "masu_form": "ぶらつきます",
+          "nai_form": "ぶらつかない",
+          "ta_form": "ぶらついた",
+          "nakatta_form": "ぶらつかなかった",
+          "potential_form": "ぶらつける",
+          "causative_form": "ぶらつかせる",
+          "passive_form": "ぶらつかれる",
+          "volitional_form": "ぶらつこう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_transport_leisure",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "休みの日は近所をぶらつくことが多い。",
+              "zh": "假日經常在附近閒逛。"
+            }
+          ]
+        },
+        {
+          "word": "潜る",
+          "furigana": "潜[くぐ]る",
+          "meaning": "穿過、鑽過",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 交通與休閒",
+          "masu_form": "潜ります",
+          "nai_form": "潜らない",
+          "ta_form": "潜った",
+          "nakatta_form": "潜らなかった",
+          "potential_form": "潜れる",
+          "causative_form": "潜らせる",
+          "passive_form": "潜られる",
+          "volitional_form": "潜ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_transport_leisure",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "神社の鳥居を潜って境内に入る。",
+              "zh": "穿過神社の鳥居進入境內。"
+            }
+          ]
+        },
+        {
+          "word": "突き進む",
+          "furigana": "突[つ]き進[すす]む",
+          "meaning": "勇往直前、猛進",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 交通與休閒",
+          "masu_form": "突き進みます",
+          "nai_form": "突き進まない",
+          "ta_form": "突き進んだ",
+          "nakatta_form": "突き進まなかった",
+          "potential_form": "突き進める",
+          "causative_form": "突き進ませる",
+          "passive_form": "突き進まれる",
+          "volitional_form": "突き進もう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_transport_leisure",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "目標に向かってまっすぐ突き進む。",
+              "zh": "朝著目標筆直地勇往直前。"
+            }
+          ]
+        },
+        {
+          "word": "横切る",
+          "furigana": "横[よこ]切[ぎ]る",
+          "meaning": "橫穿、穿過",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "物質生活 ＞ 交通與休閒",
+          "masu_form": "横切ります",
+          "nai_form": "横切らない",
+          "ta_form": "横切った",
+          "nakatta_form": "横切らなかった",
+          "potential_form": "横切れる",
+          "causative_form": "横切らせる",
+          "passive_form": "横切られる",
+          "volitional_form": "横切ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_transport_leisure",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "黒猫が目の前を横切った。",
+              "zh": "黑貓從眼前橫穿而過。"
+            }
+          ]
+        },
+        {
+          "word": "引き返す",
+          "furigana": "引[ひ]き返[かえ]す",
+          "meaning": "折返、返回",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 交通與休閒",
+          "masu_form": "引き返します",
+          "nai_form": "引き返さない",
+          "ta_form": "引き返した",
+          "nakatta_form": "引き返さなかった",
+          "potential_form": "引き返せる",
+          "causative_form": "引き返させる",
+          "passive_form": "引き返される",
+          "volitional_form": "引き返そう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_transport_leisure",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "忘れ物に気づいて家へ引き返す。",
+              "zh": "察覺到忘了東西而折返回家。"
+            }
+          ]
+        },
+        {
+          "word": "寄り道する",
+          "furigana": "寄[よ]り道[みち]する",
+          "meaning": "繞道、順便去別處",
+          "verb_group": "第三類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 交通與休閒",
+          "masu_form": "寄り道します",
+          "nai_form": "寄り道しない",
+          "ta_form": "寄り道した",
+          "nakatta_form": "寄り道しなかった",
+          "potential_form": "寄り道できる",
+          "causative_form": "寄り道させる",
+          "passive_form": "寄り道される",
+          "volitional_form": "寄り道しよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_transport_leisure",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "学校の帰りにコンビニに寄り道する。",
+              "zh": "放學回家途中順便去了便利商店。"
+            }
+          ]
+        },
+        {
+          "word": "行き交う",
+          "furigana": "行[い]き交[か]う",
+          "meaning": "來來往往",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 交通與休閒",
+          "masu_form": "行き交います",
+          "nai_form": "行き交わない",
+          "ta_form": "行き交った",
+          "nakatta_form": "行き交わなかった",
+          "potential_form": "行き交える",
+          "causative_form": "行き交わせる",
+          "passive_form": "行き交われる",
+          "volitional_form": "行き交おう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_transport_leisure",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "多くの車が幹線道路を行き交う。",
+              "zh": "許多車輛在幹道上來來往往。"
+            }
+          ]
+        },
+        {
+          "word": "駆け巡る",
+          "furigana": "駆[か]け巡[めぐ]る",
+          "meaning": "奔走、到處跑",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 交通與休閒",
+          "masu_form": "駆け巡ります",
+          "nai_form": "駆け巡らない",
+          "ta_form": "駆け巡った",
+          "nakatta_form": "駆け巡らなかった",
+          "potential_form": "駆け巡れる",
+          "causative_form": "駆け巡らせる",
+          "passive_form": "駆け巡られる",
+          "volitional_form": "駆け巡ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_transport_leisure",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "子供たちが公園中を駆け巡っている。",
+              "zh": "孩子們在公園裡到處奔跑。"
+            }
+          ]
+        },
+        {
+          "word": "潜り込む",
+          "furigana": "潜[もぐ]り込[こ]む",
+          "meaning": "潛入、鑽進去",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 交通與休閒",
+          "masu_form": "潜り込みます",
+          "nai_form": "潜り込まない",
+          "ta_form": "潜り込んだ",
+          "nakatta_form": "潜り込まなかった",
+          "potential_form": "潜り込める",
+          "causative_form": "潜り込ませる",
+          "passive_form": "潜り込まれる",
+          "volitional_form": "潜り込もう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_transport_leisure",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "寒かったので暖かい布団に潜り込んだ。",
+              "zh": "因為很冷所以鑽進了溫暖的被窩裡。"
+            }
+          ]
+        },
+        {
+          "word": "もたれる",
+          "furigana": "もたれる",
+          "meaning": "靠著、倚靠",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "物質生活 ＞ 交通與休閒",
+          "masu_form": "もたれます",
+          "nai_form": "もたれない",
+          "ta_form": "もたれた",
+          "nakatta_form": "もたれなかった",
+          "potential_form": "もたれられる",
+          "causative_form": "もたれさせる",
+          "passive_form": "もたれられる",
+          "volitional_form": "もたれよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_transport_leisure",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "電車の壁にもたれて寝る。",
+              "zh": "靠著電車的牆壁睡覺。"
+            }
+          ]
+        },
+        {
+          "word": "打ち明ける",
+          "furigana": "打[う]ち明[あ]ける",
+          "meaning": "坦白、說出(秘密等)",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 溝通與表達",
+          "masu_form": "打ち明けます",
+          "nai_form": "打ち明けない",
+          "ta_form": "打ち明けた",
+          "nakatta_form": "打ち明けなかった",
+          "potential_form": "打ち明けられる",
+          "causative_form": "打ち明けさせる",
+          "passive_form": "打ち明けられる",
+          "volitional_form": "打ち明けよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_communication",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "親友に心の悩みを打ち明ける。",
+              "zh": "向摯友坦白心中的煩惱。"
+            }
+          ]
+        },
+        {
+          "word": "促す",
+          "furigana": "促[うなが]す",
+          "meaning": "催促、促使",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 溝通與表達",
+          "masu_form": "促します",
+          "nai_form": "促さない",
+          "ta_form": "促した",
+          "nakatta_form": "促さなかった",
+          "potential_form": "促せる",
+          "causative_form": "促させる",
+          "passive_form": "促される",
+          "volitional_form": "促そう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_communication",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "客に早めの退席を促す。",
+              "zh": "催促客人早點離席。"
+            }
+          ]
+        },
+        {
+          "word": "遮る",
+          "furigana": "遮[さえぎ]る",
+          "meaning": "遮擋、打斷(話語)",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 溝通與表達",
+          "masu_form": "遮ります",
+          "nai_form": "遮らない",
+          "ta_form": "遮った",
+          "nakatta_form": "遮らなかった",
+          "potential_form": "遮れる",
+          "causative_form": "遮らせる",
+          "passive_form": "遮られる",
+          "volitional_form": "遮ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_communication",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "相手の言葉を途中で遮る。",
+              "zh": "中途打斷對方的話。"
+            }
+          ]
+        },
+        {
+          "word": "ぼやく",
+          "furigana": "ぼやく",
+          "meaning": "發牢騷、抱怨",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "社會與文明 ＞ 溝通與表達",
+          "masu_form": "ぼやきます",
+          "nai_form": "ぼやかない",
+          "ta_form": "ぼやいた",
+          "nakatta_form": "ぼやかなかった",
+          "potential_form": "ぼやける",
+          "causative_form": "ぼやかせる",
+          "passive_form": "ぼやかれる",
+          "volitional_form": "ぼやこう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_communication",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "仕事が忙しすぎると居酒屋でぼやく。",
+              "zh": "在居酒屋抱怨工作太忙。"
+            }
+          ]
+        },
+        {
+          "word": "悟る",
+          "furigana": "悟[さと]る",
+          "meaning": "領悟、察覺",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 溝通與表達",
+          "masu_form": "悟ります",
+          "nai_form": "悟らない",
+          "ta_form": "悟った",
+          "nakatta_form": "悟らなかった",
+          "potential_form": "悟れる",
+          "causative_form": "悟らせる",
+          "passive_form": "悟られる",
+          "volitional_form": "悟ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_communication",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼の表情から事の重大さを悟った。",
+              "zh": "從他的表情察覺到了事情的嚴重性。"
+            }
+          ]
+        },
+        {
+          "word": "ほのめかす",
+          "furigana": "ほのめかす",
+          "meaning": "暗示、透露",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 溝通與表達",
+          "masu_form": "ほのめかします",
+          "nai_form": "ほのめかさない",
+          "ta_form": "ほのめかした",
+          "nakatta_form": "ほのめかさなかった",
+          "potential_form": "ほのめかせる",
+          "causative_form": "ほのめかさせる",
+          "passive_form": "ほのめかされる",
+          "volitional_form": "ほのめかそう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_communication",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "辞任するつもりであることをほのめかす。",
+              "zh": "暗示了打算辭職的想法。"
+            }
+          ]
+        },
+        {
+          "word": "強いる",
+          "furigana": "強[し]いる",
+          "meaning": "強迫、迫使",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 溝通與表達",
+          "masu_form": "強います",
+          "nai_form": "強いない",
+          "ta_form": "強いた",
+          "nakatta_form": "強いなかった",
+          "potential_form": "強いられる",
+          "causative_form": "強いさせる",
+          "passive_form": "強いられる",
+          "volitional_form": "強いよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_communication",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "嫌がる子供に無理やり勉強を強いる。",
+              "zh": "強迫不情願的孩子讀書。"
+            }
+          ]
+        },
+        {
+          "word": "なだめる",
+          "furigana": "なだめる",
+          "meaning": "安撫、勸解",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 溝通與表達",
+          "masu_form": "なだめます",
+          "nai_form": "なだめない",
+          "ta_form": "なだめた",
+          "nakatta_form": "なだめなかった",
+          "potential_form": "なだめられる",
+          "causative_form": "なだめさせる",
+          "passive_form": "なだめられる",
+          "volitional_form": "なだめよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_communication",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "泣いている赤ん坊を優しくなだめる。",
+              "zh": "溫柔地安撫哭泣的嬰兒。"
+            }
+          ]
+        },
+        {
+          "word": "けなす",
+          "furigana": "けなす",
+          "meaning": "貶低、說壞話",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 溝通與表達",
+          "masu_form": "けなします",
+          "nai_form": "けなさない",
+          "ta_form": "けなした",
+          "nakatta_form": "けなさなかった",
+          "potential_form": "けなせる",
+          "causative_form": "けなさせる",
+          "passive_form": "けなされる",
+          "volitional_form": "けなそう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_communication",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "他人の努力を頭からけなしてはいけない。",
+              "zh": "不能一味貶低他人的努力。"
+            }
+          ]
+        },
+        {
+          "word": "欺く",
+          "furigana": "欺[あざむ]く",
+          "meaning": "欺騙、蒙蔽",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 溝通與表達",
+          "masu_form": "欺きます",
+          "nai_form": "欺かない",
+          "ta_form": "欺いた",
+          "nakatta_form": "欺かなかった",
+          "potential_form": "欺ける",
+          "causative_form": "欺かせる",
+          "passive_form": "欺かれる",
+          "volitional_form": "欺こう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_communication",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "敵を欺くために嘘の情報を流す。",
+              "zh": "為了欺騙敵人而散布假情報。"
+            }
+          ]
+        },
+        {
+          "word": "つぶやく",
+          "furigana": "つぶやく",
+          "meaning": "嘟囔、喃喃自語",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "社會與文明 ＞ 溝通與表達",
+          "masu_form": "つぶやきます",
+          "nai_form": "つぶやかない",
+          "ta_form": "つぶやいた",
+          "nakatta_form": "つぶやかなかった",
+          "potential_form": "つぶやける",
+          "causative_form": "つぶやかせる",
+          "passive_form": "つぶやかれる",
+          "volitional_form": "つぶやこう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_communication",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "「もう疲れた」と小さくつぶやいた。",
+              "zh": "小聲地喃喃自語說「好累」。"
+            }
+          ]
+        },
+        {
+          "word": "呼び止める",
+          "furigana": "呼[よ]び止[と]める",
+          "meaning": "叫住",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 溝通與表達",
+          "masu_form": "呼び止めます",
+          "nai_form": "呼び止めない",
+          "ta_form": "呼び止めた",
+          "nakatta_form": "呼び止めなかった",
+          "potential_form": "呼び止められる",
+          "causative_form": "呼び止めさせる",
+          "passive_form": "呼び止められる",
+          "volitional_form": "呼び止めよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_communication",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "道端で突然知らない人に呼び止められた。",
+              "zh": "在路邊突然被不認識的人叫住。"
+            }
+          ]
+        },
+        {
+          "word": "言い淀む",
+          "furigana": "言[い]い淀[よど]む",
+          "meaning": "吞吞吐吐、欲言又止",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "社會與文明 ＞ 溝通與表達",
+          "masu_form": "言い淀みます",
+          "nai_form": "言い淀まない",
+          "ta_form": "言い淀んだ",
+          "nakatta_form": "言い淀まなかった",
+          "potential_form": "言い淀める",
+          "causative_form": "言い淀ませる",
+          "passive_form": "言い淀まれる",
+          "volitional_form": "言い淀もう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_communication",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "真実を告げるべきかどうか、彼は言い淀んだ。",
+              "zh": "對於是否該告知真相，他顯得吞吞吐吐。"
+            }
+          ]
+        },
+        {
+          "word": "言い張る",
+          "furigana": "言[い]い張[は]る",
+          "meaning": "堅持說、固執己見",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 溝通與表達",
+          "masu_form": "言い張ります",
+          "nai_form": "言い張らない",
+          "ta_form": "言い張った",
+          "nakatta_form": "言い張らなかった",
+          "potential_form": "言い張れる",
+          "causative_form": "言い張らせる",
+          "passive_form": "言い張られる",
+          "volitional_form": "言い張ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_communication",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "自分は絶対に悪くないと言い張る。",
+              "zh": "堅稱自己絕對沒有錯。"
+            }
+          ]
+        },
+        {
+          "word": "罵る",
+          "furigana": "罵[ののし]る",
+          "meaning": "謾罵、痛罵",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 溝通與表達",
+          "masu_form": "罵ります",
+          "nai_form": "罵らない",
+          "ta_form": "罵った",
+          "nakatta_form": "罵らなかった",
+          "potential_form": "罵れる",
+          "causative_form": "罵らせる",
+          "passive_form": "罵られる",
+          "volitional_form": "罵ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_communication",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "運転手はひどい言葉で相手を罵った。",
+              "zh": "司機用難聽的話語痛罵對方。"
+            }
+          ]
+        },
+        {
+          "word": "咎める",
+          "furigana": "咎[とが]める",
+          "meaning": "責備、盤問",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 溝通與表達",
+          "masu_form": "咎めます",
+          "nai_form": "咎めない",
+          "ta_form": "咎めた",
+          "nakatta_form": "咎めなかった",
+          "potential_form": "咎められる",
+          "causative_form": "咎めさせる",
+          "passive_form": "咎められる",
+          "volitional_form": "咎めよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_communication",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "遅刻したことを厳しく咎められる。",
+              "zh": "遲到一事受到嚴厲的責備。"
+            }
+          ]
+        },
+        {
+          "word": "煽る",
+          "furigana": "煽[あお]る",
+          "meaning": "煽動、刺激",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 溝通與表達",
+          "masu_form": "煽ります",
+          "nai_form": "煽らない",
+          "ta_form": "煽った",
+          "nakatta_form": "煽らなかった",
+          "potential_form": "煽れる",
+          "causative_form": "煽らせる",
+          "passive_form": "煽られる",
+          "volitional_form": "煽ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_communication",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "マスコミが国民の不安を煽る。",
+              "zh": "媒體煽動國民的不安。"
+            }
+          ]
+        },
+        {
+          "word": "諭す",
+          "furigana": "諭[さと]す",
+          "meaning": "曉以大義、勸導",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 溝通與表達",
+          "masu_form": "諭します",
+          "nai_form": "諭さない",
+          "ta_form": "諭した",
+          "nakatta_form": "諭さなかった",
+          "potential_form": "諭せる",
+          "causative_form": "諭させる",
+          "passive_form": "諭される",
+          "volitional_form": "諭そう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_communication",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "過ちを犯した生徒を優しく諭す。",
+              "zh": "溫和地勸導犯錯的學生。"
+            }
+          ]
+        },
+        {
+          "word": "唱える",
+          "furigana": "唱[とな]える",
+          "meaning": "提倡、聲明",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 溝通與表達",
+          "masu_form": "唱えます",
+          "nai_form": "唱えない",
+          "ta_form": "唱えた",
+          "nakatta_form": "唱えなかった",
+          "potential_form": "唱えられる",
+          "causative_form": "唱えさせる",
+          "passive_form": "唱えられる",
+          "volitional_form": "唱えよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_communication",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "新しい教育改革の理論を唱える。",
+              "zh": "提倡新的教育改革理論。"
+            }
+          ]
+        },
+        {
+          "word": "ささやく",
+          "furigana": "ささやく",
+          "meaning": "低聲私語、耳語",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "社會與文明 ＞ 溝通與表達",
+          "masu_form": "ささやきます",
+          "nai_form": "ささやかない",
+          "ta_form": "ささやいた",
+          "nakatta_form": "ささやかなかった",
+          "potential_form": "ささやける",
+          "causative_form": "ささやかせる",
+          "passive_form": "ささやかれる",
+          "volitional_form": "ささやこう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_communication",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼女は私の耳元で愛の言葉をささやいた。",
+              "zh": "她在我耳邊低聲訴說愛語。"
+            }
+          ]
         }
       ],
       "kana": {
