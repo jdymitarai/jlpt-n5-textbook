@@ -80178,6 +80178,1026 @@
               "zh": "與過去案件相似的手法。"
             }
           ]
+        },
+        {
+          "word": "俯く",
+          "reading": "うつむく",
+          "furigana": "俯[うつむ]く",
+          "romaji": "utsumuku",
+          "meaning": "低頭、垂頭",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_body_movement",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "恥ずかしくて顔を真っ赤にして俯いた。",
+              "zh": "因為害羞而羞紅了臉低下了頭。"
+            }
+          ]
+        },
+        {
+          "word": "仰ぐ",
+          "reading": "あおぐ",
+          "furigana": "仰[あお]ぐ",
+          "romaji": "aogu",
+          "meaning": "仰望、抬頭",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_body_movement",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "夜空を仰ぐと、満天の星が輝いていた。",
+              "zh": "仰望夜空，滿天繁星閃耀。"
+            }
+          ]
+        },
+        {
+          "word": "跨ぐ",
+          "reading": "またぐ",
+          "furigana": "跨[また]ぐ",
+          "romaji": "matagu",
+          "meaning": "跨越、跨過",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_body_movement",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "水たまりを跨いで歩く。",
+              "zh": "跨過水窪走路。"
+            }
+          ]
+        },
+        {
+          "word": "躓く",
+          "reading": "つまずく",
+          "furigana": "躓[つまず]く",
+          "romaji": "tsumazuku",
+          "meaning": "絆倒、跌跤",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_body_movement",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "道にある石に躓いて転んでしまった。",
+              "zh": "被路上的石頭絆倒摔了一跤。"
+            }
+          ]
+        },
+        {
+          "word": "屈む",
+          "reading": "かがむ",
+          "furigana": "屈[かが]む",
+          "romaji": "kagamu",
+          "meaning": "彎腰、蹲下",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_body_movement",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "落ちたものを拾おうとして屈む。",
+              "zh": "為了撿掉落的東西而彎腰。"
+            }
+          ]
+        },
+        {
+          "word": "踞る",
+          "reading": "うずくまる",
+          "furigana": "踞[うずくま]る",
+          "romaji": "uzukumaru",
+          "meaning": "蹲伏、蜷縮",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_body_movement",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "お腹が痛くてその場に踞った。",
+              "zh": "因為肚子痛而在原地蹲了下來。"
+            }
+          ]
+        },
+        {
+          "word": "寄りかかる",
+          "reading": "よりかかる",
+          "furigana": "寄[よ]りかかる",
+          "romaji": "yorikakaru",
+          "meaning": "依靠、靠著",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_body_movement",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "疲れたので壁に寄りかかって休む。",
+              "zh": "因為累了所以靠在牆上休息。"
+            }
+          ]
+        },
+        {
+          "word": "もたれる",
+          "reading": "もたれる",
+          "furigana": "もたれる",
+          "romaji": "motareru",
+          "meaning": "靠著、倚靠",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_body_movement",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "椅子の背にもたれてリラックスする。",
+              "zh": "靠在椅背上放鬆。"
+            }
+          ]
+        },
+        {
+          "word": "擦る",
+          "reading": "こする",
+          "furigana": "擦[こす]る",
+          "romaji": "kosuru",
+          "meaning": "摩擦、擦拭",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_body_movement",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "眠くて目を何度も擦った。",
+              "zh": "因為很睏揉了好幾次眼睛。"
+            }
+          ]
+        },
+        {
+          "word": "さする",
+          "reading": "さする",
+          "furigana": "さする",
+          "romaji": "sasuru",
+          "meaning": "撫摸、搓揉",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_body_movement",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "寒さで冷えた手をさする。",
+              "zh": "搓揉因為寒冷而冰冷的手。"
+            }
+          ]
+        },
+        {
+          "word": "抓る",
+          "reading": "つねる",
+          "furigana": "抓[つね]る",
+          "romaji": "tsuneru",
+          "meaning": "捏、掐",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_body_movement",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "夢ではないかと自分の頬を抓ってみた。",
+              "zh": "捏了一下自己的臉頰看看是不是在做夢。"
+            }
+          ]
+        },
+        {
+          "word": "むしる",
+          "reading": "むしる",
+          "furigana": "むしる",
+          "romaji": "mushiru",
+          "meaning": "拔、揪",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_body_movement",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "庭に生えている雑草をむしる。",
+              "zh": "拔除長在庭院裡的雜草。"
+            }
+          ]
+        },
+        {
+          "word": "捲る",
+          "reading": "めくる",
+          "furigana": "捲[めく]る",
+          "romaji": "mekuru",
+          "meaning": "翻開、掀起",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_body_movement",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "本のページをパラパラと捲る。",
+              "zh": "嘩啦嘩啦地翻著書頁。"
+            }
+          ]
+        },
+        {
+          "word": "摘む",
+          "reading": "つまむ",
+          "furigana": "摘[つま]む",
+          "romaji": "tsumamu",
+          "meaning": "捏住、夾起",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_body_movement",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "箸でおかずを摘んで食べる。",
+              "zh": "用筷子夾菜吃。"
+            }
+          ]
+        },
+        {
+          "word": "掴む",
+          "reading": "つかむ",
+          "furigana": "掴[つか]む",
+          "romaji": "tsukamu",
+          "meaning": "抓住、把握",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_body_movement",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "電車が揺れたので吊り革をしっかりと掴む。",
+              "zh": "因為電車搖晃所以緊緊抓住吊環。"
+            }
+          ]
+        },
+        {
+          "word": "揉む",
+          "reading": "もむ",
+          "furigana": "揉[も]む",
+          "romaji": "momu",
+          "meaning": "揉、按摩",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_body_movement",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "疲れた肩を揉んでもらう。",
+              "zh": "請別人幫忙按摩疲勞的肩膀。"
+            }
+          ]
+        },
+        {
+          "word": "揺する",
+          "reading": "ゆする",
+          "furigana": "揺[ゆ]する",
+          "romaji": "yusuru",
+          "meaning": "搖晃、抖動",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_body_movement",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "眠っている子供を軽く揺すって起こす。",
+              "zh": "輕輕搖晃叫醒睡著的孩子。"
+            }
+          ]
+        },
+        {
+          "word": "担ぐ",
+          "reading": "かつぐ",
+          "furigana": "担[かつ]ぐ",
+          "romaji": "katsugu",
+          "meaning": "扛、擔",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_body_movement",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "重い荷物を肩に担いで運ぶ。",
+              "zh": "將沉重的行李扛在肩上搬運。"
+            }
+          ]
+        },
+        {
+          "word": "赴く",
+          "reading": "おもむく",
+          "furigana": "赴[おもむ]く",
+          "romaji": "omomuku",
+          "meaning": "前往、赴任",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_body_movement",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "被災地にボランティアとして赴く。",
+              "zh": "作為志工前往災區。"
+            }
+          ]
+        },
+        {
+          "word": "辿る",
+          "reading": "たどる",
+          "furigana": "辿[たど]る",
+          "romaji": "tadoru",
+          "meaning": "沿著走、追溯",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_body_movement",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "険しい山道を一歩ずつ辿って登る。",
+              "zh": "沿著險峻的山路一步步攀登。"
+            }
+          ]
+        },
+        {
+          "word": "見据える",
+          "reading": "みすえる",
+          "furigana": "見[み]据[す]える",
+          "romaji": "misueru",
+          "meaning": "凝視、看清",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_senses",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "将来を見据えて計画を立てる。",
+              "zh": "看清未來（放眼未來）來制定計畫。"
+            }
+          ]
+        },
+        {
+          "word": "見落とす",
+          "reading": "みおとす",
+          "furigana": "見[み]落[お]とす",
+          "romaji": "miotosu",
+          "meaning": "看漏、忽略",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_senses",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "書類の重要な部分を見落としてしまった。",
+              "zh": "看漏了文件中重要的部分。"
+            }
+          ]
+        },
+        {
+          "word": "見極める",
+          "reading": "みきわめる",
+          "furigana": "見[み]極[きわ]める",
+          "romaji": "mikiwameru",
+          "meaning": "看透、看清",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_senses",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "物事の本質を見極めることが大切だ。",
+              "zh": "看透事物的本質很重要。"
+            }
+          ]
+        },
+        {
+          "word": "見逃す",
+          "reading": "みのがす",
+          "furigana": "見[み]逃[のが]す",
+          "romaji": "minogasu",
+          "meaning": "看漏、放過",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_senses",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "決定的なチャンスを見逃してしまった。",
+              "zh": "錯過（看漏）了決定性的機會。"
+            }
+          ]
+        },
+        {
+          "word": "嗅ぎ付ける",
+          "reading": "かぎつける",
+          "furigana": "嗅[か]ぎ付[つ]ける",
+          "romaji": "kagitsukeru",
+          "meaning": "嗅出、察覺到",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_senses",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "記者はスクープの匂いを嗅ぎ付けた。",
+              "zh": "記者嗅出了獨家新聞的味道。"
+            }
+          ]
+        },
+        {
+          "word": "睨む",
+          "reading": "にらむ",
+          "furigana": "睨[にら]む",
+          "romaji": "niramu",
+          "meaning": "瞪、怒視",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_senses",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "怒った顔で相手をじっと睨む。",
+              "zh": "一臉怒氣地緊緊盯著（瞪著）對方。"
+            }
+          ]
+        },
+        {
+          "word": "覗き込む",
+          "reading": "のぞきこむ",
+          "furigana": "覗[のぞ]き込[こ]む",
+          "romaji": "nozokikomu",
+          "meaning": "探頭看、往裡面看",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_senses",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "子供が興味深そうに箱の中を覗き込む。",
+              "zh": "孩子興致勃勃地探頭往箱子裡看。"
+            }
+          ]
+        },
+        {
+          "word": "見張る",
+          "reading": "みはる",
+          "furigana": "見[み]張[は]る",
+          "romaji": "miharu",
+          "meaning": "監視、瞪大眼睛",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_senses",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "驚きのあまり目を見張った。",
+              "zh": "驚訝得瞪大了眼睛。"
+            }
+          ]
+        },
+        {
+          "word": "見惚れる",
+          "reading": "みとれる",
+          "furigana": "見[み]惚[と]れる",
+          "romaji": "mitoreru",
+          "meaning": "看入迷",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_senses",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "美しい景色に思わず見惚れてしまった。",
+              "zh": "美麗的景色讓人不禁看入迷了。"
+            }
+          ]
+        },
+        {
+          "word": "嘗める",
+          "reading": "なめる",
+          "furigana": "嘗[なめ]る",
+          "romaji": "nameru",
+          "meaning": "舔、小看",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_senses",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "猫が皿に残ったミルクを嘗める。",
+              "zh": "貓舔著盤子裡剩下的牛奶。"
+            }
+          ]
+        },
+        {
+          "word": "かじる",
+          "reading": "かじる",
+          "furigana": "かじる",
+          "romaji": "kajiru",
+          "meaning": "咬、啃、略知一二",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_senses",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "リンゴを丸ごと一口かじる。",
+              "zh": "將整顆蘋果咬了一口。"
+            }
+          ]
+        },
+        {
+          "word": "啜る",
+          "reading": "すする",
+          "furigana": "啜[すす]る",
+          "romaji": "susuru",
+          "meaning": "吸、啜飲",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_senses",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "熱いお茶を音を立てて啜る。",
+              "zh": "發出聲音啜飲熱茶。"
+            }
+          ]
+        },
+        {
+          "word": "しゃぶる",
+          "reading": "しゃぶる",
+          "furigana": "しゃぶる",
+          "romaji": "shaburu",
+          "meaning": "吸吮、含在嘴裡",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_senses",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "赤ちゃんが指をしゃぶっている。",
+              "zh": "小嬰兒正在吸吮手指。"
+            }
+          ]
+        },
+        {
+          "word": "いじる",
+          "reading": "いじる",
+          "furigana": "いじる",
+          "romaji": "ijiru",
+          "meaning": "擺弄、觸摸",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_senses",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "会議中にずっとスマホをいじっていた。",
+              "zh": "開會時一直擺弄著智慧型手機。"
+            }
+          ]
+        },
+        {
+          "word": "撫でる",
+          "reading": "なでる",
+          "furigana": "撫[な]でる",
+          "romaji": "naderu",
+          "meaning": "撫摸",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_senses",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "優しく子供の頭を撫でる。",
+              "zh": "溫柔地撫摸孩子的頭。"
+            }
+          ]
+        },
+        {
+          "word": "見合わせる",
+          "reading": "みあわせる",
+          "furigana": "見[み]合[あ]わせる",
+          "romaji": "miawaseru",
+          "meaning": "互視、暫停",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_senses",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "驚いてお互いの顔を見合わせた。",
+              "zh": "驚訝地互看彼此的臉。"
+            }
+          ]
+        },
+        {
+          "word": "窺う",
+          "reading": "うかがう",
+          "furigana": "窺[うかが]う",
+          "romaji": "ukagau",
+          "meaning": "窺視、觀察",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_senses",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "ドアの隙間から中の様子を窺う。",
+              "zh": "從門縫窺視裡面的樣子。"
+            }
+          ]
+        },
+        {
+          "word": "見守る",
+          "reading": "みまもる",
+          "furigana": "見[み]守[まも]る",
+          "romaji": "mimamoru",
+          "meaning": "守護、注視",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_senses",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "子供の成長を温かく見守る。",
+              "zh": "溫暖地注視著孩子的成長。"
+            }
+          ]
+        },
+        {
+          "word": "見渡す",
+          "reading": "みわたす",
+          "furigana": "見[み]渡[わた]す",
+          "romaji": "miwatasu",
+          "meaning": "放眼望去、眺望",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_senses",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "山頂から町全体を見渡すことができる。",
+              "zh": "從山頂可以放眼眺望整座城鎮。"
+            }
+          ]
+        },
+        {
+          "word": "見抜く",
+          "reading": "みぬく",
+          "furigana": "見[み]抜[ぬ]く",
+          "romaji": "minuku",
+          "meaning": "看穿、識破",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_senses",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼の嘘をすぐに見抜いた。",
+              "zh": "馬上就看穿了他的謊言。"
+            }
+          ]
+        },
+        {
+          "word": "息絶える",
+          "reading": "いきたえる",
+          "furigana": "息[いき]絶[た]える",
+          "romaji": "ikitaeru",
+          "meaning": "斷氣、死亡",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "重い病の末、静かに息絶えた。",
+              "zh": "在重病末期，平靜地斷了氣。"
+            }
+          ]
+        },
+        {
+          "word": "蘇る",
+          "reading": "よみがえる",
+          "furigana": "蘇[よみがえ]る",
+          "romaji": "yomigaeru",
+          "meaning": "甦醒、復甦",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "救命処置のおかげで奇跡的に蘇った。",
+              "zh": "多虧了急救處置奇蹟般地甦醒了。"
+            }
+          ]
+        },
+        {
+          "word": "飢える",
+          "reading": "うえる",
+          "furigana": "飢[う]える",
+          "romaji": "ueru",
+          "meaning": "飢餓、渴望",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "食糧不足で多くの人が飢えている。",
+              "zh": "因為糧食不足許多人正在挨餓。"
+            }
+          ]
+        },
+        {
+          "word": "潤う",
+          "reading": "うるおう",
+          "furigana": "潤[うるお]う",
+          "romaji": "uruou",
+          "meaning": "滋潤、受惠",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "恵みの雨で乾いた大地が潤った。",
+              "zh": "久旱逢甘霖，乾燥的大地得到了滋潤。"
+            }
+          ]
+        },
+        {
+          "word": "老いる",
+          "reading": "おいる",
+          "furigana": "老[お]いる",
+          "romaji": "oiru",
+          "meaning": "年老、衰老",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "人は誰でもいつかは老いるものだ。",
+              "zh": "人無論是誰總有一天都會老去。"
+            }
+          ]
+        },
+        {
+          "word": "老ける",
+          "reading": "ふける",
+          "furigana": "老[ふ]ける",
+          "romaji": "fukeru",
+          "meaning": "顯老、變老",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "苦労が多かったせいか、急に老けた。",
+              "zh": "或許是因為吃了很多苦，突然變顯老了。"
+            }
+          ]
+        },
+        {
+          "word": "衰える",
+          "reading": "おとろえる",
+          "furigana": "衰[おとろ]える",
+          "romaji": "otoroeru",
+          "meaning": "衰退、變弱",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "年を取るとともに体力が衰えてきた。",
+              "zh": "隨著年齡增長體力開始衰退了。"
+            }
+          ]
+        },
+        {
+          "word": "朽ちる",
+          "reading": "くちる",
+          "furigana": "朽[くち]る",
+          "romaji": "kuchiru",
+          "meaning": "腐朽、腐爛",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "倒れた木が森の中で朽ちていく。",
+              "zh": "倒下的樹木在森林中逐漸腐朽。"
+            }
+          ]
+        },
+        {
+          "word": "滅びる",
+          "reading": "ほろびる",
+          "furigana": "滅[ほろ]びる",
+          "romaji": "horobiru",
+          "meaning": "滅亡、毀滅",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "伝染病によって古代文明が滅びた。",
+              "zh": "因為傳染病古代文明滅亡了。"
+            }
+          ]
+        },
+        {
+          "word": "噎せる",
+          "reading": "むせる",
+          "furigana": "噎[む]せる",
+          "romaji": "museru",
+          "meaning": "嗆到、噎住",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "急いで水を飲んだら気管に入って噎せた。",
+              "zh": "急忙喝水結果跑進氣管嗆到了。"
+            }
+          ]
+        },
+        {
+          "word": "堪える",
+          "reading": "たえる",
+          "furigana": "堪[た]える",
+          "romaji": "taeru",
+          "meaning": "忍耐、承受",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "激しい痛みに堪えながら治療を受ける。",
+              "zh": "強忍著劇痛接受治療。"
+            }
+          ]
+        },
+        {
+          "word": "凌ぐ",
+          "reading": "しのぐ",
+          "furigana": "凌[しの]ぐ",
+          "romaji": "shinogu",
+          "meaning": "熬過、忍受",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "少しの食糧で飢えを凌ぐ。",
+              "zh": "用少量的糧食熬過飢餓。"
+            }
+          ]
+        },
+        {
+          "word": "患う",
+          "reading": "わずらう",
+          "furigana": "患[わずら]う",
+          "romaji": "wazurau",
+          "meaning": "患病、生病",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼は長年、胃腸の病気を患っている。",
+              "zh": "他長年患有胃腸疾病。"
+            }
+          ]
+        },
+        {
+          "word": "こじらせる",
+          "reading": "こじらせる",
+          "furigana": "こじらせる",
+          "romaji": "kojiraseru",
+          "meaning": "使病情惡化、使複雜化",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "風邪をこじらせて肺炎になってしまった。",
+              "zh": "感冒惡化變成了肺炎。"
+            }
+          ]
+        },
+        {
+          "word": "癒える",
+          "reading": "いえる",
+          "furigana": "癒[い]える",
+          "romaji": "ieru",
+          "meaning": "痊癒、治癒",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "時間が経てば心の傷も癒えるだろう。",
+              "zh": "隨著時間流逝，心中的傷痕也會痊癒吧。"
+            }
+          ]
+        },
+        {
+          "word": "養う",
+          "reading": "やしなう",
+          "furigana": "養[やしな]う",
+          "romaji": "yashinau",
+          "meaning": "養育、培養",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "休息をとって英気を養う。",
+              "zh": "休息以養精蓄銳。"
+            }
+          ]
+        },
+        {
+          "word": "培う",
+          "reading": "つちかう",
+          "furigana": "培[つちか]う",
+          "romaji": "tsuchikau",
+          "meaning": "培養、培育",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "厳しい練習で体力を培う。",
+              "zh": "透過嚴格的練習培養體力。"
+            }
+          ]
+        },
+        {
+          "word": "むせぶ",
+          "reading": "むせぶ",
+          "furigana": "むせぶ",
+          "romaji": "musebu",
+          "meaning": "哽咽、抽泣",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "悲しみのあまり涙にむせぶ。",
+              "zh": "因為過度悲傷而哽咽流淚。"
+            }
+          ]
+        },
+        {
+          "word": "衰弱する",
+          "reading": "すいじゃくする",
+          "furigana": "衰[すい]弱[じゃく]する",
+          "romaji": "suijakusuru",
+          "meaning": "衰弱",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "病気で体がひどく衰弱している。",
+              "zh": "因為生病身體嚴重衰弱。"
+            }
+          ]
+        },
+        {
+          "word": "疲弊する",
+          "reading": "ひへいする",
+          "furigana": "疲[ひ]弊[へい]する",
+          "romaji": "hiheisuru",
+          "meaning": "疲憊、疲弊",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "長時間の労働で心身ともに疲弊した。",
+              "zh": "長時間的勞動讓身心都疲憊不堪。"
+            }
+          ]
         }
       ],
       "kana": {
