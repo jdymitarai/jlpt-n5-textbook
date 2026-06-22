@@ -73038,6 +73038,2046 @@
               "zh": "食物因消化酵素的作用而被分解。"
             }
           ]
+        },
+        {
+          "word": "介助",
+          "reading": "かいじょ",
+          "furigana": "介[かい]助[じょ]",
+          "romaji": "kaijo",
+          "meaning": "協助、幫助(多指身體上的)",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "歩行が困難な患者の介助をします。",
+              "zh": "協助步行困難的患者。"
+            }
+          ]
+        },
+        {
+          "word": "援助",
+          "reading": "えんじょ",
+          "furigana": "援[えん]助[じょ]",
+          "romaji": "enjo",
+          "meaning": "援助",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "患者の自立に向けた援助が必要です。",
+              "zh": "需要援助患者邁向自立。"
+            }
+          ]
+        },
+        {
+          "word": "処置",
+          "reading": "しょち",
+          "furigana": "処[しょ]置[ち]",
+          "romaji": "shochi",
+          "meaning": "處置、處理",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "緊急の医療処置が行われました。",
+              "zh": "進行了緊急的醫療處置。"
+            }
+          ]
+        },
+        {
+          "word": "措置",
+          "reading": "そち",
+          "furigana": "措[そ]置[ち]",
+          "romaji": "sochi",
+          "meaning": "措施",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "感染拡大を防ぐための措置をとります。",
+              "zh": "採取防止感染擴大的措施。"
+            }
+          ]
+        },
+        {
+          "word": "療法",
+          "reading": "りょうほう",
+          "furigana": "療[りょう]法[ほう]",
+          "romaji": "ryouhou",
+          "meaning": "療法、治療法",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "新しいがんの療法が開発されました。",
+              "zh": "開發出了新的癌症療法。"
+            }
+          ]
+        },
+        {
+          "word": "啓発",
+          "reading": "けいはつ",
+          "furigana": "啓[けい]発[はつ]",
+          "romaji": "keihatsu",
+          "meaning": "啟發、教育",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "健康に関する啓発活動を行っています。",
+              "zh": "正在進行關於健康的宣導教育活動。"
+            }
+          ]
+        },
+        {
+          "word": "運営",
+          "reading": "うんえい",
+          "furigana": "運[うん]営[えい]",
+          "romaji": "un'ei",
+          "meaning": "營運、管理",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "病院の円滑な運営に努めます。",
+              "zh": "致力於醫院的順利營運。"
+            }
+          ]
+        },
+        {
+          "word": "規律",
+          "reading": "きりつ",
+          "furigana": "規[き]律[りつ]",
+          "romaji": "kiritsu",
+          "meaning": "紀律、規律",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "組織の規律を守ることが求められます。",
+              "zh": "被要求必須遵守組織的紀律。"
+            }
+          ]
+        },
+        {
+          "word": "査定",
+          "reading": "さてい",
+          "furigana": "査[さ]定[てい]",
+          "romaji": "satei",
+          "meaning": "查定、評估",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "患者の看護必要度を査定します。",
+              "zh": "評估患者的護理需求度。"
+            }
+          ]
+        },
+        {
+          "word": "監視",
+          "reading": "かんし",
+          "furigana": "監[かん]視[し]",
+          "romaji": "kanshi",
+          "meaning": "監視、監控",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "モニターで患者の状態を監視します。",
+              "zh": "透過監視器監控患者的狀態。"
+            }
+          ]
+        },
+        {
+          "word": "記載",
+          "reading": "きさい",
+          "furigana": "記[き]載[さい]",
+          "romaji": "kisai",
+          "meaning": "記載",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "カルテに正確な情報を記載します。",
+              "zh": "在病歷上記載正確的資訊。"
+            }
+          ]
+        },
+        {
+          "word": "手順",
+          "reading": "てじゅん",
+          "furigana": "手[て]順[じゅん]",
+          "romaji": "tejun",
+          "meaning": "程序、步驟",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "マニュアルの手順に従って処置を行います。",
+              "zh": "依照手冊的程序進行處置。"
+            }
+          ]
+        },
+        {
+          "word": "連携",
+          "reading": "れんけい",
+          "furigana": "連[れん]携[けい]",
+          "romaji": "renkei",
+          "meaning": "合作、協調",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "他の医療スタッフと連携してケアを提供します。",
+              "zh": "與其他醫療人員合作提供照護。"
+            }
+          ]
+        },
+        {
+          "word": "協働",
+          "reading": "きょうどう",
+          "furigana": "協[きょう]働[どう]",
+          "romaji": "kyoudou",
+          "meaning": "協同合作",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "多職種との協働が重要です。",
+              "zh": "與多種職業的協同合作是很重要的。"
+            }
+          ]
+        },
+        {
+          "word": "調整",
+          "reading": "ちょうせい",
+          "furigana": "調[ちょう]整[せい]",
+          "romaji": "chousei",
+          "meaning": "調整、協調",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "患者の家族と面会の調整をします。",
+              "zh": "與患者家屬協調會面時間。"
+            }
+          ]
+        },
+        {
+          "word": "備品",
+          "reading": "びひん",
+          "furigana": "備[び]品[ひん]",
+          "romaji": "bihin",
+          "meaning": "備品、器材",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "医療用の備品を管理します。",
+              "zh": "管理醫療用器材。"
+            }
+          ]
+        },
+        {
+          "word": "滅菌",
+          "reading": "めっきん",
+          "furigana": "滅[めっ]菌[きん]",
+          "romaji": "mekkin",
+          "meaning": "滅菌",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "使用済みの器具を完全に滅菌します。",
+              "zh": "將使用過的器具完全滅菌。"
+            }
+          ]
+        },
+        {
+          "word": "防止",
+          "reading": "ぼうし",
+          "furigana": "防[ぼう]止[し]",
+          "romaji": "boushi",
+          "meaning": "防止",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "医療事故の防止に努めます。",
+              "zh": "致力於防止醫療事故。"
+            }
+          ]
+        },
+        {
+          "word": "保健",
+          "reading": "ほけん",
+          "furigana": "保[ほ]健[けん]",
+          "romaji": "hoken",
+          "meaning": "保健",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "地域の保健活動に参加します。",
+              "zh": "參加地區的保健活動。"
+            }
+          ]
+        },
+        {
+          "word": "理念",
+          "reading": "りねん",
+          "furigana": "理[り]念[ねん]",
+          "romaji": "rinen",
+          "meaning": "理念",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_nursing",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "病院の基本理念を理解して働きます。",
+              "zh": "理解醫院的基本理念而工作。"
+            }
+          ]
+        },
+        {
+          "word": "執刀",
+          "reading": "しっとう",
+          "furigana": "執[しっ]刀[とう]",
+          "romaji": "shittou",
+          "meaning": "執刀、動手術",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_medsurg",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "有名な外科医がこの手術を執刀します。",
+              "zh": "有名的外科醫生將執刀這場手術。"
+            }
+          ]
+        },
+        {
+          "word": "麻酔",
+          "reading": "ますい",
+          "furigana": "麻[ま]酔[すい]",
+          "romaji": "masui",
+          "meaning": "麻醉",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_medsurg",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "手術の前に全身麻酔をかけます。",
+              "zh": "手術前進行全身麻醉。"
+            }
+          ]
+        },
+        {
+          "word": "縫合",
+          "reading": "ほうごう",
+          "furigana": "縫[ほう]合[ごう]",
+          "romaji": "hougou",
+          "meaning": "縫合",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_medsurg",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "傷口を丁寧に縫合しました。",
+              "zh": "仔細地縫合了傷口。"
+            }
+          ]
+        },
+        {
+          "word": "止血",
+          "reading": "しけつ",
+          "furigana": "止[し]血[けつ]",
+          "romaji": "shiketsu",
+          "meaning": "止血",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_medsurg",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "出血がひどいので直ちに止血します。",
+              "zh": "因為出血嚴重所以立即止血。"
+            }
+          ]
+        },
+        {
+          "word": "輸血",
+          "reading": "ゆけつ",
+          "furigana": "輸[ゆ]血[けつ]",
+          "romaji": "yuketsu",
+          "meaning": "輸血",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_medsurg",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "大量出血のため輸血が必要です。",
+              "zh": "因為大量出血所以需要輸血。"
+            }
+          ]
+        },
+        {
+          "word": "移植",
+          "reading": "いしょく",
+          "furigana": "移[い]植[しょく]",
+          "romaji": "ishoku",
+          "meaning": "移植",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_medsurg",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "ドナーから提供された臓器を移植します。",
+              "zh": "移植由捐贈者提供的器官。"
+            }
+          ]
+        },
+        {
+          "word": "臓器",
+          "reading": "ぞうき",
+          "furigana": "臓[ぞう]器[き]",
+          "romaji": "zouki",
+          "meaning": "器官、臟器",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_medsurg",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "複数の臓器に障害が出ています。",
+              "zh": "多個器官出現了障礙。"
+            }
+          ]
+        },
+        {
+          "word": "摘出",
+          "reading": "てきしゅつ",
+          "furigana": "摘[てき]出[しゅつ]",
+          "romaji": "tekishutsu",
+          "meaning": "摘除",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_medsurg",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "手術で腫瘍をすべて摘出しました。",
+              "zh": "在手術中摘除了所有的腫瘤。"
+            }
+          ]
+        },
+        {
+          "word": "合併症",
+          "reading": "がっぺいしょう",
+          "furigana": "合[がっ]併[ぺい]症[しょう]",
+          "romaji": "gappeishou",
+          "meaning": "併發症",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_medsurg",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "糖尿病の合併症を防ぐための治療を行います。",
+              "zh": "進行預防糖尿病併發症的治療。"
+            }
+          ]
+        },
+        {
+          "word": "拒絶",
+          "reading": "きょぜつ",
+          "furigana": "拒[きょ]絶[ぜつ]",
+          "romaji": "kyozetsu",
+          "meaning": "拒絕、排斥(反應)",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_medsurg",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "臓器移植後は拒絶反応に注意が必要です。",
+              "zh": "器官移植後需注意排斥反應。"
+            }
+          ]
+        },
+        {
+          "word": "治癒",
+          "reading": "ちゆ",
+          "furigana": "治[ち]癒[ゆ]",
+          "romaji": "chiyu",
+          "meaning": "治癒、痊癒",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_medsurg",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "適切な治療により病気が完全に治癒しました。",
+              "zh": "透過適當的治療，疾病已完全治癒。"
+            }
+          ]
+        },
+        {
+          "word": "全快",
+          "reading": "ぜんかい",
+          "furigana": "全[ぜん]快[かい]",
+          "romaji": "zenkai",
+          "meaning": "痊癒、康復",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_medsurg",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "一日も早い全快をお祈り申し上げます。",
+              "zh": "祈求您能早日康復。"
+            }
+          ]
+        },
+        {
+          "word": "再発",
+          "reading": "さいはつ",
+          "furigana": "再[さい]発[はつ]",
+          "romaji": "saihatsu",
+          "meaning": "復發",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_medsurg",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "がんの再発を防ぐために定期検診を受けます。",
+              "zh": "為了預防癌症復發而接受定期檢查。"
+            }
+          ]
+        },
+        {
+          "word": "転移",
+          "reading": "てんい",
+          "furigana": "転[てん]移[い]",
+          "romaji": "ten'i",
+          "meaning": "轉移、蔓延",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_medsurg",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "がん細胞が他の臓器に転移していました。",
+              "zh": "癌細胞已轉移到其他器官。"
+            }
+          ]
+        },
+        {
+          "word": "慢性",
+          "reading": "まんせい",
+          "furigana": "慢[まん]性[せい]",
+          "romaji": "mansei",
+          "meaning": "慢性",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_medsurg",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼は慢性の頭痛に悩まされています。",
+              "zh": "他深受慢性頭痛所苦。"
+            }
+          ]
+        },
+        {
+          "word": "急性",
+          "reading": "きゅうせい",
+          "furigana": "急[きゅう]性[せい]",
+          "romaji": "kyuusei",
+          "meaning": "急性",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_medsurg",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "急性の胃炎で病院に運ばれました。",
+              "zh": "因急性胃炎被送往醫院。"
+            }
+          ]
+        },
+        {
+          "word": "発作",
+          "reading": "ほっさ",
+          "furigana": "発[ほっ]作[さ]",
+          "romaji": "hossa",
+          "meaning": "發作",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_medsurg",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "夜中に急に喘息の発作が起きました。",
+              "zh": "半夜突然氣喘發作。"
+            }
+          ]
+        },
+        {
+          "word": "蘇生",
+          "reading": "そせい",
+          "furigana": "蘇[そ]生[せい]",
+          "romaji": "sosei",
+          "meaning": "復甦、甦醒",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_medsurg",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "心肺蘇生法を行って命を救いました。",
+              "zh": "進行心肺復甦術拯救了生命。"
+            }
+          ]
+        },
+        {
+          "word": "脈拍",
+          "reading": "みゃくはく",
+          "furigana": "脈[みゃく]拍[はく]",
+          "romaji": "myakuhaku",
+          "meaning": "脈搏",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_medsurg",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "患者の脈拍と血圧を測ります。",
+              "zh": "測量患者的脈搏和血壓。"
+            }
+          ]
+        },
+        {
+          "word": "投与",
+          "reading": "とうよ",
+          "furigana": "投[とう]与[よ]",
+          "romaji": "touyo",
+          "meaning": "投藥、給藥",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_medsurg",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "痛みを和らげるために鎮痛剤を投与します。",
+              "zh": "為了緩解疼痛而給予鎮痛劑。"
+            }
+          ]
+        },
+        {
+          "word": "妊娠",
+          "reading": "にんしん",
+          "furigana": "妊[にん]娠[しん]",
+          "romaji": "ninshin",
+          "meaning": "懷孕",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "妻が妊娠３ヶ月であることが分かりました。",
+              "zh": "得知妻子懷孕3個月了。"
+            }
+          ]
+        },
+        {
+          "word": "分娩",
+          "reading": "ぶんべん",
+          "furigana": "分[ぶん]娩[べん]",
+          "romaji": "bunben",
+          "meaning": "分娩、生產",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "無事に分娩を終え、母子ともに健康です。",
+              "zh": "順利結束分娩，母子均安。"
+            }
+          ]
+        },
+        {
+          "word": "胎児",
+          "reading": "たいじ",
+          "furigana": "胎[たい]児[じ]",
+          "romaji": "taiji",
+          "meaning": "胎兒",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "エコー検査で胎児の心音を確認します。",
+              "zh": "用超音波檢查確認胎兒的心音。"
+            }
+          ]
+        },
+        {
+          "word": "産婦",
+          "reading": "さんぷ",
+          "furigana": "産[さん]婦[ぷ]",
+          "romaji": "sanpu",
+          "meaning": "產婦",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "産婦の体調管理をしっかり行います。",
+              "zh": "好好進行產婦的身體狀況管理。"
+            }
+          ]
+        },
+        {
+          "word": "妊婦",
+          "reading": "にんぷ",
+          "furigana": "妊[にん]婦[ぷ]",
+          "romaji": "ninpu",
+          "meaning": "孕婦",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "電車で妊婦に席を譲りました。",
+              "zh": "在電車上讓座給孕婦。"
+            }
+          ]
+        },
+        {
+          "word": "助産",
+          "reading": "じょさん",
+          "furigana": "助[じょ]産[さん]",
+          "romaji": "josan",
+          "meaning": "接生、助產",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼女は助産師として病院で働いています。",
+              "zh": "她作為助產士在醫院工作。"
+            }
+          ]
+        },
+        {
+          "word": "母乳",
+          "reading": "ぼにゅう",
+          "furigana": "母[ぼ]乳[にゅう]",
+          "romaji": "bonyuu",
+          "meaning": "母乳",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "できるだけ母乳で育てたいと考えています。",
+              "zh": "考慮盡可能用母乳哺育。"
+            }
+          ]
+        },
+        {
+          "word": "授乳",
+          "reading": "じゅにゅう",
+          "furigana": "授[じゅ]乳[にゅう]",
+          "romaji": "junyuu",
+          "meaning": "哺乳",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "デパートには授乳室が設置されています。",
+              "zh": "百貨公司設有哺乳室。"
+            }
+          ]
+        },
+        {
+          "word": "乳幼児",
+          "reading": "にゅうようじ",
+          "furigana": "乳[にゅう]幼[よう]児[じ]",
+          "romaji": "nyuuyouji",
+          "meaning": "嬰幼兒",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "乳幼児の定期健診を実施します。",
+              "zh": "實施嬰幼兒的定期健康檢查。"
+            }
+          ]
+        },
+        {
+          "word": "児童",
+          "reading": "じどう",
+          "furigana": "児[じ]童[どう]",
+          "romaji": "jidou",
+          "meaning": "兒童",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "児童館で子供たちが遊んでいます。",
+              "zh": "孩子們在兒童館玩耍。"
+            }
+          ]
+        },
+        {
+          "word": "発育",
+          "reading": "はついく",
+          "furigana": "発[はつ]育[いく]",
+          "romaji": "hatsuiku",
+          "meaning": "發育",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "子供は順調に発育しています。",
+              "zh": "孩子正順利地發育著。"
+            }
+          ]
+        },
+        {
+          "word": "育成",
+          "reading": "いくせい",
+          "furigana": "育[いく]成[せい]",
+          "romaji": "ikusei",
+          "meaning": "培育、養成",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "次世代を担う人材の育成に力を入れます。",
+              "zh": "致力於培育擔當下一個世代的人才。"
+            }
+          ]
+        },
+        {
+          "word": "養育",
+          "reading": "よういく",
+          "furigana": "養[よう]育[いく]",
+          "romaji": "youiku",
+          "meaning": "養育、撫養",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "親には子供を養育する義務があります。",
+              "zh": "父母有養育孩子的義務。"
+            }
+          ]
+        },
+        {
+          "word": "虐待",
+          "reading": "ぎゃくたい",
+          "furigana": "虐[ぎゃく]待[たい]",
+          "romaji": "gyakutai",
+          "meaning": "虐待",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "児童虐待は絶対に許されない行為です。",
+              "zh": "虐待兒童是絕對不能被允許的行為。"
+            }
+          ]
+        },
+        {
+          "word": "産休",
+          "reading": "さんきゅう",
+          "furigana": "産[さん]休[きゅう]",
+          "romaji": "sankyuu",
+          "meaning": "產假",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "来月から産休に入ります。",
+              "zh": "從下個月開始放產假。"
+            }
+          ]
+        },
+        {
+          "word": "帝王切開",
+          "reading": "ていおうせっかい",
+          "furigana": "帝[てい]王[おう]切[せっ]開[かい]",
+          "romaji": "teiousekkai",
+          "meaning": "剖腹產",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "逆子のため帝王切開で出産しました。",
+              "zh": "因為胎位不正所以用剖腹產生產。"
+            }
+          ]
+        },
+        {
+          "word": "早産",
+          "reading": "そうざん",
+          "furigana": "早[そう]産[ざん]",
+          "romaji": "souzan",
+          "meaning": "早產",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼女は妊娠８ヶ月で早産しました。",
+              "zh": "她在懷孕8個月時早產了。"
+            }
+          ]
+        },
+        {
+          "word": "流産",
+          "reading": "りゅうざん",
+          "furigana": "流[りゅう]産[ざん]",
+          "romaji": "ryuuzan",
+          "meaning": "流產",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "残念ながら流産してしまいました。",
+              "zh": "很遺憾地流產了。"
+            }
+          ]
+        },
+        {
+          "word": "先天性",
+          "reading": "せんてんせい",
+          "furigana": "先[せん]天[てん]性[せい]",
+          "romaji": "sentensei",
+          "meaning": "先天性",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "この病気は先天性のものです。",
+              "zh": "這個疾病是先天性的。"
+            }
+          ]
+        },
+        {
+          "word": "保育",
+          "reading": "ほいく",
+          "furigana": "保[ほ]育[いく]",
+          "romaji": "hoiku",
+          "meaning": "保育、托育",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_pedsmats",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "共働きの家庭を支援するために保育施設を増やします。",
+              "zh": "為了支援雙薪家庭而增加托育設施。"
+            }
+          ]
+        },
+        {
+          "word": "鬱病",
+          "reading": "うつびょう",
+          "furigana": "鬱[うつ]病[びょう]",
+          "romaji": "utsubyou",
+          "meaning": "憂鬱症",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "ストレスが原因で鬱病を発症する人が増えています。",
+              "zh": "因壓力導致罹患憂鬱症的人正在增加。"
+            }
+          ]
+        },
+        {
+          "word": "妄想",
+          "reading": "もうそう",
+          "furigana": "妄[もう]想[そう]",
+          "romaji": "mousou",
+          "meaning": "妄想",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "患者は被害妄想を抱いています。",
+              "zh": "患者抱有被害妄想。"
+            }
+          ]
+        },
+        {
+          "word": "幻覚",
+          "reading": "げんかく",
+          "furigana": "幻[げん]覚[かく]",
+          "romaji": "genkaku",
+          "meaning": "幻覺",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "薬の副作用で幻覚が見えることがあります。",
+              "zh": "因為藥物的副作用有時會出現幻覺。"
+            }
+          ]
+        },
+        {
+          "word": "錯乱",
+          "reading": "さくらん",
+          "furigana": "錯[さく]乱[らん]",
+          "romaji": "sakuran",
+          "meaning": "錯亂、神智不清",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "強いショックで精神が錯乱状態になりました。",
+              "zh": "因受到強烈打擊導致精神處於錯亂狀態。"
+            }
+          ]
+        },
+        {
+          "word": "依存症",
+          "reading": "いぞんしょう",
+          "furigana": "依[い]存[ぞん]症[しょう]",
+          "romaji": "izonshou",
+          "meaning": "依賴症、成癮症",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "アルコール依存症の治療プログラムに参加します。",
+              "zh": "參加酒精成癮的治療計畫。"
+            }
+          ]
+        },
+        {
+          "word": "認知症",
+          "reading": "にんちしょう",
+          "furigana": "認[にん]知[ち]症[しょう]",
+          "romaji": "ninchishou",
+          "meaning": "失智症",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "認知症の高齢者を地域全体で支える必要があります。",
+              "zh": "整個社區有必要支持患有失智症的高齡者。"
+            }
+          ]
+        },
+        {
+          "word": "徘徊",
+          "reading": "はいかい",
+          "furigana": "徘[はい]徊[かい]",
+          "romaji": "haikai",
+          "meaning": "徘徊、遊走",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "深夜に徘徊する高齢者が保護されました。",
+              "zh": "深夜徘徊的高齡者受到了保護。"
+            }
+          ]
+        },
+        {
+          "word": "自閉症",
+          "reading": "じへいしょう",
+          "furigana": "自[じ]閉[へい]症[しょう]",
+          "romaji": "jiheishou",
+          "meaning": "自閉症",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "自閉症の子供への早期の教育支援が重要です。",
+              "zh": "對自閉症兒童進行早期的教育支援很重要。"
+            }
+          ]
+        },
+        {
+          "word": "カウンセリング",
+          "reading": "かうんせりんぐ",
+          "furigana": "カウンセリング",
+          "romaji": "kaunseringu",
+          "meaning": "心理諮商",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "専門の臨床心理士によるカウンセリングを受けます。",
+              "zh": "接受專業臨床心理師的心理諮商。"
+            }
+          ]
+        },
+        {
+          "word": "傾聴",
+          "reading": "けいちょう",
+          "furigana": "傾[けい]聴[ちょう]",
+          "romaji": "keichou",
+          "meaning": "傾聽",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "患者の悩みを否定せずに傾聴します。",
+              "zh": "不否定患者的煩惱並專心傾聽。"
+            }
+          ]
+        },
+        {
+          "word": "共感",
+          "reading": "きょうかん",
+          "furigana": "共[きょう]感[かん]",
+          "romaji": "kyoukan",
+          "meaning": "共鳴、同理心",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "相手の感情に共感することがコミュニケーションの基本です。",
+              "zh": "對方的感情產生共鳴是溝通的基礎。"
+            }
+          ]
+        },
+        {
+          "word": "保健所",
+          "reading": "ほけんじょ",
+          "furigana": "保[ほ]健[けん]所[じょ]",
+          "romaji": "hokenjo",
+          "meaning": "衛生所",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "地域の感染症対策は保健所が中心となって行います。",
+              "zh": "地區的傳染病對策由衛生所主導進行。"
+            }
+          ]
+        },
+        {
+          "word": "巡回",
+          "reading": "じゅんかい",
+          "furigana": "巡[じゅん]回[かい]",
+          "romaji": "junkai",
+          "meaning": "巡迴、巡視",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "保健師が地域の家庭を定期的に巡回します。",
+              "zh": "保健師定期巡視社區的家庭。"
+            }
+          ]
+        },
+        {
+          "word": "支援",
+          "reading": "しえん",
+          "furigana": "支[し]援[えん]",
+          "romaji": "shien",
+          "meaning": "支援、支持",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "障害者の就労支援を積極的に行っています。",
+              "zh": "積極進行身障者的就業支援。"
+            }
+          ]
+        },
+        {
+          "word": "連携",
+          "reading": "れんけい",
+          "furigana": "連[れん]携[けい]",
+          "romaji": "renkei",
+          "meaning": "合作、聯繫",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "医療機関と福祉施設が緊密に連携します。",
+              "zh": "醫療機構與社福機構緊密合作。"
+            }
+          ]
+        },
+        {
+          "word": "孤立",
+          "reading": "こりつ",
+          "furigana": "孤[こ]立[りつ]",
+          "romaji": "koritsu",
+          "meaning": "孤立",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "地域社会での高齢者の孤立を防ぐ取り組みが必要です。",
+              "zh": "需要有防止高齡者在社區中孤立的措施。"
+            }
+          ]
+        },
+        {
+          "word": "虐待",
+          "reading": "ぎゃくたい",
+          "furigana": "虐[ぎゃく]待[たい]",
+          "romaji": "gyakutai",
+          "meaning": "虐待",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "高齢者への虐待が社会問題化しています。",
+              "zh": "對高齡者的虐待已成為社會問題。"
+            }
+          ]
+        },
+        {
+          "word": "介入",
+          "reading": "かいにゅう",
+          "furigana": "介[かい]入[にゅう]",
+          "romaji": "kainyuu",
+          "meaning": "介入、干預",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "深刻な問題には専門家による早期の介入が必要です。",
+              "zh": "嚴重的問題需要專家早期介入。"
+            }
+          ]
+        },
+        {
+          "word": "ネットワーク",
+          "reading": "ねっとわーく",
+          "furigana": "ネットワーク",
+          "romaji": "nettowa-ku",
+          "meaning": "網路、網絡",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "地域住民の支援ネットワークを構築します。",
+              "zh": "構築當地居民的支援網絡。"
+            }
+          ]
+        },
+        {
+          "word": "コミュニティー",
+          "reading": "こみゅにてぃー",
+          "furigana": "コミュニティー",
+          "romaji": "komyunitei-",
+          "meaning": "社區、社群",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "med_psychcomm",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "誰もが安心して暮らせるコミュニティーを作ります。",
+              "zh": "打造每個人都能安心生活的社區。"
+            }
+          ]
+        },
+        {
+          "word": "骨格",
+          "reading": "こっかく",
+          "furigana": "骨[こっ]格[かく]",
+          "romaji": "kokkaku",
+          "meaning": "骨骼、架構",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "人間の骨格は複雑にできています。",
+              "zh": "人類的骨骼構造相當複雜。"
+            }
+          ]
+        },
+        {
+          "word": "脊髄",
+          "reading": "せきずい",
+          "furigana": "脊[せき]髄[ずい]",
+          "romaji": "sekizui",
+          "meaning": "脊髓",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "事故で脊髄を損傷してしまいました。",
+              "zh": "在事故中損傷了脊髓。"
+            }
+          ]
+        },
+        {
+          "word": "動脈",
+          "reading": "どうみゃく",
+          "furigana": "動[どう]脈[みゃく]",
+          "romaji": "doumyaku",
+          "meaning": "動脈",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "心臓から全身へ血液を送るのが動脈です。",
+              "zh": "將血液從心臟輸送到全身的是動脈。"
+            }
+          ]
+        },
+        {
+          "word": "静脈",
+          "reading": "じょうみゃく",
+          "furigana": "静[じょう]脈[みゃく]",
+          "romaji": "joumyaku",
+          "meaning": "靜脈",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "静脈から採血を行います。",
+              "zh": "從靜脈進行抽血。"
+            }
+          ]
+        },
+        {
+          "word": "粘膜",
+          "reading": "ねんまく",
+          "furigana": "粘[ねん]膜[まく]",
+          "romaji": "nenmaku",
+          "meaning": "黏膜",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "胃の粘膜が荒れています。",
+              "zh": "胃的黏膜發炎受損了。"
+            }
+          ]
+        },
+        {
+          "word": "染色体",
+          "reading": "せんしょくたい",
+          "furigana": "染[せん]色[しょく]体[たい]",
+          "romaji": "senshokutai",
+          "meaning": "染色體",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "人間の細胞には46本の染色体があります。",
+              "zh": "人類的細胞中有46條染色體。"
+            }
+          ]
+        },
+        {
+          "word": "遺伝子",
+          "reading": "いでんし",
+          "furigana": "遺[い]伝[でん]子[し]",
+          "romaji": "idenshi",
+          "meaning": "基因",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "病気の発症には遺伝子が関与しています。",
+              "zh": "疾病的發生與基因有關。"
+            }
+          ]
+        },
+        {
+          "word": "代謝",
+          "reading": "たいしゃ",
+          "furigana": "代[たい]謝[しゃ]",
+          "romaji": "taisha",
+          "meaning": "代謝",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "運動をして新陳代謝を高めます。",
+              "zh": "透過運動提高新陳代謝。"
+            }
+          ]
+        },
+        {
+          "word": "分泌",
+          "reading": "ぶんぴつ",
+          "furigana": "分[ぶん]泌[ぴつ]",
+          "romaji": "bunpitsu",
+          "meaning": "分泌",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "ホルモンの分泌が過剰になっています。",
+              "zh": "賀爾蒙分泌過剩。"
+            }
+          ]
+        },
+        {
+          "word": "免疫",
+          "reading": "めんえき",
+          "furigana": "免[めん]疫[えき]",
+          "romaji": "men'eki",
+          "meaning": "免疫",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "十分な睡眠をとって免疫力を高めましょう。",
+              "zh": "獲得充足睡眠來提高免疫力吧。"
+            }
+          ]
+        },
+        {
+          "word": "抗体",
+          "reading": "こうたい",
+          "furigana": "抗[こう]体[たい]",
+          "romaji": "koutai",
+          "meaning": "抗體",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "ウイルスに対する抗体ができました。",
+              "zh": "產生了對抗病毒的抗體。"
+            }
+          ]
+        },
+        {
+          "word": "摂取",
+          "reading": "せっしゅ",
+          "furigana": "摂[せっ]取[しゅ]",
+          "romaji": "sesshu",
+          "meaning": "攝取",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "塩分の摂取を控えてください。",
+              "zh": "請控制鹽分的攝取。"
+            }
+          ]
+        },
+        {
+          "word": "排出",
+          "reading": "はいしゅつ",
+          "furigana": "排[はい]出[しゅつ]",
+          "romaji": "haishutsu",
+          "meaning": "排出",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "体内の老廃物を排出します。",
+              "zh": "排出體內的廢物。"
+            }
+          ]
+        },
+        {
+          "word": "呼気",
+          "reading": "こき",
+          "furigana": "呼[こ]気[き]",
+          "romaji": "koki",
+          "meaning": "呼氣",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "呼気に含まれるアルコール濃度を測ります。",
+              "zh": "測量呼氣中包含的酒精濃度。"
+            }
+          ]
+        },
+        {
+          "word": "嗅覚",
+          "reading": "きゅうかく",
+          "furigana": "嗅[きゅう]覚[かく]",
+          "romaji": "kyuukaku",
+          "meaning": "嗅覺",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "風邪をひいて嗅覚が鈍っています。",
+              "zh": "因為感冒所以嗅覺變得遲鈍。"
+            }
+          ]
+        },
+        {
+          "word": "聴覚",
+          "reading": "ちょうかく",
+          "furigana": "聴[ちょう]覚[かく]",
+          "romaji": "choukaku",
+          "meaning": "聽覺",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "加齢とともに聴覚が衰えてきます。",
+              "zh": "聽覺會隨著年齡增長而衰退。"
+            }
+          ]
+        },
+        {
+          "word": "視覚",
+          "reading": "しかく",
+          "furigana": "視[し]覚[かく]",
+          "romaji": "shikaku",
+          "meaning": "視覺",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "人間は視覚から多くの情報を得ています。",
+              "zh": "人類透過視覺獲取許多資訊。"
+            }
+          ]
+        },
+        {
+          "word": "触覚",
+          "reading": "しょっかく",
+          "furigana": "触[しょっ]覚[かく]",
+          "romaji": "shokkaku",
+          "meaning": "觸覺",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "指先の触覚は非常に敏感です。",
+              "zh": "指尖的觸覺非常敏感。"
+            }
+          ]
+        },
+        {
+          "word": "味覚",
+          "reading": "みかく",
+          "furigana": "味[み]覚[かく]",
+          "romaji": "mikaku",
+          "meaning": "味覺",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "味覚障害が起きて味が分かりません。",
+              "zh": "發生了味覺障礙所以吃不出味道。"
+            }
+          ]
+        },
+        {
+          "word": "胴体",
+          "reading": "どうたい",
+          "furigana": "胴[どう]体[たい]",
+          "romaji": "doutai",
+          "meaning": "軀幹、身體",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "body_physiology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "飛行機の胴体部分にひびが入っています。",
+              "zh": "飛機的機身軀幹部分出現了裂痕。"
+            }
+          ]
+        },
+        {
+          "word": "兆候",
+          "reading": "ちょうこう",
+          "furigana": "兆[ちょう]候[こう]",
+          "romaji": "choukou",
+          "meaning": "徵兆、前兆",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "病気の初期の兆候を見逃さないことが大切です。",
+              "zh": "不要錯過疾病初期的徵兆很重要。"
+            }
+          ]
+        },
+        {
+          "word": "感染",
+          "reading": "かんせん",
+          "furigana": "感[かん]染[せん]",
+          "romaji": "kansen",
+          "meaning": "感染",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "新型ウイルスへの感染が拡大しています。",
+              "zh": "新型病毒的感染正在擴大。"
+            }
+          ]
+        },
+        {
+          "word": "伝染",
+          "reading": "でんせん",
+          "furigana": "伝[でん]染[せん]",
+          "romaji": "densen",
+          "meaning": "傳染",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "伝染を防ぐために隔離病棟に入ります。",
+              "zh": "為了防止傳染而進入隔離病房。"
+            }
+          ]
+        },
+        {
+          "word": "発病",
+          "reading": "はつびょう",
+          "furigana": "発[はつ]病[びょう]",
+          "romaji": "hatsubyou",
+          "meaning": "發病",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "ストレスが原因で発病することもあります。",
+              "zh": "有時也會因為壓力而發病。"
+            }
+          ]
+        },
+        {
+          "word": "疾患",
+          "reading": "しっかん",
+          "furigana": "疾[しっ]患[かん]",
+          "romaji": "shikkan",
+          "meaning": "疾病、疾患",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "心臓疾患のリスクを減らすために運動します。",
+              "zh": "為了減少心臟疾病的風險而運動。"
+            }
+          ]
+        },
+        {
+          "word": "腫瘍",
+          "reading": "しゅよう",
+          "furigana": "腫[しゅ]瘍[よう]",
+          "romaji": "shuyou",
+          "meaning": "腫瘤",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "検査の結果、脳に腫瘍が見つかりました。",
+              "zh": "檢查的結果，在腦部發現了腫瘤。"
+            }
+          ]
+        },
+        {
+          "word": "悪性",
+          "reading": "あくせい",
+          "furigana": "悪[あく]性[せい]",
+          "romaji": "akusei",
+          "meaning": "惡性",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "摘出した腫瘍は悪性でした。",
+              "zh": "摘除的腫瘤是惡性的。"
+            }
+          ]
+        },
+        {
+          "word": "良性",
+          "reading": "りょうせい",
+          "furigana": "良[りょう]性[せい]",
+          "romaji": "ryousei",
+          "meaning": "良性",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "ポリープは良性だったので心配ありません。",
+              "zh": "因為息肉是良性的所以不用擔心。"
+            }
+          ]
+        },
+        {
+          "word": "痙攣",
+          "reading": "けいれん",
+          "furigana": "痙[けい]攣[れん]",
+          "romaji": "keiren",
+          "meaning": "痙攣、抽筋",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "高熱を出して子供が痙攣を起こしました。",
+              "zh": "發高燒導致小孩發生痙攣。"
+            }
+          ]
+        },
+        {
+          "word": "麻痺",
+          "reading": "まひ",
+          "furigana": "麻[ま]痺[ひ]",
+          "romaji": "mahi",
+          "meaning": "麻痺",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "脳卒中の後遺症で右半身が麻痺しています。",
+              "zh": "因為中風的後遺症導致右半身麻痺。"
+            }
+          ]
+        },
+        {
+          "word": "炎症",
+          "reading": "えんしょう",
+          "furigana": "炎[えん]症[しょう]",
+          "romaji": "enshou",
+          "meaning": "發炎、炎症",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "喉に炎症が起きて痛みます。",
+              "zh": "喉嚨發炎會痛。"
+            }
+          ]
+        },
+        {
+          "word": "喘息",
+          "reading": "ぜんそく",
+          "furigana": "喘[ぜん]息[そく]",
+          "romaji": "zensoku",
+          "meaning": "氣喘",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "小児喘息の治療を続けています。",
+              "zh": "持續進行小兒氣喘的治療。"
+            }
+          ]
+        },
+        {
+          "word": "肺炎",
+          "reading": "はいえん",
+          "furigana": "肺[はい]炎[えん]",
+          "romaji": "haien",
+          "meaning": "肺炎",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "風邪をこじらせて肺炎になりました。",
+              "zh": "感冒惡化變成了肺炎。"
+            }
+          ]
+        },
+        {
+          "word": "結核",
+          "reading": "けっかく",
+          "furigana": "結[けっ]核[かく]",
+          "romaji": "kekkaku",
+          "meaning": "結核病",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "肺結核の疑いで精密検査を受けます。",
+              "zh": "因為疑似肺結核而接受精密檢查。"
+            }
+          ]
+        },
+        {
+          "word": "診療",
+          "reading": "しんりょう",
+          "furigana": "診[しん]療[りょう]",
+          "romaji": "shinryou",
+          "meaning": "看診、診療",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "休日のため診療は午前中のみです。",
+              "zh": "因為是假日所以診療只有在上午。"
+            }
+          ]
+        },
+        {
+          "word": "予後",
+          "reading": "よご",
+          "furigana": "予[よ]後[ご]",
+          "romaji": "yogo",
+          "meaning": "預後(疾病的發展與結果)",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "手術は成功し、予後も良好です。",
+              "zh": "手術成功，預後也很良好。"
+            }
+          ]
+        },
+        {
+          "word": "処方箋",
+          "reading": "しょほうせん",
+          "furigana": "処[しょ]方[ほう]箋[せん]",
+          "romaji": "shohousen",
+          "meaning": "處方箋",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "薬局に処方箋を出して薬をもらいます。",
+              "zh": "把處方箋交給藥局並拿藥。"
+            }
+          ]
+        },
+        {
+          "word": "錠剤",
+          "reading": "じょうざい",
+          "furigana": "錠[じょう]剤[ざい]",
+          "romaji": "jouzai",
+          "meaning": "藥錠",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "食後にこの錠剤を２つ飲んでください。",
+              "zh": "請在飯後服用兩顆這種藥錠。"
+            }
+          ]
+        },
+        {
+          "word": "副作用",
+          "reading": "ふくさよう",
+          "furigana": "副[ふく]作[さ]用[よう]",
+          "romaji": "fukusayou",
+          "meaning": "副作用",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "この薬は眠くなる副作用があります。",
+              "zh": "這個藥有會讓人想睡覺的副作用。"
+            }
+          ]
+        },
+        {
+          "word": "介抱",
+          "reading": "かいほう",
+          "furigana": "介[かい]抱[ほう]",
+          "romaji": "kaihou",
+          "meaning": "照顧、護理(病人)",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "health_medical",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "熱で倒れた友人を徹夜で介抱しました。",
+              "zh": "通宵照顧因為發燒而倒下的朋友。"
+            }
+          ]
         }
       ],
       "kana": {
