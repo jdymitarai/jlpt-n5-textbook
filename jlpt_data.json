@@ -75078,6 +75078,2046 @@
               "zh": "通宵照顧因為發燒而倒下的朋友。"
             }
           ]
+        },
+        {
+          "word": "気質",
+          "reading": "きしつ",
+          "furigana": "気[き]質[しつ]",
+          "romaji": "kishitsu",
+          "meaning": "氣質、秉性",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼は職人気質で仕事に妥協を許さない。",
+              "zh": "他有著職人的氣質，工作上不允許妥協。"
+            }
+          ]
+        },
+        {
+          "word": "性分",
+          "reading": "しょうぶん",
+          "furigana": "性[しょう]分[ぶん]",
+          "romaji": "shoubun",
+          "meaning": "天性、性情",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "じっとしていられない性分です。",
+              "zh": "我是個無法安靜待著的天性。"
+            }
+          ]
+        },
+        {
+          "word": "傲慢",
+          "reading": "ごうまん",
+          "furigana": "傲[ごう]慢[まん]",
+          "romaji": "gouman",
+          "meaning": "傲慢",
+          "pos": "名詞、な形容詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼の傲慢な態度は周囲の反感を買った。",
+              "zh": "他傲慢的態度招致了周遭的反感。"
+            }
+          ]
+        },
+        {
+          "word": "卑劣",
+          "reading": "ひれつ",
+          "furigana": "卑[ひ]劣[れつ]",
+          "romaji": "hiretsu",
+          "meaning": "卑劣",
+          "pos": "名詞、な形容詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "弱い者をいじめるなんて卑劣な行為だ。",
+              "zh": "欺負弱小真是卑劣的行為。"
+            }
+          ]
+        },
+        {
+          "word": "意気地",
+          "reading": "いきじ",
+          "furigana": "意[い]気[き]地[じ]",
+          "romaji": "ikiji",
+          "meaning": "骨氣、志氣",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "困難から逃げ出すとは意気地がない。",
+              "zh": "從困難中逃跑真是沒骨氣。"
+            }
+          ]
+        },
+        {
+          "word": "執着",
+          "reading": "しゅうちゃく",
+          "furigana": "執[しゅう]着[ちゃく]",
+          "romaji": "shuuchaku",
+          "meaning": "執著",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "過去の栄光への執着を捨てるべきだ。",
+              "zh": "應該捨棄對過去榮耀的執著。"
+            }
+          ]
+        },
+        {
+          "word": "葛藤",
+          "reading": "かっとう",
+          "furigana": "葛[かっ]藤[とう]",
+          "romaji": "kattou",
+          "meaning": "糾葛、內心衝突",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "理想と現実の狭間で葛藤している。",
+              "zh": "在理想與現實的夾縫中內心糾葛著。"
+            }
+          ]
+        },
+        {
+          "word": "劣等感",
+          "reading": "れっとうかん",
+          "furigana": "劣[れっ]等[とう]感[かん]",
+          "romaji": "rettoukan",
+          "meaning": "自卑感",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼は兄に対して強い劣等感を抱いている。",
+              "zh": "他對哥哥抱有強烈的自卑感。"
+            }
+          ]
+        },
+        {
+          "word": "優越感",
+          "reading": "ゆうえつかん",
+          "furigana": "優[ゆう]越[えつ]感[かん]",
+          "romaji": "yuuetsukan",
+          "meaning": "優越感",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "他人に勝ったことで優越感に浸る。",
+              "zh": "沉浸在戰勝他人的優越感中。"
+            }
+          ]
+        },
+        {
+          "word": "愛着",
+          "reading": "あいちゃく",
+          "furigana": "愛[あい]着[ちゃく]",
+          "romaji": "aichaku",
+          "meaning": "依戀、眷戀",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "長年使ってきた道具には愛着が湧く。",
+              "zh": "對長年使用的工具會產生依戀。"
+            }
+          ]
+        },
+        {
+          "word": "嫌悪",
+          "reading": "けんお",
+          "furigana": "嫌[けん]悪[お]",
+          "romaji": "ken'o",
+          "meaning": "厭惡",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼の自己中心的な態度に嫌悪を感じた。",
+              "zh": "對他以自我為中心的態度感到厭惡。"
+            }
+          ]
+        },
+        {
+          "word": "嫉妬",
+          "reading": "しっと",
+          "furigana": "嫉[しっ]妬[と]",
+          "romaji": "shitto",
+          "meaning": "嫉妒",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "友人の成功に嫉妬してしまう自分が嫌だ。",
+              "zh": "我很討厭嫉妒朋友成功的自己。"
+            }
+          ]
+        },
+        {
+          "word": "憤り",
+          "reading": "いきどおり",
+          "furigana": "憤[いきどお]り",
+          "romaji": "ikidoori",
+          "meaning": "憤怒、憤慨",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "不公正な判決に対して強い憤りを覚えた。",
+              "zh": "對不公正的判決感到強烈的憤慨。"
+            }
+          ]
+        },
+        {
+          "word": "憂鬱",
+          "reading": "ゆううつ",
+          "furigana": "憂[ゆう]鬱[うつ]",
+          "romaji": "yuuutsu",
+          "meaning": "憂鬱",
+          "pos": "名詞、な形容詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "雨の日が続くと憂鬱な気分になる。",
+              "zh": "連續的雨天會讓人感到憂鬱。"
+            }
+          ]
+        },
+        {
+          "word": "焦燥",
+          "reading": "しょうそう",
+          "furigana": "焦[しょう]燥[そう]",
+          "romaji": "shousou",
+          "meaning": "焦慮、焦躁",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "締め切りが迫り、焦燥感に駆られる。",
+              "zh": "截稿日逼近，被焦慮感驅使著。"
+            }
+          ]
+        },
+        {
+          "word": "衝動",
+          "reading": "しょうどう",
+          "furigana": "衝[しょう]動[どう]",
+          "romaji": "shoudou",
+          "meaning": "衝動",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "怒りのあまり衝動的な行動をとってしまった。",
+              "zh": "因為過度憤怒而採取了衝動的行為。"
+            }
+          ]
+        },
+        {
+          "word": "本能",
+          "reading": "ほんのう",
+          "furigana": "本[ほん]能[のう]",
+          "romaji": "honnou",
+          "meaning": "本能",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "危険を察知して本能的に身をかわした。",
+              "zh": "察覺危險後本能地閃避了。"
+            }
+          ]
+        },
+        {
+          "word": "理性",
+          "reading": "りせい",
+          "furigana": "理[り]性[せい]",
+          "romaji": "risei",
+          "meaning": "理性",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "人間は理性によって本能をコントロールできる。",
+              "zh": "人類可以憑藉理性控制本能。"
+            }
+          ]
+        },
+        {
+          "word": "知性",
+          "reading": "ちせい",
+          "furigana": "知[ち]性[せい]",
+          "romaji": "chisei",
+          "meaning": "知性、智力",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼女は知性と美しさを兼ね備えている。",
+              "zh": "她兼具知性與美貌。"
+            }
+          ]
+        },
+        {
+          "word": "哀愁",
+          "reading": "あいしゅう",
+          "furigana": "哀[あい]愁[しゅう]",
+          "romaji": "aishuu",
+          "meaning": "哀愁",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "psychology_character",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "秋の夕暮れにはどこか哀愁が漂っている。",
+              "zh": "秋天的黃昏總瀰漫著些許哀愁。"
+            }
+          ]
+        },
+        {
+          "word": "糧",
+          "reading": "かて",
+          "furigana": "糧[かて]",
+          "romaji": "kate",
+          "meaning": "糧食、精神食糧",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "読書は心の糧になります。",
+              "zh": "閱讀會成為心靈的糧食。"
+            }
+          ]
+        },
+        {
+          "word": "晩餐",
+          "reading": "ばんさん",
+          "furigana": "晩[ばん]餐[さん]",
+          "romaji": "bansan",
+          "meaning": "晚餐、晚宴",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "国王主催の晩餐会に招かれました。",
+              "zh": "受邀參加了國王主辦的晚宴。"
+            }
+          ]
+        },
+        {
+          "word": "膳",
+          "reading": "ぜん",
+          "furigana": "膳[ぜん]",
+          "romaji": "zen",
+          "meaning": "餐桌、飯菜",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "豪華なご馳走が膳に並べられた。",
+              "zh": "豪華的佳餚被擺在餐桌上。"
+            }
+          ]
+        },
+        {
+          "word": "味覚",
+          "reading": "みかく",
+          "furigana": "味[み]覚[かく]",
+          "romaji": "mikaku",
+          "meaning": "味覺",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "加齢とともに味覚が変化することがあります。",
+              "zh": "味覺有時會隨著年齡增長而變化。"
+            }
+          ]
+        },
+        {
+          "word": "風味",
+          "reading": "ふうみ",
+          "furigana": "風[ふう]味[み]",
+          "romaji": "fuumi",
+          "meaning": "風味、滋味",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "このチーズは独特の風味があります。",
+              "zh": "這款起司有獨特的風味。"
+            }
+          ]
+        },
+        {
+          "word": "嗜好",
+          "reading": "しこう",
+          "furigana": "嗜[し]好[こう]",
+          "romaji": "shikou",
+          "meaning": "嗜好、愛好",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "食べ物の嗜好は人それぞれです。",
+              "zh": "食物的喜好因人而異。"
+            }
+          ]
+        },
+        {
+          "word": "摂取",
+          "reading": "せっしゅ",
+          "furigana": "摂[せっ]取[しゅ]",
+          "romaji": "sesshu",
+          "meaning": "攝取",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "一日に必要な野菜を摂取するのは難しい。",
+              "zh": "要攝取一天所需的蔬菜很困難。"
+            }
+          ]
+        },
+        {
+          "word": "断食",
+          "reading": "だんじき",
+          "furigana": "断[だん]食[じき]",
+          "romaji": "danjiki",
+          "meaning": "斷食、禁食",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "健康のために週末は断食をしています。",
+              "zh": "為了健康，週末會進行斷食。"
+            }
+          ]
+        },
+        {
+          "word": "飢え",
+          "reading": "うえ",
+          "furigana": "飢[う]え",
+          "romaji": "ue",
+          "meaning": "飢餓",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "多くの人々が飢えに苦しんでいます。",
+              "zh": "許多人正飽受飢餓之苦。"
+            }
+          ]
+        },
+        {
+          "word": "偏食",
+          "reading": "へんしょく",
+          "furigana": "偏[へん]食[しょく]",
+          "romaji": "henshoku",
+          "meaning": "偏食、挑食",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "子供の偏食を直すために工夫しています。",
+              "zh": "為了改正小孩偏食而下了一番功夫。"
+            }
+          ]
+        },
+        {
+          "word": "添加物",
+          "reading": "てんかぶつ",
+          "furigana": "添[てん]加[か]物[ぶつ]",
+          "romaji": "tenkabutsu",
+          "meaning": "添加物",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "食品添加物が含まれていない商品を選びます。",
+              "zh": "選擇不含食品添加物的商品。"
+            }
+          ]
+        },
+        {
+          "word": "吟味",
+          "reading": "ぎんみ",
+          "furigana": "吟[ぎん]味[み]",
+          "romaji": "ginmi",
+          "meaning": "精挑細選、仔細考究",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "素材を吟味して料理を作ります。",
+              "zh": "精挑細選食材來製作料理。"
+            }
+          ]
+        },
+        {
+          "word": "熟成",
+          "reading": "じゅくせい",
+          "furigana": "熟[じゅく]成[せい]",
+          "romaji": "jukusei",
+          "meaning": "熟成",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "肉を数週間熟成させて旨味を引き出します。",
+              "zh": "將肉類熟成數週以引出鮮味。"
+            }
+          ]
+        },
+        {
+          "word": "発酵",
+          "reading": "はっこう",
+          "furigana": "発[はっ]酵[こう]",
+          "romaji": "hakkou",
+          "meaning": "發酵",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "味噌や醤油は発酵食品の代表です。",
+              "zh": "味噌和醬油是發酵食品的代表。"
+            }
+          ]
+        },
+        {
+          "word": "腐敗",
+          "reading": "ふはい",
+          "furigana": "腐[ふ]敗[はい]",
+          "romaji": "fuhai",
+          "meaning": "腐敗",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "夏場は食品の腐敗に気をつけてください。",
+              "zh": "夏天請注意食品的腐敗。"
+            }
+          ]
+        },
+        {
+          "word": "賞味",
+          "reading": "しょうみ",
+          "furigana": "賞[しょう]味[み]",
+          "romaji": "shoumi",
+          "meaning": "品嚐、賞味",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "特製のデザートを心ゆくまで賞味した。",
+              "zh": "盡情品嚐了特製的甜點。"
+            }
+          ]
+        },
+        {
+          "word": "厨房",
+          "reading": "ちゅうぼう",
+          "furigana": "厨[ちゅう]房[ぼう]",
+          "romaji": "chuubou",
+          "meaning": "廚房(多指餐廳的)",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "ホテルの厨房では多くのシェフが働いています。",
+              "zh": "飯店的廚房裡有許多廚師在工作。"
+            }
+          ]
+        },
+        {
+          "word": "惣菜",
+          "reading": "そうざい",
+          "furigana": "惣[そう]菜[ざい]",
+          "romaji": "souzai",
+          "meaning": "家常菜、熟食",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "スーパーで夕飯のお惣菜を買って帰ります。",
+              "zh": "在超市買了晚餐的熟食回家。"
+            }
+          ]
+        },
+        {
+          "word": "珍味",
+          "reading": "ちんみ",
+          "furigana": "珍[ちん]味[み]",
+          "romaji": "chinmi",
+          "meaning": "珍味、山珍海味",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "地方の珍味を取り寄せて楽しみました。",
+              "zh": "訂購了地方的珍味來享用。"
+            }
+          ]
+        },
+        {
+          "word": "酒宴",
+          "reading": "しゅえん",
+          "furigana": "酒[しゅ]宴[えん]",
+          "romaji": "shuen",
+          "meaning": "酒宴",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "food_culture",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "勝利を祝って盛大な酒宴が開かれました。",
+              "zh": "為了慶祝勝利而舉辦了盛大的酒宴。"
+            }
+          ]
+        },
+        {
+          "word": "装い",
+          "reading": "よそおい",
+          "furigana": "装[よそお]い",
+          "romaji": "yosooi",
+          "meaning": "裝扮、打扮",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "fashion_beauty",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼女は春らしい装いで現れた。",
+              "zh": "她以一身充滿春天氣息的裝扮現身。"
+            }
+          ]
+        },
+        {
+          "word": "身なり",
+          "reading": "みなり",
+          "furigana": "身[み]なり",
+          "romaji": "minari",
+          "meaning": "穿著、打扮",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "fashion_beauty",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "面接ではきちんとした身なりが求められる。",
+              "zh": "面試時會要求端莊的穿著打扮。"
+            }
+          ]
+        },
+        {
+          "word": "被服",
+          "reading": "ひふく",
+          "furigana": "被[ひ]服[ふく]",
+          "romaji": "hifuku",
+          "meaning": "衣服、服裝",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "fashion_beauty",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "大学で被服学を専攻しています。",
+              "zh": "在大學主修服裝學。"
+            }
+          ]
+        },
+        {
+          "word": "繊維",
+          "reading": "せんい",
+          "furigana": "繊[せん]維[い]",
+          "romaji": "sen'i",
+          "meaning": "纖維",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "fashion_beauty",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "この服は合成繊維で作られています。",
+              "zh": "這件衣服是用合成纖維製成的。"
+            }
+          ]
+        },
+        {
+          "word": "織物",
+          "reading": "おりもの",
+          "furigana": "織[おり]物[もの]",
+          "romaji": "orimono",
+          "meaning": "紡織品、布料",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "fashion_beauty",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "京都の伝統的な絹の織物を買う。",
+              "zh": "購買京都傳統的絲綢紡織品。"
+            }
+          ]
+        },
+        {
+          "word": "麻",
+          "reading": "あさ",
+          "furigana": "麻[あさ]",
+          "romaji": "asa",
+          "meaning": "亞麻、麻布",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "fashion_beauty",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "夏は通気性の良い麻のシャツが快適だ。",
+              "zh": "夏天穿透氣性佳的亞麻襯衫很舒適。"
+            }
+          ]
+        },
+        {
+          "word": "染料",
+          "reading": "せんりょう",
+          "furigana": "染[せん]料[りょう]",
+          "romaji": "senryou",
+          "meaning": "染料",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "fashion_beauty",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "植物から抽出した天然の染料を使う。",
+              "zh": "使用從植物萃取的天然染料。"
+            }
+          ]
+        },
+        {
+          "word": "生地",
+          "reading": "きじ",
+          "furigana": "生[き]地[じ]",
+          "romaji": "kiji",
+          "meaning": "布料、質地",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "fashion_beauty",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "このドレスの生地はとても肌触りが良い。",
+              "zh": "這件洋裝的布料觸感非常好。"
+            }
+          ]
+        },
+        {
+          "word": "縫い目",
+          "reading": "ぬいめ",
+          "furigana": "縫[ぬ]い目[め]",
+          "romaji": "nuime",
+          "meaning": "接縫、縫線",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "fashion_beauty",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "ズボンの縫い目が裂けてしまった。",
+              "zh": "褲子的接縫裂開了。"
+            }
+          ]
+        },
+        {
+          "word": "綻び",
+          "reading": "ほころび",
+          "furigana": "綻[ほころ]び",
+          "romaji": "hokorobi",
+          "meaning": "破綻、裂縫、脫線",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "fashion_beauty",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "上着の袖に綻びを見つけた。",
+              "zh": "發現外套的袖子有脫線裂開的地方。"
+            }
+          ]
+        },
+        {
+          "word": "裾",
+          "reading": "すそ",
+          "furigana": "裾[すそ]",
+          "romaji": "suso",
+          "meaning": "下擺、褲管底",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "fashion_beauty",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "ズボンの裾を少し短くお直しします。",
+              "zh": "把褲管的下擺稍微改短一點。"
+            }
+          ]
+        },
+        {
+          "word": "襟",
+          "reading": "えり",
+          "furigana": "襟[えり]",
+          "romaji": "eri",
+          "meaning": "衣領",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "fashion_beauty",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "シャツの襟に汚れがついています。",
+              "zh": "襯衫的領子沾到了污漬。"
+            }
+          ]
+        },
+        {
+          "word": "袖",
+          "reading": "そで",
+          "furigana": "袖[そで]",
+          "romaji": "sode",
+          "meaning": "袖子",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "fashion_beauty",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "暑いのでシャツの袖をまくった。",
+              "zh": "因為很熱所以把襯衫袖子捲了起來。"
+            }
+          ]
+        },
+        {
+          "word": "装飾",
+          "reading": "そうしょく",
+          "furigana": "装[そう]飾[しょく]",
+          "romaji": "soushoku",
+          "meaning": "裝飾",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "fashion_beauty",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "ドレスには美しいレースの装飾が施されている。",
+              "zh": "洋裝上有著美麗的蕾絲裝飾。"
+            }
+          ]
+        },
+        {
+          "word": "華美",
+          "reading": "かび",
+          "furigana": "華[か]美[び]",
+          "romaji": "kabi",
+          "meaning": "華麗、奢華",
+          "pos": "な形容詞、名詞",
+          "type": "noun",
+          "category": "fashion_beauty",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "お葬式では華美な服装は避けるべきだ。",
+              "zh": "葬禮上應該避免過於華麗的服裝。"
+            }
+          ]
+        },
+        {
+          "word": "清楚",
+          "reading": "せいそ",
+          "furigana": "清[せい]楚[そ]",
+          "romaji": "seiso",
+          "meaning": "清純、素雅",
+          "pos": "な形容詞、名詞",
+          "type": "noun",
+          "category": "fashion_beauty",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼女はいつも清楚な服を着ている。",
+              "zh": "她總是穿著素雅清純的衣服。"
+            }
+          ]
+        },
+        {
+          "word": "粋",
+          "reading": "いき",
+          "furigana": "粋[いき]",
+          "romaji": "iki",
+          "meaning": "時髦、瀟灑",
+          "pos": "な形容詞、名詞",
+          "type": "noun",
+          "category": "fashion_beauty",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "和服の着こなしがとても粋ですね。",
+              "zh": "和服的穿著打扮非常時髦瀟灑呢。"
+            }
+          ]
+        },
+        {
+          "word": "野暮",
+          "reading": "やぼ",
+          "furigana": "野[や]暮[ぼ]",
+          "romaji": "yabo",
+          "meaning": "土氣、不解風情",
+          "pos": "な形容詞、名詞",
+          "type": "noun",
+          "category": "fashion_beauty",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "そんな野暮なネクタイは外した方がいい。",
+              "zh": "那種土氣的領帶還是拿掉比較好。"
+            }
+          ]
+        },
+        {
+          "word": "容姿",
+          "reading": "ようし",
+          "furigana": "容[よう]姿[し]",
+          "romaji": "youshi",
+          "meaning": "容貌姿態",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "fashion_beauty",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼女は容姿端麗で、皆の憧れの的だ。",
+              "zh": "她容貌端麗，是大家憧憬的對象。"
+            }
+          ]
+        },
+        {
+          "word": "美貌",
+          "reading": "びぼう",
+          "furigana": "美[び]貌[ぼう]",
+          "romaji": "bibou",
+          "meaning": "美貌",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "fashion_beauty",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "その女優は類まれなる美貌の持ち主だ。",
+              "zh": "那位女演員擁有著罕見的美貌。"
+            }
+          ]
+        },
+        {
+          "word": "邸宅",
+          "reading": "ていたく",
+          "furigana": "邸[てい]宅[たく]",
+          "romaji": "teitaku",
+          "meaning": "宅邸、公館",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "housing_space",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "丘の上には立派な邸宅が建ち並んでいる。",
+              "zh": "山丘上林立著氣派的宅邸。"
+            }
+          ]
+        },
+        {
+          "word": "住居",
+          "reading": "じゅうきょ",
+          "furigana": "住[じゅう]居[きょ]",
+          "romaji": "juukyo",
+          "meaning": "住處、住宅",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "housing_space",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "新しい住居を探すために不動産屋へ行った。",
+              "zh": "為尋找新的住處去了房地產公司。"
+            }
+          ]
+        },
+        {
+          "word": "家屋",
+          "reading": "かおく",
+          "furigana": "家[か]屋[おく]",
+          "romaji": "kaoku",
+          "meaning": "房屋",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "housing_space",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "台風で多くの家屋が倒壊した。",
+              "zh": "因為颱風有許多房屋倒塌了。"
+            }
+          ]
+        },
+        {
+          "word": "豪邸",
+          "reading": "ごうてい",
+          "furigana": "豪[ごう]邸[てい]",
+          "romaji": "goutei",
+          "meaning": "豪宅",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "housing_space",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼はプール付きの豪邸に住んでいる。",
+              "zh": "他住在附設游泳池的豪宅裡。"
+            }
+          ]
+        },
+        {
+          "word": "賃貸",
+          "reading": "ちんたい",
+          "furigana": "賃[ちん]貸[たい]",
+          "romaji": "chintai",
+          "meaning": "租賃、出租",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "housing_space",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "このマンションは賃貸物件です。",
+              "zh": "這棟公寓是出租物件。"
+            }
+          ]
+        },
+        {
+          "word": "敷地",
+          "reading": "しきち",
+          "furigana": "敷[しき]地[ち]",
+          "romaji": "shikichi",
+          "meaning": "用地、建地",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "housing_space",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "大学の敷地はとても広大です。",
+              "zh": "大學的用地非常廣大。"
+            }
+          ]
+        },
+        {
+          "word": "区画",
+          "reading": "くかく",
+          "furigana": "区[く]画[かく]",
+          "romaji": "kukaku",
+          "meaning": "區劃、地段",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "housing_space",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "分譲地の区画が綺麗に整理されている。",
+              "zh": "出售建地的區劃被整理得很漂亮。"
+            }
+          ]
+        },
+        {
+          "word": "別荘",
+          "reading": "べっそう",
+          "furigana": "別[べっ]荘[そう]",
+          "romaji": "bessou",
+          "meaning": "別墅",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "housing_space",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "夏休みは軽井沢の別荘で過ごします。",
+              "zh": "暑假在輕井澤的別墅度過。"
+            }
+          ]
+        },
+        {
+          "word": "物件",
+          "reading": "ぶっけん",
+          "furigana": "物[ぶっ]件[けん]",
+          "romaji": "bukken",
+          "meaning": "物件、房地產標的",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "housing_space",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "駅から近い好条件の物件を見つけた。",
+              "zh": "找到了離車站近且條件好的物件。"
+            }
+          ]
+        },
+        {
+          "word": "縁側",
+          "reading": "えんがわ",
+          "furigana": "縁[えん]側[がわ]",
+          "romaji": "engawa",
+          "meaning": "(日式建築的)走廊、緣側",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "housing_space",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "縁側に座って庭の景色を眺める。",
+              "zh": "坐在緣側欣賞庭院的景色。"
+            }
+          ]
+        },
+        {
+          "word": "障子",
+          "reading": "しょうじ",
+          "furigana": "障[しょう]子[じ]",
+          "romaji": "shouji",
+          "meaning": "紙拉門、障子",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "housing_space",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "年末に障子の紙を張り替える。",
+              "zh": "年底時重新糊上紙拉門的紙。"
+            }
+          ]
+        },
+        {
+          "word": "襖",
+          "reading": "ふすま",
+          "furigana": "襖[ふすま]",
+          "romaji": "fusuma",
+          "meaning": "和式拉門",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "housing_space",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "襖を開けると、そこは立派な和室だった。",
+              "zh": "拉開和式拉門，那裡是間氣派的和室。"
+            }
+          ]
+        },
+        {
+          "word": "軒",
+          "reading": "のき",
+          "furigana": "軒[のき]",
+          "romaji": "noki",
+          "meaning": "屋簷",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "housing_space",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "雨宿りのために軒下に駆け込んだ。",
+              "zh": "為了躲雨跑進了屋簷下。"
+            }
+          ]
+        },
+        {
+          "word": "垣根",
+          "reading": "かきね",
+          "furigana": "垣[かき]根[ね]",
+          "romaji": "kakine",
+          "meaning": "籬笆、圍牆",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "housing_space",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "隣の家との間に垣根を作る。",
+              "zh": "在與鄰居的房子之間築起籬笆。"
+            }
+          ]
+        },
+        {
+          "word": "書斎",
+          "reading": "しょさい",
+          "furigana": "書[しょ]斎[さい]",
+          "romaji": "shosai",
+          "meaning": "書房",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "housing_space",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "父は一日中書斎にこもって仕事をしている。",
+              "zh": "父親一整天都窩在書房裡工作。"
+            }
+          ]
+        },
+        {
+          "word": "据え付け",
+          "reading": "すえつけ",
+          "furigana": "据[す]え付[つ]け",
+          "romaji": "suetsuke",
+          "meaning": "安裝、固定",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "housing_space",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "エアコンの据え付け工事を依頼した。",
+              "zh": "委託了冷氣的安裝工程。"
+            }
+          ]
+        },
+        {
+          "word": "照明",
+          "reading": "しょうめい",
+          "furigana": "照[しょう]明[めい]",
+          "romaji": "shoumei",
+          "meaning": "照明、燈光",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "housing_space",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "部屋の照明を明るいLEDに変えた。",
+              "zh": "把房間的照明換成了明亮的LED。"
+            }
+          ]
+        },
+        {
+          "word": "暖炉",
+          "reading": "だんろ",
+          "furigana": "暖[だん]炉[ろ]",
+          "romaji": "danro",
+          "meaning": "壁爐",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "housing_space",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "冬は暖炉の火を囲んで家族で語り合う。",
+              "zh": "冬天時家人會圍著壁爐的火聊天。"
+            }
+          ]
+        },
+        {
+          "word": "換気",
+          "reading": "かんき",
+          "furigana": "換[かん]気[き]",
+          "romaji": "kanki",
+          "meaning": "換氣、通風",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "housing_space",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "感染対策のため、定期的に換気を行う。",
+              "zh": "為了防疫對策，定期進行換氣通風。"
+            }
+          ]
+        },
+        {
+          "word": "修繕",
+          "reading": "しゅうぜん",
+          "furigana": "修[しゅう]繕[ぜん]",
+          "romaji": "shuuzen",
+          "meaning": "修繕、修理",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "housing_space",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "古い家屋の修繕には多額の費用がかかる。",
+              "zh": "修繕老舊房屋需要花費大量的費用。"
+            }
+          ]
+        },
+        {
+          "word": "旅客",
+          "reading": "りょかく",
+          "furigana": "旅[りょ]客[かく]",
+          "romaji": "ryokaku",
+          "meaning": "旅客、乘客",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "国際線の旅客数が大幅に増加した。",
+              "zh": "國際線的旅客數量大幅增加了。"
+            }
+          ]
+        },
+        {
+          "word": "運送",
+          "reading": "うんそう",
+          "furigana": "運[うん]送[そう]",
+          "romaji": "unsou",
+          "meaning": "運送、運輸",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "家具を新しい家へ運送する。",
+              "zh": "將家具運送到新家。"
+            }
+          ]
+        },
+        {
+          "word": "運輸",
+          "reading": "うんゆ",
+          "furigana": "運[うん]輸[ゆ]",
+          "romaji": "unyu",
+          "meaning": "運輸(業)",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼は大手運輸会社で働いている。",
+              "zh": "他在大型運輸公司工作。"
+            }
+          ]
+        },
+        {
+          "word": "航海",
+          "reading": "こうかい",
+          "furigana": "航[こう]海[かい]",
+          "romaji": "koukai",
+          "meaning": "航海",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "船は長い航海を終えて港に戻った。",
+              "zh": "船隻結束了漫長的航海回到了港口。"
+            }
+          ]
+        },
+        {
+          "word": "航空",
+          "reading": "こうくう",
+          "furigana": "航[こう]空[くう]",
+          "romaji": "koukuu",
+          "meaning": "航空",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "最新の航空機が導入された。",
+              "zh": "引進了最新的航空機(飛機)。"
+            }
+          ]
+        },
+        {
+          "word": "操縦",
+          "reading": "そうじゅう",
+          "furigana": "操[そう]縦[じゅう]",
+          "romaji": "soujuu",
+          "meaning": "操縱、駕駛",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼は小型飛行機の操縦ができる。",
+              "zh": "他會駕駛小型飛機。"
+            }
+          ]
+        },
+        {
+          "word": "搭乗",
+          "reading": "とうじょう",
+          "furigana": "搭[とう]乗[じょう]",
+          "romaji": "toujou",
+          "meaning": "搭乘(飛機等)",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "搭乗手続きは出発の二時間前までにお済ませください。",
+              "zh": "請在出發的兩小時前辦理好登機手續。"
+            }
+          ]
+        },
+        {
+          "word": "墜落",
+          "reading": "ついらく",
+          "furigana": "墜[つい]落[らく]",
+          "romaji": "tsuiraku",
+          "meaning": "墜落",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "ヘリコプターが山中に墜落した。",
+              "zh": "直升機墜落在山中。"
+            }
+          ]
+        },
+        {
+          "word": "脱線",
+          "reading": "だっせん",
+          "furigana": "脱[だっ]線[せん]",
+          "romaji": "dassen",
+          "meaning": "出軌、離題",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "列車が脱線する大きな事故が起きた。",
+              "zh": "發生了列車出軌的重大事故。"
+            }
+          ]
+        },
+        {
+          "word": "軌道",
+          "reading": "きどう",
+          "furigana": "軌[き]道[どう]",
+          "romaji": "kidou",
+          "meaning": "軌道",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "新しいプロジェクトがようやく軌道に乗った。",
+              "zh": "新專案終於步上軌道了。"
+            }
+          ]
+        },
+        {
+          "word": "舗装",
+          "reading": "ほそう",
+          "furigana": "舗[ほ]装[そう]",
+          "romaji": "hosou",
+          "meaning": "鋪設(道路)",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "この道路はまだ舗装されていない。",
+              "zh": "這條道路尚未鋪設柏油。"
+            }
+          ]
+        },
+        {
+          "word": "沿線",
+          "reading": "えんせん",
+          "furigana": "沿[えん]線[せん]",
+          "romaji": "ensen",
+          "meaning": "沿線",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "私鉄の沿線には新しい住宅地が広がっている。",
+              "zh": "私鐵的沿線有著廣大的新興住宅區。"
+            }
+          ]
+        },
+        {
+          "word": "交通網",
+          "reading": "こうつうもう",
+          "furigana": "交[こう]通[つう]網[もう]",
+          "romaji": "koutsuumou",
+          "meaning": "交通網",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "この都市は地下鉄の交通網が発達している。",
+              "zh": "這座城市的地下鐵交通網非常發達。"
+            }
+          ]
+        },
+        {
+          "word": "車両",
+          "reading": "しゃりょう",
+          "furigana": "車[しゃ]両[りょう]",
+          "romaji": "sharyou",
+          "meaning": "車輛",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "故障した車両を工場へ運ぶ。",
+              "zh": "將故障的車輛運往修理廠。"
+            }
+          ]
+        },
+        {
+          "word": "車輪",
+          "reading": "しゃりん",
+          "furigana": "車[しゃ]輪[りん]",
+          "romaji": "sharin",
+          "meaning": "車輪",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "電車の車輪から大きな音がした。",
+              "zh": "電車的車輪發出了巨大的聲響。"
+            }
+          ]
+        },
+        {
+          "word": "船舶",
+          "reading": "せんぱく",
+          "furigana": "船[せん]舶[ぱく]",
+          "romaji": "senpaku",
+          "meaning": "船舶、船隻",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "この港には大型の船舶が停泊できる。",
+              "zh": "這座港口可以停泊大型船舶。"
+            }
+          ]
+        },
+        {
+          "word": "桟橋",
+          "reading": "さんばし",
+          "furigana": "桟[さん]橋[ばし]",
+          "romaji": "sanbashi",
+          "meaning": "碼頭、棧橋",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "桟橋でフェリーの到着を待つ。",
+              "zh": "在碼頭等待渡輪抵達。"
+            }
+          ]
+        },
+        {
+          "word": "運河",
+          "reading": "うんが",
+          "furigana": "運[うん]河[が]",
+          "romaji": "unga",
+          "meaning": "運河",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "運河に沿って古い倉庫が並んでいる。",
+              "zh": "沿著運河排列著古老的倉庫。"
+            }
+          ]
+        },
+        {
+          "word": "徒歩",
+          "reading": "とほ",
+          "furigana": "徒[と]歩[ほ]",
+          "romaji": "toho",
+          "meaning": "徒步、步行",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "駅からホテルまでは徒歩で約十分です。",
+              "zh": "從車站到飯店徒步大約十分鐘。"
+            }
+          ]
+        },
+        {
+          "word": "漂流",
+          "reading": "ひょうりゅう",
+          "furigana": "漂[ひょう]流[りゅう]",
+          "romaji": "hyouryuu",
+          "meaning": "漂流",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "transport_mobility",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "船が嵐に遭い、無人島へ漂流した。",
+              "zh": "船隻遭遇風暴，漂流到了無人島。"
+            }
+          ]
+        },
+        {
+          "word": "行楽",
+          "reading": "こうらく",
+          "furigana": "行[こう]楽[らく]",
+          "romaji": "kouraku",
+          "meaning": "遊樂、出遊",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "春の行楽シーズンで観光地は賑わっている。",
+              "zh": "春天的旅遊旺季讓觀光勝地非常熱鬧。"
+            }
+          ]
+        },
+        {
+          "word": "余暇",
+          "reading": "よか",
+          "furigana": "余[よ]暇[か]",
+          "romaji": "yoka",
+          "meaning": "業餘時間、空閒",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "余暇を利用してボランティア活動に参加する。",
+              "zh": "利用空閒時間參加志工活動。"
+            }
+          ]
+        },
+        {
+          "word": "芝居",
+          "reading": "しばい",
+          "furigana": "芝[し]居[ばい]",
+          "romaji": "shibai",
+          "meaning": "戲劇、演戲",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "週末は夫婦で歌舞伎の芝居を見に行く。",
+              "zh": "週末夫妻倆去看歌舞伎的戲劇。"
+            }
+          ]
+        },
+        {
+          "word": "戯曲",
+          "reading": "ぎきょく",
+          "furigana": "戯[ぎ]曲[きょく]",
+          "romaji": "gikyoku",
+          "meaning": "劇本、戲曲",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼は有名な劇作家の戯曲を翻訳した。",
+              "zh": "他翻譯了知名劇作家的劇本。"
+            }
+          ]
+        },
+        {
+          "word": "碁",
+          "reading": "ご",
+          "furigana": "碁[ご]",
+          "romaji": "go",
+          "meaning": "圍棋",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "祖父は縁側で友人と碁を打っている。",
+              "zh": "祖父在緣側和朋友下圍棋。"
+            }
+          ]
+        },
+        {
+          "word": "将棋",
+          "reading": "しょうぎ",
+          "furigana": "将[しょう]棋[ぎ]",
+          "romaji": "shougi",
+          "meaning": "將棋(日本象棋)",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "最近、子供たちの間で将棋が流行っている。",
+              "zh": "最近在孩子們之間很流行下將棋。"
+            }
+          ]
+        },
+        {
+          "word": "賭け事",
+          "reading": "かけごと",
+          "furigana": "賭[か]け事[ごと]",
+          "romaji": "kakegoto",
+          "meaning": "賭博",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼は賭け事で全財産を失ってしまった。",
+              "zh": "他因為賭博輸光了所有的財產。"
+            }
+          ]
+        },
+        {
+          "word": "興行",
+          "reading": "こうぎょう",
+          "furigana": "興[こう]行[ぎょう]",
+          "romaji": "kougyou",
+          "meaning": "演出、公演",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "その映画は世界中で大興行収入を記録した。",
+              "zh": "那部電影在世界各地創下了高票房紀錄(興行收入)。"
+            }
+          ]
+        },
+        {
+          "word": "園芸",
+          "reading": "えんげい",
+          "furigana": "園[えん]芸[げい]",
+          "romaji": "engei",
+          "meaning": "園藝",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "定年退職後は趣味の園芸を楽しんでいる。",
+              "zh": "退休後正享受著園藝的樂趣。"
+            }
+          ]
+        },
+        {
+          "word": "狩猟",
+          "reading": "しゅりょう",
+          "furigana": "狩[しゅ]猟[りょう]",
+          "romaji": "shuryou",
+          "meaning": "狩獵",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "昔の人々は狩猟によって食料を得ていた。",
+              "zh": "以前的人們藉由狩獵來獲取食物。"
+            }
+          ]
+        },
+        {
+          "word": "催し",
+          "reading": "もよおし",
+          "furigana": "催[もよお]し",
+          "romaji": "moyooshi",
+          "meaning": "活動、集會",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "デパートで秋の特産物に関する催しが開かれている。",
+              "zh": "百貨公司正在舉辦有關秋季特產的活動。"
+            }
+          ]
+        },
+        {
+          "word": "祝賀",
+          "reading": "しゅくが",
+          "furigana": "祝[しゅく]賀[が]",
+          "romaji": "shukuga",
+          "meaning": "祝賀、慶祝",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "優勝の祝賀会が盛大に催された。",
+              "zh": "盛大舉辦了優勝的慶祝會。"
+            }
+          ]
+        },
+        {
+          "word": "決勝",
+          "reading": "けっしょう",
+          "furigana": "決[けっ]勝[しょう]",
+          "romaji": "kesshou",
+          "meaning": "決賽",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "明日はテニスの決勝戦が行われる。",
+              "zh": "明天將舉行網球決賽。"
+            }
+          ]
+        },
+        {
+          "word": "予選",
+          "reading": "よせん",
+          "furigana": "予[よ]選[せん]",
+          "romaji": "yosen",
+          "meaning": "預賽、初選",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼は陸上の予選をトップの成績で通過した。",
+              "zh": "他以第一名的成績通過了田徑預賽。"
+            }
+          ]
+        },
+        {
+          "word": "健闘",
+          "reading": "けんとう",
+          "furigana": "健[けん]闘[とう]",
+          "romaji": "kentou",
+          "meaning": "奮戰、努力",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "選手たちの健闘を称えて拍手が送られた。",
+              "zh": "響起掌聲來稱讚選手們的奮戰。"
+            }
+          ]
+        },
+        {
+          "word": "購買",
+          "reading": "こうばい",
+          "furigana": "購[こう]買[ばい]",
+          "romaji": "koubai",
+          "meaning": "購買、採購",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "消費者の購買意欲を高める工夫が必要だ。",
+              "zh": "需要想辦法提高消費者的購買意願。"
+            }
+          ]
+        },
+        {
+          "word": "競売",
+          "reading": "きょうばい",
+          "furigana": "競[きょう]売[ばい]",
+          "romaji": "kyoubai",
+          "meaning": "拍賣",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "その名画は高値で競売にかけられた。",
+              "zh": "那幅名畫以高價被拍賣。"
+            }
+          ]
+        },
+        {
+          "word": "問屋",
+          "reading": "とんや",
+          "furigana": "問[とん]屋[や]",
+          "romaji": "tonya",
+          "meaning": "批發商",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "問屋から商品を直接仕入れる。",
+              "zh": "直接從批發商那裡進貨。"
+            }
+          ]
+        },
+        {
+          "word": "小売",
+          "reading": "こうり",
+          "furigana": "小[こ]売[うり]",
+          "romaji": "kouri",
+          "meaning": "零售",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "小売店では様々な商品を取り扱っている。",
+              "zh": "零售店裡販賣著各式各樣的商品。"
+            }
+          ]
+        },
+        {
+          "word": "銘柄",
+          "reading": "めいがら",
+          "furigana": "銘[めい]柄[がら]",
+          "romaji": "meigara",
+          "meaning": "品牌、廠牌、(股票)名稱",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "leisure_sports",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "このワインは有名な銘柄のものです。",
+              "zh": "這瓶葡萄酒是知名品牌的。"
+            }
+          ]
         }
       ],
       "kana": {

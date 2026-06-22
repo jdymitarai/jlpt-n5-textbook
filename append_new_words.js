@@ -32,9 +32,20 @@ try {
   // Update state
   state.totalGenerated += newWords.length;
   state.currentCategoryIndex++;
+  
   if (state.currentCategoryIndex >= state.categories.length) {
-    state.currentCategoryIndex = 0;
-    state.currentLevelIndex++;
+    if (state.currentLevelIndex === 4) {
+      // Finished N1 nouns and verbs. Now backfill verbs for N5-N2.
+      state.currentLevelIndex = 0; // N5
+      state.currentCategoryIndex = 22; // verb_body_movement
+    } else if (state.currentLevelIndex >= 0 && state.currentLevelIndex < 3) {
+      // Finished verbs for N5, N4, N3. Move to next level verbs.
+      state.currentLevelIndex++;
+      state.currentCategoryIndex = 22;
+    } else if (state.currentLevelIndex === 3) {
+      // Finished verbs for N2. We already did N1 verbs, so we are completely DONE!
+      state.currentCategoryIndex = 999; // Indicate completion
+    }
   }
   fs.writeFileSync(statePath, JSON.stringify(state, null, 2));
   fs.unlinkSync(newWordsPath);

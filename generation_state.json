@@ -28,9 +28,26 @@
     "economy_business",
     "culture_thought",
     "math_quantity",
-    "properties_relations"
+    "properties_relations",
+    "verb_body_movement",
+    "verb_senses",
+    "verb_physiology",
+    "verb_psychology",
+    "verb_food_cooking",
+    "verb_clothing",
+    "verb_housework",
+    "verb_transport_leisure",
+    "verb_communication",
+    "verb_giving_receiving",
+    "verb_work_economy",
+    "verb_learning_education",
+    "verb_weather",
+    "verb_nature_growth",
+    "verb_physical_change",
+    "verb_existence_possession",
+    "verb_time_process"
   ],
   "currentLevelIndex": 4,
-  "currentCategoryIndex": 7,
-  "totalGenerated": 1900
+  "currentCategoryIndex": 13,
+  "totalGenerated": 2020
 }
