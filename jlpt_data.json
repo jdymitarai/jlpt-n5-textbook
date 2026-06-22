@@ -81797,6 +81797,546 @@
               "zh": "因為站著工作所以腳嚴重水腫。"
             }
           ]
+        },
+        {
+          "word": "嘆く",
+          "furigana": "嘆[なげ]く",
+          "meaning": "嘆息、哀嘆",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "人類自身 ＞ 心理與思考",
+          "masu_form": "嘆きます",
+          "nai_form": "嘆かない",
+          "ta_form": "嘆いた",
+          "nakatta_form": "嘆かなかった",
+          "potential_form": "嘆ける",
+          "causative_form": "嘆かせる",
+          "passive_form": "嘆かれる",
+          "volitional_form": "嘆こう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_psychology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "自分の不運を嘆いても始まらない。",
+              "zh": "哀嘆自己的不幸也無濟於事。"
+            }
+          ]
+        },
+        {
+          "word": "憂える",
+          "furigana": "憂[うれ]える",
+          "meaning": "擔憂、憂慮",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "人類自身 ＞ 心理與思考",
+          "masu_form": "憂えます",
+          "nai_form": "憂えない",
+          "ta_form": "憂えた",
+          "nakatta_form": "憂えなかった",
+          "potential_form": "憂えられる",
+          "causative_form": "憂えさせる",
+          "passive_form": "憂えられる",
+          "volitional_form": "憂えよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_psychology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "国の将来を憂える若者が増えている。",
+              "zh": "擔憂國家未來的年輕人正在增加。"
+            }
+          ]
+        },
+        {
+          "word": "憤る",
+          "furigana": "憤[いきどお]る",
+          "meaning": "憤怒、氣憤",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "人類自身 ＞ 心理與思考",
+          "masu_form": "憤ります",
+          "nai_form": "憤らない",
+          "ta_form": "憤った",
+          "nakatta_form": "憤らなかった",
+          "potential_form": "憤れる",
+          "causative_form": "憤らせる",
+          "passive_form": "憤られる",
+          "volitional_form": "憤ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_psychology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "理不尽な扱いに激しく憤る。",
+              "zh": "對不講理的對待感到強烈憤怒。"
+            }
+          ]
+        },
+        {
+          "word": "妬む",
+          "furigana": "妬[ねた]む",
+          "meaning": "嫉妒、眼紅",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "人類自身 ＞ 心理與思考",
+          "masu_form": "妬みます",
+          "nai_form": "妬まない",
+          "ta_form": "妬んだ",
+          "nakatta_form": "妬まなかった",
+          "potential_form": "妬める",
+          "causative_form": "妬ませる",
+          "passive_form": "妬まれる",
+          "volitional_form": "妬もう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_psychology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "同僚の成功を妬んではいけない。",
+              "zh": "不可以嫉妒同事的成功。"
+            }
+          ]
+        },
+        {
+          "word": "怯える",
+          "furigana": "怯[おび]える",
+          "meaning": "害怕、恐懼",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "人類自身 ＞ 心理與思考",
+          "masu_form": "怯えます",
+          "nai_form": "怯えない",
+          "ta_form": "怯えた",
+          "nakatta_form": "怯えなかった",
+          "potential_form": "怯えられる",
+          "causative_form": "怯えさせる",
+          "passive_form": "怯えられる",
+          "volitional_form": "怯えよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_psychology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "大きな音に犬が怯えている。",
+              "zh": "狗被巨大的聲響嚇得發抖。"
+            }
+          ]
+        },
+        {
+          "word": "戸惑う",
+          "furigana": "戸[と]惑[まど]う",
+          "meaning": "困惑、不知所措",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "人類自身 ＞ 心理與思考",
+          "masu_form": "戸惑います",
+          "nai_form": "戸惑わない",
+          "ta_form": "戸惑った",
+          "nakatta_form": "戸惑わなかった",
+          "potential_form": "戸惑える",
+          "causative_form": "戸惑わせる",
+          "passive_form": "戸惑われる",
+          "volitional_form": "戸惑おう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_psychology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "突然の質問に戸惑ってしまった。",
+              "zh": "對突如其來的問題感到不知所措。"
+            }
+          ]
+        },
+        {
+          "word": "躊躇う",
+          "furigana": "躊[ため]躇[ら]う",
+          "meaning": "猶豫、躊躇",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "人類自身 ＞ 心理與思考",
+          "masu_form": "躊躇います",
+          "nai_form": "躊躇わない",
+          "ta_form": "躊躇った",
+          "nakatta_form": "躊躇わなかった",
+          "potential_form": "躊躇える",
+          "causative_form": "躊躇わせる",
+          "passive_form": "躊躇われる",
+          "volitional_form": "躊躇おう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_psychology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "声をかけるのを躊躇っているうちに、彼はいなくなった。",
+              "zh": "在我猶豫著要不要搭話時，他已經離開了。"
+            }
+          ]
+        },
+        {
+          "word": "悟る",
+          "furigana": "悟[さと]る",
+          "meaning": "領悟、察覺",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "人類自身 ＞ 心理與思考",
+          "masu_form": "悟ります",
+          "nai_form": "悟らない",
+          "ta_form": "悟った",
+          "nakatta_form": "悟らなかった",
+          "potential_form": "悟れる",
+          "causative_form": "悟らせる",
+          "passive_form": "悟られる",
+          "volitional_form": "悟ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_psychology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "人生の真理を悟る。",
+              "zh": "領悟人生的真理。"
+            }
+          ]
+        },
+        {
+          "word": "察する",
+          "furigana": "察[さっ]する",
+          "meaning": "察覺、體諒",
+          "verb_group": "第三類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "人類自身 ＞ 心理與思考",
+          "masu_form": "察します",
+          "nai_form": "察しない",
+          "ta_form": "察した",
+          "nakatta_form": "察しなかった",
+          "potential_form": "察せられる",
+          "causative_form": "察させる",
+          "passive_form": "察せられる",
+          "volitional_form": "察しよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_psychology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "相手の気持ちを察して言葉を選ぶ。",
+              "zh": "體諒對方的心情來斟酌用詞。"
+            }
+          ]
+        },
+        {
+          "word": "企てる",
+          "furigana": "企[くわだ]てる",
+          "meaning": "企圖、策劃",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "人類自身 ＞ 心理與思考",
+          "masu_form": "企てます",
+          "nai_form": "企てない",
+          "ta_form": "企てた",
+          "nakatta_form": "企てなかった",
+          "potential_form": "企てられる",
+          "causative_form": "企てさせる",
+          "passive_form": "企てられる",
+          "volitional_form": "企てよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_psychology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "新しい事業を企てる。",
+              "zh": "策劃新的事業。"
+            }
+          ]
+        },
+        {
+          "word": "欺く",
+          "furigana": "欺[あざむ]く",
+          "meaning": "欺騙、瞞騙",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "人類自身 ＞ 心理與思考",
+          "masu_form": "欺きます",
+          "nai_form": "欺かない",
+          "ta_form": "欺いた",
+          "nakatta_form": "欺かなかった",
+          "potential_form": "欺ける",
+          "causative_form": "欺かせる",
+          "passive_form": "欺かれる",
+          "volitional_form": "欺こう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_psychology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "敵を欺くための巧妙な作戦だ。",
+              "zh": "為了欺騙敵人的巧妙作戰。"
+            }
+          ]
+        },
+        {
+          "word": "慕う",
+          "furigana": "慕[した]う",
+          "meaning": "愛慕、敬仰",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "人類自身 ＞ 心理與思考",
+          "masu_form": "慕います",
+          "nai_form": "慕わない",
+          "ta_form": "慕った",
+          "nakatta_form": "慕わなかった",
+          "potential_form": "慕える",
+          "causative_form": "慕わせる",
+          "passive_form": "慕われる",
+          "volitional_form": "慕おう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_psychology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "生徒たちから慕われている先生。",
+              "zh": "受到學生們敬仰的老師。"
+            }
+          ]
+        },
+        {
+          "word": "懐く",
+          "furigana": "懐[なつ]く",
+          "meaning": "親近、依戀",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "人類自身 ＞ 心理與思考",
+          "masu_form": "懐きます",
+          "nai_form": "懐かない",
+          "ta_form": "懐いた",
+          "nakatta_form": "懐かなかった",
+          "potential_form": "懐ける",
+          "causative_form": "懐かせる",
+          "passive_form": "懐かれる",
+          "volitional_form": "懐こう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_psychology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "拾ってきた子猫がすっかり私に懐いた。",
+              "zh": "撿回來的幼貓已經完全黏上我了。"
+            }
+          ]
+        },
+        {
+          "word": "労る",
+          "furigana": "労[いたわ]る",
+          "meaning": "慰勞、照顧",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "人類自身 ＞ 心理與思考",
+          "masu_form": "労ります",
+          "nai_form": "労らない",
+          "ta_form": "労った",
+          "nakatta_form": "労らなかった",
+          "potential_form": "労れる",
+          "causative_form": "労らせる",
+          "passive_form": "労られる",
+          "volitional_form": "労ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_psychology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "お年寄りを労る気持ちが大切だ。",
+              "zh": "照顧長輩的心意是很重要的。"
+            }
+          ]
+        },
+        {
+          "word": "宥める",
+          "furigana": "宥[なだ]める",
+          "meaning": "安撫、勸解",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "人類自身 ＞ 心理與思考",
+          "masu_form": "宥めます",
+          "nai_form": "宥めない",
+          "ta_form": "宥めた",
+          "nakatta_form": "宥めなかった",
+          "potential_form": "宥められる",
+          "causative_form": "宥めさせる",
+          "passive_form": "宥められる",
+          "volitional_form": "宥めよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_psychology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "泣いている子供を優しく宥める。",
+              "zh": "溫柔地安撫哭泣的孩子。"
+            }
+          ]
+        },
+        {
+          "word": "悔いる",
+          "furigana": "悔[く]いる",
+          "meaning": "後悔、悔恨",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "人類自身 ＞ 心理與思考",
+          "masu_form": "悔います",
+          "nai_form": "悔いない",
+          "ta_form": "悔いた",
+          "nakatta_form": "悔いなかった",
+          "potential_form": "悔いられる",
+          "causative_form": "悔いさせる",
+          "passive_form": "悔いられる",
+          "volitional_form": "悔いよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_psychology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "過去の過ちを深く悔いる。",
+              "zh": "對過去的過錯深感悔恨。"
+            }
+          ]
+        },
+        {
+          "word": "悔やむ",
+          "furigana": "悔[くや]む",
+          "meaning": "後悔、哀悼",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "人類自身 ＞ 心理與思考",
+          "masu_form": "悔やみます",
+          "nai_form": "悔やまない",
+          "ta_form": "悔やんだ",
+          "nakatta_form": "悔やまなかった",
+          "potential_form": "悔やめる",
+          "causative_form": "悔やませる",
+          "passive_form": "悔やまれる",
+          "volitional_form": "悔やもう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_psychology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "今になってあの時の決断を悔やんでいる。",
+              "zh": "事到如今才在後悔那時候的決定。"
+            }
+          ]
+        },
+        {
+          "word": "案じる",
+          "furigana": "案[あん]じる",
+          "meaning": "擔心、掛念",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "人類自身 ＞ 心理與思考",
+          "masu_form": "案じます",
+          "nai_form": "案じない",
+          "ta_form": "案じた",
+          "nakatta_form": "案じなかった",
+          "potential_form": "案じられる",
+          "causative_form": "案じさせる",
+          "passive_form": "案じられる",
+          "volitional_form": "案じよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_psychology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "遠くで暮らす家族の健康を案じる。",
+              "zh": "掛念在遠方生活的家人的健康。"
+            }
+          ]
+        },
+        {
+          "word": "志す",
+          "furigana": "志[こころざ]す",
+          "meaning": "立志、志願",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "人類自身 ＞ 心理與思考",
+          "masu_form": "志します",
+          "nai_form": "志さない",
+          "ta_form": "志した",
+          "nakatta_form": "志さなかった",
+          "potential_form": "志せる",
+          "causative_form": "志させる",
+          "passive_form": "志される",
+          "volitional_form": "志そう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_psychology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "医者を志して医学部に入学した。",
+              "zh": "立志成為醫生而考入醫學系。"
+            }
+          ]
+        },
+        {
+          "word": "恥じらう",
+          "furigana": "恥[は]じらう",
+          "meaning": "害羞、羞澀",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "人類自身 ＞ 心理與思考",
+          "masu_form": "恥じらいます",
+          "nai_form": "恥じらわない",
+          "ta_form": "恥じらった",
+          "nakatta_form": "恥じらわなかった",
+          "potential_form": "恥じらえる",
+          "causative_form": "恥じらわせる",
+          "passive_form": "恥じらわれる",
+          "volitional_form": "恥じらおう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_psychology",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "少女は頬を赤くして恥じらった。",
+              "zh": "少女羞紅了臉頰。"
+            }
+          ]
         }
       ],
       "kana": {
