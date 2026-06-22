@@ -79498,6 +79498,346 @@
               "zh": "這是他人生中最偉大的傑作。"
             }
           ]
+        },
+        {
+          "word": "頻度",
+          "reading": "ひんど",
+          "furigana": "頻[ひん]度[ど]",
+          "romaji": "hindo",
+          "meaning": "頻率",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "事故の発生頻度を減らす対策を立てる。",
+              "zh": "制定減少事故發生頻率的對策。"
+            }
+          ]
+        },
+        {
+          "word": "数値",
+          "reading": "すうち",
+          "furigana": "数[すう]値[ち]",
+          "romaji": "suuchi",
+          "meaning": "數值",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "検査の結果、正常な数値が出た。",
+              "zh": "檢查結果出現了正常的數值。"
+            }
+          ]
+        },
+        {
+          "word": "寸法",
+          "reading": "すんぽう",
+          "furigana": "寸[すん]法[ぽう]",
+          "romaji": "sunpou",
+          "meaning": "尺寸、大小",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "部屋の寸法を正確に測る。",
+              "zh": "精確地測量房間的尺寸。"
+            }
+          ]
+        },
+        {
+          "word": "容積",
+          "reading": "ようせき",
+          "furigana": "容[よう]積[せき]",
+          "romaji": "youseki",
+          "meaning": "容積",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "この容器の容積は５００ミリリットルだ。",
+              "zh": "這個容器的容積是500毫升。"
+            }
+          ]
+        },
+        {
+          "word": "体積",
+          "reading": "たいせき",
+          "furigana": "体[たい]積[せき]",
+          "romaji": "taiseki",
+          "meaning": "體積",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "立方体の体積を計算する。",
+              "zh": "計算立方體的體積。"
+            }
+          ]
+        },
+        {
+          "word": "質量",
+          "reading": "しつりょう",
+          "furigana": "質[しつ]量[りょう]",
+          "romaji": "shitsuryou",
+          "meaning": "質量",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "物質の質量はどこに行っても変わらない。",
+              "zh": "物質的質量無論到哪裡都不會改變。"
+            }
+          ]
+        },
+        {
+          "word": "密度",
+          "reading": "みつど",
+          "furigana": "密[みつ]度[ど]",
+          "romaji": "mitsudo",
+          "meaning": "密度",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "この都市は人口密度が非常に高い。",
+              "zh": "這座城市的人口密度非常高。"
+            }
+          ]
+        },
+        {
+          "word": "比率",
+          "reading": "ひりつ",
+          "furigana": "比[ひ]率[りつ]",
+          "romaji": "hiritsu",
+          "meaning": "比率",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "男女の比率がほぼ同じだ。",
+              "zh": "男女的比率幾乎相同。"
+            }
+          ]
+        },
+        {
+          "word": "倍率",
+          "reading": "ばいりつ",
+          "furigana": "倍[ばい]率[りつ]",
+          "romaji": "bairitsu",
+          "meaning": "倍率、錄取率",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "その大学の競争倍率は１０倍を超えた。",
+              "zh": "那所大學的競爭錄取率超過了10倍。"
+            }
+          ]
+        },
+        {
+          "word": "偶数",
+          "reading": "ぐうすう",
+          "furigana": "偶[ぐう]数[すう]",
+          "romaji": "guusuu",
+          "meaning": "偶數",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "２、４、６は偶数である。",
+              "zh": "2、4、6是偶數。"
+            }
+          ]
+        },
+        {
+          "word": "奇数",
+          "reading": "きすう",
+          "furigana": "奇[き]数[すう]",
+          "romaji": "kisuu",
+          "meaning": "奇數",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "１、３、５は奇数である。",
+              "zh": "1、3、5是奇數。"
+            }
+          ]
+        },
+        {
+          "word": "小数",
+          "reading": "しょうすう",
+          "furigana": "小[しょう]数[すう]",
+          "romaji": "shousuu",
+          "meaning": "小數",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "小数点以下第二位まで計算する。",
+              "zh": "計算到小數點以下第二位。"
+            }
+          ]
+        },
+        {
+          "word": "分数",
+          "reading": "ぶんすう",
+          "furigana": "分[ぶん]数[すう]",
+          "romaji": "bunsuu",
+          "meaning": "分數（數學）",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "分数の計算が苦手だ。",
+              "zh": "我不擅長分數的計算。"
+            }
+          ]
+        },
+        {
+          "word": "円周",
+          "reading": "えんしゅう",
+          "furigana": "円[えん]周[しゅう]",
+          "romaji": "enshuu",
+          "meaning": "圓周",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "円周の長さを求める公式。",
+              "zh": "求圓周長度的公式。"
+            }
+          ]
+        },
+        {
+          "word": "規格",
+          "reading": "きかく",
+          "furigana": "規[き]格[かく]",
+          "romaji": "kikaku",
+          "meaning": "規格、標準",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "製品が国際規格に適合しているか確認する。",
+              "zh": "確認產品是否符合國際規格。"
+            }
+          ]
+        },
+        {
+          "word": "規模",
+          "reading": "きぼ",
+          "furigana": "規[き]模[ぼ]",
+          "romaji": "kibo",
+          "meaning": "規模",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "大規模な再開発プロジェクトが進行中だ。",
+              "zh": "大規模的重新開發計畫正在進行中。"
+            }
+          ]
+        },
+        {
+          "word": "微量",
+          "reading": "びりょう",
+          "furigana": "微[び]量[りょう]",
+          "romaji": "biryou",
+          "meaning": "微量",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "血液中から微量の薬物が検出された。",
+              "zh": "從血液中檢測出了微量的藥物。"
+            }
+          ]
+        },
+        {
+          "word": "概算",
+          "reading": "がいさん",
+          "furigana": "概[がい]算[さん]",
+          "romaji": "gaisan",
+          "meaning": "概算、粗估",
+          "pos": "名詞、動詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "費用の概算を出してください。",
+              "zh": "請給出費用的粗估。"
+            }
+          ]
+        },
+        {
+          "word": "桁",
+          "reading": "けた",
+          "furigana": "桁[けた]",
+          "romaji": "keta",
+          "meaning": "位數",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "計算の桁を間違えてしまった。",
+              "zh": "計算的位數搞錯了。"
+            }
+          ]
+        },
+        {
+          "word": "過半数",
+          "reading": "かはんすう",
+          "furigana": "過[か]半[はん]数[すう]",
+          "romaji": "kahansuu",
+          "meaning": "過半數",
+          "pos": "名詞",
+          "type": "noun",
+          "category": "math_quantity",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "議案は過半数の賛成で可決された。",
+              "zh": "議案以過半數的贊成被通過了。"
+            }
+          ]
         }
       ],
       "kana": {
