@@ -85037,6 +85037,1626 @@
               "zh": "她在我耳邊低聲訴說愛語。"
             }
           ]
+        },
+        {
+          "word": "授ける",
+          "furigana": "授[さず]ける",
+          "meaning": "授予、傳授",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 人際授受",
+          "masu_form": "授けます",
+          "nai_form": "授けない",
+          "ta_form": "授けた",
+          "nakatta_form": "授けなかった",
+          "potential_form": "授けられる",
+          "causative_form": "授けさせる",
+          "passive_form": "授けられる",
+          "volitional_form": "授けよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_giving_receiving",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "弟子に秘伝の技を授ける。",
+              "zh": "將秘傳的技藝傳授給弟子。"
+            }
+          ]
+        },
+        {
+          "word": "授かる",
+          "furigana": "授[さず]かる",
+          "meaning": "獲賜、領受",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 人際授受",
+          "masu_form": "授かります",
+          "nai_form": "授からない",
+          "ta_form": "授かった",
+          "nakatta_form": "授からなかった",
+          "potential_form": "授かれる",
+          "causative_form": "授からせる",
+          "passive_form": "授かられる",
+          "volitional_form": "授かろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_giving_receiving",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "結婚して三年目で子宝を授かった。",
+              "zh": "結婚第三年獲賜了孩子。"
+            }
+          ]
+        },
+        {
+          "word": "恵む",
+          "furigana": "恵[めぐ]む",
+          "meaning": "施捨、恩賜",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 人際授受",
+          "masu_form": "恵みます",
+          "nai_form": "恵まない",
+          "ta_form": "恵んだ",
+          "nakatta_form": "恵まなかった",
+          "potential_form": "恵める",
+          "causative_form": "恵ませる",
+          "passive_form": "恵まれる",
+          "volitional_form": "恵もう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_giving_receiving",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "道端のホームレスに小銭を恵む。",
+              "zh": "施捨零錢給路邊的街友。"
+            }
+          ]
+        },
+        {
+          "word": "施す",
+          "furigana": "施[ほどこ]す",
+          "meaning": "施加、施捨",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 人際授受",
+          "masu_form": "施します",
+          "nai_form": "施さない",
+          "ta_form": "施した",
+          "nakatta_form": "施さなかった",
+          "potential_form": "施せる",
+          "causative_form": "施させる",
+          "passive_form": "施される",
+          "volitional_form": "施そう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_giving_receiving",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "貧しい人々に食料を施す。",
+              "zh": "向窮困的人們施捨食物。"
+            }
+          ]
+        },
+        {
+          "word": "委ねる",
+          "furigana": "委[ゆだ]ねる",
+          "meaning": "委託、全權交給",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 人際授受",
+          "masu_form": "委ねます",
+          "nai_form": "委ねない",
+          "ta_form": "委ねた",
+          "nakatta_form": "委ねなかった",
+          "potential_form": "委ねられる",
+          "causative_form": "委ねさせる",
+          "passive_form": "委ねられる",
+          "volitional_form": "委ねよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_giving_receiving",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "会社の将来を若い世代に委ねる。",
+              "zh": "將公司的未來委託給年輕世代。"
+            }
+          ]
+        },
+        {
+          "word": "託す",
+          "furigana": "託[たく]す",
+          "meaning": "託付、寄託",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 人際授受",
+          "masu_form": "託します",
+          "nai_form": "託さない",
+          "ta_form": "託した",
+          "nakatta_form": "託さなかった",
+          "potential_form": "託せる",
+          "causative_form": "託させる",
+          "passive_form": "託される",
+          "volitional_form": "託そう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_giving_receiving",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "大切な伝言を友人に託す。",
+              "zh": "將重要的留言託付給朋友。"
+            }
+          ]
+        },
+        {
+          "word": "譲り受ける",
+          "furigana": "譲[ゆず]り受[う]ける",
+          "meaning": "繼承、受讓",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 人際授受",
+          "masu_form": "譲り受けます",
+          "nai_form": "譲り受けない",
+          "ta_form": "譲り受けた",
+          "nakatta_form": "譲り受けなかった",
+          "potential_form": "譲り受けられる",
+          "causative_form": "譲り受けさせる",
+          "passive_form": "譲り受けられる",
+          "volitional_form": "譲り受けよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_giving_receiving",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "先輩から貴重な資料を譲り受けた。",
+              "zh": "從前輩那裡獲贈了珍貴的資料。"
+            }
+          ]
+        },
+        {
+          "word": "押し付ける",
+          "furigana": "押[お]し付[つ]ける",
+          "meaning": "強加於人、推諉",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 人際授受",
+          "masu_form": "押し付けます",
+          "nai_form": "押し付けない",
+          "ta_form": "押し付けた",
+          "nakatta_form": "押し付けなかった",
+          "potential_form": "押し付けられる",
+          "causative_form": "押し付けさせる",
+          "passive_form": "押し付けられる",
+          "volitional_form": "押し付けよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_giving_receiving",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "自分の価値観を他人に押し付けるのはよくない。",
+              "zh": "把自己的價值觀強加於人是不好的。"
+            }
+          ]
+        },
+        {
+          "word": "引き継ぐ",
+          "furigana": "引[ひ]き継[つ]ぐ",
+          "meaning": "交接、接管",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 人際授受",
+          "masu_form": "引き継ぎます",
+          "nai_form": "引き継がない",
+          "ta_form": "引き継いだ",
+          "nakatta_form": "引き継がなかった",
+          "potential_form": "引き継げる",
+          "causative_form": "引き継がせる",
+          "passive_form": "引き継がれる",
+          "volitional_form": "引き継ごう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_giving_receiving",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "退職する先輩の業務を引き継ぐ。",
+              "zh": "接管即將離職的前輩的業務。"
+            }
+          ]
+        },
+        {
+          "word": "引き受ける",
+          "furigana": "引[ひ]き受[う]ける",
+          "meaning": "承擔、接下",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 人際授受",
+          "masu_form": "引き受けます",
+          "nai_form": "引き受けない",
+          "ta_form": "引き受けた",
+          "nakatta_form": "引き受けなかった",
+          "potential_form": "引き受けられる",
+          "causative_form": "引き受けさせる",
+          "passive_form": "引き受けられる",
+          "volitional_form": "引き受けよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_giving_receiving",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "友人から結婚式の司会を引き受けた。",
+              "zh": "接下了朋友婚禮司儀的工作。"
+            }
+          ]
+        },
+        {
+          "word": "捧げる",
+          "furigana": "捧[ささ]げる",
+          "meaning": "奉獻、貢獻",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 人際授受",
+          "masu_form": "捧げます",
+          "nai_form": "捧げない",
+          "ta_form": "捧げた",
+          "nakatta_form": "捧げなかった",
+          "potential_form": "捧げられる",
+          "causative_form": "捧げさせる",
+          "passive_form": "捧げられる",
+          "volitional_form": "捧げよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_giving_receiving",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼女は一生を医療の研究に捧げた。",
+              "zh": "她將一生奉獻給了醫療研究。"
+            }
+          ]
+        },
+        {
+          "word": "貢ぐ",
+          "furigana": "貢[みつ]ぐ",
+          "meaning": "資助、提供金錢",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 人際授受",
+          "masu_form": "貢ぎます",
+          "nai_form": "貢がない",
+          "ta_form": "貢いだ",
+          "nakatta_form": "貢がなかった",
+          "potential_form": "貢げる",
+          "causative_form": "貢がせる",
+          "passive_form": "貢がれる",
+          "volitional_form": "貢ごう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_giving_receiving",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "アイドルにたくさんのお金を貢ぐ。",
+              "zh": "在偶像身上砸了很多錢。"
+            }
+          ]
+        },
+        {
+          "word": "賜る",
+          "furigana": "賜[たまわ]る",
+          "meaning": "蒙賜、蒙受",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 人際授受",
+          "masu_form": "賜ります",
+          "nai_form": "賜らない",
+          "ta_form": "賜った",
+          "nakatta_form": "賜らなかった",
+          "potential_form": "賜れる",
+          "causative_form": "賜らせる",
+          "passive_form": "賜られる",
+          "volitional_form": "賜ろう",
+          "keigo": "謙譲: 賜る",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_giving_receiving",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "多大なるご支援を賜り、感謝申し上げます。",
+              "zh": "蒙受您莫大的支援，在此致上感謝。"
+            }
+          ]
+        },
+        {
+          "word": "報いる",
+          "furigana": "報[むく]いる",
+          "meaning": "報答、回報",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 人際授受",
+          "masu_form": "報います",
+          "nai_form": "報いない",
+          "ta_form": "報いた",
+          "nakatta_form": "報いなかった",
+          "potential_form": "報いられる",
+          "causative_form": "報いさせる",
+          "passive_form": "報いられる",
+          "volitional_form": "報いよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_giving_receiving",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "両親の恩に報いるために一生懸命働く。",
+              "zh": "為了報答父母的恩情而拚命工作。"
+            }
+          ]
+        },
+        {
+          "word": "受け継ぐ",
+          "furigana": "受[う]け継[つ]ぐ",
+          "meaning": "繼承",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 人際授受",
+          "masu_form": "受け継ぎます",
+          "nai_form": "受け継がない",
+          "ta_form": "受け継いだ",
+          "nakatta_form": "受け継がなかった",
+          "potential_form": "受け継げる",
+          "causative_form": "受け継がせる",
+          "passive_form": "受け継がれる",
+          "volitional_form": "受け継ごう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_giving_receiving",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "伝統の技術を次の世代へ受け継ぐ。",
+              "zh": "將傳統技術傳承給下一個世代。"
+            }
+          ]
+        },
+        {
+          "word": "貸し付ける",
+          "furigana": "貸[か]し付[つ]ける",
+          "meaning": "貸給、放款",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 人際授受",
+          "masu_form": "貸し付けます",
+          "nai_form": "貸し付けない",
+          "ta_form": "貸し付けた",
+          "nakatta_form": "貸し付けなかった",
+          "potential_form": "貸し付けられる",
+          "causative_form": "貸し付けさせる",
+          "passive_form": "貸し付けられる",
+          "volitional_form": "貸し付けよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_giving_receiving",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "銀行が中小企業に資金を貸し付ける。",
+              "zh": "銀行貸款資金給中小企業。"
+            }
+          ]
+        },
+        {
+          "word": "借り入れる",
+          "furigana": "借[か]り入[い]れる",
+          "meaning": "借入、貸款",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 人際授受",
+          "masu_form": "借り入れます",
+          "nai_form": "借り入れない",
+          "ta_form": "借り入れた",
+          "nakatta_form": "借り入れなかった",
+          "potential_form": "借り入れられる",
+          "causative_form": "借り入れさせる",
+          "passive_form": "借り入れられる",
+          "volitional_form": "借り入れよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_giving_receiving",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "家を建てるために銀行から資金を借り入れる。",
+              "zh": "為了蓋房子而向銀行借入資金。"
+            }
+          ]
+        },
+        {
+          "word": "立て替える",
+          "furigana": "立[た]て替[か]える",
+          "meaning": "代墊",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 人際授受",
+          "masu_form": "立て替えます",
+          "nai_form": "立て替えない",
+          "ta_form": "立て替えた",
+          "nakatta_form": "立て替えなかった",
+          "potential_form": "立て替えられる",
+          "causative_form": "立て替えさせる",
+          "passive_form": "立て替えられる",
+          "volitional_form": "立て替えよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_giving_receiving",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "財布を忘れた友人の昼食代を立て替える。",
+              "zh": "幫忘記帶錢包的朋友代墊午餐錢。"
+            }
+          ]
+        },
+        {
+          "word": "奪い取る",
+          "furigana": "奪[うば]い取[と]る",
+          "meaning": "奪取、搶走",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 人際授受",
+          "masu_form": "奪い取ります",
+          "nai_form": "奪い取らない",
+          "ta_form": "奪い取った",
+          "nakatta_form": "奪い取らなかった",
+          "potential_form": "奪い取れる",
+          "causative_form": "奪い取らせる",
+          "passive_form": "奪い取られる",
+          "volitional_form": "奪い取ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_giving_receiving",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "ひったくりにバッグを奪い取られた。",
+              "zh": "被搶匪搶走了包包。"
+            }
+          ]
+        },
+        {
+          "word": "巻き上げる",
+          "furigana": "巻[ま]き上[あ]げる",
+          "meaning": "騙取、勒索、捲起",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 人際授受",
+          "masu_form": "巻き上げます",
+          "nai_form": "巻き上げない",
+          "ta_form": "巻き上げた",
+          "nakatta_form": "巻き上げなかった",
+          "potential_form": "巻き上げられる",
+          "causative_form": "巻き上げさせる",
+          "passive_form": "巻き上げられる",
+          "volitional_form": "巻き上げよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_giving_receiving",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "詐欺師に大金を巻き上げられた。",
+              "zh": "被詐騙犯騙走了大筆金錢。"
+            }
+          ]
+        },
+        {
+          "word": "費やす",
+          "furigana": "費[つい]やす",
+          "meaning": "花費、耗費",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 工作與經濟",
+          "masu_form": "費やします",
+          "nai_form": "費やさない",
+          "ta_form": "費やした",
+          "nakatta_form": "費やさなかった",
+          "potential_form": "費やせる",
+          "causative_form": "費やさせる",
+          "passive_form": "費やされる",
+          "volitional_form": "費やそう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_work_economy",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "新製品の開発に多大な時間と費用を費やす。",
+              "zh": "在新產品的開發上耗費了大量的時間和費用。"
+            }
+          ]
+        },
+        {
+          "word": "賄う",
+          "furigana": "賄[まかな]う",
+          "meaning": "供應、負擔、維持",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 工作與經濟",
+          "masu_form": "賄います",
+          "nai_form": "賄わない",
+          "ta_form": "賄った",
+          "nakatta_form": "賄わなかった",
+          "potential_form": "賄える",
+          "causative_form": "賄わせる",
+          "passive_form": "賄われる",
+          "volitional_form": "賄おう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_work_economy",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "アルバイトの収入だけで学費を賄う。",
+              "zh": "僅靠打工的收入來負擔學費。"
+            }
+          ]
+        },
+        {
+          "word": "補う",
+          "furigana": "補[おぎな]う",
+          "meaning": "補償、彌補",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 工作與經濟",
+          "masu_form": "補います",
+          "nai_form": "補わない",
+          "ta_form": "補った",
+          "nakatta_form": "補わなかった",
+          "potential_form": "補える",
+          "causative_form": "補わせる",
+          "passive_form": "補われる",
+          "volitional_form": "補おう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_work_economy",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "赤字を別の事業の利益で補う。",
+              "zh": "用其他事業的利潤來彌補虧損。"
+            }
+          ]
+        },
+        {
+          "word": "携わる",
+          "furigana": "携[たずさ]わる",
+          "meaning": "從事、參與",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "社會與文明 ＞ 工作與經濟",
+          "masu_form": "携わります",
+          "nai_form": "携わらない",
+          "ta_form": "携わった",
+          "nakatta_form": "携わらなかった",
+          "potential_form": "携われる",
+          "causative_form": "携わらせる",
+          "passive_form": "携わられる",
+          "volitional_form": "携わろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_work_economy",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼は長年、教育の仕事に携わっている。",
+              "zh": "他長年從事教育工作。"
+            }
+          ]
+        },
+        {
+          "word": "手がける",
+          "furigana": "手[て]がける",
+          "meaning": "著手、親自處理",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 工作與經濟",
+          "masu_form": "手がけます",
+          "nai_form": "手がけない",
+          "ta_form": "手がけた",
+          "nakatta_form": "手がけなかった",
+          "potential_form": "手がけられる",
+          "causative_form": "手がけさせる",
+          "passive_form": "手がけられる",
+          "volitional_form": "手がけよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_work_economy",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "新しいプロジェクトを自ら手がける。",
+              "zh": "親自著手處理新的專案。"
+            }
+          ]
+        },
+        {
+          "word": "赴く",
+          "furigana": "赴[おもむ]く",
+          "meaning": "前往、赴任",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "社會與文明 ＞ 工作與經濟",
+          "masu_form": "赴きます",
+          "nai_form": "赴かない",
+          "ta_form": "赴いた",
+          "nakatta_form": "赴かなかった",
+          "potential_form": "赴ける",
+          "causative_form": "赴かせる",
+          "passive_form": "赴かれる",
+          "volitional_form": "赴こう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_work_economy",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "海外支社の責任者として現地へ赴く。",
+              "zh": "作為海外分公司的負責人前往當地赴任。"
+            }
+          ]
+        },
+        {
+          "word": "営む",
+          "furigana": "営[いとな]む",
+          "meaning": "經營",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 工作與經濟",
+          "masu_form": "営みます",
+          "nai_form": "営まない",
+          "ta_form": "営んだ",
+          "nakatta_form": "営まなかった",
+          "potential_form": "営める",
+          "causative_form": "営ませる",
+          "passive_form": "営まれる",
+          "volitional_form": "営もう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_work_economy",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "駅前で小さなレストランを営む。",
+              "zh": "在車站前經營一家小餐廳。"
+            }
+          ]
+        },
+        {
+          "word": "成り立つ",
+          "furigana": "成[な]り立[た]つ",
+          "meaning": "成立、維持下去",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "社會與文明 ＞ 工作與經濟",
+          "masu_form": "成り立ちます",
+          "nai_form": "成り立たない",
+          "ta_form": "成り立った",
+          "nakatta_form": "成り立たなかった",
+          "potential_form": "成り立てる",
+          "causative_form": "成り立たせる",
+          "passive_form": "成り立たれる",
+          "volitional_form": "成り立とう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_work_economy",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "スポンサーがいなければこの番組は成り立たない。",
+              "zh": "如果沒有贊助商，這個節目就無法維持下去。"
+            }
+          ]
+        },
+        {
+          "word": "取り立てる",
+          "furigana": "取[と]り立[た]てる",
+          "meaning": "徵收、催討",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 工作與經濟",
+          "masu_form": "取り立てます",
+          "nai_form": "取り立てない",
+          "ta_form": "取り立てた",
+          "nakatta_form": "取り立てなかった",
+          "potential_form": "取り立てられる",
+          "causative_form": "取り立てさせる",
+          "passive_form": "取り立てられる",
+          "volitional_form": "取り立てよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_work_economy",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "期限が過ぎた借金を取り立てる。",
+              "zh": "催討已經逾期的借款。"
+            }
+          ]
+        },
+        {
+          "word": "つぎ込む",
+          "furigana": "つぎ込[こ]む",
+          "meaning": "投入、注資",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 工作與經濟",
+          "masu_form": "つぎ込みます",
+          "nai_form": "つぎ込まない",
+          "ta_form": "つぎ込んだ",
+          "nakatta_form": "つぎ込まなかった",
+          "potential_form": "つぎ込める",
+          "causative_form": "つぎ込ませる",
+          "passive_form": "つぎ込まれる",
+          "volitional_form": "つぎ込もう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_work_economy",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "会社の全資金を新規事業につぎ込む。",
+              "zh": "將公司的所有資金投入新事業中。"
+            }
+          ]
+        },
+        {
+          "word": "立て直す",
+          "furigana": "立[た]て直[なお]す",
+          "meaning": "重整、重振",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 工作與經濟",
+          "masu_form": "立て直します",
+          "nai_form": "立て直さない",
+          "ta_form": "立て直した",
+          "nakatta_form": "立て直さなかった",
+          "potential_form": "立て直せる",
+          "causative_form": "立て直させる",
+          "passive_form": "立て直される",
+          "volitional_form": "立て直そう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_work_economy",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "経営不振の会社を立て直す。",
+              "zh": "重振經營不善的公司。"
+            }
+          ]
+        },
+        {
+          "word": "滞る",
+          "furigana": "滞[とどこお]る",
+          "meaning": "拖欠、停滯",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "社會與文明 ＞ 工作與經濟",
+          "masu_form": "滞ります",
+          "nai_form": "滞らない",
+          "ta_form": "滞った",
+          "nakatta_form": "滞らなかった",
+          "potential_form": "滞れる",
+          "causative_form": "滞らせる",
+          "passive_form": "滞られる",
+          "volitional_form": "滞ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_work_economy",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "家賃の支払いが三ヶ月も滞っている。",
+              "zh": "房租已經拖欠三個月了。"
+            }
+          ]
+        },
+        {
+          "word": "儲かる",
+          "furigana": "儲[もう]かる",
+          "meaning": "賺錢、有收益",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "社會與文明 ＞ 工作與經濟",
+          "masu_form": "儲かります",
+          "nai_form": "儲からない",
+          "ta_form": "儲かった",
+          "nakatta_form": "儲からなかった",
+          "potential_form": "儲かれる",
+          "causative_form": "儲からせる",
+          "passive_form": "儲かられる",
+          "volitional_form": "儲かろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_work_economy",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "このビジネスは非常に儲かる。",
+              "zh": "這個生意非常賺錢。"
+            }
+          ]
+        },
+        {
+          "word": "儲ける",
+          "furigana": "儲[もう]ける",
+          "meaning": "賺取(利潤)",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 工作與經濟",
+          "masu_form": "儲けます",
+          "nai_form": "儲けない",
+          "ta_form": "儲けた",
+          "nakatta_form": "儲けなかった",
+          "potential_form": "儲けられる",
+          "causative_form": "儲けさせる",
+          "passive_form": "儲けられる",
+          "volitional_form": "儲けよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_work_economy",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "株の取引で多額の利益を儲ける。",
+              "zh": "透過股票交易賺取了高額的利潤。"
+            }
+          ]
+        },
+        {
+          "word": "割り当てる",
+          "furigana": "割[わ]り当[あ]てる",
+          "meaning": "分配、分派",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 工作與經濟",
+          "masu_form": "割り当てます",
+          "nai_form": "割り当てない",
+          "ta_form": "割り当てた",
+          "nakatta_form": "割り当てなかった",
+          "potential_form": "割り当てられる",
+          "causative_form": "割り当てさせる",
+          "passive_form": "割り当てられる",
+          "volitional_form": "割り当てよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_work_economy",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "各部署に予算を平等に割り当てる。",
+              "zh": "將預算平均分配給各個部門。"
+            }
+          ]
+        },
+        {
+          "word": "買い占める",
+          "furigana": "買[か]い占[し]める",
+          "meaning": "壟斷、囤積",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 工作與經濟",
+          "masu_form": "買い占めます",
+          "nai_form": "買い占めない",
+          "ta_form": "買い占めた",
+          "nakatta_form": "買い占めなかった",
+          "potential_form": "買い占められる",
+          "causative_form": "買い占めさせる",
+          "passive_form": "買い占められる",
+          "volitional_form": "買い占めよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_work_economy",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "投資家がその会社の株を買い占める。",
+              "zh": "投資家買斷了那家公司的股票。"
+            }
+          ]
+        },
+        {
+          "word": "売り込む",
+          "furigana": "売[う]り込[こ]む",
+          "meaning": "推銷、打開銷路",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 工作與經濟",
+          "masu_form": "売り込みます",
+          "nai_form": "売り込まない",
+          "ta_form": "売り込んだ",
+          "nakatta_form": "売り込まなかった",
+          "potential_form": "売り込める",
+          "causative_form": "売り込ませる",
+          "passive_form": "売り込まれる",
+          "volitional_form": "売り込もう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_work_economy",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "海外市場に自社の新製品を売り込む。",
+              "zh": "向海外市場推銷自家的新產品。"
+            }
+          ]
+        },
+        {
+          "word": "雇い入れる",
+          "furigana": "雇[やと]い入[い]れる",
+          "meaning": "雇用、聘請",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 工作與經濟",
+          "masu_form": "雇い入れます",
+          "nai_form": "雇い入れない",
+          "ta_form": "雇い入れた",
+          "nakatta_form": "雇い入れなかった",
+          "potential_form": "雇い入れられる",
+          "causative_form": "雇い入れさせる",
+          "passive_form": "雇い入れられる",
+          "volitional_form": "雇い入れよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_work_economy",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "工場で新しい従業員を雇い入れる。",
+              "zh": "工廠雇用新的員工。"
+            }
+          ]
+        },
+        {
+          "word": "抱える",
+          "furigana": "抱[かか]える",
+          "meaning": "背負(債務/問題)",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 工作與經濟",
+          "masu_form": "抱えます",
+          "nai_form": "抱えない",
+          "ta_form": "抱えた",
+          "nakatta_form": "抱えなかった",
+          "potential_form": "抱えられる",
+          "causative_form": "抱えさせる",
+          "passive_form": "抱えられる",
+          "volitional_form": "抱えよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_work_economy",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "会社が多額の負債を抱えている。",
+              "zh": "公司背負著高額的債務。"
+            }
+          ]
+        },
+        {
+          "word": "請け負う",
+          "furigana": "請[う]け負[お]う",
+          "meaning": "承攬、承包",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 工作與經濟",
+          "masu_form": "請け負います",
+          "nai_form": "請け負わない",
+          "ta_form": "請け負った",
+          "nakatta_form": "請け負わなかった",
+          "potential_form": "請け負える",
+          "causative_form": "請け負わせる",
+          "passive_form": "請け負われる",
+          "volitional_form": "請け負おう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_work_economy",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "建設会社が新しいビルの工事を請け負う。",
+              "zh": "建設公司承包了新大樓的工程。"
+            }
+          ]
+        },
+        {
+          "word": "修める",
+          "furigana": "修[おさ]める",
+          "meaning": "修習、掌握(學問)",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 學習與教育",
+          "masu_form": "修めます",
+          "nai_form": "修めない",
+          "ta_form": "修めた",
+          "nakatta_form": "修めなかった",
+          "potential_form": "修められる",
+          "causative_form": "修めさせる",
+          "passive_form": "修められる",
+          "volitional_form": "修めよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_learning_education",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "大学で医学を修める。",
+              "zh": "在大學修習醫學。"
+            }
+          ]
+        },
+        {
+          "word": "究める",
+          "furigana": "究[きわ]める",
+          "meaning": "窮究、徹底研究",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 學習與教育",
+          "masu_form": "究めます",
+          "nai_form": "究めない",
+          "ta_form": "究めた",
+          "nakatta_form": "究めなかった",
+          "potential_form": "究められる",
+          "causative_form": "究めさせる",
+          "passive_form": "究められる",
+          "volitional_form": "究めよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_learning_education",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "日本の歴史を深く究める。",
+              "zh": "深入且徹底地研究日本歷史。"
+            }
+          ]
+        },
+        {
+          "word": "培う",
+          "furigana": "培[つちか]う",
+          "meaning": "培養、培育(能力等)",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 學習與教育",
+          "masu_form": "培います",
+          "nai_form": "培わない",
+          "ta_form": "培った",
+          "nakatta_form": "培わなかった",
+          "potential_form": "培える",
+          "causative_form": "培わせる",
+          "passive_form": "培われる",
+          "volitional_form": "培おう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_learning_education",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "長年の経験で培った技術を活かす。",
+              "zh": "活用以長年經驗培養出的技術。"
+            }
+          ]
+        },
+        {
+          "word": "見極める",
+          "furigana": "見極[みきわ]める",
+          "meaning": "看透、確認",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 學習與教育",
+          "masu_form": "見極めます",
+          "nai_form": "見極めない",
+          "ta_form": "見極めた",
+          "nakatta_form": "見極めなかった",
+          "potential_form": "見極められる",
+          "causative_form": "見極めさせる",
+          "passive_form": "見極められる",
+          "volitional_form": "見極めよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_learning_education",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "物事の本質を見極める力を養う。",
+              "zh": "培養看透事物本質的能力。"
+            }
+          ]
+        },
+        {
+          "word": "志す",
+          "furigana": "志[こころざ]す",
+          "meaning": "立志、有志於",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 學習與教育",
+          "masu_form": "志します",
+          "nai_form": "志さない",
+          "ta_form": "志した",
+          "nakatta_form": "志さなかった",
+          "potential_form": "志せる",
+          "causative_form": "志させる",
+          "passive_form": "志される",
+          "volitional_form": "志そう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_learning_education",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼は幼い頃から医者を志している。",
+              "zh": "他從很小的時候就立志要當醫生。"
+            }
+          ]
+        },
+        {
+          "word": "励む",
+          "furigana": "励[はげ]む",
+          "meaning": "努力、奮勉",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "社會與文明 ＞ 學習與教育",
+          "masu_form": "励みます",
+          "nai_form": "励まない",
+          "ta_form": "励んだ",
+          "nakatta_form": "励まなかった",
+          "potential_form": "励める",
+          "causative_form": "励ませる",
+          "passive_form": "励まれる",
+          "volitional_form": "励もう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_learning_education",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "資格取得のために日々勉強に励む。",
+              "zh": "為了取得證照，每天努力學習。"
+            }
+          ]
+        },
+        {
+          "word": "打ち込む",
+          "furigana": "打[う]ち込[こ]む",
+          "meaning": "熱衷於、全神貫注",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "社會與文明 ＞ 學習與教育",
+          "masu_form": "打ち込みます",
+          "nai_form": "打ち込まない",
+          "ta_form": "打ち込んだ",
+          "nakatta_form": "打ち込まなかった",
+          "potential_form": "打ち込める",
+          "causative_form": "打ち込ませる",
+          "passive_form": "打ち込まれる",
+          "volitional_form": "打ち込もう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_learning_education",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "研究に情熱を打ち込む。",
+              "zh": "將熱情全神貫注於研究之中。"
+            }
+          ]
+        },
+        {
+          "word": "専念する",
+          "furigana": "専念[せんねん]する",
+          "meaning": "專心致志",
+          "verb_group": "第三類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "社會與文明 ＞ 學習與教育",
+          "masu_form": "専念します",
+          "nai_form": "専念しない",
+          "ta_form": "専念した",
+          "nakatta_form": "専念しなかった",
+          "potential_form": "専念できる",
+          "causative_form": "専念させる",
+          "passive_form": "専念される",
+          "volitional_form": "専念しよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_learning_education",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "部活を引退して受験勉強に専念する。",
+              "zh": "退出社團專心準備考試。"
+            }
+          ]
+        },
+        {
+          "word": "怠る",
+          "furigana": "怠[おこた]る",
+          "meaning": "怠慢、疏忽",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 學習與教育",
+          "masu_form": "怠ります",
+          "nai_form": "怠らない",
+          "ta_form": "怠った",
+          "nakatta_form": "怠らなかった",
+          "potential_form": "怠れる",
+          "causative_form": "怠らせる",
+          "passive_form": "怠られる",
+          "volitional_form": "怠ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_learning_education",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "日々の予習復習を怠る。",
+              "zh": "疏忽了每天的預習和複習。"
+            }
+          ]
+        },
+        {
+          "word": "探る",
+          "furigana": "探[さぐ]る",
+          "meaning": "探索、探尋",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 學習與教育",
+          "masu_form": "探ります",
+          "nai_form": "探らない",
+          "ta_form": "探った",
+          "nakatta_form": "探らなかった",
+          "potential_form": "探れる",
+          "causative_form": "探らせる",
+          "passive_form": "探られる",
+          "volitional_form": "探ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_learning_education",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "問題の根本的な原因を探る。",
+              "zh": "探索問題的根本原因。"
+            }
+          ]
+        },
+        {
+          "word": "紐解く",
+          "furigana": "紐解[ひもと]く",
+          "meaning": "閱讀、解開(歷史/謎團)",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 學習與教育",
+          "masu_form": "紐解きます",
+          "nai_form": "紐解かない",
+          "ta_form": "紐解いた",
+          "nakatta_form": "紐解かなかった",
+          "potential_form": "紐解ける",
+          "causative_form": "紐解かせる",
+          "passive_form": "紐解かれる",
+          "volitional_form": "紐解こう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_learning_education",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "古い文献を紐解いて事実を調べる。",
+              "zh": "閱讀古老文獻調查真相。"
+            }
+          ]
+        },
+        {
+          "word": "思い知る",
+          "furigana": "思[おも]い知[し]る",
+          "meaning": "深刻體會到、得到教訓",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 學習與教育",
+          "masu_form": "思い知ります",
+          "nai_form": "思い知らない",
+          "ta_form": "思い知った",
+          "nakatta_form": "思い知らなかった",
+          "potential_form": "思い知れる",
+          "causative_form": "思い知らせる",
+          "passive_form": "思い知られる",
+          "volitional_form": "思い知ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_learning_education",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "試験に落ちて自分の実力不足を思い知る。",
+              "zh": "考試落榜，深刻體會到自己的實力不足。"
+            }
+          ]
+        },
+        {
+          "word": "読み解く",
+          "furigana": "読[よ]み解[と]く",
+          "meaning": "解讀、讀懂",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 學習與教育",
+          "masu_form": "読み解きます",
+          "nai_form": "読み解かない",
+          "ta_form": "読み解いた",
+          "nakatta_form": "読み解かなかった",
+          "potential_form": "読み解ける",
+          "causative_form": "読み解かせる",
+          "passive_form": "読み解かれる",
+          "volitional_form": "読み解こう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_learning_education",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "難解な哲学書を時間をかけて読み解く。",
+              "zh": "花時間解讀深奧的哲學書。"
+            }
+          ]
+        },
+        {
+          "word": "汲み取る",
+          "furigana": "汲[く]み取[と]る",
+          "meaning": "體察、理解",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 學習與教育",
+          "masu_form": "汲み取ります",
+          "nai_form": "汲み取らない",
+          "ta_form": "汲み取った",
+          "nakatta_form": "汲み取らなかった",
+          "potential_form": "汲み取れる",
+          "causative_form": "汲み取らせる",
+          "passive_form": "汲み取られる",
+          "volitional_form": "汲み取ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_learning_education",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "作者の意図を汲み取って文章を読む。",
+              "zh": "體察作者的意圖來閱讀文章。"
+            }
+          ]
+        },
+        {
+          "word": "弁える",
+          "furigana": "弁[わきま]える",
+          "meaning": "明辨、懂得分寸",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 學習與教育",
+          "masu_form": "弁えます",
+          "nai_form": "弁えない",
+          "ta_form": "弁えた",
+          "nakatta_form": "弁えなかった",
+          "potential_form": "弁えられる",
+          "causative_form": "弁えさせる",
+          "passive_form": "弁えられる",
+          "volitional_form": "弁えよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_learning_education",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "社会人としての礼儀を弁えるべきだ。",
+              "zh": "應該懂得身為社會人士的禮儀分寸。"
+            }
+          ]
+        },
+        {
+          "word": "躾ける",
+          "furigana": "躾[しつ]ける",
+          "meaning": "管教、教養",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 學習與教育",
+          "masu_form": "躾けます",
+          "nai_form": "躾けない",
+          "ta_form": "躾けた",
+          "nakatta_form": "躾けなかった",
+          "potential_form": "躾けられる",
+          "causative_form": "躾けさせる",
+          "passive_form": "躾けられる",
+          "volitional_form": "躾けよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_learning_education",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "子供に挨拶をきちんと躾ける。",
+              "zh": "好好管教孩子打招呼。"
+            }
+          ]
+        },
+        {
+          "word": "戒める",
+          "furigana": "戒[いまし]める",
+          "meaning": "告誡、訓戒",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 學習與教育",
+          "masu_form": "戒めます",
+          "nai_form": "戒めない",
+          "ta_form": "戒めた",
+          "nakatta_form": "戒めなかった",
+          "potential_form": "戒められる",
+          "causative_form": "戒めさせる",
+          "passive_form": "戒められる",
+          "volitional_form": "戒めよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_learning_education",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "自らの怠慢を戒めて努力する。",
+              "zh": "告誡自己的怠慢並努力。"
+            }
+          ]
+        },
+        {
+          "word": "読み耽る",
+          "furigana": "読[よ]み耽[ふけ]る",
+          "meaning": "沉浸於閱讀、專心看書",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "社會與文明 ＞ 學習與教育",
+          "masu_form": "読み耽ります",
+          "nai_form": "読み耽らない",
+          "ta_form": "読み耽った",
+          "nakatta_form": "読み耽らなかった",
+          "potential_form": "読み耽れる",
+          "causative_form": "読み耽らせる",
+          "passive_form": "読み耽られる",
+          "volitional_form": "読み耽ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_learning_education",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "徹夜で面白い小説に読み耽る。",
+              "zh": "熬夜沉浸在有趣的閱讀小說之中。"
+            }
+          ]
+        },
+        {
+          "word": "習い覚える",
+          "furigana": "習[なら]い覚[おぼ]える",
+          "meaning": "學會、熟記",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 學習與教育",
+          "masu_form": "習い覚えます",
+          "nai_form": "習い覚えない",
+          "ta_form": "習い覚えた",
+          "nakatta_form": "習い覚えなかった",
+          "potential_form": "習い覚えられる",
+          "causative_form": "習い覚えさせる",
+          "passive_form": "習い覚えられる",
+          "volitional_form": "習い覚えよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_learning_education",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "新しい言語の単語を一つ一つ習い覚える。",
+              "zh": "一個一個地熟記新語言的單字。"
+            }
+          ]
+        },
+        {
+          "word": "見習う",
+          "furigana": "見習[みなら]う",
+          "meaning": "看齊、學習(他人優點)",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "社會與文明 ＞ 學習與教育",
+          "masu_form": "見習います",
+          "nai_form": "見習わない",
+          "ta_form": "見習った",
+          "nakatta_form": "見習わなかった",
+          "potential_form": "見習える",
+          "causative_form": "見習わせる",
+          "passive_form": "見習われる",
+          "volitional_form": "見習おう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_learning_education",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "先輩の素晴らしい仕事ぶりを見習う。",
+              "zh": "向著前輩出色的工作表現看齊並學習。"
+            }
+          ]
         }
       ],
       "kana": {
