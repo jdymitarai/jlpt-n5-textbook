@@ -88277,6 +88277,546 @@
               "zh": "平底鍋底黏附著燒焦的東西。"
             }
           ]
+        },
+        {
+          "word": "帯びる",
+          "furigana": "帯[お]びる",
+          "meaning": "帶有(性質)、擔負",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "抽象概念 ＞ 存在與擁有",
+          "masu_form": "帯びます",
+          "nai_form": "帯びない",
+          "ta_form": "帯びた",
+          "nakatta_form": "帯びなかった",
+          "potential_form": "帯びられる",
+          "causative_form": "帯びさせる",
+          "passive_form": "帯びられる",
+          "volitional_form": "帯びよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_existence_possession",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼の言葉は怒りの色を帯びていた。",
+              "zh": "他的話語中帶有怒氣。"
+            }
+          ]
+        },
+        {
+          "word": "備わる",
+          "furigana": "備[そな]わる",
+          "meaning": "具備、配有",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "抽象概念 ＞ 存在與擁有",
+          "masu_form": "備わります",
+          "nai_form": "備わらない",
+          "ta_form": "備わった",
+          "nakatta_form": "備わらなかった",
+          "potential_form": "備われる",
+          "causative_form": "備わらせる",
+          "passive_form": "備わられる",
+          "volitional_form": "備わろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_existence_possession",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼女にはリーダーとしての素質が備わっている。",
+              "zh": "她具備身為領導者的素質。"
+            }
+          ]
+        },
+        {
+          "word": "秘める",
+          "furigana": "秘[ひ]める",
+          "meaning": "隱藏、蘊藏",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "抽象概念 ＞ 存在與擁有",
+          "masu_form": "秘めます",
+          "nai_form": "秘めない",
+          "ta_form": "秘めた",
+          "nakatta_form": "秘めなかった",
+          "potential_form": "秘められる",
+          "causative_form": "秘めさせる",
+          "passive_form": "秘められる",
+          "volitional_form": "秘めよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_existence_possession",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "胸の内に熱い思いを秘める。",
+              "zh": "將熱情隱藏在內心深處。"
+            }
+          ]
+        },
+        {
+          "word": "携える",
+          "furigana": "携[たずさ]える",
+          "meaning": "攜帶、帶有",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "抽象概念 ＞ 存在與擁有",
+          "masu_form": "携えます",
+          "nai_form": "携えない",
+          "ta_form": "携えた",
+          "nakatta_form": "携えなかった",
+          "potential_form": "携えられる",
+          "causative_form": "携えさせる",
+          "passive_form": "携えられる",
+          "volitional_form": "携えよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_existence_possession",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "手土産を携えて友人の家を訪問する。",
+              "zh": "帶著伴手禮去拜訪朋友家。"
+            }
+          ]
+        },
+        {
+          "word": "宿る",
+          "furigana": "宿[やど]る",
+          "meaning": "寄宿、存在於",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "抽象概念 ＞ 存在與擁有",
+          "masu_form": "宿ります",
+          "nai_form": "宿らない",
+          "ta_form": "宿った",
+          "nakatta_form": "宿らなかった",
+          "potential_form": "宿れる",
+          "causative_form": "宿らせる",
+          "passive_form": "宿られる",
+          "volitional_form": "宿ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_existence_possession",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "健全な精神は健全な肉体に宿る。",
+              "zh": "健全的精神寓於健全的肉體。"
+            }
+          ]
+        },
+        {
+          "word": "満ちる",
+          "furigana": "満[み]ちる",
+          "meaning": "充滿、滿溢",
+          "verb_group": "第二類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "抽象概念 ＞ 存在與擁有",
+          "masu_form": "満ちます",
+          "nai_form": "満ちない",
+          "ta_form": "満ちた",
+          "nakatta_form": "満ちなかった",
+          "potential_form": "満ちられる",
+          "causative_form": "満ちさせる",
+          "passive_form": "満ちられる",
+          "volitional_form": "満ちよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_existence_possession",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼の顔は自信に満ちている。",
+              "zh": "他的臉上充滿了自信。"
+            }
+          ]
+        },
+        {
+          "word": "抱く",
+          "furigana": "抱[いだ]く",
+          "meaning": "懷抱、抱有",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "抽象概念 ＞ 存在與擁有",
+          "masu_form": "抱きます",
+          "nai_form": "抱かない",
+          "ta_form": "抱いた",
+          "nakatta_form": "抱かなかった",
+          "potential_form": "抱ける",
+          "causative_form": "抱かせる",
+          "passive_form": "抱かれる",
+          "volitional_form": "抱こう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_existence_possession",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "将来に大きな希望を抱く。",
+              "zh": "對未來抱有巨大的希望。"
+            }
+          ]
+        },
+        {
+          "word": "潜む",
+          "furigana": "潜[ひそ]む",
+          "meaning": "潛藏、隱藏",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "抽象概念 ＞ 存在與擁有",
+          "masu_form": "潜みます",
+          "nai_form": "潜まない",
+          "ta_form": "潜んだ",
+          "nakatta_form": "潜まなかった",
+          "potential_form": "潜める",
+          "causative_form": "潜ませる",
+          "passive_form": "潜まれる",
+          "volitional_form": "潜もう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_existence_possession",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "日常生活には様々な危険が潜んでいる。",
+              "zh": "日常生活中潛藏著各式各樣的危險。"
+            }
+          ]
+        },
+        {
+          "word": "伴う",
+          "furigana": "伴[ともな]う",
+          "meaning": "伴隨、帶來",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "抽象概念 ＞ 存在與擁有",
+          "masu_form": "伴います",
+          "nai_form": "伴わない",
+          "ta_form": "伴った",
+          "nakatta_form": "伴わなかった",
+          "potential_form": "伴える",
+          "causative_form": "伴わせる",
+          "passive_form": "伴われる",
+          "volitional_form": "伴おう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_existence_possession",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "この手術は大きな危険を伴う。",
+              "zh": "這場手術伴隨著極大的危險。"
+            }
+          ]
+        },
+        {
+          "word": "はらむ",
+          "furigana": "はらむ",
+          "meaning": "包含、懷有",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "抽象概念 ＞ 存在與擁有",
+          "masu_form": "はらみます",
+          "nai_form": "はらまない",
+          "ta_form": "はらんだ",
+          "nakatta_form": "はらまなかった",
+          "potential_form": "はらめる",
+          "causative_form": "はらませる",
+          "passive_form": "はらまれる",
+          "volitional_form": "はらもう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_existence_possession",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "その計画は多くの問題をはらんでいる。",
+              "zh": "那個計畫包含了許多問題。"
+            }
+          ]
+        },
+        {
+          "word": "兼ね備える",
+          "furigana": "兼[か]ね備[そな]える",
+          "meaning": "兼具、同時具備",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "抽象概念 ＞ 存在與擁有",
+          "masu_form": "兼ね備えます",
+          "nai_form": "兼ね備えない",
+          "ta_form": "兼ね備えた",
+          "nakatta_form": "兼ね備えなかった",
+          "potential_form": "兼ね備えられる",
+          "causative_form": "兼ね備えさせる",
+          "passive_form": "兼ね備えられる",
+          "volitional_form": "兼ね備えよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_existence_possession",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼は知性と美貌を兼ね備えている。",
+              "zh": "他兼具了知性與美貌。"
+            }
+          ]
+        },
+        {
+          "word": "持て余す",
+          "furigana": "持[も]て余[あま]す",
+          "meaning": "難以處理、無所適從",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "抽象概念 ＞ 存在與擁有",
+          "masu_form": "持て余します",
+          "nai_form": "持て余さない",
+          "ta_form": "持て余した",
+          "nakatta_form": "持て余さなかった",
+          "potential_form": "持て余せる",
+          "causative_form": "持て余させる",
+          "passive_form": "持て余される",
+          "volitional_form": "持て余そう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_existence_possession",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "休日で暇を持て余している。",
+              "zh": "因為是假日，閒得無所適從。"
+            }
+          ]
+        },
+        {
+          "word": "手放す",
+          "furigana": "手放[てばな]す",
+          "meaning": "放手、割愛",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "抽象概念 ＞ 存在與擁有",
+          "masu_form": "手放します",
+          "nai_form": "手放さない",
+          "ta_form": "手放した",
+          "nakatta_form": "手放さなかった",
+          "potential_form": "手放せる",
+          "causative_form": "手放させる",
+          "passive_form": "手放される",
+          "volitional_form": "手放そう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_existence_possession",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "大切にしていた時計を手放した。",
+              "zh": "把很珍惜的重錶割愛了。"
+            }
+          ]
+        },
+        {
+          "word": "漂う",
+          "furigana": "漂[ただよ]う",
+          "meaning": "飄蕩、充滿(氣氛)",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "抽象概念 ＞ 存在與擁有",
+          "masu_form": "漂います",
+          "nai_form": "漂わない",
+          "ta_form": "漂った",
+          "nakatta_form": "漂わなかった",
+          "potential_form": "漂える",
+          "causative_form": "漂わせる",
+          "passive_form": "漂われる",
+          "volitional_form": "漂おう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_existence_possession",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "部屋にコーヒーの良い香りが漂っている。",
+              "zh": "房間裡飄蕩著咖啡的香氣。"
+            }
+          ]
+        },
+        {
+          "word": "横たわる",
+          "furigana": "横[よこ]たわる",
+          "meaning": "橫臥、橫跨",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "抽象概念 ＞ 存在與擁有",
+          "masu_form": "横たわります",
+          "nai_form": "横たわらない",
+          "ta_form": "横たわった",
+          "nakatta_form": "横たわらなかった",
+          "potential_form": "横たわれる",
+          "causative_form": "横たわらせる",
+          "passive_form": "横たわられる",
+          "volitional_form": "横たわろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_existence_possession",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "二人の間には大きな溝が横たわっている。",
+              "zh": "兩人之間橫亙著巨大的鴻溝。"
+            }
+          ]
+        },
+        {
+          "word": "取り揃える",
+          "furigana": "取[と]り揃[そろ]える",
+          "meaning": "備齊",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "抽象概念 ＞ 存在與擁有",
+          "masu_form": "取り揃えます",
+          "nai_form": "取り揃えない",
+          "ta_form": "取り揃えた",
+          "nakatta_form": "取り揃えなかった",
+          "potential_form": "取り揃えられる",
+          "causative_form": "取り揃えさせる",
+          "passive_form": "取り揃えられる",
+          "volitional_form": "取り揃えよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_existence_possession",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "当店では豊富な品数を取り揃えております。",
+              "zh": "本店備齊了豐富的商品。"
+            }
+          ]
+        },
+        {
+          "word": "買いそろえる",
+          "furigana": "買[か]いそろえる",
+          "meaning": "買齊",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "抽象概念 ＞ 存在與擁有",
+          "masu_form": "買いそろえます",
+          "nai_form": "買いそろえない",
+          "ta_form": "買いそろえた",
+          "nakatta_form": "買いそろえなかった",
+          "potential_form": "買いそろえられる",
+          "causative_form": "買いそろえさせる",
+          "passive_form": "買いそろえられる",
+          "volitional_form": "買いそろえよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_existence_possession",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "新生活に必要な家具を買いそろえる。",
+              "zh": "買齊新生活所需要的家具。"
+            }
+          ]
+        },
+        {
+          "word": "占める",
+          "furigana": "占[し]める",
+          "meaning": "佔據、佔有",
+          "verb_group": "第二類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "抽象概念 ＞ 存在與擁有",
+          "masu_form": "占めます",
+          "nai_form": "占めない",
+          "ta_form": "占めた",
+          "nakatta_form": "占めなかった",
+          "potential_form": "占められる",
+          "causative_form": "占めさせる",
+          "passive_form": "占められる",
+          "volitional_form": "占めよう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_existence_possession",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼がクラスでトップの成績を占めている。",
+              "zh": "他在班上佔據著第一名的成績。"
+            }
+          ]
+        },
+        {
+          "word": "有り余る",
+          "furigana": "有[あ]り余[あま]る",
+          "meaning": "過剩、豐富",
+          "verb_group": "第一類動詞",
+          "transitivity": "自動詞",
+          "encyclopedia_category": "抽象概念 ＞ 存在與擁有",
+          "masu_form": "有り余ります",
+          "nai_form": "有り余らない",
+          "ta_form": "有り余った",
+          "nakatta_form": "有り余らなかった",
+          "potential_form": "有り余れる",
+          "causative_form": "有り余らせる",
+          "passive_form": "有り余られる",
+          "volitional_form": "有り余ろう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_existence_possession",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼には有り余るほどの才能がある。",
+              "zh": "他有著過剩的才能。"
+            }
+          ]
+        },
+        {
+          "word": "宿す",
+          "furigana": "宿[やど]す",
+          "meaning": "懷有、蘊藏",
+          "verb_group": "第一類動詞",
+          "transitivity": "他動詞",
+          "encyclopedia_category": "抽象概念 ＞ 存在與擁有",
+          "masu_form": "宿します",
+          "nai_form": "宿さない",
+          "ta_form": "宿した",
+          "nakatta_form": "宿さなかった",
+          "potential_form": "宿せる",
+          "causative_form": "宿させる",
+          "passive_form": "宿される",
+          "volitional_form": "宿そう",
+          "keigo": "-",
+          "pos": "動詞",
+          "type": "verb",
+          "category": "verb_existence_possession",
+          "level": "N1",
+          "sentences": [
+            {
+              "ja": "彼女はお腹に新しい命を宿している。",
+              "zh": "她的肚子裡懷著新生命。"
+            }
+          ]
         }
       ],
       "kana": {
