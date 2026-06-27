@@ -3,6 +3,9 @@ const path = require('path');
 
 const srcDir = 'C:\\Users\\O1004\\.gemini\\antigravity\\scratch\\jlpt-n5-textbook';
 const files = [
+  { name: 'index.html', type: 'text/html; charset=utf-8' },
+  { name: 'styles.css', type: 'text/css; charset=utf-8' },
+  { name: 'app.js', type: 'application/javascript; charset=utf-8' },
   { name: 'data.js', type: 'application/javascript; charset=utf-8' },
   { name: 'data_n5.js', type: 'application/javascript; charset=utf-8' },
   { name: 'data_n4.js', type: 'application/javascript; charset=utf-8' },
