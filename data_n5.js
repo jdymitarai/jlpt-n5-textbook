@@ -5043,7 +5043,7 @@ window.JLPT_DATA_CHUNKS["N5"] = {
       "category": "med_clinical",
       "sentences": [
         {
-          "ja": "尿検査で糖やタンパクが下りていないか調べます。",
+          "ja": "尿検査で糖や蛋白が下りていないか調べます。",
           "furigana": "にょうけんさでとうやたんぱくがおりていないかしらべます。",
           "en": "透過尿液檢查確認是否有尿糖或尿蛋白。"
         }
@@ -6091,7 +6091,7 @@ window.JLPT_DATA_CHUNKS["N5"] = {
     },
     {
       "id": "v_tanpakushitsu",
-      "word": "タンパク質",
+      "word": "蛋白質",
       "furigana": "たんぱくしつ",
       "romaji": "tanpakushitsu",
       "meaning": "蛋白質",
@@ -6099,7 +6099,7 @@ window.JLPT_DATA_CHUNKS["N5"] = {
       "category": "med_anatomy",
       "sentences": [
         {
-          "ja": "筋肉を作るためにはタンパク質が必要です。",
+          "ja": "筋肉を作るためには蛋白質が必要です。",
           "furigana": "きんにくをつくるためにはたんぱくしつがひつようです。",
           "en": "為了增長肌肉需要蛋白質。"
         }

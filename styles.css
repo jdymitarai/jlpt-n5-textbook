@@ -675,6 +675,7 @@ body {
   font-family: var(--font-jp);
   font-size: 1.6rem;
   font-weight: 700;
+  white-space: nowrap;
 }
 
 .vocab-romaji-text {

@@ -38,7 +38,7 @@ const ultimateWords = [
   { id: "v_ekoo", word: "エコー", furigana: "えこー", romaji: "ekoo", meaning: "超音波檢查", level: "N5", category: "health_medical",
     sentences: [{ ja: "腹部エコーで肝臓の状態を確認します。", furigana: "ふくぶえこーでかんぞうのじょうたいをかくにんします。", en: "用腹部超音波確認肝臟的狀態。" }] },
   { id: "v_nyoukensa", word: "尿検査", furigana: "にょうけんさ", romaji: "nyoukensa", meaning: "尿液檢查", level: "N5", category: "health_medical",
-    sentences: [{ ja: "尿検査で糖やタンパクが下りていないか調べます。", furigana: "にょうけんさでとうやたんぱくがおりていないかしらべます。", en: "透過尿液檢查確認是否有尿糖或尿蛋白。" }] },
+    sentences: [{ ja: "尿検査で糖や蛋白が下りていないか調べます。", furigana: "にょうけんさでとうやたんぱくがおりていないかしらべます。", en: "透過尿液檢查確認是否有尿糖或尿蛋白。" }] },
   { id: "v_bensenketsu", word: "便潜血", furigana: "べんせんけつ", romaji: "bensenketsu", meaning: "糞便潛血", level: "N5", category: "health_medical",
     sentences: [{ ja: "大腸がん検診で便潜血を調べます。", furigana: "だいちょうがんけんしんでべんせんけつをしらべます。", en: "在大腸癌篩檢中檢查糞便潛血。" }] },
 

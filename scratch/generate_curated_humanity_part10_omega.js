@@ -7,8 +7,8 @@ const n5File = path.join(srcDir, 'data_n5.js');
 
 const omegaWords = [
   // ================= 生化学・栄養学 (Biochemistry & Nutrition) =================
-  { id: "v_tanpakushitsu", word: "タンパク質", furigana: "たんぱくしつ", romaji: "tanpakushitsu", meaning: "蛋白質", level: "N5", category: "body_physiology",
-    sentences: [{ ja: "筋肉を作るためにはタンパク質が必要です。", furigana: "きんにくをつくるためにはたんぱくしつがひつようです。", en: "為了增長肌肉需要蛋白質。" }] },
+  { id: "v_tanpakushitsu", word: "蛋白質", furigana: "たんぱくしつ", romaji: "tanpakushitsu", meaning: "蛋白質", level: "N5", category: "body_physiology",
+    sentences: [{ ja: "筋肉を作るためには蛋白質が必要です。", furigana: "きんにくをつくるためにはたんぱくしつがひつようです。", en: "為了增長肌肉需要蛋白質。" }] },
   { id: "v_tansuikabutsu", word: "炭水化物", furigana: "たんすいかぶつ", romaji: "tansuikabutsu", meaning: "碳水化合物", level: "N5", category: "body_physiology",
     sentences: [{ ja: "脳のエネルギー源は炭水化物です。", furigana: "のうのえねるぎーげんはたんすいかぶつです。", en: "大腦的能量來源是碳水化合物。" }] },
   { id: "v_shishitsu", word: "脂質", furigana: "ししつ", romaji: "shishitsu", meaning: "脂質 (脂肪)", level: "N5", category: "body_physiology",
